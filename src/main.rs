@@ -1,6 +1,7 @@
 // parse million-dollar-words.txt
 
 use std::{
+    fmt::Display,
     fs::File,
     io::{prelude::*, BufReader},
     path::Path,
@@ -17,6 +18,12 @@ fn lines_from_file(filename: impl AsRef<Path>) -> Vec<String> {
 struct Entry {
     pub term: String,
     pub definition: String,
+}
+
+impl Display for Entry {
+    fn fmt(&self, fmt: &mut std::fmt::Formatter) -> std::result::Result<(), std::fmt::Error> {
+        writeln!(fmt, "### {}\n{}\n", self.term, self.definition)
+    }
 }
 
 // ---
@@ -36,9 +43,10 @@ fn main() {
             definition: def,
         };
         dictionary.push(term);
-        // println!("Term: {:?}", term.term);
-        // println!("Definition: {:?}", term.definition);
     }
-    println!("Dictionary length: {:?}", dictionary.len());
-    println!("{:?}", dictionary[3]);
+
+    // print the dictionary
+    for word in dictionary.iter() {
+        println!("{}", word);
+    }
 }
