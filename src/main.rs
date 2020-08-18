@@ -13,18 +13,32 @@ fn lines_from_file(filename: impl AsRef<Path>) -> Vec<String> {
         .map(|l| l.expect("Could not parse line"))
         .collect()
 }
+#[derive(Debug)]
+struct Entry {
+    pub term: String,
+    pub definition: String,
+}
 
 // ---
 
 fn main() {
-    let lines = lines_from_file("./million-dollar-words.txt");
+    // let lines = lines_from_file("./million-dollar-words.txt");
+    let lines = lines_from_file("/Users/Steve/Dropbox/Books/million-dollar-words.txt");
     let entries = lines.split(|l| l == "");
+    let mut dictionary: Vec<Entry> = Vec::new();
 
     for entry in entries {
-        let term = &entry[0];
+        let word = &entry[0];
         let def = entry[1..].join(" ");
 
-        println!("Term: {:?}", term);
-        println!("Definition: {:?}", def);
+        let term = Entry {
+            term: word.to_string(),
+            definition: def,
+        };
+        dictionary.push(term);
+        // println!("Term: {:?}", term.term);
+        // println!("Definition: {:?}", term.definition);
     }
+    println!("Dictionary length: {:?}", dictionary.len());
+    println!("{:?}", dictionary[3]);
 }
