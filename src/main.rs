@@ -29,8 +29,7 @@ impl Display for Entry {
 // ---
 
 fn main() {
-    // let lines = lines_from_file("./million-dollar-words.txt");
-    let lines = lines_from_file("/Users/Steve/Dropbox/Books/million-dollar-words.txt");
+    let lines = lines_from_file("./million-dollar-words.txt");
     let entries = lines.split(|l| l == "");
     let mut dictionary: Vec<Entry> = Vec::new();
 

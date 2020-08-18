@@ -3022,10 +3022,6 @@ A Latin phrase for an unusual person or thing—a rare bird. A very scholarly wa
 One thin slice of bacon is a rasher, although many people now use the word to mean an order of several slices. Next time you order breakfast, ask for six or seven rashers of bacon.
 
 
-### To reason by use of formal logic. That would include
-inducing, deducing, and every method in between.
-
-
 ### ratiocinate
 When you give a great deal of thought to a problem, you can say you figured it out by ratiocination. Pronounced RASH-EE-OH-SIN-ATE.
 
@@ -3043,11 +3039,7 @@ Esoteric; little known; obscure. References to medieval history texts, the matin
 
 
 ### reconnoiter
-To engage in a preliminary survey of something in order to gain information. This word was first a military term but has expanded to mean checking
-
-
-### anything out in advance of doing it. You can reconnoiter a parking lot for available spaces, for instance,
-before driving your car in. It's pronounced REE-CON- OY-TER and can also be spelled reconnoitre (but that would be affected—see preciosity).
+To engage in a preliminary survey of something in order to gain information. This word was first a military term but has expanded to mean checking anything out in advance of doing it. You can reconnoiter a parking lot for available spaces, for instance, before driving your car in. It's pronounced REE-CON- OY-TER and can also be spelled reconnoitre (but that would be affected—see preciosity).
 
 
 ### recreant
@@ -3086,8 +3078,8 @@ A response to an answer, usually a good response but not quite as clever as a ri
 To plea in protest; kind of like a verbal version of "to demonstrate." Striking workers may demonstrate in picket lines and then arrange meetings to remonstrate with the management. Pronounced REH- MAHN-STRATE.
 
 
-### remontado A person who escapes the pressures of civilization by
-fleeing to the mountains (or the islands, or...)- Say REE-MAHN-TAH-DOH .
+### remontado 
+A person who escapes the pressures of civilization by fleeing to the mountains (or the islands, or...)- Say REE-MAHN-TAH-DOH .
 
 
 ### renege
@@ -3283,11 +3275,7 @@ Deceptive likeness to or seeming similarity. Wax museums specialize in them. Pro
 
 
 ### sinecure
-An office or post that provides honor or prestige and possibly even profit but which requires almost no
-
-
-### work. Certain ambassadors' posts are considered
-sinecures, for example, because the job involves a lot of formal parties and official gatherings but very little political responsibility. It's pronounced SIN-A-CU RE.
+An office or post that provides honor or prestige and possibly even profit but which requires almost no work. Certain ambassadors' posts are considered sinecures, for example, because the job involves a lot of formal parties and official gatherings but very little political responsibility. It's pronounced SIN-A-CU RE.
 
 
 ### sine qua non
@@ -3358,8 +3346,8 @@ This philosophical theory asserts that the self is the only thing that exists or
 A psychiatrist who believes that all mental illnesses are physical in origin. Almost the opposite of someone who believes that all illnesses are psychosomatic, or psychological in origin.
 
 
-### sonorous Capable of producing deep, rich sound, like the bells of
-Notre Dame. Pronounced SAHN-OR-USS.
+### sonorous 
+Capable of producing deep, rich sound, like the bells of Notre Dame. Pronounced SAHN-OR-USS.
 
 
 ### sophism
@@ -3786,12 +3774,8 @@ A note sounded to start an attack. This can be a literal trumpet call or a figur
 A more powerful way to say "a bruise." Boxers often have welts after a difficult match.
 
 
-### Weltanshauung A German word that means "world outlook" or
-"world view." It's a fancy way to say "perspective," and if you use it correctly, it sounds intelligent but not pretentious. If you want to talk about small-town morality, you can talk about the town's ??
-
-
-### Weltanshauung
-If you want to argue with someone, you can begin by saying "You have a different Weltanshauung" —you'll probably begin with an advantage. Make sure you pronounce it correctly: VELT-AN-SHUNG.
+### Weltanshauung 
+A German word that means "world outlook" or "world view." It's a fancy way to say "perspective," and if you use it correctly, it sounds intelligent but not pretentious. If you want to talk about small-town morality, you can talk about the town's Weltanshauung. If you want to argue with someone, you can begin by saying "You have a different Weltanshauung" — you'll probably begin with an advantage. Make sure you pronounce it correctly: VELT-AN-SHUNG.
 
 
 ### welter
@@ -3815,11 +3799,7 @@ An official report by the government about a specific issue. Environmentalists m
 
 
 ### winnow
-It literally means to separate the grain from the chaff by getting rid of the chaff. There's even a piece of farm equipment called a winnower. You are more likely to use this word figuratively, however. You can
-
-
-### winnow out the weak athletes to make an all-star
-team, or winnow the unimportant books from your overcrowded shelves and give them away.
+It literally means to separate the grain from the chaff by getting rid of the chaff. There's even a piece of farm equipment called a winnower. You are more likely to use this word figuratively, however. You can winnow out the weak athletes to make an all-star team, or winnow the unimportant books from your overcrowded shelves and give them away.
 
 
 ### winsome
