@@ -915,11 +915,11 @@ Cream-colored. A little more tan than off-white, but a lot lighter than beige. L
 
 
 ### ectomorphic
-Literally means "skinny," but the word more accurately  describes a personality type. Abbott was the ectomorph, Costello was the endomorph. Ectomorphs are generally considered type-A personalities.
+Literally means "skinny," but the word more accurately describes a personality type. Abbott was the ectomorph, Costello was the endomorph. Ectomorphs are generally considered type-A personalities.
 
 
 ### ecumenical
-Though it has religious implications and is often associated with the Christian church, the word is used to mean "worldwide" or "universal." An ecumenical  council on hunger would deal with the problem of hunger around the globe. Pronounced EHK-YOU-MEN-IH-CAL .
+Though it has religious implications and is often associated with the Christian church, the word is used to mean "worldwide" or "universal." An ecumenical council on hunger would deal with the problem of hunger around the globe. Pronounced EHK-YOU-MEN-IH-CAL .
 
 
 ### edacious
@@ -1127,11 +1127,7 @@ Appropriate for general consumption. A lovely twist on the commonly used esoteri
 
 
 ### expatiate
-To expand upon, as in a speech that goes on to explain the causes and symptoms of an event. (Not to be confused with people who emigrate to a foreign land, like Hemingway when he moved to Paris in the
-
-
-### SHEE-ATE.
-
+To expand upon, as in a speech that goes on to explain the causes and symptoms of an event. (Not to be confused with people who emigrate to a foreign land).
 
 
 ### expeditious
@@ -1386,8 +1382,8 @@ Tasting. A gustatory menu in a fancy restaurant allows you to try lots of differ
 Government by a woman or by women. Not to be confused with matriarchy, which refers to a family or tribe headed by women. Until recently, Great Britain was a gynarchy. Ironically, pronounced GUY-NARK-EE.
 
 
-### H
-hajj A pilgrimage to Mecca made at least once by pious Muslims. Can be used figuratively to refer to any pilgrimage. Many senior citizens make their annual hajj to Florida in the winter, for example. Pronounced HAH/.
+### hajj
+A pilgrimage to Mecca made at least once by pious Muslims. Can be used figuratively to refer to any pilgrimage. Many senior citizens make their annual hajj to Florida in the winter, for example. Pronounced HAH/.
 
 
 ### halcyon
@@ -1639,7 +1635,7 @@ Mysterious; difficult to understand or fully grasp. A great catch-all word that 
 
 
 ### insouciance
-Indifference, but with a subtle twist of devil-maycare. An apathetic person may be simply indifferent to what's going on; a person who intentionally acts as if she doesn't care in order to look cool or invulnerable is showing insouciance. Pronounced /N-SOO-SEE-ENTS.
+Indifference, but with a subtle twist of devil-maycare. An apathetic person may be simply indifferent to what's going on; a person who intentionally acts as if she doesn't care in order to look cool or invulnerable is showing insouciance. Pronounced IN-SOO-SEE-ENTS.
 
 
 ### intents and purposes
@@ -2018,7 +2014,7 @@ Something thought to be a great discovery that is really nothing more than a big
 A strict disciplinarian. It has a military connotation—but it doesn't have to. General Patton was a martinet; but so was that evil history teacher who gave you too much homework every night.
 
 
-### matutinal 
+### matutinal
 A rather economical way of saying "happening in the morning" from the French "matin." Breakfast is a matutinal meal; many people like to take matutinal walks; certain radio programs are matutinal. Pronounced MA-TOO-TEH-NALL.
 
 
@@ -3082,7 +3078,7 @@ A response to an answer, usually a good response but not quite as clever as a ri
 To plea in protest; kind of like a verbal version of "to demonstrate." Striking workers may demonstrate in picket lines and then arrange meetings to remonstrate with the management. Pronounced REH- MAHN-STRATE.
 
 
-### remontado 
+### remontado
 A person who escapes the pressures of civilization by fleeing to the mountains (or the islands, or...)- Say REE-MAHN-TAH-DOH .
 
 
@@ -3350,7 +3346,7 @@ This philosophical theory asserts that the self is the only thing that exists or
 A psychiatrist who believes that all mental illnesses are physical in origin. Almost the opposite of someone who believes that all illnesses are psychosomatic, or psychological in origin.
 
 
-### sonorous 
+### sonorous
 Capable of producing deep, rich sound, like the bells of Notre Dame. Pronounced SAHN-OR-USS.
 
 
@@ -3778,7 +3774,7 @@ A note sounded to start an attack. This can be a literal trumpet call or a figur
 A more powerful way to say "a bruise." Boxers often have welts after a difficult match.
 
 
-### Weltanshauung 
+### Weltanshauung
 A German word that means "world outlook" or "world view." It's a fancy way to say "perspective," and if you use it correctly, it sounds intelligent but not pretentious. If you want to talk about small-town morality, you can talk about the town's Weltanshauung. If you want to argue with someone, you can begin by saying "You have a different Weltanshauung" — you'll probably begin with an advantage. Make sure you pronounce it correctly: VELT-AN-SHUNG.
 
 
