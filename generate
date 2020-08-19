@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cargo run > million-dollar-words.md
+cp million-dollar-words.md ~/Dropbox/Elements/
