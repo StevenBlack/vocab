@@ -2018,8 +2018,8 @@ Something thought to be a great discovery that is really nothing more than a big
 A strict disciplinarian. It has a military connotation—but it doesn't have to. General Patton was a martinet; but so was that evil history teacher who gave you too much homework every night.
 
 
-### matutinal A rather economical way of saying "happening in the
-morning" from the French "matin." Breakfast is a matutinal meal; many people like to take matutinal walks; certain radio programs are matutinal. Pronounced MA-TOO-TEH-NALL.
+### matutinal 
+A rather economical way of saying "happening in the morning" from the French "matin." Breakfast is a matutinal meal; many people like to take matutinal walks; certain radio programs are matutinal. Pronounced MA-TOO-TEH-NALL.
 
 
 ### maunder
@@ -2698,8 +2698,12 @@ Often used to describe horses, cows or cats. It means covered with irregular pat
 A fancy word for a fake column, the kind that doesn't stand freely, but runs along the walls of rooms that are trying to resemble the Colosseum in Rome or an ancient Greek ruin. Pronounce PIE-LASS-TER.
 
 
-### pindlinFrail or puny. Distinguished in usage from piddling, which
-means trivial or trifling. g pintle Like peanut butter is to jelly, a pintle is inextricably linked with a gudgeon, a metal pivot. The pintle is a little pin that sticks into the hinge-like holes of the gudgeon, holding a rudder to the back of a small sailboat. When you're searching for a figurative phrase to describe an interlocked set, say, "They fit like a pintle and gudgeon."
+### pindlin
+Frail or puny. Distinguished in usage from piddling, which means trivial or trifling.
+
+
+### pintle
+Like peanut butter is to jelly, a pintle is inextricably linked with a gudgeon, a metal pivot. The pintle is a little pin that sticks into the hinge-like holes of the gudgeon, holding a rudder to the back of a small sailboat. When you're searching for a figurative phrase to describe an interlocked set, say, "They fit like a pintle and gudgeon."
 
 
 ### piquant
