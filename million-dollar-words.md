@@ -306,6 +306,10 @@ To make something confused or incomprehensible— derived from the biblical Towe
 A drunken, riotous orgy, or anyone who parties in the style of the Roman god Bacchus. You can refer to party revelers as bacchanals or to the party itself as a bacchanal. No place for abstemious (see abstemious) people. Pronounced BAHK-AH-NAL.
 
 
+### bacchanalian
+Characterized by or given to drunken revelry; riotously drunken.
+
+
 ### badinage
 Playful, teasing banter, the kind of conversation that makes English drawing-room comedy so much fun to watch, even though there's no action. Best done by Tracy and Hepburn. Pronounced BAH-DEH-NAHJ .
 
@@ -3716,6 +3720,10 @@ Sophisticated, suave, worldly; at home in most social situations. Someone who kn
 
 ### usury
 The practice of lending money at illegally high interest rates. Even if not illegal, exorbitant rates (like those used for credit cards) can be described as usurious. Pronounced YOO-ZHER-EE.
+
+
+### utilitarianism
+The doctrine that actions are right if they are useful or for the benefit of a majority. Alternately the doctrine that an action is right insofar as it promotes happiness, and that the greatest happiness of the greatest number should be the guiding principle of conduct.
 
 
 ### uvula
