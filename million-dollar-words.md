@@ -2,6 +2,10 @@
 So nervous, you jitter and quake. One hopes that diamond cutters, professional golfers and brain surgeons don't suffer from the abdabs. Pronounce it AB-DABS.
 
 
+### abide
+(used without object): To remain; continue; stay: Abide with me. To have one's abode; dwell; reside: To abide in a small Scottish village. To continue in a particular condition, attitude, relationship, etc.; last. (used with object): to put up with; tolerate; stand: I can't abide dishonesty! To endure, sustain, or withstand without yielding or submitting: To abide a vigorous onslaught. To wait for; await: To abide the coming of the Lord. To accept without opposition or question: To abide the verdict of the judges. To pay the price or penalty of; suffer for.
+
+
 ### abject
 Extremely humiliated or debased; the bottom of the barrel. The word is most often used in conjunction with either "failure" or "poverty." The migrant farmers in Woody Guthrie songs lived in abject poverty.
 
@@ -50,12 +54,24 @@ Sharpened or tapered to a point—can be used as an adjective or verb. A candle 
 To offer a series of facts that will help the recipient prove something. Therefore, you can adduce someone to deduce a conclusion. "Talented salesman that I am, I adduced the customer to my way of thinking by demonstrating how effective the Elektra was at picking up dust."
 
 
+### adulatory
+Excessive devotion to someone; servile flattery.
+
+
 ### adventitious
 Added accidentally, casually or from an outside source. Buying a house in winter and discovering that in spring, the property is filled with tulips and lilies is adventitious. On the other hand, being the one millionth customer at a dealership and winning a brand new Corvette is serendipitous. (See serendipitous.) It's pronounced AD-VEN-TISH-US.
 
 
 ### aesthete
 A lover of beauty. Sort of an athlete of the arts. If you belong to PBS, have a membership at the local art museum and drive a 1964 Lotus, you are both wealthy and an aesthete. Though it can be spelled esthete, the snootier spelling is aesthete. Pronounced ESS-THEET.
+
+
+### affectation
+An effort to appear to have a quality not really or fully possessed; the pretense of actual possession: An affectation of interest in art; affectation of great wealth. Conspicuous artificiality of manner or appearance; effort to attract notice by pretense, assumption, or any assumed peculiarity. A trait, action, or expression characterized by such artificiality: a man of a thousand affectations. Strenuous pursuit, desire, or aspiration. Affection; fondness: his affectation of literature.
+
+
+### afflated
+Having inspiration, inspired.
 
 
 ### agelast
@@ -80,6 +96,10 @@ Insomnia. The kind of word you stay awake trying to remember. Say AH-GRIP-NEE-AH
 
 ### ailurophilic
 Lover of cats; the opposite of ailurophobia. Admittedly, "cat lover" is a lot easier to say, but you can use ailurophilic when you don't want your dog to know how you feel. Pronounced EYE-LOOR-A-FILL-JCK.
+
+
+### ailuropholic
+An abnormal fear of cats.
 
 
 ### ait
@@ -158,8 +178,16 @@ Something that is in direct opposition to something else is antithetical to it. 
 Loss or impairment of speech, or of the power to understand written or spoken language. It's rare to find a permanent case in real life, but temporary aphasia is all around us. A great excuse when your boss catches you snoozing at a meeting; she'll be too stunned to look up the word. Say UH-FAY-ZHUH.
 
 
+### aphorism
+A terse saying embodying a general truth, or astute observation, as “Power tends to corrupt, and absolute power corrupts absolutely”.
+
+
 ### aplomb
 Self-assurance, especially under duress. Not a fruit, but pronounced A-PLUM.
+
+
+### apocrine
+Of or relating to certain glands whose secretions are acted upon by bacteria to produce the characteristic odor of perspiration (distinguished from eccrine).
 
 
 ### apocryphal
@@ -170,12 +198,20 @@ Of doubtful authenticity; practically a fable. Not like Paul Bunyan; more like B
 Refers to the point in the orbit of the moon when the moon is furthest from the earth, but has come to refer to any figurative high point or climax, as in a career. Being elected President would be the apogee of a politician's career; failing to be re-elected would be the nadir. (See nadir.) Say APP-OH-;EE.
 
 
+### apophasis
+Rhetoric: denial of one's intention to speak of a subject that is at the same time named or insinuated, as “I shall not mention Caesar's avarice, nor his cunning, nor his morality.” Theology: knowledge, understanding, or description of God through negative statements about qualities and characteristics that God does not possess, as "God is not confined by space or time."
+
+
 ### aposiopesis
 Breaking off in the middle of a statement upon suddenly realizing that someone's feelings are hurt or about to be hurt. "The reason I didn't invite your wife to the party is that everybody thinks she's...well, never mind." You may never find occasion to actually use the word, but it's nice to know there's a word for that particular gaffe or faux pas. (See gaffe and faux pas.) Pronounce it AP-UH-SEE-UH-PEE-SISS.
 
 
 ### apostasy
 Abandonment of one's religion, politics or principles. Not to be confused with apostle. St. Matthew was an apostle; Judas was an apostate.
+
+
+### apotheosis
+The elevation or exaltation of a person to the rank of a god. Also, an ideal example; epitome; quintessence: "This poem is the apotheosis of lyric expression."
 
 
 ### apothegm
@@ -190,12 +226,20 @@ Proceeding from cause to effect; reasoning from a general law to a particular in
 Slang belonging to a specific group or class. When you know the argot of computers, you can talk with the hackers in the MIS department. Pronounced AR-GOH.
 
 
+### arrant
+Downright; thorough; unmitigated; notorious: "an arrant fool." Also wandering; errant.
+
+
 ### arriviste
 Someone who has acquired success by dubious means and who insists on flaunting it. A contemporary example would be Ivan Boesky, John Gotti or even Jessica Hahn. Unless they go to jail, one generation's arrivistes are another's old money.
 
 
 ### arrogate
 To claim for oneself without justification, such as Germany arrogating the Sudetenland prior to World War II. Can you arrogate the plum assignments from your rival coworker?
+
+
+### artifice
+A clever trick or stratagem; a cunning, crafty device or expedient; wile. Trickery; guile; craftiness. Cunning; ingenuity; inventiveness. A skillful or artful contrivance or expedient.
 
 
 ### ascetic
@@ -212,6 +256,10 @@ Describes two words in which the vowels rhyme but the consonants don't—such as
 
 ### assuage
 To relieve or ease. Through good works, charity and good behavior, you can assuage your guilt about fudging your income tax report. But that probably won't save you from an audit. (See also absolution.) Pronounced ASS-WAGE.
+
+
+### astir
+Moving or stirring, especially with much activity or excitement: "The field was astir with small animals, birds, and insects." Up and about; out of bed.
 
 
 ### atavistic
@@ -1192,6 +1240,10 @@ A word that comes from the French and means "idler" or "loafer," such as someone
 
 ### fletcher
 A person who makes arrows. There's not much use for this word today, but you never know when you might run into Robin Hood and need some ammunition.
+
+
+### flocculant
+A chemical for producing flocculation of suspended particles, as to improve the plasticity of clay for ceramic purposes.
 
 
 ### florid
