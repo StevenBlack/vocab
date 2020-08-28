@@ -44,6 +44,9 @@ fn main() {
         dictionary.push(term);
     }
 
+    // sort the dictionary
+    dictionary.sort_by(|t1, t2| t1.term.cmp(&t2.term));
+
     // print the dictionary
     for word in dictionary.iter() {
         println!("{}", word);
