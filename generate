@@ -1,4 +1,5 @@
 #!/bin/sh
 
 cargo run > million-dollar-words.md
+cargo run -- -i > index.txt
 cp million-dollar-words.md ~/Dropbox/Elements/
