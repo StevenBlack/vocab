@@ -1,3 +1,7 @@
+### a priori
+Proceeding from cause to effect; reasoning from a general law to a particular instance. This describes a deductive approach to a chain of reasoning. If the polar ice caps melted, your a priori conclusion would be the eventual flooding of coastal areas. A second meaning is "presumptive" or "conjectural"—based on theory or preconception rather than fact, as in an a priori conclusion. Pronounced AH PREE-OR-EE.
+
+
 ### abdabs
 So nervous, you jitter and quake. One hopes that diamond cutters, professional golfers and brain surgeons don't suffer from the abdabs. Pronounce it AB-DABS.
 
@@ -210,16 +214,12 @@ Breaking off in the middle of a statement upon suddenly realizing that someone's
 Abandonment of one's religion, politics or principles. Not to be confused with apostle. St. Matthew was an apostle; Judas was an apostate.
 
 
-### apotheosis
-The elevation or exaltation of a person to the rank of a god. Also, an ideal example; epitome; quintessence: "This poem is the apotheosis of lyric expression."
-
-
 ### apothegm
 A pithy saying. Mark Twain specialized in them. So did Yogi Berra. Say it APP-O-THEM.
 
 
-### a priori
-Proceeding from cause to effect; reasoning from a general law to a particular instance. This describes a deductive approach to a chain of reasoning. If the polar ice caps melted, your a priori conclusion would be the eventual flooding of coastal areas. A second meaning is "presumptive" or "conjectural"—based on theory or preconception rather than fact, as in an a priori conclusion. Pronounced AH PREE-OR-EE.
+### apotheosis
+The elevation or exaltation of a person to the rank of a god. Also, an ideal example; epitome; quintessence: "This poem is the apotheosis of lyric expression."
 
 
 ### argot
@@ -562,6 +562,10 @@ To dress sumptuously; to gussy up. Although the word originally referred to the 
 Not an Italian coffee. A capriccio is a frolic or caper, such as when a bunch of friends spontaneously decide to jump into a car and drive to the beach for the day. Pronounced CAP-REE-SHE-O.
 
 
+### capricious
+Determined by chance or impulse or whim rather than by necessity or reason. Changeable.
+
+
 ### captious
 Critical and hard to please in an irritable, nit-picking way. Small children can be captious at the dinner table; teenagers and in-laws may be captious all the time. Say CAP-SHUSS.
 
@@ -782,6 +786,18 @@ A movement of art that hypothesized, "since art is everything, everything is art
 Yes, this is a word, and it means an anxiety attack— kind of like a nightmare during the daytime.
 
 
+### de facto
+Actually existing; a matter of fact. If the president of the company is on his yacht, the vice president becomes the de facto leader of the company. On the other hand, if the president of the company is on the vice-president's yacht, he becomes the de facto captain. Say DEH FACT-OH.
+
+
+### de profundis
+A Latin phrase for "out of the depths." Someone is pulled de profundis from sleep, meditation or thought. It has nothing to do with "profound," which makes the word an excellent excuse for why you weren't paying attention to whomever was speaking to you. Pronounced DAY PRO-FUND-ISS.
+
+
+### de trop
+From the French "too much," the word means overdone or excessive in a figurative sense. Wearing too much jewelry while working in a homeless shelter would be de trop. Unfortunately, using the word de trop is probably de trop in most situations and should be accompanied by an appropriate expression of mock snobbery. Pronounce it DEH TROH.
+
+
 ### dearth
 A shortage or scarcity. Squirrels might have a dearth of nuts by the end of the winter. Single women might complain of the dearth of heterosexual single men who are sensitive and willing to make a commitment.
 
@@ -800,10 +816,6 @@ Proper, elegant in behavior and attitude. The proper decorum at a wedding does n
 
 ### decry
 To put down someone or something; to speak or write about a situation in a way that reveals regret, outrage or anger. One decries pollution of the environment or a political injustice.
-
-
-### de facto
-Actually existing; a matter of fact. If the president of the company is on his yacht, the vice president becomes the de facto leader of the company. On the other hand, if the president of the company is on the vice-president's yacht, he becomes the de facto captain. Say DEH FACT-OH.
 
 
 ### defenestration
@@ -830,10 +842,6 @@ A fallen woman; a woman who has lost her good reputation by a foolish or indiscr
 To plunder. Rome suffered depredation at the hands of Attila the Hun.
 
 
-### de profundis
-A Latin phrase for "out of the depths." Someone is pulled de profundis from sleep, meditation or thought. It has nothing to do with "profound," which makes the word an excellent excuse for why you weren't paying attention to whomever was speaking to you. Pronounced DAY PRO-FUND-ISS.
-
-
 ### deracinate
 To uproot in a big sense. Plants are uprooted; families or whole cultures are deracinated. The African slave trade deracinated thousands of persons. Pronounced DEE-RASS-IN-ATE.
 
@@ -852,10 +860,6 @@ A relaxation of tensions between nations. Popularized by Henry Kissinger, this i
 
 ### detritus
 Both a literal and figurative way of saying "debris." Empty soda cans on a beach are detritus; so are street punks who are looking for trouble. Pronounced DEH-TRY-TUS.
-
-
-### de trop
-From the French "too much," the word means overdone or excessive in a figurative sense. Wearing too much jewelry while working in a homeless shelter would be de trop. Unfortunately, using the word de trop is probably de trop in most situations and should be accompanied by an appropriate expression of mock snobbery. Pronounce it DEH TROH.
 
 
 ### deus ex machina
@@ -954,6 +958,10 @@ Pleasant; melodious; sweet to the eye or ear. Usually used in conjunction with t
 The opposite of a Utopia; a place where everything goes wrong. Say it DISS-TOH-PEE-AH.
 
 
+### e pluribus Unum
+The Latin words that comprise the official U. S. motto. They are included in every official seal of the United States, and you may also see them on dollar bills. The phrase means, "one out of the many," as in one country out of many states.
+
+
 ### ecce homo
 The words of Pilate when presenting Christ to his accusers, the phrase means "Behold the man—here he is." It has come to be used for any vaguely similar contemporary circumstances. A scruffy freshman comes home from college with a sack full of dirty laundry and announces sarcastically, "Ecce homo." Pronounced ECK-AY HOE-MOE.
 
@@ -1016,6 +1024,10 @@ Charitable or supported by a charity. The United Way is an eleemosynary institut
 
 ### elephantine
 Like an elephant, not in size but in demeanor; embracery lumbering and clumsy. An effort to change someone's opinion, a judge or jury in particular, by bribes or threats.
+
+
+### embayment
+A bay. Physical Geography: the process by which a bay is formed.
 
 
 ### embrangle
@@ -1090,8 +1102,8 @@ A witty little remark such as: "An apple a day keeps the doctor away." Oscar Wil
 The religious meaning is a Christian feast celebrated on January 6 to commemorate the appearance of Christ, but the word is also used to mean a sudden realization of the true meaning of something. The light bulb that appears over Newton's head in a cartoon demonstrates an epiphany. The light bulb in that cartoon is also an anachronism (see anachronism). Pronounced EH-PIFF-ENN-EE.
 
 
-### e pluribus Unum
-The Latin words that comprise the official U. S. motto. They are included in every official seal of the United States, and you may also see them on dollar bills. The phrase means, "one out of the many," as in one country out of many states.
+### epistemology
+The study or a theory of the nature and grounds of knowledge especially with reference to its limits and validity. The philosophical theory of knowledge. How we know what we know.
 
 
 ### eponymous
@@ -1118,16 +1130,20 @@ Artificial, a substitute for the real thing. Sweet 'n Low is ersatz sugar; marga
 An extremely erudite way of saying "belch." One way to remember the word is to think of erupt: "After the very large meal, the man leaned back in his chair and eructed." Pronounced EE-RUCT.
 
 
+### eschatology
+The branch of theology that is concerned with such final things as death and Last Judgment; Heaven and Hell; the ultimate destiny of humankind.
+
+
 ### eschew
 To avoid or shun something because you find it loathsome or unbearable. One can eschew on physical grounds, as in eschewing a wool coat in July, or in terms of taste, as in eschewing displays of physical affection in front of dinner guests. It's pronounced ESS'CHEW (like a sneeze).
 
 
-### esprit de corps
-A feeling of unification or commonly held beliefs or attitudes among a group of people. The phrase can be used to describe a feeling of excitement and belong-ng that comes from being part of a successful group. Apple Computer had it for a while; so did the Peace Corps. Pronounced ESS-PREE DUH CORE.
-
-
 ### esprit d'escalier
 You probably never knew that there was a word for this—a clever remark or reply that you didn't think of at the appropriate moment but thought of too late, as in "I should have said.. . " It comes from the French phrase, "up the stairs": "I didn't think of a snappy retort to D'Artagnan until I was already up the stairs." The next time you find yourself speechless, just say, "When I come up with the esprit d'escalier, I'll give you a call." Pronounced ESS-PREE DEH-SCAHL-YAY.
+
+
+### esprit de corps
+A feeling of unification or commonly held beliefs or attitudes among a group of people. The phrase can be used to describe a feeling of excitement and belong-ng that comes from being part of a successful group. Apple Computer had it for a while; so did the Peace Corps. Pronounced ESS-PREE DUH CORE.
 
 
 ### etagere
@@ -1630,6 +1646,14 @@ A stamp of approval from an acknowledged expert. An endorsement in the form of a
 Freedom from punishment. If you do something with impunity, you know you'll get away with it; if you do it without impunity, you know you'll be in deep trouble— and you're not using the word correctly either! Say IM-PEW-NIT-EE.
 
 
+### in extremis
+The Latin expression for "near death." When a person on his deathbed makes a sudden decision, such as to change his will and leave everything to a distant cousin, his decision is said to have been made in extremis. The word is often misused to mean a state of near insanity, since things that are decided in extremis are by their very nature, well, extreme. Pronounced IN EX-STREEMWSS.
+
+
+### in flagrante delicto
+An evocative Latin phrase for being caught in the middle of a sexual act. A wife leaves work early and comes home to find her husband in flagrante delicto with another woman. (Sexual infidelity must have been common in Roman times, too.) Pronounce it IN FLAG-RAN-TAY DEL-JFC-TOE.
+
+
 ### inchoate
 Not yet formed; just begun. A novel is inchoate after the first chapter has been written; the earth was inchoate when nothing existed but primordial ooze. Pronounced IN-KOH-IT.
 
@@ -1652,14 +1676,6 @@ Insurance or compensation against loss. You can indemnify someone against damage
 
 ### ineffable
 Indescribable, impossible to capture in words. Usually used for things that are indescribably good or too mysterious or spiritual to put into words. A Mounds bar is not ineffable, but the beauty of nature may be.
-
-
-### in extremis
-The Latin expression for "near death." When a person on his deathbed makes a sudden decision, such as to change his will and leave everything to a distant cousin, his decision is said to have been made in extremis. The word is often misused to mean a state of near insanity, since things that are decided in extremis are by their very nature, well, extreme. Pronounced IN EX-STREEMWSS.
-
-
-### in flagrante delicto
-An evocative Latin phrase for being caught in the middle of a sexual act. A wife leaves work early and comes home to find her husband in flagrante delicto with another woman. (Sexual infidelity must have been common in Roman times, too.) Pronounce it IN FLAG-RAN-TAY DEL-JFC-TOE.
 
 
 ### infamous
@@ -2318,6 +2334,10 @@ A condition characterized by an overwhelming desire for brief periods of sleep. 
 In the formative stages or in the process of being created. (See also chrysalis.) The word is best used to describe abstract things such as ideas, feelings or creative works. A nascent feeling would be one that's just beginning to come to consciousness. Pronounced NAY-SENT.
 
 
+### ne plus ultra
+The Latin phrase for the absolute top, the culminating point, the highest degree. For an antique-car collector, finding a Tucker in mint condition would be the ne plus ultra. It's pronounced NAY PLUSS OOL-TRA.
+
+
 ### necromancy
 A scientific-sounding word for sorcery or witchcraft. Use it when you want something to sound a little more serious than just plain "magic." Say NEK-RUH-MAN-SEE.
 
@@ -2336,10 +2356,6 @@ Anything which makes someone forget sorrow, suffering or pain. For some, alcohol
 
 ### nephology
 This is the scientific term for the study of clouds. The next time you decide to escape to a field and lie on the grass and find shapes of animals in the clouds, you can say you spent the afternoon studying nephology. Pronounced NEFF-OL-OH-JEE.
-
-
-### ne plus ultra
-The Latin phrase for the absolute top, the culminating point, the highest degree. For an antique-car collector, finding a Tucker in mint condition would be the ne plus ultra. It's pronounced NAY PLUSS OOL-TRA.
 
 
 ### nepotism
@@ -2422,8 +2438,8 @@ When describing an idea or explanation, obtuse is the opposite of lucid or clear
 Not to be confused with adumbrate, which means to foreshadow, obumbrate means to darken, overshadow or make difficult to see or understand. The word should be used only figuratively. Skies cbud over before a rainstorm; weak explanations obumbrate the understanding of a scientific concept. Say AH- BUM-BRATE.
 
 
-### octogenarian A person between the ages of 80 and 90, just as a
-septuagenarian is a person between the ages of 70 and 80. The word has a nice ring to it and sounds a lot better than "senior citizen."
+### octogenarian
+A person between the ages of 80 and 90, just as a septuagenarian is a person between the ages of 70 and 80. The word has a nice ring to it and sounds a lot better than "senior citizen."
 
 
 ### octothorpe
@@ -2502,8 +2518,8 @@ If a cow is a bovine (see bovine), what's a sheep? Ovine! Use this word to descr
 Approximately 57 gallons. Useful in hyperbolic (see hyperbole) statements such as, "I'd like an oxhaft of double decaf espresso please."
 
 
-### oxymoron This word describes a phrase that is internally contradictory. We like "jumbo shrimp" and "deposed Presidentfor-Life."
-
+### oxymoron
+This word describes a phrase that is internally contradictory. We like "jumbo shrimp" and "deposed Presidentfor-Life."
 
 
 ### padnag
@@ -2998,24 +3014,24 @@ This word means swamp or bog or any earth that shakes when trodden upon, but it 
 This is not a vegetable akin to eggplant or zucchini; it's a verb that means "to put an end to" or "to get rid of." Mostly you quash ideas or feelings, not people (that's murder).
 
 
-### quay
-An often misused word. A quay is a wharf, not a bay. So a walk out on Hawk's Quay in Florida won't get you wet. And it is pronounced KEY, not KWAY.
-
-
 ### quasi
 A word you always see in combination with another word, as in "quasi-intelligence," "quasi-healthy," "quasi-important." It means seeming to be, but not really being. A quasi-intelligent person probably sounds smart and insightful, but if you listen carefully he may be saying very little. Quasi-healthy food may be labeled "all natural" but contain lots of sugar or fat. Pronounced QWAY-ZEE or KWAH-ZEE.
+
+
+### quay
+An often misused word. A quay is a wharf, not a bay. So a walk out on Hawk's Quay in Florida won't get you wet. And it is pronounced KEY, not KWAY.
 
 
 ### querulous
 Complaining in a whining, peevish sort of way. Parents become irritated or annoyed when their children misbehave; children become querulous when they're forced to behave. A querulous adult is probably acting like a child. It's pronounced KWER-YOU'LUSS.
 
 
-### quidnunc
-A gossip. The only word that ends in unc.
-
-
 ### quid pro quo
 Tit for tat; something given in return. If you are a vengeful person and I'm nasty to you, quid pro quo you'll be nasty to me. Pronounced KW1D PRO KWO.
+
+
+### quidnunc
+A gossip. The only word that ends in unc.
 
 
 ### quiescent
@@ -3031,11 +3047,7 @@ A collaborating spy. The word derives from Major Vidkun Quisling, who aided the 
 
 
 ### quixotic
-This word is often misused to mean "flaky" or "changeable." In fact, as anyone who remembers the story of Don Quixote knows, a quixotic person is someone who is romantic and idealistic and pursues lofty but impractical goals. One grows impatient with
-
-
-### quixotic people but rarely dislikes them. It's pronounced KWIKS'OTT'ICK.
-
+This word is often misused to mean "flaky" or "changeable." In fact, as anyone who remembers the story of Don Quixote knows, a quixotic person is someone who is romantic and idealistic and pursues lofty but impractical goals. One grows impatient with people but rarely dislikes them. It's pronounced KWIKS'OTT'ICK.
 
 
 ### quotidian
@@ -3330,12 +3342,12 @@ In sympathy in ideas, manners or personalities. A successful computer-dating ser
 Deceptive likeness to or seeming similarity. Wax museums specialize in them. Pronounced SIM-YOOL-AY-CRUM.
 
 
-### sinecure
-An office or post that provides honor or prestige and possibly even profit but which requires almost no work. Certain ambassadors' posts are considered sinecures, for example, because the job involves a lot of formal parties and official gatherings but very little political responsibility. It's pronounced SIN-A-CU RE.
-
-
 ### sine qua non
 A Latin phrase for an indispensable requirement or essential need. Being a good host is the sine qua non for being the ambassador of good will for a country. It's pronounced SEE-NAY KWA NON.
+
+
+### sinecure
+An office or post that provides honor or prestige and possibly even profit but which requires almost no work. Certain ambassadors' posts are considered sinecures, for example, because the job involves a lot of formal parties and official gatherings but very little political responsibility. It's pronounced SIN-A-CU RE.
 
 
 ### sinistrodextral
@@ -3618,12 +3630,12 @@ The sound of ringing bells. The word often used as an example of onomatopoeia (s
 This has nothing to do with those things in your throat that swell up when you're sick. Someone skilled in the tonsorial arts is a great barber.
 
 
-### toper
-Someone who drinks alcohol in excessive quantities is a toper and probably frequently slips into a torpor (see torporific). Rhymes with doper.
-
-
 ### toothsome
 Dentists are rarely toothsome. Toothsome means delicious or luscious: fresh peaches, perhaps, or a ripe avocado.
+
+
+### toper
+Someone who drinks alcohol in excessive quantities is a toper and probably frequently slips into a torpor (see torporific). Rhymes with doper.
 
 
 ### toponym
@@ -3915,11 +3927,7 @@ A yegg is a petty burglar or common thug. What we generally refer to as a mugger
 
 
 ### yin and yang
-You may know that these refer to the two universal forces in Chinese philosophy that are said to create the harmonious balance of nature and control the
-
-
-### yin and yang
-destiny of all things, but do you know which is which? Yin is the dark, cold, still, and feminine aspect of things; Yang is the bright, warm, active and masculine aspect.
+You may know that these refer to the two universal forces in Chinese philosophy that are said to create the harmonious balance of nature and control the destiny of all things, but do you know which is which? Yin is the dark, cold, still, and feminine aspect of things; Yang is the bright, warm, active and masculine aspect.
 
 
 ### zaftig
@@ -3938,16 +3946,16 @@ Eager and diligently devoted; ardent. A zealous worker comes in at the crack of 
 Another great German word, in the spirit of Weltanshauung and Weltschmerz, that has broad philosophical implications. It means "spirit of the times," and refers to the general cultural, moral, and intellectual climate of a particular era. It's pronounced ZITE-GUYST.
 
 
-### zith
-The word literally refers to the point on the celestial sphere that is directly above the observer at any given location, and is therefore the highest point. It is the opposite of the nadir (see nadir), which is directly below. It is used to refer to any highest point, as in the zenith of someone's career or life.
-
-
 ### zephyr
 A gentle breeze. It might blow through the trees and grasses, soughing and creating susurruses (see sough and susurrus).
 
 
 ### zinfandel
 A pink or white wine that people like and wine critics don't. Made from a small black grape, usually in California. Pronounced ZIN-FEHN-DELL.
+
+
+### zith
+The word literally refers to the point on the celestial sphere that is directly above the observer at any given location, and is therefore the highest point. It is the opposite of the nadir (see nadir), which is directly below. It is used to refer to any highest point, as in the zenith of someone's career or life.
 
 
 ### zoanthropy
