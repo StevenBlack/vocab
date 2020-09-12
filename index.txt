@@ -73,6 +73,7 @@ avatar
 avocado
 avuncular
 babbitt
+babelism
 babelize
 bacchanal
 bacchanalian
@@ -93,10 +94,13 @@ bavardage
 beau geste
 beaver
 bedizen
+beguile
 bel-esprit
 bellwether
 benighted
 benthos
+beset
+besetting
 betime
 bibelot
 biblioclast
@@ -110,6 +114,8 @@ birl
 bisextile
 bivouac
 blandish
+blithe
+bloviate
 blowzy
 bluestocking
 boondoggle
@@ -117,6 +123,10 @@ bootless
 boulevardier
 bovine
 bowdlerize
+brachiation
+brachycephalic
+brachycerous
+brocade
 bromide
 bruin
 brussels sprout
@@ -125,6 +135,7 @@ cabal
 cache
 cachet
 cachinate
+cacology
 cadence
 cadre
 caitiff
@@ -146,6 +157,7 @@ carrel
 caryatid
 castrophenia
 catafalque
+catchpenny
 catharsis
 catholic
 cavil
@@ -162,11 +174,14 @@ chasm
 chasmophile
 cheap-jack
 cheechako
+cherubic
+chiasmus
 chimera
 choplogic
 chrysalis
 cicatrix
 cicerone
+cinerary
 circumlocution
 circumscribe
 clamjamfry
@@ -178,18 +193,32 @@ clinquant
 clock
 cloy
 cockalorum
+codification
+coetaneous
+cogitation
 colloquy
 colophon
+columbarium
+comminate
 complaisant
+concise
+concocted
 concupiscence
+congenial
+conjecture
 consanguinity
 contretemps
 contumacious
+corpus
 coruscate
 cozen
 craven
 crepuscular
+crinoline
+cromulent
+crucible
 curmudgeon
+curriculum
 cygnet
 cynosure
 dactyl
@@ -205,6 +234,7 @@ decorous
 decry
 defenestration
 degage
+delusion
 demagogue
 demijohn
 demimondaine
@@ -214,6 +244,7 @@ descry
 desultory
 detente
 detritus
+detumescence
 deus ex machina
 devil's tattoo
 diacritical
@@ -226,17 +257,22 @@ dilettante
 dingbat
 diphthong
 discreet
+discursiveness
 disingenuous
 dissemble
 dissimulate
 dithyramb
 docent
+doctrinaire
+doctrine
 dotard
 doughty
 doyen
 draconian
 dragoon
 dulcet
+duplicity
+dyspeptic
 dystopia
 e pluribus Unum
 ecce homo
@@ -255,11 +291,15 @@ elan
 eldritch
 eleemosynary
 elephantine
+elide
+elision
 embayment
 embrangle
 emeritus
+eminence
 eminence grise
 emolument
+empirical
 encephalesthenia
 encomium
 encyclical
@@ -274,6 +314,7 @@ epicene
 epigone
 epigram
 epiphany
+epistemic
 epistemology
 eponymous
 equable
@@ -287,6 +328,8 @@ esprit d'escalier
 esprit de corps
 etagere
 ethos
+etiolate
+etiology
 eunuch
 euphonious
 evanesce
@@ -295,6 +338,7 @@ excogitate
 excoriate
 exculpate
 exigency
+existential
 exordium
 exoteric
 expatiate
@@ -304,6 +348,7 @@ fabulist
 facetious
 facinorous
 fakir
+fallal
 farinaceous
 farrago
 fastuous
@@ -327,8 +372,10 @@ forte
 fortuitous
 founder
 fractious
+friable
 frisson
 fulgent
+fulgurant
 fulsome
 fungible
 gaffe
@@ -351,6 +398,7 @@ gossamer
 gracile
 grammalogue
 grand guignol
+grandiloquent
 gregarious
 griffin
 grimalkin
@@ -366,13 +414,16 @@ hajj
 halcyon
 halidom
 handsel
+haptics
 harbinger
 harridan
 haruspex
+haughty
 havelock
 hedonist
 hegemony
 hegira
+heliotrope
 hermaphrodite
 heterodox
 heuristic
@@ -393,7 +444,10 @@ hubris
 huggermugger
 hunks
 hyperbole
+hypernym
 hypocorism
+hyponym
+hypothesis
 iatrogenic
 ichthyoid
 iconoclast
@@ -402,13 +456,18 @@ idem
 idiogamist
 idioglossia
 idiograph
+idiopathy
 ignoble
 imbroglio
 imminent
+immure
 impecunious
+imperative
+impertinence
 implacable
 importune
 imprimatur
+impudence
 impunity
 in extremis
 in flagrante delicto
@@ -426,6 +485,7 @@ iniquity
 innervate
 inscrutable
 insouciance
+intense
 intents and purposes
 interdict
 interjacent
@@ -436,6 +496,7 @@ intractable
 intransigent
 inure
 invective
+invidious
 irascible
 irenic
 iterate
@@ -464,6 +525,7 @@ kinetic
 kiosk
 kismet
 kith
+knave
 knell
 knurl
 kowtow
@@ -471,13 +533,18 @@ krotoscope
 kudos
 labile
 lachrymose
+lackey
 lacuna
 lambent
 lanai
+languor
 lanugo
+larrikin
+lascivious
 lee
 legerdemain
 leitmotif
+leitmotit
 lethologica
 lexicon
 libertarian
@@ -486,22 +553,29 @@ licentious
 lickerish
 light year
 Lilliputian
+liminal
 limn
 limpid
 linchpin
 lingua franca
 lissom
+lissome
 litotes
 liverish
 livery
 livid
+logophobia
 logorrhea
 looby
+loquacious
 Lothario
+lothario
 louche
 loup
 lubricious
+lubricous
 lucubrate
+lugubrious
 lumpen
 lurid
 lysophobia
@@ -529,6 +603,8 @@ megrims
 melange
 melee
 mellifluous
+mendacious
+mendacity
 mensch
 menticide
 mercurial
@@ -553,6 +629,8 @@ minikin
 minion
 minutia
 mirabile dictu
+mirth
+misanthrope
 miscegenation
 miscreant
 misogamy
@@ -563,6 +641,7 @@ mo
 modus operandi
 moil
 mollify
+monism
 monodomous
 monomania
 monotheism
@@ -575,6 +654,7 @@ mugwump
 mummer
 munificent
 mussitation
+mycology
 myopia
 myriad
 nabob
@@ -593,6 +673,7 @@ nethermost
 nettlesome
 nihilism
 nirvana
+niveous
 nodus
 noisome
 nom de guerre
@@ -603,29 +684,36 @@ nympholepsy
 obdurate
 obfuscate
 oblique
+oblivescence
 obloquy
 obscurantism
 obsequious
 obtuse
 obumbrate
+obviate
+occiput
 octogenarian
 octothorpe
 odalisque
 oenology
 officious
+ohlebotomist
 olio
 ombudsman
 omnifarious
 omnificent
 oniomania
 onomatopoeia
+ontology
 oppugn
+oreternatural
 orthography
 oscitant
 osculate
 ossify
 otiose
 oubliette
+ounctilious
 ovine
 oxhaft
 oxymoron
@@ -652,6 +740,7 @@ parochial
 paroxysm
 parure
 parvenu
+pasquinade
 passementerie
 pastiche
 pathetic fallacy
@@ -665,6 +754,7 @@ pedagogue
 pedant
 pellucid
 penicil
+pentimento
 penultimate
 penultimate
 perdition
@@ -673,11 +763,14 @@ peremptory
 perfervid
 perfidious
 perfunctory
+periohrasis
 peripatetic
 perorate
 perquisite
 persevere
 persiflage
+perspicacious
+perspiCcuous
 pertinacious
 pestle
 pettifogger
@@ -694,10 +787,12 @@ pindlin
 pintle
 piquant
 pismire
+pithy
 plangent
 pledget
 Pleistocene era
 plenipotentiary
+pleonasm
 plethora
 plunder
 plutocracy
@@ -719,6 +814,7 @@ postiche
 postpositive
 postprandial
 pother
+precept
 preciosity
 precis
 predicable
@@ -733,6 +829,8 @@ primer
 primogenitor
 pristine
 proactive
+probity
+profligacy
 prognosticate
 prolicide
 prolix
@@ -750,6 +848,7 @@ pulchritude
 punctilious
 purlieu
 putsch
+pyrrhic
 quagmire
 quash
 quasi
@@ -765,18 +864,22 @@ quotidian
 raconteur
 raffish
 raillery
+rallentando
 ramekin
 randy
 rankle
 rapacious
+rapturous
 rara avis
 rasher
 ratiocinate
+rebarbative
 recalcitrant
 recidivate
 recondite
 reconnoiter
 recreant
+recrudesce
 rectitude
 red herring
 redolent
@@ -784,6 +887,7 @@ refractory
 refulgent
 reify
 rejoinder
+remit
 remonstrate
 remontado
 renege
@@ -791,18 +895,24 @@ reprobate
 restive
 retrench
 rimple
+riparian
 riposte
 rodomontade
 roman a clef
 roue
 rubric
+rubricate
 ruthful
 sage
 salient
 salubrious
+salutary
+Samovar
+sanctimony
 sang froid
 sanguine
 sans souci
+Sapient
 saporific
 sardonic
 sartorial
@@ -818,21 +928,27 @@ scurrilous
 sedulous
 semantics
 seminal
+semiotic
 semiotics
+senectitude
 senescent
 sententious
+sentient
 sequacious
 serendipity
 serry
 sesquipedalian
+sessile
 sexagenarian
 shaman
 shibboleth
+shoah
 sibilant
 SIC
 sidereal
 simian
 simpatico
+simper
 simulacrum
 sine qua non
 sinecure
@@ -840,9 +956,11 @@ sinistrodextral
 sipid
 sirenic
 sitomanic
+skeuomorph
 skulduggery
 sloven
 smarmy
+snart
 sniffish
 snood
 sociopath
@@ -854,7 +972,9 @@ solipsism
 somatist
 sonorous
 sophism
+sophistry
 soporific
+sororal
 sotto voce
 sough
 soupson
@@ -867,36 +987,54 @@ squib
 stalactite
 stalwart
 stentorian
+stochastic
 stodge
 stolid
+stroppy
 subaltern
 subjacent
 subrogate
 subsume
 subterfuge
+subtuscous
+succinct
+succor
+succubus
 sui generis
 sultry
 summa cum laude
 supercilious
 supernal
+superordinate
+supposition
 surfeit
 susurrus
 sybarite
+sybaritic
+syllabus
 sylph
+syncope
 synecdoche
 synergy
+syzygy
 taciturn
 talaria
 talisman
+tartuffery
 tatterdemalion
+tautological
+tautology
+taxonomy
 telegenic
 teleology
 temblor
 temerity
+tendencious
 tendentious
 tenebrous
 tergiversation
 terrapin
+thalassic
 theomania
 thersitical
 thespian
@@ -913,10 +1051,15 @@ torporific
 tortuous
 traduce
 transmogrify
+tremulous
+trepidatious
 triage
 trilemma
+trite
 trompe l'oeil
+trope
 truculent
+tumescent
 turbid
 turnback
 turtlet
@@ -939,7 +1082,9 @@ vacuous
 vagary
 valetudinarian
 vassal
+vatic
 vaunt
+vedic
 venal
 venial
 veracity
@@ -947,8 +1092,11 @@ verisimilitude
 vernal
 victress
 vigorish
+vinous
 virago
+viridescent
 vitiate
+vituperate
 vituperative
 volitation
 voluble
@@ -964,6 +1112,7 @@ Weltanshauung
 welter
 Weltschmerz
 whelk
+whelp
 whiffle
 white paper
 winnow

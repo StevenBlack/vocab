@@ -298,6 +298,10 @@ Like an uncle; kind. Here's the hard part—what do you call someone who's like 
 A reference to the eponymous (see eponymous) title of Sinclair Lewis's best-known novel, the word has come to mean a person who blindly conforms to middle-class standards. Until recently, a male babbitt always drove a four-door American car, belonged to the Lions club, wore a dark suit and went to church every Sunday.
 
 
+### babelism
+https://www.merriam-webster.com/dictionary/babelism
+
+
 ### babelize
 To make something confused or incomprehensible— derived from the biblical Tower of Babel. If you earn an advanced degree in your ability to babelize, you can be certain of a job at the IRS.
 
@@ -378,6 +382,10 @@ Besides the busy little animal that builds dams, this word also describes the pi
 To vulgarly dress or gaudily accessorize; too many bangles and beads. Pronounced BIH-DYE-ZEN. An ugly, old woman. Not to be confused with beldam bedlam, which means "confusion."
 
 
+### beguile
+https://www.merriam-webster.com/dictionary/beguile
+
+
 ### bel-esprit
 A verbal, witty, intellectually lively person; the person at the party who's telling an amusing little story to a circle of delighted hangers-on. The personality shy people covet. Pronounce the word BELL-ESS-PREE.
 
@@ -392,6 +400,14 @@ Ignorant; not so much stupid, but backward. People who are benighted are also a 
 
 ### benthos
 The animals and plants, snails, anemones and such that live at the bottom of the sea. Not much of a stretch to use the term to vilify the telephone operator who just cut you off.
+
+
+### beset
+https://www.merriam-webster.com/dictionary/beset
+
+
+### besetting
+https://www.merriam-webster.com/dictionary/besetting
 
 
 ### betime
@@ -446,6 +462,14 @@ An encampment, used either as a noun or a verb. Soldiers bivouac a lot, as do ch
 To try to convince with flattering words; to cajole. One may blandish a child to get out of a swimming pool on a hot day. The word has nothing to do with being bland or boring.
 
 
+### blithe
+https://www.merriam-webster.com/dictionary/blithe
+
+
+### bloviate
+https://www.merriam-webster.com/dictionary/bloviate
+
+
 ### blowzy
 Unkempt; messy. Hair out of place or an untucked shirt hanging out of a business suit qualify as blowzy. Can also mean "ruddy-faced and flushed." Rhymes with lousy.
 
@@ -472,6 +496,22 @@ Scientists use this phrase to classify the family that includes buffalo, kudus, 
 
 ### bowdlerize
 To edit a piece of writing by cutting out all the obscene parts. In certain Middle Eastern countries, some Western magazines are bowdlerized from cover to cover. The word derives from the name of Thomas Bowdler, who had the gall to issue an expurgated edition of the works of that well-known pornographer, William Shakespeare. Pronounced BOD-LEHR-ISE.
+
+
+### brachiation
+https://www.merriam-webster.com/dictionary/brachiation
+
+
+### brachycephalic
+https://www.merriam-webster.com/dictionary/brachycephalic
+
+
+### brachycerous
+https://www.merriam-webster.com/dictionary/brachycerous
+
+
+### brocade
+https://www.merriam-webster.com/dictionary/brocade
 
 
 ### bromide
@@ -504,6 +544,10 @@ A mark of distinction, a stamp of approval by a recognized authority. Could be t
 
 ### cachinate
 To laugh too loud or too hard. Much more than a giggle, and with a bit of unnatural excess, such as nervous laughter after hearing bad news. Good example of onomatopoeia (see onomatopoeia). Pronounced CAK-IN-ATE.
+
+
+### cacology
+https://www.merriam-webster.com/dictionary/cacology
 
 
 ### cadence
@@ -590,6 +634,10 @@ Believing that your thoughts are being stolen by your competitors. Screenwriters
 The raised platform that holds a coffin containing a corpse during funeral ceremonies. A funeral is no place to show off your vocabulary, though, so you'll have to be content to know that you could show off, if you were so inclined. Pronounced CAT-A-FALK.
 
 
+### catchpenny
+https://www.merriam-webster.com/dictionary/catchpenny
+
+
 ### catharsis
 Originally referred to the emotional release, the necessity of which was created by Greek tragedy. Catharsis has come to mean any purging or release of emotions. Crying at the movies is considered cathartic. A debate continues to rage over whether violent movies offer catharsis—do they decrease violence among viewers or encourage it? Pronounced CAH- THAR-sis.
 
@@ -654,6 +702,14 @@ A peddler who sells cheap goods, like the people who sell underwear or tin earri
 A greenhorn; not an insult, merely a different way of calling someone "inexperienced" or "new to the scene." The word has an excellent mouth feel, and will add sparkle and spice to your vocabulary. Say CHIH-CHAH-JCOH.
 
 
+### cherubic
+https://www.merriam-webster.com/dictionary/cherubic
+
+
+### chiasmus
+https://www.merriam-webster.com/dictionary/chiasmus
+
+
 ### chimera
 A mythological monster with the head of a lion, the body of a goat and the tail of a serpent. The word has come to connote any horrible fear or morbid terror. The day before an exam, a student is liable to imagine any number of chimeras such as not knowing the answer to a single question, or receiving the lowest failing grade on record. Pronounce it KIM-EER-AH.
 
@@ -672,6 +728,10 @@ Not what happens when a kid gets tired of his favorite breakfast cereal; it's th
 
 ### cicerone
 A guide who escorts tourists or sightseers, such as the gondoliers of Venice or the people who lead walking tours in most cities. Pronounced SISS-A-RO-NEE.
+
+
+### cinerary
+Adjective meaning: containing or used for ashes of the cremated  dead; "a cinerary urn"
 
 
 ### circumlocution
@@ -718,6 +778,18 @@ To overdo and become nauseating; may be used as a verb and an adjective. Candy t
 A conceited, self-important, pretentious person. Be careful in your use of this word, or you'll become one. coeval Contemporary; of the same time period. Bell-bottoms and love beads are coeval, so are two 30-year-olds. Pronounced COH-EE-VAL.
 
 
+### codification
+https://www.merriam-webster.com/dictionary/codification
+
+
+### coetaneous
+https://www.merriam-webster.com/dictionary/coetaneous
+
+
+### cogitation
+https://www.merriam-webster.com/dictionary/cogitation
+
+
 ### colloquy
 Conversation, more like a formal dialogue than a casual chat. The kind of thing that goes on between a talk show host and his guest, or between two speakers at a symposium; hence the academic word colloquium. One doesn't usually have a colloquy with a friend on the telephone. Pronounced CAHL-OH-KWEE.
 
@@ -726,12 +798,36 @@ Conversation, more like a formal dialogue than a casual chat. The kind of thing 
 Not a brand of cookware. The page at the end of a book that describes the typeface used. In this age of desktop publishing, they're coming back in style. Also a publishers' emblem or trademark. Say KAHL- AH-FAHN. compendious It may sound as if the word means "big" and "encyclopedic" but it really means the opposite: concise, expressed in compact form—like Monarch Notes of the classics.
 
 
+### columbarium
+https://www.merriam-webster.com/dictionary/columbarium
+
+
+### comminate
+https://www.merriam-webster.com/dictionary/comminate
+
+
 ### complaisant
 Obliging and eager to please. Even though they're pronounced the same, don't confuse with complacent, which means self-satisfied and smug. A complacent person would probably expect to be served by a complaisant person.
 
 
+### concise
+https://www.merriam-webster.com/dictionary/concise
+
+
+### concocted
+https://www.merriam-webster.com/dictionary/concocted
+
+
 ### concupiscence
 A fancy way of saying sexual desire or lust, with undertones of fertility. Like pulchritude (see pulchri' tude), the word won't help you get a date. But if you're going to use it, pronounce it correctly: CON- CYOOP-/H-SENSE.
+
+
+### congenial
+https://www.merriam-webster.com/dictionary/congenial
+
+
+### conjecture
+https://www.merriam-webster.com/dictionary/conjecture
 
 
 ### consanguinity
@@ -744,6 +840,10 @@ A regrettable situation that leads to embarrassment, such as begging off a date 
 
 ### contumacious
 Stubbornly rebellious against authority—not just irreverent, but downright disobedient. A child who refuses to stop talking during class after being asked twice is contumacious. Say KAHN-TOOM-AY-SHUSS.
+
+
+### corpus
+https://www.merriam-webster.com/dictionary/corpus
 
 
 ### coruscate
@@ -762,8 +862,24 @@ Very cowardly, with a connotation of moral disapproval. A craven liar doesn't ha
 Lit by twilight; dusky. Though it has an ugly sound, the word usually evokes a faintly romantic darkness, such as "the mountains crepuscular in the setting sun." The lighting in certain dim restaurants is crepuscular. Pronounced CREH-PUSSK-U-LAR.
 
 
+### crinoline
+https://www.merriam-webster.com/dictionary/crinoline
+
+
+### cromulent
+Acceptable or adequate a bit wryly.
+
+
+### crucible
+https://www.merriam-webster.com/dictionary/crucible
+
+
 ### curmudgeon
 A mean-spirited, ungenerous, irritable nasty-face who usually has no sense of humor. Hitler was evil. Scrooge was a curmudgeon.
+
+
+### curriculum
+https://www.merriam-webster.com/dictionary/curriculum
 
 
 ### cygnet
@@ -826,6 +942,10 @@ To throw out the window—what you sometimes feel like doing with whining childr
 Not emotionally involved; more of an emotional state than merely being intellectually objective. A friend listening to an argument between other friends is degage. An umpire or a referee or a judge is at least meant to be degage. It's pronounced DAY-GAH-JAY.
 
 
+### delusion
+https://www.merriam-webster.com/dictionary/delusion
+
+
 ### demagogue
 Usually refers to a politician or a leader who gains power by playing on the emotions of his constituents; there's an element of charisma and danger in it. Adolf Hitler was a demagogue. Pronounced DEM-AH-GOG.
 
@@ -860,6 +980,10 @@ A relaxation of tensions between nations. Popularized by Henry Kissinger, this i
 
 ### detritus
 Both a literal and figurative way of saying "debris." Empty soda cans on a beach are detritus; so are street punks who are looking for trouble. Pronounced DEH-TRY-TUS.
+
+
+### detumescence
+https://www.merriam-webster.com/dictionary/detumescence
 
 
 ### deus ex machina
@@ -910,6 +1034,10 @@ No, it's not a type of sandal. It's a syllable containing two letters used to ma
 Not to be confused with discrete, which is pronounced the same way but spelled differently. Discreet means being careful about what you say and the way you act, good at keeping other people's secrets; discrete means separate or distinct. If you are discreet, you do not talk about your neighbor's affairs. Grains of flour are not discrete—you can't eat just one—but dinner rolls are.
 
 
+### discursiveness
+https://www.merriam-webster.com/dictionary/discursiveness
+
+
 ### disingenuous
 Pretending to be innocent or naive, which has the effect of being insincere. Smiling when you've been caught with your hand in the cookie jar. Has nothing to do with ingenious, by the way. It's pronounced D/s- EN-JEN'YOU'US.
 
@@ -928,6 +1056,14 @@ A wild and emotional outpouring in speech, song or writing. Naughty children pro
 
 ### docent
 A museum guide; the person who walks you through the antiquities room in a museum and explains how Egyptians built pyramids. Pronounced DOE-SENT.
+
+
+### doctrinaire
+https://www.merriam-webster.com/dictionary/doctrinaire
+
+
+### doctrine
+https://www.merriam-webster.com/dictionary/doctrine
 
 
 ### dotard
@@ -952,6 +1088,14 @@ To force or coerce. Not a form of pirate money, which was dubloons. Pirates must
 
 ### dulcet
 Pleasant; melodious; sweet to the eye or ear. Usually used in conjunction with the word "tone." A nightingale sings in dulcet tones. (See also mellifluous.) Pronounce the word DULL-SET.
+
+
+### duplicity
+https://www.merriam-webster.com/dictionary/duplicity
+
+
+### dyspeptic
+https://www.merriam-webster.com/dictionary/dyspeptic
 
 
 ### dystopia
@@ -1026,6 +1170,14 @@ Charitable or supported by a charity. The United Way is an eleemosynary institut
 Like an elephant, not in size but in demeanor; embracery lumbering and clumsy. An effort to change someone's opinion, a judge or jury in particular, by bribes or threats.
 
 
+### elide
+https://www.merriam-webster.com/dictionary/elide
+
+
+### elision
+https://www.merriam-webster.com/dictionary/elision
+
+
 ### embayment
 A bay. Physical Geography: the process by which a bay is formed.
 
@@ -1038,12 +1190,20 @@ Sounds like a combination of embroil and entangle, and that's more or less what 
 No longer actively employed, but kept on the staff as an honor. A professor emeritus probably doesn't teach any courses but gets paid to make a guest lecture or two. Pronounced EH-MER-IT-US.
 
 
+### eminence
+https://www.merriam-webster.com/dictionary/eminence
+
+
 ### eminence grise
 The power behind the throne—for example, in the '80s, Nancy Reagan (or even Nancy Reagan's astrologer). Literally means "gray eminence," if you care. Pronounced AY-MEE-NANS GREEZ.
 
 
 ### emolument
 Not a skin cream. This is the pay or profit you receive from your job, or more likely, from a political office. Sometimes used as a nice way to say "kickback." Say EH-MAHL-YEH-MENT.
+
+
+### empirical
+https://www.merriam-webster.com/dictionary/empirical
 
 
 ### encephalesthenia
@@ -1102,6 +1262,10 @@ A witty little remark such as: "An apple a day keeps the doctor away." Oscar Wil
 The religious meaning is a Christian feast celebrated on January 6 to commemorate the appearance of Christ, but the word is also used to mean a sudden realization of the true meaning of something. The light bulb that appears over Newton's head in a cartoon demonstrates an epiphany. The light bulb in that cartoon is also an anachronism (see anachronism). Pronounced EH-PIFF-ENN-EE.
 
 
+### epistemic
+https://www.merriam-webster.com/dictionary/epistemic
+
+
 ### epistemology
 The study or a theory of the nature and grounds of knowledge especially with reference to its limits and validity. The philosophical theory of knowledge. How we know what we know.
 
@@ -1154,6 +1318,14 @@ One of those pieces of furniture (often referred to by pompous antiques dealers 
 The basic characteristics of a person, group, institution or culture; not a form of anesthesia. "The ethos of '60s America was defined by TV." Pronounced EE-THOS.
 
 
+### etiolate
+https://www.merriam-webster.com/dictionary/etiolate
+
+
+### etiology
+https://www.merriam-webster.com/dictionary/etiology
+
+
 ### eunuch
 The term for the unfortunate man who's been castrated. Traditionally employed by sheiks to protect their harem from loyal servants. Now used to describe someone who acts as if he'd been castrated. Pronounced YOU-NICK.
 
@@ -1184,6 +1356,10 @@ To free from blame. Exculpation doesn't mean forgiveness; it means that you were
 
 ### exigency
 An unexpected set of circumstances—but not synonymous with emergency. Urgent needs or demands arising from a set of circumstances. "I will definitely not raise taxes and positively not cut Social Security. Unless, of course, an exigency arises." Pronounced EK-SEH-JEN-SEE.
+
+
+### existential
+https://www.merriam-webster.com/dictionary/existential
 
 
 ### exordium
@@ -1220,6 +1396,10 @@ Exceptionally evil or wicked. Not just the Witch of the West; more along the lin
 
 ### fakir
 An Arabic word for a guy who makes his living charming snakes or lying on a bed of nails. Not pronounced like faker, which might be appropriate— instead, say FEH-KEER.
+
+
+### fallal
+https://www.merriam-webster.com/dictionary/fallal
 
 
 ### farinaceous
@@ -1314,12 +1494,20 @@ To be wrecked and to sink. Mostly it's ships that founder, but you could use the
 Irritable, whiny, quarrelsome and rebellious, a word that best applies to the behavior of children or to adults who are acting like children. Pronounced FRACK-SHISS.
 
 
+### friable
+https://www.merriam-webster.com/dictionary/friable
+
+
 ### frisson
 A shiver, as from a thrill or a fright. A frisson passes through an audience watching the shower scene in Alfred Hitchcock's Psycho. The word is best used as a reaction to situations that intend to scare, such as roller coaster rides or horror films. It's actually a nice way to say goosebumps. Pronounced FREE-SON.
 
 
 ### fulgent
 Very bright; shining or radiant. A good word for describing things like the spaceship in Close Encounters of the Third Kind, or the full moon. Pronounced FUL-JENT.
+
+
+### fulgurant
+https://www.merriam-webster.com/dictionary/fulgurant
 
 
 ### fulsome
@@ -1410,6 +1598,10 @@ This is the word for any sign or letter which signifies a word, such as &. (and)
 Connoting a drama with strains of horror. It's the kind of word people like to use metaphorically. A difficult divorce or the cruel way someone was fired from a job might be described as a grand guignol. Pronounced GRAND GEEN-YOL.
 
 
+### grandiloquent
+https://www.merriam-webster.com/dictionary/grandiloquent
+
+
 ### gregarious
 Friendly. Occasionally used to imply insincerity, gregarious should be reserved for those that are truly outgoing and friendly. Rhymes with precarious.
 
@@ -1470,6 +1662,10 @@ A holy place, thing, or sanctuary, such as a chapel or church. Halidome can also
 Not Gretel's brother; there's no d in his name. A gift or present that is meant to bring good luck, such as a bottle of champagne to the owner of a new restaurant. Pronounced HAND-SELL.
 
 
+### haptics
+https://www.merriam-webster.com/dictionary/haptics
+
+
 ### harbinger
 A person, thing or event that foreshadows the arrival of something. The first robin is a harbinger of spring; the sight of billboards for hundreds of miles is a harbinger of Wall Drug in South Dakota. It's pronounced HAR-BIN'JER, not HAR-BJNG-ER.
 
@@ -1480,6 +1676,10 @@ A bad-tempered old woman; a hag. Harridan could be used to describe your eighth-
 
 ### haruspex
 In ancient Rome, a fortuneteller who predicted the future by reading sheep entrails. What a great word to describe a trend analyst who doesn't know what he's talking about.
+
+
+### haughty
+https://www.merriam-webster.com/dictionary/haughty
 
 
 ### havelock
@@ -1496,6 +1696,10 @@ This word frequently crops up in academic texts, and means political and/or econ
 
 ### hegira
 A flight or escape from one situation to another that offers better circumstances. It often refers to the flight of Mohammed from Mecca to Medina in 622 A.D., but it may be used metaphorically, as in making a hegira to a job that provides better pay and more interesting work. Say HE-JIH-RA.
+
+
+### heliotrope
+https://www.merriam-webster.com/dictionary/heliotrope
 
 
 ### hermaphrodite
@@ -1578,8 +1782,20 @@ Not beefcake, like a male model—that's a hunk. A mean, disagreeable, old perso
 An intentionally exaggerated exaggeration, not meant to be taken literally. "You're the nicest person I've ever met" might be an exaggeration, but "You're the nicest person in the whole wide world" is a hyperbole. Pronounced HIGH-PER-BO-LEE.
 
 
+### hypernym
+https://www.merriam-webster.com/dictionary/hypernym
+
+
 ### hypocorism
 A word for baby talk like "kitchee, kitchee, koo," or for pet names like "Snookeeookums," "Sweetie pie" or "My little dumpling." Newlyweds and parents of newborn babies are fond of speaking in hypocorisms —before they know better. It's pronounced HL- POCK-ER'ISM.
+
+
+### hyponym
+https://www.merriam-webster.com/dictionary/hyponym
+
+
+### hypothesis
+https://www.merriam-webster.com/dictionary/hypothesis
 
 
 ### iatrogenic
@@ -1614,6 +1830,10 @@ This is the word for the invented, unintelligible form of speech shared by twins
 This is not the writing of a stupid person, but rather the word for any private trademark or signature. A common idiograph among teenage girls is to dot the i's in their names with a heart. Pronounced IH-DEE-OH-GRAFF. (See also paraph.)
 
 
+### idiopathy
+https://www.merriam-webster.com/dictionary/idiopathy
+
+
 ### ignoble
 It basically means the opposite of "noble"—mean, contemptible and of generally low character. Taking credit for someone else's work is an ignoble act, as is lying, stealing, cheating and generally acting like a selfish, ungenerous jerk. Say it IG-NO-BULL.
 
@@ -1626,8 +1846,20 @@ A state of confusion; an entangled mess. Often used to describe a mob of players
 About to happen. Thunderstorms and temper tantrums are often described as imminent. Imminently is a powerful way to say "soon."
 
 
+### immure
+https://www.merriam-webster.com/dictionary/immure
+
+
 ### impecunious
 Poor. The word has a slightly antiquated flavor. Huckleberry Finn was impecunious; the people on welfare lines today are unemployed and poor. Pronounced JM-PECK-YOO-NEE-US.
+
+
+### imperative
+https://www.merriam-webster.com/dictionary/imperative
+
+
+### impertinence
+https://www.merriam-webster.com/dictionary/impertinence
 
 
 ### implacable
@@ -1640,6 +1872,10 @@ To beg or plead with great intensity and persistence. A child might beg her moth
 
 ### imprimatur
 A stamp of approval from an acknowledged expert. An endorsement in the form of a logo, signature or brand name. Jack Nicklaus lends his imprimatur to a line of golf clubs. He didn't design them, he doesn't make them and he doesn't play with them; he just endorses them with his name. Pronounce it IM-PREH-MAH-TER.
+
+
+### impudence
+https://www.merriam-webster.com/dictionary/impudence
 
 
 ### impunity
@@ -1710,6 +1946,10 @@ Mysterious; difficult to understand or fully grasp. A great catch-all word that 
 Indifference, but with a subtle twist of devil-maycare. An apathetic person may be simply indifferent to what's going on; a person who intentionally acts as if she doesn't care in order to look cool or invulnerable is showing insouciance. Pronounced IN-SOO-SEE-ENTS.
 
 
+### intense
+https://www.merriam-webster.com/dictionary/intense
+
+
 ### intents and purposes
 Usually used in the phrase "for all intents and purposes," it means under usual circumstances or during normal conditions: For all intents and purposes, a seat belt increases the safety of the driver. Not intensive purposes, a common mistake.
 
@@ -1748,6 +1988,10 @@ To become hardened and unaffected by hardship, difficulty or attack. The boy was
 
 ### invective
 Although this word sounds as if it should be an adjective, it's a noun that means "strongly abusive verbal criticism." Ship captains are well known for using invective to motivate their sailors. Say INN-VECK-TJVE.
+
+
+### invidious
+https://www.merriam-webster.com/dictionary/invidious
 
 
 ### irascible
@@ -1862,6 +2106,10 @@ Fate or destiny. Usually used in a positive sense—it was kismet that Lana Turn
 Your family is kin; your friends are kith. When the whole gang gets together, you refer to them as your kith and kin.
 
 
+### knave
+https://www.merriam-webster.com/dictionary/knave
+
+
 ### knell
 The sound of a bell tolling. The word is most often used to refer to the sound of funeral bells ringing. Almost always coupled with "death." For instance, "Videocassettes sounded the death knell for revival movie houses." Rhymes with bell.
 
@@ -1890,6 +2138,10 @@ Although the word means unstable in general, it is most frequently used to mean 
 Given to weeping. It has less to do with being sad than it does with shedding tears. The movies that we call tear-jerkers make us cry because they are sad. Eyedrops, air pollution or a bitter wind can make us lachrymose. Pronounced LACK-RF-MOSE.
 
 
+### lackey
+https://www.merriam-webster.com/dictionary/lackey
+
+
 ### lacuna
 This is not a South Sea islet, a California beach, a type of punctuation or a foreign currency. A lacuna is a rather elegant way of describing a gap or a missing portion. The most famous lacuna of all is the 18- minute gap in the Watergate tapes. If you borrow a book from a careless friend and the middle fifty pages are missing, you might call to ask what happened in the lacuna. It's pronounced LAK-YOO-NAH. The plural is lacunae, and surprisingly enough, is pronounced LAK-YOO-NEE.
 
@@ -1902,8 +2154,20 @@ Dealing gently but brilliantly with a subject, or touching something lightly and
 Hotel jargon for a private terrace or balcony that comes with a room. It's a good idea when on vacation to request a LAN-EYE, even if you're not in Hawaii.
 
 
+### languor
+https://www.merriam-webster.com/dictionary/languor
+
+
 ### lanugo
 All expectant parents know this one because they read the book that contains photos of a developing fetus. Lanugo is literally the soft, downy hairs that cover the fetus and newborn babies. Say LAH-NEW-GO.
+
+
+### larrikin
+https://www.merriam-webster.com/dictionary/larrikin
+
+
+### lascivious
+https://www.merriam-webster.com/dictionary/lascivious
 
 
 ### lee
@@ -1916,6 +2180,10 @@ A particularly elegant way of saying dexterity in the use of one's hands to perf
 
 ### leitmotif
 A theme maintained throughout a body of work, particularly a musical work, associated with a character, an idea or an emotion. It's pronounced UTE-MO-TEEF.
+
+
+### leitmotit
+https://www.merriam-webster.com/dictionary/leitmotit
 
 
 ### lethologica
@@ -1950,6 +2218,10 @@ Definitely not a length of time. It's a distance, specifically the distance ligh
 Describes someone from the mythical island of Lilliput. Featured in Jonathan Swift's novel Gulliver's Travels, these people are about three inches tall. A fancy way to say "small." (See also yahoo.)
 
 
+### liminal
+https://www.merriam-webster.com/dictionary/liminal
+
+
 ### limn
 To capture through an artistic medium; to evoke or describe, either in a drawing or in words. A poet may limn the beauty of a sunset in rhyming couplets; an artist may limn the beauty of a person or an object using clay or watercolors or shards of pottery, for that matter. Pronounced LIMM.
 
@@ -1970,6 +2242,10 @@ Sounds like a pasta dish, but it's not. The phrase describes a common language�
 Supple; agile; lithe. Ballet dancers are lissom. Olympic athletes are lissom. Michael Jordan is lissom, even when he's just walking down the street. Sometimes spelled lissome. Say LISS-uHM.
 
 
+### lissome
+https://www.merriam-webster.com/dictionary/lissome
+
+
 ### litotes
 Someone who speaks in litotes uses understatements in which two negatives make a positive. "She's not a bad actress" is a litotes; so is "You're not looking half- bad." Pronounce it L/E-TOH-TEEZ.
 
@@ -1986,6 +2262,10 @@ The clothing or uniform worn by the servants of highranking people. A chauffeur'
 The word literally means the color of flesh after being strangled—bluish-gray—but most of the time it's used to describe furious anger, as in choking with anger. If you arrive a half-hour late for a meeting with someone who hates to be kept waiting, you're likely to find that the person you are meeting is either livid or not there. Say LIH-VID.
 
 
+### logophobia
+https://www.merriam-webster.com/dictionary/logophobia
+
+
 ### logorrhea
 Not a bad case of indigestion, but close. The word basically means diarrhea of the mouth. When you meet someone who makes you nervous and you begin to chatter nervously and say stupid things that you regret later, you are suffering from a temporary case of logorrhea. Things could be worse—it's a real medical condition and some people suffer it permanently. It's pronounced LOG-A-REE-AH.
 
@@ -1994,8 +2274,16 @@ Not a bad case of indigestion, but close. The word basically means diarrhea of t
 An awkward person, especially one who is lazy or stupid; lout; lubber.
 
 
+### loquacious
+https://www.merriam-webster.com/dictionary/loquacious
+
+
 ### Lothario
 A silly, stupid person—a novel twist on boob. A reference to a character in an 18th-century play by Rowe, this is a man who charms women and lies to them in order to gain sexual favors, not unlike a rake, a roue (see roue), a libertine (see libertine), or a licentious (see licentious) man.
+
+
+### lothario
+https://www.merriam-webster.com/dictionary/lothario
 
 
 ### louche
@@ -2010,8 +2298,16 @@ A half-mask, the kind that covers only the eyes and nose. Batman and Catwoman fa
 You can pronounce it LOO-BRIK-US or LOO-BRISH-US, and either way it means slippery in a literal sense (as in lubricated), or slippery in a more figurative sense (lecherous, lascivious or licentious). Rakes, roues, Lotharios (see above) are all lubricious; so is a newly waxed floor or a well-oiled hinge.
 
 
+### lubricous
+https://www.merriam-webster.com/dictionary/lubricous
+
+
 ### lucubrate
 To burn the midnight oil—to work or study late into the night. The home office and the personal computer have made lucubration far easier. Pronounced LOO-KYEH-BRATE.
+
+
+### lugubrious
+https://www.merriam-webster.com/dictionary/lugubrious
 
 
 ### lumpen
@@ -2122,6 +2418,14 @@ One step short of a riot; a confused or tumultuous fight among several people. U
 A nightingale's song is mellifluous, as is a lover's whisper. Music or sound that flows smoothly or sweetly, like the sound of the word itself: MELL-IF-LOO-USS.
 
 
+### mendacious
+https://www.merriam-webster.com/dictionary/mendacious
+
+
+### mendacity
+https://www.merriam-webster.com/dictionary/mendacity
+
+
 ### mensch
 A Yiddish word for someone who combines wisdom, humor and honor. Say MENSH.
 
@@ -2218,6 +2522,14 @@ The small, trivial details of something. Someone who worries about minutiae ofte
 A Latin phrase meaning "wonderful to relate" or "strange to tell." It's the kind of phrase, used sparingly, that can enhance a tale of even the most mundane events: "I went into my daughter's room this morning and—mirabile dictu—she had cleaned it up!" It's pronounced MEER-AB-EEL-AY DIK-TOO.
 
 
+### mirth
+https://www.merriam-webster.com/dictionary/mirth
+
+
+### misanthrope
+https://www.merriam-webster.com/dictionary/misanthrope
+
+
 ### miscegenation
 Marriage or cohabitation of people from different races; the mixture of races by interbreeding. Amazingly enough, this was illegal in Virginia until the mid-1960s. Not to be confused with misogyny (see misogyny), which means hatred of women. It's pronounced M/SS-E;;-EN- AY-SHUN.
 
@@ -2256,6 +2568,10 @@ Hard work and drudgery, like toil with an m. We moiled away for hours over dicti
 
 ### mollify
 To soothe, appease or calm down. Chamberlain tried to mollify Hitler. A father might try to mollify a small child who dropped an ice-cream cone.
+
+
+### monism
+https://www.merriam-webster.com/dictionary/monism
 
 
 ### monodomous
@@ -2304,6 +2620,10 @@ Extremely generous and willing to give. It has a slightly different meaning than
 
 ### mussitation
 Silently imitating the lip movements of people who are speaking; the kind of behavior that can drive a speaker crazy. (Bet you didn't realize there was a word for this, did you?)
+
+
+### mycology
+https://www.merriam-webster.com/dictionary/mycology
 
 
 ### myopia
@@ -2378,6 +2698,10 @@ Skepticism so complete that it denies there can be any objective basis for truth
 This word refers to the Buddhist belief in the release from the cycle of reincarnation that leads to the end of all desire and suffering, but it has come to be used to mean a state akin to heaven on earth. A birthday party with a big cake, lots of candy and ice cream, and piles of presents may be a child's idea of nirvana.
 
 
+### niveous
+https://www.merriam-webster.com/dictionary/niveous
+
+
 ### nodus
 A complication or a difficulty, kind of like a snag. If you hit a nodus in your research, you're likely to be stuck for days trying to discover the right answer. The plural is nodi. Pronounced NODE-US.
 
@@ -2418,6 +2742,10 @@ To confuse. Perfect if you want to confuse someone who's not being clear with yo
 Like the angle in geometry, which includes lines which are neither parallel nor perpendicular, the word refers to things that are not straight or straightforward, but indirect. An oblique reference does not directly address the true subject but alludes to it in a secondary or slightly obscure way. It's pronounced OH-BLEEK.
 
 
+### oblivescence
+https://www.merriam-webster.com/dictionary/oblivescence
+
+
 ### obloquy
 Public censure or blame, usually verbal. Richard Nixon suffered the obloquy of the press as the events at the Watergate Hotel were revealed. Pronounced OB-LUH'KWEE.
 
@@ -2438,6 +2766,14 @@ When describing an idea or explanation, obtuse is the opposite of lucid or clear
 Not to be confused with adumbrate, which means to foreshadow, obumbrate means to darken, overshadow or make difficult to see or understand. The word should be used only figuratively. Skies cbud over before a rainstorm; weak explanations obumbrate the understanding of a scientific concept. Say AH- BUM-BRATE.
 
 
+### obviate
+https://www.merriam-webster.com/dictionary/obviate
+
+
+### occiput
+https://www.merriam-webster.com/dictionary/occiput
+
+
 ### octogenarian
 A person between the ages of 80 and 90, just as a septuagenarian is a person between the ages of 70 and 80. The word has a nice ring to it and sounds a lot better than "senior citizen."
 
@@ -2456,6 +2792,10 @@ The science of wine or winemaking. Next time you're offered an expensive wine li
 
 ### officious
 An officious person meddles or interferes without being asked. Overbearing mothers are officious, as are strangers who tell you what you should or shouldn't do. Officials are rarely officious, and officious people are not necessarily officials. oligarchy A government in which a small group exercises power over the majority. A company run by a committee is accurately referred to as an oligarchy. Say OH-L/G-ARK-EE.
+
+
+### ohlebotomist
+https://www.merriam-webster.com/dictionary/ohlebotomist
 
 
 ### olio
@@ -2482,8 +2822,16 @@ An irrepressible urge to buy things; the kind of condition that inspires astrono
 A word that sounds like what it defines (see flump). Consider "hiss" or "scratch." Sort of mumble when you say it: AHN-EH-MAHT-EH-PEE-UH.
 
 
+### ontology
+https://www.merriam-webster.com/dictionary/ontology
+
+
 ### oppugn
 Not to be confused with opine, which means to offer an opinion, oppugn means to fight against or counterattack. "You always squeeze the toothpaste from the middle!" he said. "You drink from the milk carton and eat crackers in bed!" she oppugned. It's pronounced OH-PEWN.
+
+
+### oreternatural
+https://www.merriam-webster.com/dictionary/oreternatural
 
 
 ### orthography
@@ -2508,6 +2856,10 @@ Idle, useless and unnecessary. Not to be confused with adipose, which means fat.
 
 ### oubliette
 A hidden dungeon that can only be entered from above; the kind of word that pops up frequently in fairy tales that feature monsters. Fair maidens and princesses are always being thrown into oubliettes by evil monsters. It's pronounced OO-BLEE-ET.
+
+
+### ounctilious
+https://www.merriam-webster.com/dictionary/ounctilious
 
 
 ### ovine
@@ -2614,6 +2966,10 @@ A matched set of jewelry, such as earrings and a necklace; the kind of word seen
 A subtler word for what we usually call nouveau riche. A parvenu is someone who has recently acquired money or social status, but has not yet acquired the appropriate style or manner. The word can also be used to describe any newcomer to a situation who has not yet learned to handle his role or responsibility, such as a young worker who gets a big promotion and acts obnoxious and superior around the people who were his closest colleagues the day before. Pronounced PAR-VEN-YOO. (See also arriviste.)
 
 
+### pasquinade
+https://www.merriam-webster.com/dictionary/pasquinade
+
+
 ### passementerie
 The squiggly, braided trimming you see on clothing such as matador's suits, felt sombreros or other clothing. (How did you live without knowing that?) It's pronounced PASS-A-MENT-A/R-EE.
 
@@ -2666,6 +3022,10 @@ Transparent or translucent; as long as you can see through something, you may ca
 No, it's not a writing implement. In fact, it's the kind of short, bristly tufts of hair or fur you find along the backs of caterpillars. A great word for crossword puzzles or for teasing a friend who just got a punk haircut. Say PEN-L-S/LL.
 
 
+### pentimento
+https://www.merriam-webster.com/dictionary/pentimento
+
+
 ### penultimate
 Second to last, whether it's your place on line, or the next-to-the-last paragraph. The letter t is the
 
@@ -2698,6 +3058,10 @@ Treacherous; nefarious; wicked. There are lots of words for evil; perfidious car
 Routine; performed automatically, without thought or feeling. A job done perfunctorily reveals no particular passion and seems careless. A perfunctory greeting lacks enthusiasm. Say PER-FUNK-TOR-EE.
 
 
+### periohrasis
+https://www.merriam-webster.com/dictionary/periohrasis
+
+
 ### peripatetic
 An adjective or noun that means traveling from place to place; itinerant. Migrant workers are peripatetic. You can also be peripatetic by reading this book in no particular order. (See also peregrinate.)
 
@@ -2716,6 +3080,14 @@ To persist. Never give up. Not spelled perservere, a common error. Say PURR-S/H-
 
 ### persiflage
 Light banter. (See also bavardage.) Pronounced PER-SIF'LAJ.
+
+
+### perspicacious
+https://www.merriam-webster.com/dictionary/perspicacious
+
+
+### perspiCcuous
+https://www.merriam-webster.com/dictionary/perspiCcuous
 
 
 ### pertinacious
@@ -2782,6 +3154,10 @@ Not to be confused with peccant (see peccant). A pleasantly sharp or spicy flavo
 Another word for "ant." You can use it to refer to the little bug, or to describe something equally tiny. It's a good word to use when you're annoyed with someone, as in: "I'm tired of your pismire hobbies that leave no time for more important things." Pronounced PISS-MIRE.
 
 
+### pithy
+https://www.merriam-webster.com/dictionary/pithy
+
+
 ### plangent
 Deep, low and resonantly mournful. Used to describe the music at a funeral or the mooing of a lone cow in an open field. Pronounced PLAN-JENT.
 
@@ -2796,6 +3172,10 @@ Of all the geological periods, probably the most interesting to remember since i
 
 ### plenipotentiary
 A person vested with the full power to act on behalf of someone else. It's more than a power of attorney. A parent may act as a plenipotentiary for a child; an ambassador may be sent to act as a plenipotentiary for the ruler of a country. Pronounce PLEHN-EH-PEH- TEN-SH EE-EHR-EE.
+
+
+### pleonasm
+https://www.merriam-webster.com/dictionary/pleonasm
 
 
 ### plethora
@@ -2882,6 +3262,10 @@ Something that happens after dinner, such as a postprandial walk or postprandial
 It's kind of like "bother" when it's used as a noun. A pother is a fuss or commotion: "Don't make such a pother about it. We promised we'd visit our relatives, and we're going."
 
 
+### precept
+https://www.merriam-webster.com/dictionary/precept
+
+
 ### preciosity
 An excessive fastidiousness, particularly in the use of language. It refers to something precious or affected, not precious in the ordinary sense of the word. It's pronounced PRESH-EE-OSS-IH-TEE.
 
@@ -2936,6 +3320,14 @@ Most commonly, works of art or antiques in perfect condition are described as pr
 
 ### proactive
 Often misused to mean "active." It means the opposite of reactive. Action that is proactive precedes, even promotes or prevents, a situation. Politicians are reactive; good chess players are proactive. probity Honesty; integrity; incorruptibility. Has nothing to do with probability or wills. Pronounced PROH-BIT-EE.
+
+
+### probity
+https://www.merriam-webster.com/dictionary/probity
+
+
+### profligacy
+https://www.merriam-webster.com/dictionary/profligacy
 
 
 ### prognosticate
@@ -3006,6 +3398,10 @@ There are several definitions for this word, but the most usable one is a habita
 The German word for a sudden uprising and takeover. It generally refers to a government coup, but if a group of coworkers get together to kick out their superior and take over her responsibilities, that's a putsch too. Rhymes with butch.
 
 
+### pyrrhic
+https://www.merriam-webster.com/dictionary/pyrrhic
+
+
 ### quagmire
 This word means swamp or bog or any earth that shakes when trodden upon, but it is probably more often used figuratively to mean a murky mess. A teenager's room might be a quagmire of dirty clothes, food wrappers and old magazines; a bad answer to an essay question on an exam might be a quagmire of poorly expressed thoughts and conflicting ideas. Say KWAG-UY'ER.
 
@@ -3066,6 +3462,10 @@ Tacky, cheap or in bad taste. The word can refer to people or things. A tourist 
 Not the stuff trains run on. Pronounced RAY-LER-EE, it's another word for good-natured banter and light teasing. (See also bavardage.) This belongs with papilote (see papilote) in the "Obscure Restaurant" list.
 
 
+### rallentando
+https://www.merriam-webster.com/dictionary/rallentando
+
+
 ### ramekin
 A ramekin is the lidless ceramic baking dish used for individual servings of foods such as French onion soup. Say RAM-EH-KIN.
 
@@ -3082,6 +3482,10 @@ To cause long-lasting anger or resentment. Nasty, superior and unfair employers 
 Plundering or taking by force. Rapacious soldiers don't just occupy a town, they pillage it. (See also plunder.)
 
 
+### rapturous
+https://www.merriam-webster.com/dictionary/rapturous
+
+
 ### rara avis
 A Latin phrase for an unusual person or thing—a rare bird. A very scholarly way of saying one-in-a-million. Pronounce it RAIR-UH AY-viss.
 
@@ -3092,6 +3496,10 @@ One thin slice of bacon is a rasher, although many people now use the word to me
 
 ### ratiocinate
 When you give a great deal of thought to a problem, you can say you figured it out by ratiocination. Pronounced RASH-EE-OH-SIN-ATE.
+
+
+### rebarbative
+https://www.merriam-webster.com/dictionary/rebarbative
 
 
 ### recalcitrant
@@ -3112,6 +3520,10 @@ To engage in a preliminary survey of something in order to gain information. Thi
 
 ### recreant
 This has nothing to do with play or outdoor sports; a recreant is a traitor or a coward, someone who abandons his friends, family or country. It's pronounced REK-REE-ANT.
+
+
+### recrudesce
+https://www.merriam-webster.com/dictionary/recrudesce
 
 
 ### rectitude
@@ -3142,6 +3554,10 @@ To make an abstract concept concrete. A written contract, for example, may reify
 A response to an answer, usually a good response but not quite as clever as a riposte (see riposte).
 
 
+### remit
+https://www.merriam-webster.com/dictionary/remit
+
+
 ### remonstrate
 To plea in protest; kind of like a verbal version of "to demonstrate." Striking workers may demonstrate in picket lines and then arrange meetings to remonstrate with the management. Pronounced REH- MAHN-STRATE.
 
@@ -3170,6 +3586,10 @@ To reduce or cut back. During a recession, people tend to retrench, spending les
 Not a hat worn by a nun or a medieval lady; that's a wimple. Rimple is just another word for a wrinkle or crease. Aging persons have rimples around their eyes; poorly packed clothes come out of the suitcase filled with rimples.
 
 
+### riparian
+https://www.merriam-webster.com/dictionary/riparian
+
+
 ### riposte
 A sharp, usually clever, retort; the exact opposite of an esprit d'escalier (see esprit d'escalier). Originally a fencing term. It's pronounced REE-POST.
 
@@ -3190,6 +3610,10 @@ A rake; a dissipated, lascivious man, but with a touch of the dashing romantic. 
 Not the multicolored puzzle cube, but close. A set of regulations for behavior or procedure. Say ROOB-RJC. A combination of meaningless syllables that evoke a feeling or mood, such as "yo-ho-ho" or "tra-la-la" or "lah rumbelow di-dah." Pronounced RLJM-BEH-LOH.
 
 
+### rubricate
+https://www.merriam-webster.com/dictionary/rubricate
+
+
 ### ruthful
 The opposite of ruthless is indeed a word; it means having pity, compassion or remorse. To use it as a noun, just say "ruth": "At the funeral, the murderer showed ruth."
 
@@ -3206,6 +3630,18 @@ The most notable; the things that stand out as the most important. The salient f
 Promoting good health. Spa water, vitamins and oat bran (and a slew of other items that are health-food store staples) are said to be salubrious. Say it SAL-OO BREE-USS.
 
 
+### salutary
+https://www.merriam-webster.com/dictionary/salutary
+
+
+### Samovar
+https://www.merriam-webster.com/dictionary/Samovar
+
+
+### sanctimony
+https://www.merriam-webster.com/dictionary/sanctimony
+
+
 ### sang froid
 Composure or calm in the face of danger, difficulty or annoyance. The guards in front of Buckingham Palace maintain their sang froid under all circumstances. Pronounced SANG FRWAH.
 
@@ -3216,6 +3652,10 @@ Cheerful and optimistic. After looking through the annual report, he felt sangui
 
 ### sans souci
 Resorts are fond of naming themselves with this French phrase, perhaps because it means "carefree."
+
+
+### Sapient
+https://www.merriam-webster.com/dictionary/Sapient
 
 
 ### saporific
@@ -3278,8 +3718,16 @@ The aspect of linguistics that is concerned with the meaning and usage of words.
 Despite the i, the word derives from "semen," and means the source of a style, an idea or a philosophy. The Federalist Papers are a seminal work of American political thought; Einstein's work is seminal to modern physics. It's pronounced SEMM-IN-AL.
 
 
+### semiotic
+https://www.merriam-webster.com/dictionary/semiotic
+
+
 ### semiotics
 The study of signs and symbols. Like linguistics, an oftmisunderstood yet fascinating field of study.
+
+
+### senectitude
+https://www.merriam-webster.com/dictionary/senectitude
 
 
 ### senescent
@@ -3288,6 +3736,10 @@ Aging, or becoming old. Generally used to describe people rather than things. Ho
 
 ### sententious
 The word has two almost contradictory meanings: full of terse, pithy truths, or self-righteously moralizing and pedantic. Be careful how you use it. Pronounced SEN-TEN-SHUSS.
+
+
+### sentient
+https://www.merriam-webster.com/dictionary/sentient
 
 
 ### sequacious
@@ -3306,6 +3758,10 @@ To crowd together closely. Sardines are packed, but people in an elevator are se
 This is one of our favorites. It means a very long word (literally "a foot and a half'), or given to using very long words. A sesquipedalian loves using words like SESS-KWIH'PEH'DALE-YAN .
 
 
+### sessile
+https://www.merriam-webster.com/dictionary/sessile
+
+
 ### sexagenarian
 Aged between sixty and seventy years old. (See also octogenarian.)
 
@@ -3316,6 +3772,10 @@ Literally, a shaman is a priest or witch doctor who uses supernatural powers in 
 
 ### shibboleth
 A doctrine or belief once held to be of great importance by a particular group or sect but now seen as rather old-fashioned and useless. Stoning witches and refraining from shopping on Sundays are both examples of shibboleths.
+
+
+### shoah
+https://www.merriam-webster.com/dictionary/shoah
 
 
 ### sibilant
@@ -3336,6 +3796,10 @@ Resembling a monkey or ape in physical characteristics.
 
 ### simpatico
 In sympathy in ideas, manners or personalities. A successful computer-dating service puts simpatico people in contact. Say SJMM-PAT-EE-COH.
+
+
+### simper
+https://www.merriam-webster.com/dictionary/simper
 
 
 ### simulacrum
@@ -3366,6 +3830,10 @@ Having the qualities of a siren (the human kind)— women who are irresistibly a
 An abnormal or even neurotic craving for food. The next time you sit down with a spoon and a half gallon of ice cream, just grin and say you're having an attack of sitomania.
 
 
+### skeuomorph
+https://www.merriam-webster.com/dictionary/skeuomorph
+
+
 ### skulduggery
 If you do something sneaky and underhanded, you are engaging in skulduggery. Though it's clearly dishonorable conduct, it's not as bad as an outright felony—you don't necessarily get thrown in jail for it. Filling your mom's purse with raspberry Jell-O is skulduggery. (Also spelled skullduggery.)
 
@@ -3376,6 +3844,10 @@ This is the noun for "slovenly." People who dress in a slovenly way are careless
 
 ### smarmy
 Ingratiating; falsely flattering or fawning in order to get in someone's good graces. People without noticeable talent who need business are often smarmy, falling all over their clients. (See also obsequious.)
+
+
+### snart
+https://www.merriam-webster.com/dictionary/snart
 
 
 ### sniffish
@@ -3422,8 +3894,16 @@ Capable of producing deep, rich sound, like the bells of Notre Dame. Pronounced 
 A deceptive or false argument or belief. When someone comes up with a series of facts that don't prove the point she's trying to make, you can accuse her of making a sophism. Say SOFF-IZM.
 
 
+### sophistry
+https://www.merriam-webster.com/dictionary/sophistry
+
+
 ### soporific
 Something that produces sleep is a soporific. It can be used as a noun or an adjective. A sleeping pill is a soporific. A geography lecture may be soporific. (See also saporific, which has an entirely different meaning.)
+
+
+### sororal
+https://www.merriam-webster.com/dictionary/sororal
 
 
 ### sotto voce
@@ -3474,12 +3954,20 @@ Stout; steady; dependably courageous. Friends who can be counted on for their br
 People often use this word to mean authoritarian, but that's not exactly what it means. Someone who speaks with a stentorian voice speaks loudly and harshly. It often has the effect of being authoritarian, however.
 
 
+### stochastic
+https://www.merriam-webster.com/dictionary/stochastic
+
+
 ### stodge
 To eat greedily; to gorge or stuff. People on diets often sneak down to the kitchen in the middle of the night to stodge themselves with leftovers from the fridge.
 
 
 ### stolid
 Unemotional, or at least slow to express feelings. Certain men who were raised in the pre-conscious- ness-raising days are stolid. Old army officers who insist that their family members call them General, for instance, are also stolid. Pronounced STAHL-JD.
+
+
+### stroppy
+https://www.merriam-webster.com/dictionary/stroppy
 
 
 ### subaltern
@@ -3502,6 +3990,22 @@ To consider an idea, principle, theory or category as part of a larger whole. "E
 An evasion or deceit used to conceal or avoid something. High-school students use many forms of subterfuge in order to get out of physical education classes: they pretend to be sick, arrange to meet with a teacher or intentionally break a toe. It's pronounced SUB-TER'FYOO] .
 
 
+### subtuscous
+https://www.merriam-webster.com/dictionary/subtuscous
+
+
+### succinct
+https://www.merriam-webster.com/dictionary/succinct
+
+
+### succor
+https://www.merriam-webster.com/dictionary/succor
+
+
+### succubus
+https://www.merriam-webster.com/dictionary/succubus
+
+
 ### sui generis
 A Latin phrase for "unique" or "one of a kind." You may claim an incredibly ugly antique vase that a pretentious relative gave you is a sui generis work of art. Opposite of generic. The correct pronunciation is SOO-EYE JEN'ER'IS.
 
@@ -3522,6 +4026,14 @@ Haughty, contemptuous or superior. (See also bump' tious.) From the Latin word f
 Celestial; heavenly; above ordinary human existence. Gods exhibit supernal powers; people with oversized egos think they do, too. Say SOO-PER-NULL.
 
 
+### superordinate
+https://www.merriam-webster.com/dictionary/superordinate
+
+
+### supposition
+https://www.merriam-webster.com/dictionary/supposition
+
+
 ### surfeit
 It's pronounced SIR-F/T, and it means an excess. The wealthy have a surfeit of assets.
 
@@ -3534,8 +4046,20 @@ This word often crops up in highly descriptive prose. It means a gentle whisperi
 A person who lives luxuriously and self-indulgently. Very posh resorts love to advertise as "a haven for sybarites." Say SIB-ER-JTE.
 
 
+### sybaritic
+https://www.merriam-webster.com/dictionary/sybaritic
+
+
+### syllabus
+https://www.merriam-webster.com/dictionary/syllabus
+
+
 ### sylph
 A slender, graceful woman. Audrey Hepburn is the prototype. Say it SIHLF.
+
+
+### syncope
+https://www.merriam-webster.com/dictionary/syncope
 
 
 ### synecdoche
@@ -3544,6 +4068,10 @@ A figure of speech in which a part is substituted for the whole, such as "Get yo
 
 ### synergy
 Cooperative activity. Getting more than the sum of the parts. Synergy occurs in an office, for example, when coworkers give each other energy and inspire each other to be more creative and productive than they would be alone. Say SIN-ER-JEE.
+
+
+### syzygy
+https://www.merriam-webster.com/dictionary/syzygy
 
 
 ### taciturn
@@ -3558,8 +4086,24 @@ The winged sandals worn by Mercury. Granted, Mercury and FTD are probably the on
 A lucky charm. Typically a rabbit's foot or any other doo-dad you habitually bring along when you're playing a team sport or gambling.
 
 
+### tartuffery
+https://www.merriam-webster.com/dictionary/tartuffery
+
+
 ### tatterdemalion
 A person dressed in ragged clothing; possibly a decent alternative to "homeless person," except that a person in ragged clothing may very well have a home. The kids in the old "Our Gang" TV series were tatterdemalions.
+
+
+### tautological
+https://www.merriam-webster.com/dictionary/tautological
+
+
+### tautology
+https://www.merriam-webster.com/dictionary/tautology
+
+
+### taxonomy
+https://www.merriam-webster.com/dictionary/taxonomy
 
 
 ### telegenic
@@ -3578,6 +4122,10 @@ Another word for earthquake. Most often used by reporters in California in repor
 Daring, but meaning reckless or bold, more than brave. Someone who saves a mugging victim has courage; a student who talks back to a teacher has temerity.
 
 
+### tendencious
+https://www.merriam-webster.com/dictionary/tendencious
+
+
 ### tendentious
 Not to be confused with tenacious, which means persistent. Tendentious means having a particular tendency; leaning; lacking impartiality. Tendentious people make poor judges.
 
@@ -3592,6 +4140,10 @@ Ambivalence; a continual changing of one's mind. Someone who can't decide what t
 
 ### terrapin
 An edible freshwater turtle. The name comes from the Algonquin Indians. Useful if you're ever offered turtle soup: "It has terrapins in it," you'll say.
+
+
+### thalassic
+https://www.merriam-webster.com/dictionary/thalassic
 
 
 ### theomania
@@ -3658,6 +4210,14 @@ To slander, malign, or ruin someone's reputation. Say TRAH-DOOSE.
 To change in form or appearance, usually much for the worse. Dr. Jekyll transmogrified into Mr. Hyde. A simple project can transmogrify into a convoluted disaster when your boss's boss decides to change the objectives.
 
 
+### tremulous
+https://www.merriam-webster.com/dictionary/tremulous
+
+
+### trepidatious
+https://www.merriam-webster.com/dictionary/trepidatious
+
+
 ### triage
 An arrangement derived from medical situations that separates things into three categories of urgency—kill it, save it, or leave it where it is for the time being. Battlefield casualties are triaged. You can also approach decisions in a busy office the same way. It's pronounced TREE-AJ.
 
@@ -3666,12 +4226,24 @@ An arrangement derived from medical situations that separates things into three 
 Like a dilemma but with one extra problem—a situation in which there are three mutually exclusive alternatives.
 
 
+### trite
+https://www.merriam-webster.com/dictionary/trite
+
+
 ### trompe l'oeil
 A painting intended to create an illusion. For example, a very realistic mural on the outside of a windowless building that gives the impression that windows exist. From the French for "deceiving the eye," it's pronounced TROMP LOY.
 
 
+### trope
+https://www.merriam-webster.com/dictionary/trope
+
+
 ### truculent
 This is a very harsh word, though few people use it correctly. It means cruel, brutal, savage. The behavior of the Nazis during the Holocaust was truculent. It's pronounced TRL/CK-YOO-LENT.
+
+
+### tumescent
+https://www.merriam-webster.com/dictionary/tumescent
 
 
 ### turbid
@@ -3762,8 +4334,16 @@ This is not the smart student who makes a speech at graduation (that's a valedic
 A subordinate. Not exactly a slave—more like a subject. From the feudal relationship between kings and their subjects. You could use the term sarcastically to refer to the boss's assistants.
 
 
+### vatic
+https://www.merriam-webster.com/dictionary/vatic
+
+
 ### vaunt
 It means "to boast of' or "to brag about," and is usually used to describe a reputation. It is hard to get a reservation in a much-vaunted restaurant.
+
+
+### vedic
+https://www.merriam-webster.com/dictionary/vedic
 
 
 ### venal
@@ -3794,12 +4374,24 @@ A female victor, such as Joan of Arc, is a VICK-TRESS.
 This is a charge paid to a bookie for placing a bet; it can also refer to an interest fee paid to a moneylender.
 
 
+### vinous
+https://www.merriam-webster.com/dictionary/vinous
+
+
 ### virago
 A fierce-tempered woman. "Hell hath no fury like a..." Well, virago. Pronounced VEH-RAH-GO.
 
 
+### viridescent
+https://www.merriam-webster.com/dictionary/viridescent
+
+
 ### vitiate
 To impair or pollute or to make illegal or invalid. Toxic wastes can vitiate a body of water; cheating in a team sport vitiates the winning results. Say VJSH- EE-ATE.
+
+
+### vituperate
+https://www.merriam-webster.com/dictionary/vituperate
 
 
 ### vituperative
@@ -3860,6 +4452,10 @@ The kind of word only the Germans could come up with. It literally means "world 
 
 ### whelk
 An extremely civilized word for pimple, and a lot more euphonious (see euphonious) than "zit." Say WELK.
+
+
+### whelp
+https://www.merriam-webster.com/dictionary/whelp
 
 
 ### whiffle
