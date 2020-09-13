@@ -4549,6 +4549,11 @@ The period of semiconsciousness before sleep, when
 you either begin to dream or to worry (in which case
 you may not sleep at all).
 
+preponderant
+Predominant in influence, number, or importance.
+Having superior weight, force, or influence;
+"the preponderant influence of the US within the alliance"
+
 prepossess
 Has nothing to do with a pawn shop. To impress
 favorably either beforehand or immediately. Someone who makes a good first impression is very prepossessing.
