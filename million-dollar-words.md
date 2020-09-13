@@ -1094,8 +1094,8 @@ Pleasant; melodious; sweet to the eye or ear. Usually used in conjunction with t
 https://www.merriam-webster.com/dictionary/duplicity
 
 
-### dyspeptic
-https://www.merriam-webster.com/dictionary/dyspeptic
+### dyspepsia
+Indigestion. When people get indigestion, they are often affected  by nausea, heartburn, and gas-things that can cause the world's  greatest gastronome to curse the world's most delectable dishes.  So, it is no wonder that dyspepsia, a word for indigestion, has  also come to mean "ill humor" or "disgruntlement." The word itself  is ultimately derived from the Greek prefix  dys- ("faulty" or "impaired") and  the verb pessein ("to cook" or "to digest"). To please the  wordmonger's appetite, we would like to end with this tasty morsel:  Dyspepsia has an opposite, eupepsia-a rarely used word meaning  "good digestion."
 
 
 ### dystopia
@@ -1328,6 +1328,10 @@ https://www.merriam-webster.com/dictionary/etiology
 
 ### eunuch
 The term for the unfortunate man who's been castrated. Traditionally employed by sheiks to protect their harem from loyal servants. Now used to describe someone who acts as if he'd been castrated. Pronounced YOU-NICK.
+
+
+### eupepsia
+A rarely used word meaning "good digestion."
 
 
 ### euphonious
