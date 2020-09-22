@@ -1,6 +1,11 @@
 #!/bin/sh
 
+# the files for Github
 cargo run -- -t > million-dollar-words.md
 cp million-dollar-words.md readme.md
+
+# the index file
 cargo run -- -i > index.txt
-cp million-dollar-words.md ~/Dropbox/Elements/
+
+# Version for Dropbox
+cargo run > ~/Dropbox/Elements/million-dollar-words.md

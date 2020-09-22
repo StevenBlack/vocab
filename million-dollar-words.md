@@ -2673,6 +2673,10 @@ A scientific-sounding word for sorcery or witchcraft. Use it when you want somet
 Very evil or wicked; frequently used to describe cartoon villains. Think of the guy who was always tying Pauline to the railroad tracks. It's also used quite seriously, however: Hitler's henchmen committed nefarious acts. Pronounced NEH-FARE-EE-USS.
 
 
+### neophobia
+The fear of anything new, especially a persistent and abnormal fear. In its milder form, it can manifest as the unwillingness to try new things or break from routine. In the context of children the term is generally used to indicate a tendency to reject unknown or novel foods.
+
+
 ### neophyte
 Another way of saying "novice" or "beginner." Someone who takes up tennis for the first time is a neophyte. Pronounced NEE-OH-FIGHT.
 
