@@ -94,7 +94,7 @@ fn main() {
 
             if toc.len() > 0 {
                 for entry in toc.iter() {
-                    print!("[{}](#{}) - ", entry.letter, entry.term);
+                    print!("[{}](#{}) - ", entry.letter, entry.term.replace(" ", "-").to_lowercase());
                 }
                 println!("\n\n");
             }
