@@ -14,6 +14,9 @@ struct Opt {
     /// Just index
     #[structopt(short, long)]
     index: bool,
+
+    #[structopt(short, long)]
+    toc: bool,
 }
 
 fn lines_from_file(filename: impl AsRef<Path>) -> Vec<String> {
@@ -42,6 +45,7 @@ fn main() {
     let lines = lines_from_file("./million-dollar-words.txt");
     let entries = lines.split(|l| l == "");
     let mut dictionary: Vec<Entry> = Vec::new();
+    let mut toc: Vec<String> = Vec::new();
 
     for entry in entries {
         let word = &entry[0];
@@ -63,6 +67,15 @@ fn main() {
             println!("{}", word.term);
         }
     } else {
+        // print the toc
+        if opt.toc {
+            if toc.len() > 0 {
+              println!("## Contents\n\n{:?}\n\n", toc);
+            } else {
+              println!("## Contents\n\n");
+            }
+        }
+
         for word in dictionary.iter() {
             println!("{}", word);
         }

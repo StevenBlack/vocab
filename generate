@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cargo run > million-dollar-words.md
+cargo run -- -t > million-dollar-words.md
 cp million-dollar-words.md readme.md
 cargo run -- -i > index.txt
 cp million-dollar-words.md ~/Dropbox/Elements/
