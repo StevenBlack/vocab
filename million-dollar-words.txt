@@ -1052,7 +1052,7 @@ gondoliers of Venice or the people who lead walking
 tours in most cities. Pronounced SISS-A-RO-NEE.
 
 cinerary
-Adjective meaning: containing or used for ashes of the cremated 
+Adjective meaning: containing or used for ashes of the cremated
 dead; "a cinerary urn"
 
 circumlocution
@@ -1502,16 +1502,16 @@ sings in dulcet tones. (See also mellifluous.) Pronounce the
 word DULL-SET.
 
 dyspepsia
-Indigestion. When people get indigestion, they are often affected 
-by nausea, heartburn, and gas-things that can cause the world's 
-greatest gastronome to curse the world's most delectable dishes. 
-So, it is no wonder that dyspepsia, a word for indigestion, has 
-also come to mean "ill humor" or "disgruntlement." The word itself 
-is ultimately derived from the Greek prefix 
-dys- ("faulty" or "impaired") and 
-the verb pessein ("to cook" or "to digest"). To please the 
-wordmonger's appetite, we would like to end with this tasty morsel: 
-Dyspepsia has an opposite, eupepsia-a rarely used word meaning 
+Indigestion. When people get indigestion, they are often affected
+by nausea, heartburn, and gas-things that can cause the world's
+greatest gastronome to curse the world's most delectable dishes.
+So, it is no wonder that dyspepsia, a word for indigestion, has
+also come to mean "ill humor" or "disgruntlement." The word itself
+is ultimately derived from the Greek prefix
+dys- ("faulty" or "impaired") and
+the verb pessein ("to cook" or "to digest"). To please the
+wordmonger's appetite, we would like to end with this tasty morsel:
+Dyspepsia has an opposite, eupepsia-a rarely used word meaning
 "good digestion."
 
 dystopia
@@ -5709,6 +5709,10 @@ Like a dilemma but with one extra problem—a
 situation in which there are three mutually exclusive
 alternatives.
 
+trite
+(Of a remark, opinion, or idea) overused and consequently of
+little import; lacking originality or freshness.
+
 trompe l'oeil
 A painting intended to create an illusion. For example, a
 very realistic mural on the outside of a windowless
@@ -5716,11 +5720,22 @@ building that gives the impression that windows exist.
 From the French for "deceiving the eye," it's pronounced
 TROMP LOY.
 
+trope
+A literary trope is the use of figurative language, via word, phrase
+or an image, for artistic effect such as using a figure of speech.
+The word trope has also come to be used for describing commonly
+recurring literary and rhetorical devices,[ motifs or clichés
+in creative works.
+
 truculent
 This is a very harsh word, though few people use it
 correctly. It means cruel, brutal, savage. The behavior of
 the Nazis during the Holocaust was truculent. It's
 pronounced TRL/CK-YOO-LENT.
+
+tumescent
+Somewhat swollen. Swollen or becoming swollen, especially as a
+response to sexual arousal.
 
 turbid
 Opaque in the sense of muddy or clouded. This word is
@@ -5843,6 +5858,9 @@ A subordinate. Not exactly a slave—more like a
 subject. From the feudal relationship between kings
 and their subjects. You could use the term sarcastically to refer to the boss's assistants.
 
+vatic
+Describing or predicting what will happen in the future.
+
 vaunt
 It means "to boast of' or "to brag about," and is usually
 used to describe a reputation. It is hard to get a reservation
@@ -5875,6 +5893,13 @@ vernal
 Happening in the spring. For example, an equinox, or
 the budding of flowers, or the sighting of the first robin...
 Or victrix.
+
+vedic
+Of or relating to the Aryans who settled in India c1500 b.c.,
+or to their literature or religion.
+The language used in the Vedas, an early form of Sanskrit.
+Also called Vedic Sanskrit. the language of the Veda,
+closely related to classical Sanskrit.
 
 victress
 A female victor, such as Joan of Arc, is a VICK-TRESS.
@@ -6583,21 +6608,6 @@ https://www.merriam-webster.com/dictionary/tremulous
 
 trepidatious
 https://www.merriam-webster.com/dictionary/trepidatious
-
-trite
-https://www.merriam-webster.com/dictionary/trite
-
-trope
-https://www.merriam-webster.com/dictionary/trope
-
-tumescent
-https://www.merriam-webster.com/dictionary/tumescent
-
-vatic
-https://www.merriam-webster.com/dictionary/vatic
-
-vedic
-https://www.merriam-webster.com/dictionary/vedic
 
 vinous
 https://www.merriam-webster.com/dictionary/vinous
