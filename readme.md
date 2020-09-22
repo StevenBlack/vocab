@@ -1,7 +1,7 @@
 ## Contents
 
 
-[a](#a priori) - [b](#babbitt) - [c](#cabal) - [d](#dactyl) - [e](#e pluribus Unum) - [f](#fabulist) - [g](#gaffe) - [h](#hajj) - [i](#iatrogenic) - [j](#jape) - [k](#Kafkaesque) - [l](#labile) - [m](#macedoine) - [n](#nabob) - [o](#obdurate) - [p](#padnag) - [q](#quagmire) - [r](#raconteur) - [s](#sage) - [t](#taciturn) - [u](#ubiety) - [v](#vacuous) - [w](#wallah wallah) - [x](#Xanadu) - [y](#yahoo) - [z](#zaftig) - 
+[a](#a-priori) - [b](#babbitt) - [c](#cabal) - [d](#dactyl) - [e](#e-pluribus-unum) - [f](#fabulist) - [g](#gaffe) - [h](#hajj) - [i](#iatrogenic) - [j](#jape) - [k](#kafkaesque) - [l](#labile) - [m](#macedoine) - [n](#nabob) - [o](#obdurate) - [p](#padnag) - [q](#quagmire) - [r](#raconteur) - [s](#sage) - [t](#taciturn) - [u](#ubiety) - [v](#vacuous) - [w](#wallah-wallah) - [x](#xanadu) - [y](#yahoo) - [z](#zaftig) - 
 
 
 ### a priori
