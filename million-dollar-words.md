@@ -1,6 +1,9 @@
 ## Contents
 
 
+[a](#a priori) - [b](#babbitt) - [c](#cabal) - [d](#dactyl) - [e](#e pluribus Unum) - [f](#fabulist) - [g](#gaffe) - [h](#hajj) - [i](#iatrogenic) - [j](#jape) - [k](#Kafkaesque) - [l](#labile) - [m](#macedoine) - [n](#nabob) - [o](#obdurate) - [p](#padnag) - [q](#quagmire) - [r](#raconteur) - [s](#sage) - [t](#taciturn) - [u](#ubiety) - [v](#vacuous) - [w](#wallah wallah) - [x](#Xanadu) - [y](#yahoo) - [z](#zaftig) - 
+
+
 ### a priori
 Proceeding from cause to effect; reasoning from a general law to a particular instance. This describes a deductive approach to a chain of reasoning. If the polar ice caps melted, your a priori conclusion would be the eventual flooding of coastal areas. A second meaning is "presumptive" or "conjectural"—based on theory or preconception rather than fact, as in an a priori conclusion. Pronounced AH PREE-OR-EE.
 
