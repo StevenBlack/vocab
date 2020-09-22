@@ -43,6 +43,7 @@ struct TOCEntry {
     pub term: String,
     pub letter: String,
 }
+
 // ---
 
 fn main() {
@@ -89,10 +90,13 @@ fn main() {
     } else {
         // print the toc
         if opt.toc {
+            println!("## Contents\n\n");
+
             if toc.len() > 0 {
-              println!("## Contents\n\n{:?} ({} items)\n\n", toc, toc.len());
-            } else {
-              println!("## Contents\n\n");
+                for entry in toc.iter() {
+                    print!("[{}](#{}) - ", entry.letter, entry.term);
+                }
+                println!("\n\n");
             }
         }
 
