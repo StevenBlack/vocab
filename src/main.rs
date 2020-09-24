@@ -92,7 +92,7 @@ fn main() {
         if opt.toc && toc.len() > 0 {
             println!("## Contents\n\n");
             let mdtoc: Vec<String> = toc.iter()
-                                        .map(|x| format!("[**{}**](#{})", x.letter, x.term))
+                                        .map(|x| format!("[**{}**](#{})", x.letter, x.term.replace(" ", "-").to_lowercase()))
                                         .collect();
 
             println!("{}", mdtoc.join(" - ").to_string());
