@@ -89,15 +89,13 @@ fn main() {
         }
     } else {
         // print the toc
-        if opt.toc {
+        if opt.toc && toc.len() > 0 {
             println!("## Contents\n\n");
+            let mdtoc: Vec<String> = toc.iter()
+                                        .map(|x| format!("[**{}**](#{})", x.letter, x.term))
+                                        .collect();
 
-            if toc.len() > 0 {
-                for entry in toc.iter() {
-                    print!("[{}](#{}) - ", entry.letter, entry.term.replace(" ", "-").to_lowercase());
-                }
-                println!("\n\n");
-            }
+            println!("{}", mdtoc.join(" - ").to_string());
         }
 
         for word in dictionary.iter() {
