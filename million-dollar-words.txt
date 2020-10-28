@@ -5924,6 +5924,10 @@ vigorish
 This is a charge paid to a bookie for placing a bet; it can
 also refer to an interest fee paid to a moneylender.
 
+vinous
+of, relating to, resembling, containing, or characteristic of wine.
+Produced by, indicative of, or given to indulgence in wine.
+
 virago
 A fierce-tempered woman. "Hell hath no fury like a..."
 Well, virago. Pronounced VEH-RAH-GO.
@@ -6624,9 +6628,6 @@ https://www.merriam-webster.com/dictionary/tremulous
 
 trepidatious
 https://www.merriam-webster.com/dictionary/trepidatious
-
-vinous
-https://www.merriam-webster.com/dictionary/vinous
 
 viridescent
 https://www.merriam-webster.com/dictionary/viridescent
