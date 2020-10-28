@@ -1773,6 +1773,11 @@ Fear of, or aversion, to work. What Maynard G.
 Krebbs suffered in the Dobie Gillis show. If you're
 not too lazy to pronounce it, it's EHR-GAZ-EE-OH-FOH-BEE-A.
 
+ergodic
+Of or relating to a process in which every sequence or sizable
+sample is equally representative of the whole (as in regard to
+a statistical parameter).
+
 ersatz
 Artificial, a substitute for the real thing. Sweet 'n
 Low is ersatz sugar; margarine is ersatz butter. Formica
@@ -5705,7 +5710,7 @@ simple project can transmogrify into a convoluted
 disaster when your boss's boss decides to change the
 objectives.
 
-treppenwitz 
+treppenwitz
 From German. It means, thinking of the perfect retort after the moment is gone.
 
 triage
