@@ -6027,6 +6027,13 @@ An extremely civilized word for pimple, and a lot
 more euphonious (see euphonious) than "zit." Say
 WELK.
 
+whelp
+The young of a carnivore, for example a dog, bear, lion, seal, etc.
+Also a youth, especially an impudent or despised one.
+In machinery, whelps are any of a series of longitudinal projections
+or ridges on the barrel of a capstan, windlass, etc. or any of the
+teeth of a sprocket wheel.
+
 whiffle
 There are several meanings for this word, but the best is
 "to vacillate or go back and forth about something." Before
@@ -6634,6 +6641,3 @@ https://www.merriam-webster.com/dictionary/viridescent
 
 vituperate
 https://www.merriam-webster.com/dictionary/vituperate
-
-whelp
-https://www.merriam-webster.com/dictionary/whelp
