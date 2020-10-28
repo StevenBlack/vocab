@@ -1290,6 +1290,10 @@ Something that's equivocal has several meanings and is therefore capable of bein
 Fear of, or aversion, to work. What Maynard G. Krebbs suffered in the Dobie Gillis show. If you're not too lazy to pronounce it, it's EHR-GAZ-EE-OH-FOH-BEE-A.
 
 
+### ergodic
+Of or relating to a process in which every sequence or sizable sample is equally representative of the whole (as in regard to a statistical parameter).
+
+
 ### ersatz
 Artificial, a substitute for the real thing. Sweet 'n Low is ersatz sugar; margarine is ersatz butter. Formica can be ersatz marble, wood or any other number of finishes. Pronounced AIR-SATZ.
 
@@ -4234,6 +4238,10 @@ https://www.merriam-webster.com/dictionary/tremulous
 https://www.merriam-webster.com/dictionary/trepidatious
 
 
+### treppenwitz
+From German. It means, thinking of the perfect retort after the moment is gone.
+
+
 ### triage
 An arrangement derived from medical situations that separates things into three categories of urgency—kill it, save it, or leave it where it is for the time being. Battlefield casualties are triaged. You can also approach decisions in a busy office the same way. It's pronounced TREE-AJ.
 
@@ -4391,7 +4399,7 @@ This is a charge paid to a bookie for placing a bet; it can also refer to an int
 
 
 ### vinous
-https://www.merriam-webster.com/dictionary/vinous
+of, relating to, resembling, containing, or characteristic of wine. Produced by, indicative of, or given to indulgence in wine.
 
 
 ### virago
@@ -4407,7 +4415,7 @@ To impair or pollute or to make illegal or invalid. Toxic wastes can vitiate a b
 
 
 ### vituperate
-https://www.merriam-webster.com/dictionary/vituperate
+Vituperate means to blame or insult someone in strong or violent language. To use or address with harsh or abusive language; revile.
 
 
 ### vituperative
@@ -4471,7 +4479,7 @@ An extremely civilized word for pimple, and a lot more euphonious (see euphoniou
 
 
 ### whelp
-https://www.merriam-webster.com/dictionary/whelp
+The young of a carnivore, for example a dog, bear, lion, seal, etc. Also a youth, especially an impudent or despised one. In machinery, whelps are any of a series of longitudinal projections or ridges on the barrel of a capstan, windlass, etc. or any of the teeth of a sprocket wheel.
 
 
 ### whiffle

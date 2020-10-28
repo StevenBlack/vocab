@@ -320,6 +320,7 @@ eponymous
 equable
 equivocal
 ergasiophobia
+ergodic
 ersatz
 eruct
 eschatology
@@ -1056,6 +1057,7 @@ traduce
 transmogrify
 tremulous
 trepidatious
+treppenwitz
 triage
 trilemma
 trite
