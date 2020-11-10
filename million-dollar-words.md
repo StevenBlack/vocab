@@ -3070,6 +3070,10 @@ Extremely ardent or intense; fervent to the nth degree. Zealots are perfervid, w
 Treacherous; nefarious; wicked. There are lots of words for evil; perfidious carries a note of disloyalty or betrayal. Benedict Arnold was perfidious. To call him a perfidious traitor would be redundant.
 
 
+### perfidy
+The quality or state of being faithless or disloyal : treachery. An act or an instance of disloyalty. In the context of war, perfidy is a form of deception in which one side promises to act in good faith with the intention of breaking that promise once the unsuspecting enemy is exposed.
+
+
 ### perfunctory
 Routine; performed automatically, without thought or feeling. A job done perfunctorily reveals no particular passion and seems careless. A perfunctory greeting lacks enthusiasm. Say PER-FUNK-TOR-EE.
 
