@@ -634,6 +634,10 @@ An architectural support column in the form of a draped female figure—the kind
 Believing that your thoughts are being stolen by your competitors. Screenwriters often suffer from castrophenia when they see that the movie they were just about to write has appeared in neighborhood theaters. Not Castrophilia—that's love of Fidel Castro, in case you were interested.
 
 
+### casuistry
+Specious, deceptive, or oversubtle reasoning, especially in questions of  morality; fallacious or dishonest application of general principles;  sophistry. The application of general ethical principles to particular  cases of conscience or conduct.
+
+
 ### catafalque
 The raised platform that holds a coffin containing a corpse during funeral ceremonies. A funeral is no place to show off your vocabulary, though, so you'll have to be content to know that you could show off, if you were so inclined. Pronounced CAT-A-FALK.
 
