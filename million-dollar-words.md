@@ -635,7 +635,7 @@ Believing that your thoughts are being stolen by your competitors. Screenwriters
 
 
 ### casuistry
-Specious, deceptive, or oversubtle reasoning, especially in questions of  morality; fallacious or dishonest application of general principles;  sophistry. The application of general ethical principles to particular  cases of conscience or conduct.
+Casuistry is a process of reasoning that seeks to resolve moral problems  by extracting or extending theoretical rules from a particular case, and  reapplying those rules to new instances. This method occurs in applied  ethics and jurisprudence. The term is also commonly used as a pejorative  to criticize the use of clever but unsound reasoning, especially in  relation to moral questions (as in sophistry). The word casuistry derives  from the Latin noun casus ("case" or "occurrence").  Casuistry can also can  mean: Specious, deceptive, or oversubtle reasoning, especially in questions  of morality; fallacious or dishonest application of general principles;  sophistry. The application of general ethical principles to particular  cases of conscience or conduct.
 
 
 ### catafalque
