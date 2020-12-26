@@ -70,7 +70,13 @@ fn main() {
     if opt.toc {
         let mut letter = "".to_string();
         for entry in dictionary.iter() {
-            let l = entry.term.chars().next().unwrap().to_string().to_lowercase();
+            let l = entry
+                .term
+                .chars()
+                .next()
+                .unwrap()
+                .to_string()
+                .to_lowercase();
             if letter != l {
                 let newletter = l.to_string();
                 letter = newletter;
@@ -91,9 +97,16 @@ fn main() {
         // print the toc
         if opt.toc && toc.len() > 0 {
             println!("## Contents\n\n");
-            let mdtoc: Vec<String> = toc.iter()
-                                        .map(|x| format!("[**{}**](#{})", x.letter, x.term.replace(" ", "-").to_lowercase()))
-                                        .collect();
+            let mdtoc: Vec<String> = toc
+                .iter()
+                .map(|x| {
+                    format!(
+                        "[**{}**](#{})",
+                        x.letter,
+                        x.term.replace(" ", "-").to_lowercase()
+                    )
+                })
+                .collect();
 
             println!("{}", mdtoc.join(" - ").to_string());
         }
