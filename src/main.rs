@@ -116,3 +116,10 @@ fn main() {
         }
     }
 }
+
+#[cfg(test)]
+mod tests {
+    // use super::*;
+
+    // ... tests go here ...
+}
