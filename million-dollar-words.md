@@ -1114,6 +1114,10 @@ The opposite of a Utopia; a place where everything goes wrong. Say it DISS-TOH-P
 The Latin words that comprise the official U. S. motto. They are included in every official seal of the United States, and you may also see them on dollar bills. The phrase means, "one out of the many," as in one country out of many states.
 
 
+### earnestness
+Sincere and intense conviction. An intense and serious state of mind.
+
+
 ### ecce homo
 The words of Pilate when presenting Christ to his accusers, the phrase means "Behold the man—here he is." It has come to be used for any vaguely similar contemporary circumstances. A scruffy freshman comes home from college with a sack full of dirty laundry and announces sarcastically, "Ecce homo." Pronounced ECK-AY HOE-MOE.
 
