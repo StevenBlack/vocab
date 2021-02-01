@@ -107,6 +107,7 @@ biblioclast
 bibulous
 bifurcate
 biggin
+bilbulous
 bildungsroman
 billet-doux
 biotic
@@ -476,6 +477,7 @@ impunity
 in extremis
 in flagrante delicto
 inchoate
+incontinent
 incubus
 inculpate
 indefectible

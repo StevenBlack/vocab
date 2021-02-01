@@ -438,6 +438,10 @@ To split into two parts or branches; to fork. Though you can say that a road is 
 The perforated basket that contains the grounds in a coffeepot. The word can probably be stretched to mean the plastic holder where you put the paper filter in a Mr. Coffee.
 
 
+### bilbulous
+Fond of or addicted to drink. Absorbent. Spongy.
+
+
 ### bildungsroman
 Literally, a novel of education—a coming-of-age story. J.D. Salinger's novel Catcher in the Rye is a classic example.
 
@@ -635,7 +639,7 @@ Believing that your thoughts are being stolen by your competitors. Screenwriters
 
 
 ### casuistry
-Casuistry is a process of reasoning that seeks to resolve moral problems  by extracting or extending theoretical rules from a particular case, and  reapplying those rules to new instances. This method occurs in applied  ethics and jurisprudence. The term is also commonly used as a pejorative  to criticize the use of clever but unsound reasoning, especially in  relation to moral questions (as in sophistry). The word casuistry derives  from the Latin noun casus ("case" or "occurrence").  Casuistry can also can  mean: Specious, deceptive, or oversubtle reasoning, especially in questions  of morality; fallacious or dishonest application of general principles;  sophistry. The application of general ethical principles to particular  cases of conscience or conduct.
+Casuistry is a process of reasoning that seeks to resolve moral problems by extracting or extending theoretical rules from a particular case, and reapplying those rules to new instances. This method occurs in applied ethics and jurisprudence. The term is also commonly used as a pejorative to criticize the use of clever but unsound reasoning, especially in relation to moral questions (as in sophistry). The word casuistry derives from the Latin noun casus ("case" or "occurrence").  Casuistry can also can mean: Specious, deceptive, or oversubtle reasoning, especially in questions of morality; fallacious or dishonest application of general principles; sophistry. The application of general ethical principles to particular cases of conscience or conduct.
 
 
 ### catafalque
@@ -1871,7 +1875,7 @@ https://www.merriam-webster.com/dictionary/immure
 
 
 ### impecunious
-Poor. The word has a slightly antiquated flavor. Huckleberry Finn was impecunious; the people on welfare lines today are unemployed and poor. Pronounced JM-PECK-YOO-NEE-US.
+Poor. Penniless. The word has a slightly antiquated flavor. Huckleberry Finn was impecunious; the people on welfare lines today are unemployed and poor. Pronounced JM-PECK-YOO-NEE-US.
 
 
 ### imperative
@@ -1912,6 +1916,10 @@ An evocative Latin phrase for being caught in the middle of a sexual act. A wife
 
 ### inchoate
 Not yet formed; just begun. A novel is inchoate after the first chapter has been written; the earth was inchoate when nothing existed but primordial ooze. Pronounced IN-KOH-IT.
+
+
+### incontinent
+Unable to restrain natural discharges or evacuations of urine or feces. Unable to contain or retain. Lacking in moderation or self-control. Unceasing or unrestrained, as in an incontinent flow of talk.
 
 
 ### incubus
