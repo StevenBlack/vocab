@@ -2,7 +2,6 @@
 
 
 [**a**](#a-priori) - [**b**](#babbitt) - [**c**](#cabal) - [**d**](#dactyl) - [**e**](#e-pluribus-unum) - [**f**](#fabulist) - [**g**](#gaffe) - [**h**](#hajj) - [**i**](#iatrogenic) - [**j**](#jape) - [**k**](#kafkaesque) - [**l**](#labile) - [**m**](#macedoine) - [**n**](#nabob) - [**o**](#obdurate) - [**p**](#padnag) - [**q**](#quagmire) - [**r**](#raconteur) - [**s**](#sage) - [**t**](#taciturn) - [**u**](#ubiety) - [**v**](#vacuous) - [**w**](#wallah-wallah) - [**x**](#xanadu) - [**y**](#yahoo) - [**z**](#zaftig)
-
 ### a priori
 Proceeding from cause to effect; reasoning from a general law to a particular instance. This describes a deductive approach to a chain of reasoning. If the polar ice caps melted, your a priori conclusion would be the eventual flooding of coastal areas. A second meaning is "presumptive" or "conjectural"—based on theory or preconception rather than fact, as in an a priori conclusion. Pronounced AH PREE-OR-EE.
 
@@ -3936,7 +3935,7 @@ A deceptive or false argument or belief. When someone comes up with a series of 
 
 
 ### sophistry
-A subtle, tricky, superficially plausible, but generally fallacious method of reasoning. A false argument; sophism
+https://www.merriam-webster.com/dictionary/sophistry
 
 
 ### soporific
