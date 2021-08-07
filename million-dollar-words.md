@@ -246,10 +246,6 @@ To claim for oneself without justification, such as Germany arrogating the Sudet
 A clever trick or stratagem; a cunning, crafty device or expedient; wile. Trickery; guile; craftiness. Cunning; ingenuity; inventiveness. A skillful or artful contrivance or expedient.
 
 
-### As a noun, imperative means a command; something that demands attention or action; 
-an unavoidable obligation or requirement; necessity: "It is an imperative that we help defend friendly nations."
-
-
 ### ascetic
 Self-denying; austere. A hedonist loves pleasure; an ascetic shuns it. In Eastern culture, ascetics eschew (see eschew) anything not necessary to maintain life, thus taking them one step closer to nirvana. (See nirvana.) Pronounced UH-SETT-IK.
 
@@ -1887,7 +1883,7 @@ Poor. Penniless. The word has a slightly antiquated flavor. Huckleberry Finn was
 
 
 ### imperative
-As an adjective, imperative means absolutely necessary or required; cumpulsory; unavoidable: "It is imperative that we leave."  It also means commanding.
+As an adjective, imperative means absolutely necessary or required; cumpulsory; unavoidable: "It is imperative that we leave."  It also means commanding. As a noun, imperative means a command; something that demands attention or action;  an unavoidable obligation or requirement; necessity: "It is an imperative that we help defend friendly nations."
 
 
 ### impertinence
