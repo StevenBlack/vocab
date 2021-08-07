@@ -1169,7 +1169,7 @@ complaisant person.
 
 concupiscence
 A fancy way of saying sexual desire or lust, with
-undertones of fertility. Like pulchritude (see pulchri' tude),
+undertones of fertility. Like pulchritude (see pulchritude),
 the word won't help you get a date. But if you're going to
 use it, pronounce it correctly: CON- CYOOP-/H-SENSE.
 
@@ -6415,12 +6415,19 @@ hypothesis
 https://www.merriam-webster.com/dictionary/hypothesis
 
 idiopathy
-https://www.merriam-webster.com/dictionary/idiopathy
+A disease not preceded or occasioned by any known morbid condition.
 
 immure
-https://www.merriam-webster.com/dictionary/immure
+To enclose within walls; cloister; incarcerate; to shut in; seclude or confine; to imprison;
+to build into or entomb in a wall; to surround with walls; fortify.
 
 imperative
+As an adjective, imperative means absolutely necessary or required; cumpulsory; unavoidable:
+"It is imperative that we leave."  It also means commanding.
+
+As a noun, imperative means a command; something that demands attention or action; 
+an unavoidable obligation or requirement; necessity: "It is an imperative that we help defend friendly nations."
+
 https://www.merriam-webster.com/dictionary/imperative
 
 impertinence
