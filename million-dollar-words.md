@@ -1903,7 +1903,7 @@ A stamp of approval from an acknowledged expert. An endorsement in the form of a
 
 
 ### impudence
-https://www.merriam-webster.com/dictionary/impudence
+A contemptuous or cocky boldness, or disregard of others; impertinet; insolent.
 
 
 ### impunity
