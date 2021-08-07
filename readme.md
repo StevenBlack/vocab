@@ -246,6 +246,10 @@ To claim for oneself without justification, such as Germany arrogating the Sudet
 A clever trick or stratagem; a cunning, crafty device or expedient; wile. Trickery; guile; craftiness. Cunning; ingenuity; inventiveness. A skillful or artful contrivance or expedient.
 
 
+### As a noun, imperative means a command; something that demands attention or action; 
+an unavoidable obligation or requirement; necessity: "It is an imperative that we help defend friendly nations."
+
+
 ### ascetic
 Self-denying; austere. A hedonist loves pleasure; an ascetic shuns it. In Eastern culture, ascetics eschew (see eschew) anything not necessary to maintain life, thus taking them one step closer to nirvana. (See nirvana.) Pronounced UH-SETT-IK.
 
@@ -831,7 +835,7 @@ https://www.merriam-webster.com/dictionary/concocted
 
 
 ### concupiscence
-A fancy way of saying sexual desire or lust, with undertones of fertility. Like pulchritude (see pulchri' tude), the word won't help you get a date. But if you're going to use it, pronounce it correctly: CON- CYOOP-/H-SENSE.
+A fancy way of saying sexual desire or lust, with undertones of fertility. Like pulchritude (see pulchritude), the word won't help you get a date. But if you're going to use it, pronounce it correctly: CON- CYOOP-/H-SENSE.
 
 
 ### congenial
@@ -1790,6 +1794,10 @@ Urging someone to do something. The sergeant made a hortatory speech in an effor
 A rash, impetuous person who is volatile, hottempered, and easily spurred to violence. There's some generosity in the insult; it's kinder than calling someone a homicidal maniac.
 
 
+### https://www.merriam-webster.com/dictionary/imperative
+
+
+
 ### hubris
 Excessive pride; proud to a fault. Originally used to describe the flaw of mere mortals who challenged the gods. Icarus was guilty of hubris, as is Donald Trump Pronounced HYOU-BRISS.
 
@@ -1855,7 +1863,7 @@ This is not the writing of a stupid person, but rather the word for any private 
 
 
 ### idiopathy
-https://www.merriam-webster.com/dictionary/idiopathy
+A disease not preceded or occasioned by any known morbid condition.
 
 
 ### ignoble
@@ -1871,7 +1879,7 @@ About to happen. Thunderstorms and temper tantrums are often described as immine
 
 
 ### immure
-https://www.merriam-webster.com/dictionary/immure
+To enclose within walls; cloister; incarcerate; to shut in; seclude or confine; to imprison; to build into or entomb in a wall; to surround with walls; fortify.
 
 
 ### impecunious
@@ -1879,7 +1887,7 @@ Poor. Penniless. The word has a slightly antiquated flavor. Huckleberry Finn was
 
 
 ### imperative
-https://www.merriam-webster.com/dictionary/imperative
+As an adjective, imperative means absolutely necessary or required; cumpulsory; unavoidable: "It is imperative that we leave."  It also means commanding.
 
 
 ### impertinence
@@ -3423,7 +3431,7 @@ There is great debate about the pronunciation of this word, which means "childis
 
 
 ### pulchritude
-The opposite of what it sounds like. Someone of great pulchritude is absolutely beautiful. The only known use of this word is to confuse those who hear it. Pronounced PULK-RI-TOOD.
+The opposite of what it sounds like. Someone of great pulchritude is absolutely beautiful. The only known use of this word is to confuse those who hear it. Pronounced PULK-RI-TOOD.  A person of breathtaking, heartbreaking beauty is pulchritudinous.
 
 
 ### punctilious
