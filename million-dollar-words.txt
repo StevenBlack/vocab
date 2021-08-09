@@ -6435,7 +6435,11 @@ impudence
 A contemptuous or cocky boldness, or disregard of others; impertinet; insolent.
 
 intense
-https://www.merriam-webster.com/dictionary/intense
+Existing in an extreme degree. "The excitement was intense."  
+Having or showing a characteristic in extreme degree.
+Marked by or expressive of great zeal, energy, determination, or concentration.
+Exhibiting strong feeling or earnestness of purpose.
+Deeply felt.
 
 invidious
 https://www.merriam-webster.com/dictionary/invidious
@@ -6450,7 +6454,9 @@ languor
 https://www.merriam-webster.com/dictionary/languor
 
 larrikin
-https://www.merriam-webster.com/dictionary/larrikin
+An Australian English term meaning "a mischievous young person, 
+an uncultivated, rowdy but good hearted person", or "a person who 
+acts with apparent disregard for social or political conventions".
 
 lascivious
 https://www.merriam-webster.com/dictionary/lascivious
