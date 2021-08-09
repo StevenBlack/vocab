@@ -6639,7 +6639,10 @@ succor
 https://www.merriam-webster.com/dictionary/succor
 
 succubus
-https://www.merriam-webster.com/dictionary/succubus
+A female demon which comes to men, especially monks, in their dreams to 
+seduce them and have sexual intercourse, drawing energy from the men to 
+sustain themselves, often until the point of exhaustion or death. 
+A strumpet, whore or prostitute.  See incubus.
 
 superordinate
 https://www.merriam-webster.com/dictionary/superordinate
@@ -6648,31 +6651,41 @@ supposition
 https://www.merriam-webster.com/dictionary/supposition
 
 sybaritic
-https://www.merriam-webster.com/dictionary/sybaritic
+Of or having the qualities of a sybarite; self-indulgent or decadent. 
+Having the character of or dedicated to excessive luxury.
 
 syllabus
 https://www.merriam-webster.com/dictionary/syllabus
 
 syncope
-https://www.merriam-webster.com/dictionary/syncope
+In linguistics, phonology, prosody: The loss or elision of a sound, 
+from the interior of a word, especially of a vowel sound with loss of a syllable. 
+For example, the change of cannot to can't, never to ne'er, or the pronunciation 
+of the -cester ending in placenames as -ster (for example, Leicester pronounced 
+Leister or Lester, and Worcester pronounced Wooster).
+In pathology: a loss of consciousness when someone faints, a swoon. 
+In music: a missed beat or off-beat stress in music resulting in syncopation.
 
 syzygy
-https://www.merriam-webster.com/dictionary/syzygy
+In astronomy: an alignment of three celestial bodies (for example, the 
+Sun, Earth, and Moon) such that one body is directly between the 
+other two, such as occurs at an eclipse. 
+In medicine: the fusion of some or all of the organs.
 
 tartuffery
-https://www.merriam-webster.com/dictionary/tartuffery
+Religious hypocrisy.
 
 tautological
 https://www.merriam-webster.com/dictionary/tautological
 
 tautology
-https://www.merriam-webster.com/dictionary/tautology
+Redundant use of words, a pleonasm, an unnecessary and tedious repetition.
 
 taxonomy
 https://www.merriam-webster.com/dictionary/taxonomy
 
-tendencious
-https://www.merriam-webster.com/dictionary/tendencious
+tendentious
+Having a tendency; written or spoken with a partisan, biased or prejudiced purpose, especially a controversial one. 
 
 thalassic
 https://www.merriam-webster.com/dictionary/thalassic
