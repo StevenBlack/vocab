@@ -1883,7 +1883,7 @@ Poor. Penniless. The word has a slightly antiquated flavor. Huckleberry Finn was
 
 
 ### imperative
-As an adjective, imperative means absolutely necessary or required; cumpulsory; unavoidable: "It is imperative that we leave."  It also means commanding. As a noun, imperative means a command; something that demands attention or action;  an unavoidable obligation or requirement; necessity: "It is an imperative that we help defend friendly nations."
+As an adjective, imperative means absolutely necessary or required; cumpulsory; unavoidable: "It is imperative that we leave."  It also means commanding. As a noun, imperative means a command; something that demands attention or action; an unavoidable obligation or requirement; necessity: "It is an imperative that we help defend friendly nations."
 
 
 ### impertinence
@@ -4555,7 +4555,7 @@ Fear or hatred of foreigners, or of anything strange or foreign. It's pronounced
 
 
 ### xeric
-Characterized by having or needing a very small amount of moisture. Deserts are xeric, as are many desert plants. It's said ZIR-JK.
+Characterized by having or needing a very small amount of moisture. Deserts are xeric, as are many desert plants. It's said ZIR-IK.
 
 
 ### yahoo
@@ -4590,16 +4590,16 @@ Eager and diligently devoted; ardent. A zealous worker comes in at the crack of 
 Another great German word, in the spirit of Weltanshauung and Weltschmerz, that has broad philosophical implications. It means "spirit of the times," and refers to the general cultural, moral, and intellectual climate of a particular era. It's pronounced ZITE-GUYST.
 
 
+### zenith
+The word literally refers to the point on the celestial sphere that is directly above the observer at any given location, and is therefore the highest point. It is the opposite of the nadir (see nadir), which is directly below. It is used to refer to any highest point, as in the zenith of someone's career or life.
+
+
 ### zephyr
 A gentle breeze. It might blow through the trees and grasses, soughing and creating susurruses (see sough and susurrus).
 
 
 ### zinfandel
 A pink or white wine that people like and wine critics don't. Made from a small black grape, usually in California. Pronounced ZIN-FEHN-DELL.
-
-
-### zith
-The word literally refers to the point on the celestial sphere that is directly above the observer at any given location, and is therefore the highest point. It is the opposite of the nadir (see nadir), which is directly below. It is used to refer to any highest point, as in the zenith of someone's career or life.
 
 
 ### zoanthropy
