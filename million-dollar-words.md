@@ -303,7 +303,7 @@ A reference to the eponymous (see eponymous) title of Sinclair Lewis's best-know
 
 
 ### babelism
-https://www.merriam-webster.com/dictionary/babelism
+A chaotic situation where people cannot communicate because of different languages.
 
 
 ### babelize
@@ -387,7 +387,7 @@ To vulgarly dress or gaudily accessorize; too many bangles and beads. Pronounced
 
 
 ### beguile
-https://www.merriam-webster.com/dictionary/beguile
+To deceive or delude (using guile); to charm, delight or captivate; to cause (time) to seem to pass quickly, by way of pleasant diversion.
 
 
 ### bel-esprit
@@ -471,7 +471,7 @@ To try to convince with flattering words; to cajole. One may blandish a child to
 
 
 ### blithe
-https://www.merriam-webster.com/dictionary/blithe
+Casually careless or indifferent; showing a lack of concern. "She had a blithe disregard of cultures outside the United States."
 
 
 ### bloviate
@@ -519,7 +519,7 @@ https://www.merriam-webster.com/dictionary/brachycerous
 
 
 ### brocade
-https://www.merriam-webster.com/dictionary/brocade
+As a verb: to decorate fabric with raised woven patterns. As a noun: a thick heavy fabric into which raised patterns have been woven, originally in gold and silver; more recently any cloth incorporating raised, woven patterns.  Metaphorically: a decorative pattern.
 
 
 ### bromide
@@ -1979,7 +1979,7 @@ Indifference, but with a subtle twist of devil-maycare. An apathetic person may 
 
 
 ### intense
-Existing in an extreme degree. "The excitement was intense."   Having or showing a characteristic in extreme degree. Marked by or expressive of great zeal, energy, determination, or concentration. Exhibiting strong feeling or earnestness of purpose. Deeply felt.
+Existing in an extreme degree. "The excitement was intense." Having or showing a characteristic in extreme degree. Marked by or expressive of great zeal, energy, determination, or concentration. Exhibiting strong feeling or earnestness of purpose. Deeply felt.
 
 
 ### intents and purposes
@@ -2195,7 +2195,7 @@ All expectant parents know this one because they read the book that contains pho
 
 
 ### larrikin
-An Australian English term meaning "a mischievous young person,  an uncultivated, rowdy but good hearted person", or "a person who  acts with apparent disregard for social or political conventions".
+An Australian English term meaning "a mischievous young person, an uncultivated, rowdy but good hearted person", or "a person who acts with apparent disregard for social or political conventions".
 
 
 ### lascivious
@@ -4047,7 +4047,7 @@ https://www.merriam-webster.com/dictionary/succor
 
 
 ### succubus
-A female demon which comes to men, especially monks, in their dreams to  seduce them and have sexual intercourse, drawing energy from the men to  sustain themselves, often until the point of exhaustion or death.  A strumpet, whore or prostitute.  See incubus.
+A female demon which comes to men, especially monks, in their dreams to seduce them and have sexual intercourse, drawing energy from the men to sustain themselves, often until the point of exhaustion or death. A strumpet, whore or prostitute.  See incubus.
 
 
 ### sui generis
@@ -4091,7 +4091,7 @@ A person who lives luxuriously and self-indulgently. Very posh resorts love to a
 
 
 ### sybaritic
-Of or having the qualities of a sybarite; self-indulgent or decadent.  Having the character of or dedicated to excessive luxury.
+Of or having the qualities of a sybarite; self-indulgent or decadent. Having the character of or dedicated to excessive luxury.
 
 
 ### syllabus
@@ -4103,7 +4103,7 @@ A slender, graceful woman. Audrey Hepburn is the prototype. Say it SIHLF.
 
 
 ### syncope
-In linguistics, phonology, prosody: The loss or elision of a sound,  from the interior of a word, especially of a vowel sound with loss of a syllable.  For example, the change of cannot to can't, never to ne'er, or the pronunciation  of the -cester ending in placenames as -ster (for example, Leicester pronounced  Leister or Lester, and Worcester pronounced Wooster). In pathology: a loss of consciousness when someone faints, a swoon.  In music: a missed beat or off-beat stress in music resulting in syncopation.
+In linguistics, phonology, prosody: The loss or elision of a sound, from the interior of a word, especially of a vowel sound with loss of a syllable. For example, the change of cannot to can't, never to ne'er, or the pronunciation of the -cester ending in placenames as -ster (for example, Leicester pronounced Leister or Lester, and Worcester pronounced Wooster). In pathology: a loss of consciousness when someone faints, a swoon. In music: a missed beat or off-beat stress in music resulting in syncopation.
 
 
 ### synecdoche
@@ -4115,7 +4115,7 @@ Cooperative activity. Getting more than the sum of the parts. Synergy occurs in 
 
 
 ### syzygy
-In astronomy: an alignment of three celestial bodies (for example, the  Sun, Earth, and Moon) such that one body is directly between the  other two, such as occurs at an eclipse.  In medicine: the fusion of some or all of the organs.
+In astronomy: an alignment of three celestial bodies (for example, the Sun, Earth, and Moon) such that one body is directly between the other two, such as occurs at an eclipse. In medicine: the fusion of some or all of the organs.
 
 
 ### taciturn
@@ -4171,7 +4171,7 @@ Not to be confused with tenacious, which means persistent. Tendentious means hav
 
 
 ### tendentious
-Having a tendency; written or spoken with a partisan, biased or prejudiced purpose, especially a controversial one. 
+Having a tendency; written or spoken with a partisan, biased or prejudiced purpose, especially a controversial one.
 
 
 ### tenebrous
