@@ -4047,7 +4047,7 @@ https://www.merriam-webster.com/dictionary/succor
 
 
 ### succubus
-https://www.merriam-webster.com/dictionary/succubus
+A female demon which comes to men, especially monks, in their dreams to  seduce them and have sexual intercourse, drawing energy from the men to  sustain themselves, often until the point of exhaustion or death.  A strumpet, whore or prostitute.  See incubus.
 
 
 ### sui generis
@@ -4091,7 +4091,7 @@ A person who lives luxuriously and self-indulgently. Very posh resorts love to a
 
 
 ### sybaritic
-https://www.merriam-webster.com/dictionary/sybaritic
+Of or having the qualities of a sybarite; self-indulgent or decadent.  Having the character of or dedicated to excessive luxury.
 
 
 ### syllabus
@@ -4103,7 +4103,7 @@ A slender, graceful woman. Audrey Hepburn is the prototype. Say it SIHLF.
 
 
 ### syncope
-https://www.merriam-webster.com/dictionary/syncope
+In linguistics, phonology, prosody: The loss or elision of a sound,  from the interior of a word, especially of a vowel sound with loss of a syllable.  For example, the change of cannot to can't, never to ne'er, or the pronunciation  of the -cester ending in placenames as -ster (for example, Leicester pronounced  Leister or Lester, and Worcester pronounced Wooster). In pathology: a loss of consciousness when someone faints, a swoon.  In music: a missed beat or off-beat stress in music resulting in syncopation.
 
 
 ### synecdoche
@@ -4115,7 +4115,7 @@ Cooperative activity. Getting more than the sum of the parts. Synergy occurs in 
 
 
 ### syzygy
-https://www.merriam-webster.com/dictionary/syzygy
+In astronomy: an alignment of three celestial bodies (for example, the  Sun, Earth, and Moon) such that one body is directly between the  other two, such as occurs at an eclipse.  In medicine: the fusion of some or all of the organs.
 
 
 ### taciturn
@@ -4131,7 +4131,7 @@ A lucky charm. Typically a rabbit's foot or any other doo-dad you habitually bri
 
 
 ### tartuffery
-https://www.merriam-webster.com/dictionary/tartuffery
+Religious hypocrisy.
 
 
 ### tatterdemalion
@@ -4143,7 +4143,7 @@ https://www.merriam-webster.com/dictionary/tautological
 
 
 ### tautology
-https://www.merriam-webster.com/dictionary/tautology
+Redundant use of words, a pleonasm, an unnecessary and tedious repetition.
 
 
 ### taxonomy
@@ -4166,12 +4166,12 @@ Another word for earthquake. Most often used by reporters in California in repor
 Daring, but meaning reckless or bold, more than brave. Someone who saves a mugging victim has courage; a student who talks back to a teacher has temerity.
 
 
-### tendencious
-https://www.merriam-webster.com/dictionary/tendencious
+### tendentious
+Not to be confused with tenacious, which means persistent. Tendentious means having a particular tendency; leaning; lacking impartiality. Tendentious people make poor judges.
 
 
 ### tendentious
-Not to be confused with tenacious, which means persistent. Tendentious means having a particular tendency; leaning; lacking impartiality. Tendentious people make poor judges.
+Having a tendency; written or spoken with a partisan, biased or prejudiced purpose, especially a controversial one. 
 
 
 ### tenebrous
