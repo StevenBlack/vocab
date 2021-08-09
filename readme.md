@@ -1979,7 +1979,7 @@ Indifference, but with a subtle twist of devil-maycare. An apathetic person may 
 
 
 ### intense
-https://www.merriam-webster.com/dictionary/intense
+Existing in an extreme degree. "The excitement was intense."   Having or showing a characteristic in extreme degree. Marked by or expressive of great zeal, energy, determination, or concentration. Exhibiting strong feeling or earnestness of purpose. Deeply felt.
 
 
 ### intents and purposes
@@ -2195,7 +2195,7 @@ All expectant parents know this one because they read the book that contains pho
 
 
 ### larrikin
-https://www.merriam-webster.com/dictionary/larrikin
+An Australian English term meaning "a mischievous young person,  an uncultivated, rowdy but good hearted person", or "a person who  acts with apparent disregard for social or political conventions".
 
 
 ### lascivious
