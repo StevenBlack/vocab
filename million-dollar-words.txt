@@ -2727,9 +2727,10 @@ philosophers are inscrutable; shy people who don't
 talk much are often inscrutable.
 
 insouciance
-Indifference, but with a subtle twist of devil-maycare. An apathetic person may be simply indifferent
-to what's going on; a person who intentionally acts as
-if she doesn't care in order to look cool or invulnerable is showing insouciance. Pronounced IN-SOO-SEE-ENTS.
+Indifference, but with a subtle twist of devil-maycare. An apathetic
+person may be simply indifferent to what's going on; a person who
+intentionally acts as if she doesn't care in order to look cool or
+invulnerable is showing insouciance. Pronounced IN-SOO-SEE-ENTS.
 
 intents and purposes
 Usually used in the phrase "for all intents and
@@ -6687,7 +6688,14 @@ tautology
 Redundant use of words, a pleonasm, an unnecessary and tedious repetition.
 
 taxonomy
-https://www.merriam-webster.com/dictionary/taxonomy
+A taxonomy (or taxonomical classification) is a scheme of classification,
+especially a hierarchical classification, in which things are organized
+into groups or types. Among other things, a taxonomy can be used to
+organize and index knowledge (stored as documents, articles, videos, etc.),
+such as in the form of a library classification system, or a search engine
+taxonomy, so that users can more easily find the information they are
+searching for. Many taxonomies are hierarchies (and thus, have an
+intrinsic tree structure), but not all are.
 
 tendentious
 Having a tendency; written or spoken with a partisan, biased or prejudiced purpose, especially a controversial one.
