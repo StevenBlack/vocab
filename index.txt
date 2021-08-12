@@ -779,7 +779,7 @@ perquisite
 persevere
 persiflage
 perspicacious
-perspiCcuous
+perspicuous
 pertinacious
 pestle
 pettifogger

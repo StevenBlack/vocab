@@ -1519,7 +1519,7 @@ Irritable, whiny, quarrelsome and rebellious, a word that best applies to the be
 
 
 ### friable
-https://www.merriam-webster.com/dictionary/friable
+The condition of being friable, describes the tendency of a solid substance to break into smaller pieces under duress or contact, especially by rubbing. The opposite of friable is indurate.
 
 
 ### frisson
@@ -2735,7 +2735,7 @@ This word refers to the Buddhist belief in the release from the cycle of reincar
 
 
 ### niveous
-https://www.merriam-webster.com/dictionary/niveous
+Snowy; resembling snow.
 
 
 ### nodus
@@ -2859,7 +2859,7 @@ A word that sounds like what it defines (see flump). Consider "hiss" or "scratch
 
 
 ### ontology
-https://www.merriam-webster.com/dictionary/ontology
+PHILOSOPHY: The branch of metaphysics that addresses the nature or essential characteristics of being and of things that exist; the study of being qua being. In a subject view, or a world view, the set of conceptual or material things or classes of things that are recognised as existing, or are assumed to exist in context, and their interrelations; in a body of theory, the ontology comprises the domain of discourse, the things that are defined as existing, together with whatever emerges from their mutual implications. LOGIC: A logical system involving theory of classes. COMPUTER SCIENCE: A structure of concepts or entities within a domain, organized by relationships; a system model.
 
 
 ### oppugn
@@ -3123,11 +3123,11 @@ Light banter. (See also bavardage.) Pronounced PER-SIF'LAJ.
 
 
 ### perspicacious
-https://www.merriam-webster.com/dictionary/perspicacious
+Of acute discernment; having keen insight; mentally perceptive.
 
 
-### perspiCcuous
-https://www.merriam-webster.com/dictionary/perspiCcuous
+### perspicuous
+Clearly expressed, easy to understand; lucid.
 
 
 ### pertinacious
@@ -3367,7 +3367,7 @@ Often misused to mean "active." It means the opposite of reactive. Action that i
 
 
 ### probity
-https://www.merriam-webster.com/dictionary/probity
+Integrity, especially of the quality of having strong moral principles; decency and honesty. Synonyms: godliness, goodness, honour, righteousness, saintliness, uprightness, virtue. Antonym: wickedness
 
 
 ### profligacy
@@ -3543,7 +3543,7 @@ When you give a great deal of thought to a problem, you can say you figured it o
 
 
 ### rebarbative
-https://www.merriam-webster.com/dictionary/rebarbative
+Irritating, repellent.
 
 
 ### recalcitrant
@@ -3567,7 +3567,7 @@ This has nothing to do with play or outdoor sports; a recreant is a traitor or a
 
 
 ### recrudesce
-https://www.merriam-webster.com/dictionary/recrudesce
+To recur, or break out anew after a dormant period.
 
 
 ### rectitude
@@ -3675,7 +3675,7 @@ Promoting good health. Spa water, vitamins and oat bran (and a slew of other ite
 
 
 ### salutary
-https://www.merriam-webster.com/dictionary/salutary
+Effecting or designed to effect an improvement; remedial: salutary advice. Promoting good health and physical well-being; wholesome; curative.
 
 
 ### Samovar
