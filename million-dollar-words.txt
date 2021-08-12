@@ -6394,7 +6394,9 @@ fallal
 https://www.merriam-webster.com/dictionary/fallal
 
 friable
-https://www.merriam-webster.com/dictionary/friable
+The condition of being friable, describes the tendency of a solid
+substance to break into smaller pieces under duress or contact,
+especially by rubbing. The opposite of friable is indurate.
 
 fulgurant
 https://www.merriam-webster.com/dictionary/fulgurant
@@ -6510,7 +6512,7 @@ mycology
 https://www.merriam-webster.com/dictionary/mycology
 
 niveous
-https://www.merriam-webster.com/dictionary/niveous
+Snowy; resembling snow.
 
 oblivescence
 https://www.merriam-webster.com/dictionary/oblivescence
@@ -6522,7 +6524,16 @@ occiput
 https://www.merriam-webster.com/dictionary/occiput
 
 ontology
-https://www.merriam-webster.com/dictionary/ontology
+PHILOSOPHY: The branch of metaphysics that addresses the nature or
+essential characteristics of being and of things that exist; the study
+of being qua being. In a subject view, or a world view, the set of conceptual
+or material things or classes of things that are recognised as existing, or
+are assumed to exist in context, and their interrelations; in a body of theory,
+the ontology comprises the domain of discourse, the things that are defined as
+existing, together with whatever emerges from their mutual implications.
+LOGIC: A logical system involving theory of classes.
+COMPUTER SCIENCE: A structure of concepts or entities within a domain, organized
+by relationships; a system model.
 
 pasquinade
 https://www.merriam-webster.com/dictionary/pasquinade
@@ -6534,10 +6545,10 @@ periohrasis
 https://www.merriam-webster.com/dictionary/periohrasis
 
 perspicacious
-https://www.merriam-webster.com/dictionary/perspicacious
+Of acute discernment; having keen insight; mentally perceptive.
 
-perspiCcuous
-https://www.merriam-webster.com/dictionary/perspiCcuous
+perspicuous
+Clearly expressed, easy to understand; lucid.
 
 ohlebotomist
 https://www.merriam-webster.com/dictionary/ohlebotomist
@@ -6555,7 +6566,9 @@ oreternatural
 https://www.merriam-webster.com/dictionary/oreternatural
 
 probity
-https://www.merriam-webster.com/dictionary/probity
+Integrity, especially of the quality of having strong moral principles;
+decency and honesty. Synonyms: godliness, goodness, honour,
+righteousness, saintliness, uprightness, virtue. Antonym: wickedness
 
 profligacy
 https://www.merriam-webster.com/dictionary/profligacy
@@ -6573,10 +6586,10 @@ rapturous
 https://www.merriam-webster.com/dictionary/rapturous
 
 rebarbative
-https://www.merriam-webster.com/dictionary/rebarbative
+Irritating, repellent.
 
 recrudesce
-https://www.merriam-webster.com/dictionary/recrudesce
+To recur, or break out anew after a dormant period.
 
 remit
 https://www.merriam-webster.com/dictionary/remit
@@ -6588,7 +6601,8 @@ rubricate
 https://www.merriam-webster.com/dictionary/rubricate
 
 salutary
-https://www.merriam-webster.com/dictionary/salutary
+Effecting or designed to effect an improvement; remedial: salutary advice.
+Promoting good health and physical well-being; wholesome; curative.
 
 Samovar
 https://www.merriam-webster.com/dictionary/Samovar
@@ -6698,7 +6712,8 @@ searching for. Many taxonomies are hierarchies (and thus, have an
 intrinsic tree structure), but not all are.
 
 tendentious
-Having a tendency; written or spoken with a partisan, biased or prejudiced purpose, especially a controversial one.
+Having a tendency; written or spoken with a partisan, biased or
+prejudiced purpose, especially a controversial one.
 
 thalassic
 https://www.merriam-webster.com/dictionary/thalassic
