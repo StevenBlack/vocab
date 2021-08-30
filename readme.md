@@ -4270,6 +4270,10 @@ From German. It means, thinking of the perfect retort after the moment is gone.
 An arrangement derived from medical situations that separates things into three categories of urgency—kill it, save it, or leave it where it is for the time being. Battlefield casualties are triaged. You can also approach decisions in a busy office the same way. It's pronounced TREE-AJ.
 
 
+### trichomegaly
+A condition in which eyelashes are abnormally long.
+
+
 ### trilemma
 Like a dilemma but with one extra problem—a situation in which there are three mutually exclusive alternatives.
 
