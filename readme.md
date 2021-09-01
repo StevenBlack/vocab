@@ -4274,6 +4274,10 @@ An arrangement derived from medical situations that separates things into three 
 A condition in which eyelashes are abnormally long.
 
 
+### trichophobia
+The fear of hair.
+
+
 ### trilemma
 Like a dilemma but with one extra problem—a situation in which there are three mutually exclusive alternatives.
 
