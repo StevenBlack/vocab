@@ -926,15 +926,15 @@ sophistry. The application of general ethical principles to particular
 cases of conscience or conduct.
 
 casus belli
-A casus belli is an act or event that provokes or is used to justify war. A 
-casus belli involves direct offenses or threats against the nation declaring 
-the war, whereas a casus foederis involves offenses or threats against its 
-ally—usually one bound by a mutual defense pact. 
+A casus belli is an act or event that provokes or is used to justify war. A
+casus belli involves direct offenses or threats against the nation declaring
+the war, whereas a casus foederis involves offenses or threats against its
+ally—usually one bound by a mutual defense pact.
 
 
 casus foederis
-Casus foederis (or casus fœderis) is derived from the Latin for "case for the 
-alliance." In diplomatic terms, it describes a situation in which the terms of 
+Casus foederis (or casus fœderis) is derived from the Latin for "case for the
+alliance." In diplomatic terms, it describes a situation in which the terms of
 an alliance come into play, such as one nation being attacked by another.
 
 catafalque
@@ -1824,6 +1824,9 @@ eructed." Pronounced EE-RUCT.
 eschatology
 The branch of theology that is concerned with such final things as death and
 Last Judgment; Heaven and Hell; the ultimate destiny of humankind.
+
+eschaton
+The final event in the divine plan; the end of the world.
 
 eschew
 To avoid or shun something because you find it
