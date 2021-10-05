@@ -54,6 +54,9 @@ fn main() {
     let mut toc: Vec<TOCEntry> = Vec::new();
 
     for entry in entries {
+        if entry.len() == 0 {
+            continue;
+        }
         let word = &entry[0];
         let def = entry[1..].join(" ");
 
