@@ -3902,10 +3902,6 @@ This is the noun for "slovenly." People who dress in a slovenly way are careless
 Ingratiating; falsely flattering or fawning in order to get in someone's good graces. People without noticeable talent who need business are often smarmy, falling all over their clients. (See also obsequious.)
 
 
-### snart
-https://www.merriam-webster.com/dictionary/snart
-
-
 ### sniffish
 Picture a haughty person with her nose in the air, sniffing disdainfully and staring contemptuously and you've got it—a sniffish snob.
 
@@ -3951,7 +3947,7 @@ A deceptive or false argument or belief. When someone comes up with a series of 
 
 
 ### sophistry
-https://www.merriam-webster.com/dictionary/sophistry
+A subtle, tricky, superficially plausible, but generally fallacious method  of reasoning. A false argument; sophism.
 
 
 ### soporific
@@ -3959,7 +3955,7 @@ Something that produces sleep is a soporific. It can be used as a noun or an adj
 
 
 ### sororal
-https://www.merriam-webster.com/dictionary/sororal
+Of, relating to, or characteristic of a sister or sisters; sisterly.
 
 
 ### sotto voce
@@ -4011,7 +4007,7 @@ People often use this word to mean authoritarian, but that's not exactly what it
 
 
 ### stochastic
-https://www.merriam-webster.com/dictionary/stochastic
+Of or relating to a process involving a randomly determined sequence of  observations each of which is considered as a sample of one element from  a probability distribution.
 
 
 ### stodge
@@ -4055,7 +4051,7 @@ https://www.merriam-webster.com/dictionary/succinct
 
 
 ### succor
-https://www.merriam-webster.com/dictionary/succor
+Noun: help; relief; aid; assistance. A person or thing that gives help,  relief, aid, etc. Verb: to help or relieve.
 
 
 ### succubus
@@ -4107,7 +4103,7 @@ Of or having the qualities of a sybarite; self-indulgent or decadent. Having the
 
 
 ### syllabus
-https://www.merriam-webster.com/dictionary/syllabus
+An outline or other brief statement of the main points of a discourse, the  subjects of a course of lectures, or the contents of a curriculum.
 
 
 ### sylph
@@ -4151,7 +4147,7 @@ A person dressed in ragged clothing; possibly a decent alternative to "homeless 
 
 
 ### tautological
-https://www.merriam-webster.com/dictionary/tautological
+A needlessly repetitive without adding information or clarity. In logic,  something defined in terms of itself.
 
 
 ### tautology
@@ -4199,7 +4195,7 @@ An edible freshwater turtle. The name comes from the Algonquin Indians. Useful i
 
 
 ### thalassic
-https://www.merriam-webster.com/dictionary/thalassic
+Of or relating to seas and oceans or smaller bodies of water, as seas and  gulfs.
 
 
 ### theomania
@@ -4267,11 +4263,11 @@ To change in form or appearance, usually much for the worse. Dr. Jekyll transmog
 
 
 ### tremulous
-https://www.merriam-webster.com/dictionary/tremulous
+Characterized by trembling, as from fear, nervousness, or weakness.
 
 
 ### trepidatious
-https://www.merriam-webster.com/dictionary/trepidatious
+Trembling, quivering.
 
 
 ### treppenwitz
@@ -4451,7 +4447,7 @@ A fierce-tempered woman. "Hell hath no fury like a..." Well, virago. Pronounced 
 
 
 ### viridescent
-https://www.merriam-webster.com/dictionary/viridescent
+Slightly green; greenish.
 
 
 ### vitiate

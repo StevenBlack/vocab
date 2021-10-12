@@ -6654,17 +6654,17 @@ https://www.merriam-webster.com/dictionary/simper
 skeuomorph
 https://www.merriam-webster.com/dictionary/skeuomorph
 
-snart
-https://www.merriam-webster.com/dictionary/snart
-
 sophistry
-https://www.merriam-webster.com/dictionary/sophistry
+A subtle, tricky, superficially plausible, but generally fallacious method 
+of reasoning. A false argument; sophism.
 
 sororal
-https://www.merriam-webster.com/dictionary/sororal
+Of, relating to, or characteristic of a sister or sisters; sisterly.
 
 stochastic
-https://www.merriam-webster.com/dictionary/stochastic
+Of or relating to a process involving a randomly determined sequence of 
+observations each of which is considered as a sample of one element from 
+a probability distribution.
 
 stroppy
 https://www.merriam-webster.com/dictionary/stroppy
@@ -6676,7 +6676,9 @@ succinct
 https://www.merriam-webster.com/dictionary/succinct
 
 succor
-https://www.merriam-webster.com/dictionary/succor
+Noun: help; relief; aid; assistance. A person or thing that gives help, 
+relief, aid, etc.
+Verb: to help or relieve.
 
 succubus
 A female demon which comes to men, especially monks, in their dreams to
@@ -6695,7 +6697,8 @@ Of or having the qualities of a sybarite; self-indulgent or decadent.
 Having the character of or dedicated to excessive luxury.
 
 syllabus
-https://www.merriam-webster.com/dictionary/syllabus
+An outline or other brief statement of the main points of a discourse, the 
+subjects of a course of lectures, or the contents of a curriculum.
 
 syncope
 In linguistics, phonology, prosody: The loss or elision of a sound,
@@ -6716,7 +6719,8 @@ tartuffery
 Religious hypocrisy.
 
 tautological
-https://www.merriam-webster.com/dictionary/tautological
+A needlessly repetitive without adding information or clarity. In logic, 
+something defined in terms of itself.
 
 tautology
 Redundant use of words, a pleonasm, an unnecessary and tedious repetition.
@@ -6736,13 +6740,14 @@ Having a tendency; written or spoken with a partisan, biased or
 prejudiced purpose, especially a controversial one.
 
 thalassic
-https://www.merriam-webster.com/dictionary/thalassic
+Of or relating to seas and oceans or smaller bodies of water, as seas and 
+gulfs.
 
 tremulous
-https://www.merriam-webster.com/dictionary/tremulous
+Characterized by trembling, as from fear, nervousness, or weakness.
 
 trepidatious
-https://www.merriam-webster.com/dictionary/trepidatious
+Trembling, quivering.
 
 viridescent
-https://www.merriam-webster.com/dictionary/viridescent
+Slightly green; greenish.
