@@ -2262,6 +2262,10 @@ Definitely not a length of time. It's a distance, specifically the distance ligh
 Describes someone from the mythical island of Lilliput. Featured in Jonathan Swift's novel Gulliver's Travels, these people are about three inches tall. A fancy way to say "small." (See also yahoo.)
 
 
+### limbic system
+The limbic system is the part of the brain involved in our behavioural and emotional responses, especially when it comes to behaviours we need for survival: feeding, reproduction and caring for our young, and fight or flight responses.
+
+
 ### liminal
 https://www.merriam-webster.com/dictionary/liminal
 
@@ -3947,7 +3951,7 @@ A deceptive or false argument or belief. When someone comes up with a series of 
 
 
 ### sophistry
-A subtle, tricky, superficially plausible, but generally fallacious method  of reasoning. A false argument; sophism.
+A subtle, tricky, superficially plausible, but generally fallacious method of reasoning. A false argument; sophism.
 
 
 ### soporific
@@ -4007,7 +4011,7 @@ People often use this word to mean authoritarian, but that's not exactly what it
 
 
 ### stochastic
-Of or relating to a process involving a randomly determined sequence of  observations each of which is considered as a sample of one element from  a probability distribution.
+Of or relating to a process involving a randomly determined sequence of observations each of which is considered as a sample of one element from a probability distribution.
 
 
 ### stodge
@@ -4051,7 +4055,7 @@ https://www.merriam-webster.com/dictionary/succinct
 
 
 ### succor
-Noun: help; relief; aid; assistance. A person or thing that gives help,  relief, aid, etc. Verb: to help or relieve.
+Noun: help; relief; aid; assistance. A person or thing that gives help, relief, aid, etc. Verb: to help or relieve.
 
 
 ### succubus
@@ -4103,7 +4107,7 @@ Of or having the qualities of a sybarite; self-indulgent or decadent. Having the
 
 
 ### syllabus
-An outline or other brief statement of the main points of a discourse, the  subjects of a course of lectures, or the contents of a curriculum.
+An outline or other brief statement of the main points of a discourse, the subjects of a course of lectures, or the contents of a curriculum.
 
 
 ### sylph
@@ -4147,7 +4151,7 @@ A person dressed in ragged clothing; possibly a decent alternative to "homeless 
 
 
 ### tautological
-A needlessly repetitive without adding information or clarity. In logic,  something defined in terms of itself.
+A needlessly repetitive without adding information or clarity. In logic, something defined in terms of itself.
 
 
 ### tautology
@@ -4195,7 +4199,7 @@ An edible freshwater turtle. The name comes from the Algonquin Indians. Useful i
 
 
 ### thalassic
-Of or relating to seas and oceans or smaller bodies of water, as seas and  gulfs.
+Of or relating to seas and oceans or smaller bodies of water, as seas and gulfs.
 
 
 ### theomania

@@ -3239,6 +3239,13 @@ dancing is sexually suggestive. It's not necessarily
 bad, just blatant. It's pronounced LOOR-ID.
 How's this for self-fulfilling prophecy? The word
 
+limbic system
+The limbic system is the part of the brain involved in
+our behavioural and emotional responses, especially
+when it comes to behaviours we need for survival: feeding,
+reproduction and caring for our young, and fight or flight
+responses.
+
 lysophobia
 means a morbid dread of going insane. It's pronounced CRAY-ZEE. Sorry: LISS-O-FOE-BEE-A.
 
@@ -6655,15 +6662,15 @@ skeuomorph
 https://www.merriam-webster.com/dictionary/skeuomorph
 
 sophistry
-A subtle, tricky, superficially plausible, but generally fallacious method 
+A subtle, tricky, superficially plausible, but generally fallacious method
 of reasoning. A false argument; sophism.
 
 sororal
 Of, relating to, or characteristic of a sister or sisters; sisterly.
 
 stochastic
-Of or relating to a process involving a randomly determined sequence of 
-observations each of which is considered as a sample of one element from 
+Of or relating to a process involving a randomly determined sequence of
+observations each of which is considered as a sample of one element from
 a probability distribution.
 
 stroppy
@@ -6676,7 +6683,7 @@ succinct
 https://www.merriam-webster.com/dictionary/succinct
 
 succor
-Noun: help; relief; aid; assistance. A person or thing that gives help, 
+Noun: help; relief; aid; assistance. A person or thing that gives help,
 relief, aid, etc.
 Verb: to help or relieve.
 
@@ -6697,7 +6704,7 @@ Of or having the qualities of a sybarite; self-indulgent or decadent.
 Having the character of or dedicated to excessive luxury.
 
 syllabus
-An outline or other brief statement of the main points of a discourse, the 
+An outline or other brief statement of the main points of a discourse, the
 subjects of a course of lectures, or the contents of a curriculum.
 
 syncope
@@ -6719,7 +6726,7 @@ tartuffery
 Religious hypocrisy.
 
 tautological
-A needlessly repetitive without adding information or clarity. In logic, 
+A needlessly repetitive without adding information or clarity. In logic,
 something defined in terms of itself.
 
 tautology
@@ -6740,7 +6747,7 @@ Having a tendency; written or spoken with a partisan, biased or
 prejudiced purpose, especially a controversial one.
 
 thalassic
-Of or relating to seas and oceans or smaller bodies of water, as seas and 
+Of or relating to seas and oceans or smaller bodies of water, as seas and
 gulfs.
 
 tremulous
