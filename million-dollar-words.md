@@ -2546,6 +2546,10 @@ Literally a period of a thousand years, the word can also refer to a supposedly 
 Someone with a character like bread dipped in milk— bland, timid, meek and unassertive. The word refers to the comic-strip character Caspar Milquetoast, created by H. T. Webster. That's why it's spelled with a qu and not with a k. Say MILK-TOAST.
 
 
+### mimetic
+Relating to, characterized by, or exhibiting mimicry.
+
+
 ### minatory
 Threatening or menacing. When they bark, growl and bare their teeth, dogs are making minatory postures at mail carriers. Pronounced M/N-AT-ORV.
 
