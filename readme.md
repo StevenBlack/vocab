@@ -1538,6 +1538,10 @@ To bungle or goof up. Not recommended in referring to truly serious goof-ups, li
 An attack or raid. Though the word has a military connotation, it is often used metaphorically. One can make a foray into astrophysics by buying a basic text and trying to understand the principles.
 
 
+### forer effect
+Cognitive bias: also called Barnum Effect, is the phenomenon that occurs when individuals believe that personality descriptions apply specifically to them (more so than to other people), despite the fact that the description is actually filled with information that applies to everyone.
+
+
 ### forte
 Has two meanings, though only one appears in everyday conversation. In classical music, forte means "play this loudly!" It's pronounced FOUR-TAY since the word comes from the Italian. However, the usual meaning of forte is "strong point" as in, "Bad decisions are his forte" or "Cooking Cajun food is my forte." But if you want to sound smart, be sure to say the word correctly. It's pronounced fort with no vowel sound on the end.
 
@@ -1900,6 +1904,10 @@ A disease not preceded or occasioned by any known morbid condition.
 
 ### ignoble
 It basically means the opposite of "noble"—mean, contemptible and of generally low character. Taking credit for someone else's work is an ignoble act, as is lying, stealing, cheating and generally acting like a selfish, ungenerous jerk. Say it IG-NO-BULL.
+
+
+### IKEA effect
+cognitive bias: in which consumers place a disproportionately high value on products they partially created.
 
 
 ### imbroglio
@@ -2508,6 +2516,10 @@ A way of saying "brainwashing." Menticide means exactly the same thing, but has 
 
 ### mercurial
 Describes someone whose mood changes in a heartbeat. It's also used to describe someone who is always upbeat—the assumption being, perhaps, that they must be depressed in private. In both cases, mercurial people may be difficult, but they are always interesting. Pronounced MEHR-CURE-EE-ULL.
+
+
+### mere-exposure effect
+Cognitive bias: the mere-exposure effect is a psychological phenomenon by which people tend to develop a preference for things merely because they are familiar with them.
 
 
 ### meretricious

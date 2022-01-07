@@ -382,6 +382,7 @@ flubdub
 flump
 foozle
 foray
+forer effect
 forte
 fortuitous
 founder
@@ -473,6 +474,7 @@ idioglossia
 idiograph
 idiopathy
 ignoble
+IKEA effect
 imbroglio
 imminent
 immure
@@ -625,6 +627,7 @@ mendacity
 mensch
 menticide
 mercurial
+mere-exposure effect
 meretricious
 merman
 messianic

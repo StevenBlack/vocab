@@ -2102,6 +2102,13 @@ connotation, it is often used metaphorically. One can
 make a foray into astrophysics by buying a basic text
 and trying to understand the principles.
 
+forer effect
+Cognitive bias: also called Barnum Effect, is the phenomenon
+that occurs when individuals believe that personality descriptions
+apply specifically to them (more so than to other people), despite
+the fact that the description is actually filled with information
+that applies to everyone.
+
 forte
 Has two meanings, though only one appears in
 everyday conversation. In classical music, forte means
@@ -2526,9 +2533,9 @@ a hortatory speech in an effort to convince the
 boys to join the army. Pronounced HOR-TAH-TOR-EE.
 
 hot spur
-A rash, impetuous person who is volatile, hottempered, and easily spurred to violence.
-There's some generosity in the insult; it's kinder than
-calling someone a homicidal maniac.
+A rash, impetuous person who is volatile, hottempered, and
+easily spurred to violence. There's some generosity in the insult; it's
+kinder than calling someone a homicidal maniac.
 
 hubris
 Excessive pride; proud to a fault. Originally used to
@@ -2585,10 +2592,10 @@ with hubris (see hubris), this word belongs in your
 everyday vocabulary. Pronounced EYE-CON-OH-CLAST.
 
 iconography
-Pictorial or symbolic representation of something.
-Cave writings depict ancient cultures by telling
-stories through pictures; in the same way, urban
-graffiti often provides the iconography for contemporary urban street culture. Pronounced EYE-KON-AH-GRAFF-EE.
+Pictorial or symbolic representation of something. Cave writings depict
+ancient cultures by telling stories through pictures; in the same way,
+urban graffiti often provides the iconography for contemporary urban
+street culture. Pronounced EYE-KON-AH-GRAFF-EE.
 
 idem
 The Latin word for "ditto." (Not those blue-printed
@@ -2598,15 +2605,16 @@ prefer to use idem rather than ditto, abbreviated to id.
 in scholarly works. It's pronounced EYE-DEM or EE-DEM.
 
 idiogamist
-A man who is capable of engaging in sexual intercourse only with his wife. Pronounce it ID-EE-AH-GAM-IST.
+A man who is capable of engaging in sexual intercourse only with his wife.
+Pronounce it ID-EE-AH-GAM-IST.
 
 idioglossia
 This is the word for the invented, unintelligible form
 of speech shared by twins, siblings or any children
 who are closely associated. You could probably
 extend the definition to describe intense technical
-discussions between computer whizzes, or the shorthand used by waiters at a short-order lunch counter.
-It's pronounced ID-EE-A-GLOSS-EE-A.
+discussions between computer whizzes, or the shorthand used
+by waiters at a short-order lunch counter. It's pronounced ID-EE-A-GLOSS-EE-A.
 
 idiograph
 This is not the writing of a stupid person, but rather
@@ -2621,6 +2629,10 @@ credit for someone else's work is an ignoble act, as is
 lying, stealing, cheating and generally acting like a
 selfish, ungenerous jerk. Say it IG-NO-BULL.
 
+IKEA effect
+cognitive bias: in which consumers place a disproportionately high value on products
+they partially created.
+
 imbroglio
 A state of confusion; an entangled mess. Often used
 to describe a mob of players duking it out at home
@@ -2629,8 +2641,8 @@ Hill. The correct pronunciation is IM-BROHL-YOH
 (don't pronounce the g).
 
 imminent
-About to happen. Thunderstorms and temper tantrums are often described as imminent. Imminently is
-a powerful way to say "soon."
+About to happen. Thunderstorms and temper tantrums are often described as imminent.
+Imminently is a powerful way to say "soon."
 
 impecunious
 Poor. Penniless. The word has a slightly antiquated flavor.
@@ -2638,8 +2650,8 @@ Huckleberry Finn was impecunious; the people on
 welfare lines today are unemployed and poor. Pronounced JM-PECK-YOO-NEE-US.
 
 implacable
-Not to be pleased, convinced or reconciled. Implacable carries with it more class than stubborn. Say it
-M'PLACK'AH-BULL .
+Not to be pleased, convinced or reconciled. Implacable carries with it more class
+than stubborn. Say it M'PLACK'AH-BULL .
 
 importune
 To beg or plead with great intensity and persistence.
@@ -3447,10 +3459,14 @@ exactly the same thing, but has an even more evil
 ring to it—as if you're literally killing a mind.
 
 mercurial
-Describes someone whose mood changes in a heartbeat. It's also used to describe someone who is always
-upbeat—the assumption being, perhaps, that they
-must be depressed in private. In both cases, mercurial
-people may be difficult, but they are always interesting. Pronounced MEHR-CURE-EE-ULL.
+Describes someone whose mood changes in a heartbeat. It's also used to describe
+someone who is always upbeat—the assumption being, perhaps, that they must be
+depressed in private. In both cases, mercurial people may be difficult, but they are
+always interesting. Pronounced MEHR-CURE-EE-ULL.
+
+mere-exposure effect
+Cognitive bias: the mere-exposure effect is a psychological phenomenon by which people
+tend to develop a preference for things merely because they are familiar with them.
 
 meretricious
 Acting flashy in an effort to look like something
