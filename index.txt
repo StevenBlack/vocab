@@ -180,6 +180,7 @@ chasm
 chasmophile
 cheap-jack
 cheechako
+cheerleader effect
 cherubic
 chiasmus
 chimera
@@ -210,6 +211,7 @@ complaisant
 concise
 concocted
 concupiscence
+confabulation
 congenial
 conjecture
 consanguinity
@@ -223,6 +225,7 @@ crepuscular
 crinoline
 cromulent
 crucible
+cue-dependent forgetting
 curmudgeon
 curriculum
 cygnet
@@ -265,6 +268,7 @@ diphthong
 discreet
 discursiveness
 disingenuous
+disposition effect
 dissemble
 dissimulate
 dithyramb
@@ -679,6 +683,7 @@ nascent
 ne plus ultra
 necromancy
 nefarious
+negativity bias
 neophobia
 neophyte
 nepenthe
@@ -943,6 +948,7 @@ scotch
 scunner
 scurrilous
 sedulous
+self-consistency bias
 semantics
 seminal
 semiotic
@@ -953,6 +959,7 @@ sententious
 sentient
 sequacious
 serendipity
+serial position effect
 serry
 sesquipedalian
 sessile
@@ -1155,6 +1162,7 @@ zealous
 Zeitgeist
 zenith
 zephyr
+zero-risk bias
 zinfandel
 zoanthropy
 zoetrope

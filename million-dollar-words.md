@@ -730,6 +730,10 @@ A peddler who sells cheap goods, like the people who sell underwear or tin earri
 A greenhorn; not an insult, merely a different way of calling someone "inexperienced" or "new to the scene." The word has an excellent mouth feel, and will add sparkle and spice to your vocabulary. Say CHIH-CHAH-JCOH.
 
 
+### cheerleader effect
+Cognitive bias: Also known as the group attractiveness effect; the cognitive bias which causes people to think individuals are more attractive when they are in a group.
+
+
 ### cherubic
 https://www.merriam-webster.com/dictionary/cherubic
 
@@ -850,6 +854,10 @@ https://www.merriam-webster.com/dictionary/concocted
 A fancy way of saying sexual desire or lust, with undertones of fertility. Like pulchritude (see pulchritude), the word won't help you get a date. But if you're going to use it, pronounce it correctly: CON- CYOOP-/H-SENSE.
 
 
+### confabulation
+Cognitive bias: Confabulation is a memory error defined as the production of fabricated, distorted, or misinterpreted memories about oneself or the world, without the conscious intention to deceive.
+
+
 ### congenial
 https://www.merriam-webster.com/dictionary/congenial
 
@@ -900,6 +908,10 @@ Acceptable or adequate a bit wryly.
 
 ### crucible
 https://www.merriam-webster.com/dictionary/crucible
+
+
+### cue-dependent forgetting
+Cognitive bias: Cue-dependent forgetting, or retrieval failure, is the failure to recall information without memory cues.
 
 
 ### curmudgeon
@@ -1068,6 +1080,10 @@ https://www.merriam-webster.com/dictionary/discursiveness
 
 ### disingenuous
 Pretending to be innocent or naive, which has the effect of being insincere. Smiling when you've been caught with your hand in the cookie jar. Has nothing to do with ingenious, by the way. It's pronounced D/s- EN-JEN'YOU'US.
+
+
+### disposition effect
+Cognitive bias: refers to the irrational tendency among traders in financial markets to hold on to their losing investments while cutting down the profitable ones.
 
 
 ### dissemble
@@ -2726,6 +2742,10 @@ A scientific-sounding word for sorcery or witchcraft. Use it when you want somet
 Very evil or wicked; frequently used to describe cartoon villains. Think of the guy who was always tying Pauline to the railroad tracks. It's also used quite seriously, however: Hitler's henchmen committed nefarious acts. Pronounced NEH-FARE-EE-USS.
 
 
+### negativity bias
+Cognitive bias: The negativity bias refers to the often asymmetrical way we perceive the negative and the positive. Negative experiences tend to exert greater psychological impact on us than positive experiences of the same magnitude.
+
+
 ### neophobia
 The fear of anything new, especially a persistent and abnormal fear. In its milder form, it can manifest as the unwillingness to try new things or break from routine. In the context of children the term is generally used to indicate a tendency to reject unknown or novel foods.
 
@@ -3782,6 +3802,10 @@ Incredibly abusive, obscenely nasty. Villains are guilty of scurrilous deeds. Th
 Someone who is sedulous is diligent and persevering and never gives up the ship, such as the Terminator, or, on the brighter side, the pioneers who settled the West. It's pronounced SEJ-EH-LESS.
 
 
+### self-consistency bias
+Cognitive bias: The psychological tendency to see oneself as consistent which affects our actions.
+
+
 ### semantics
 The aspect of linguistics that is concerned with the meaning and usage of words. Being precise in what you say and how you say it is the greatest benefit of semantics. When someone's response to your argument is that you're just playing with semantics, they've decided to stop fighting about the facts, and to start accusing you of using double talk (which you would never do, of course).
 
@@ -3820,6 +3844,10 @@ Following smoothly or logically; happening in a sequence. A sequacious argument 
 
 ### serendipity
 Serendipity is something wonderful that happens suddenly and unexpectedly, such as bumping into a dear friend 1,000 miles from home just after you've lost your traveler's checks.
+
+
+### serial position effect
+Cognitive bias: Serial-position effect is the tendency of a person to recall the first and last items in a series best, and the middle items worst.
 
 
 ### serry
@@ -4628,6 +4656,10 @@ The word literally refers to the point on the celestial sphere that is directly 
 
 ### zephyr
 A gentle breeze. It might blow through the trees and grasses, soughing and creating susurruses (see sough and susurrus).
+
+
+### zero-risk bias
+Cognitive bias: Zero-risk bias is a tendency to prefer the complete elimination of a risk even when alternative options produce a greater reduction in risk (overall).
 
 
 ### zinfandel

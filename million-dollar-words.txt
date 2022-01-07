@@ -1057,6 +1057,11 @@ calling someone "inexperienced" or "new to the scene." The
 word has an excellent mouth feel, and will add sparkle and
 spice to your vocabulary. Say CHIH-CHAH-JCOH.
 
+cheerleader effect
+Cognitive bias: Also known as the group attractiveness effect;
+the cognitive bias which causes people to think individuals are
+more attractive when they are in a group.
+
 chimera
 A mythological monster with the head of a lion, the body
 of a goat and the tail of a serpent. The word has come to
@@ -1185,14 +1190,19 @@ form—like Monarch Notes of the classics.
 
 complaisant
 Obliging and eager to please. Even though they're
-pronounced the same, don't confuse with complacent, which means self-satisfied and smug. A complacent person would probably expect to be served by a
-complaisant person.
+pronounced the same, don't confuse with complacent, which means self-satisfied
+and smug. A complacent person would probably expect to be served by a complaisant person.
 
 concupiscence
 A fancy way of saying sexual desire or lust, with
 undertones of fertility. Like pulchritude (see pulchritude),
 the word won't help you get a date. But if you're going to
 use it, pronounce it correctly: CON- CYOOP-/H-SENSE.
+
+confabulation
+Cognitive bias: Confabulation is a memory error defined as the production of fabricated,
+distorted, or misinterpreted memories about oneself or the world, without the conscious
+intention to deceive.
 
 consanguinity
 A formal way of expressing blood ties or kinship. It does
@@ -1241,6 +1251,10 @@ crepuscular. Pronounced CREH-PUSSK-U-LAR.
 
 cromulent
 Acceptable or adequate a bit wryly.
+
+cue-dependent forgetting
+Cognitive bias: Cue-dependent forgetting, or retrieval failure, is the failure to recall
+information without memory cues.
 
 curmudgeon
 A mean-spirited, ungenerous, irritable nasty-face who
@@ -3766,6 +3780,12 @@ tying Pauline to the railroad tracks. It's also used
 quite seriously, however: Hitler's henchmen committed
 nefarious acts. Pronounced NEH-FARE-EE-USS.
 
+negativity bias
+Cognitive bias: The negativity bias refers to the often asymmetrical
+way we perceive the negative and the positive. Negative experiences
+tend to exert greater psychological impact on us than positive experiences
+of the same magnitude.
+
 neophobia
 The fear of anything new, especially a persistent and abnormal fear.
 In its milder form, it can manifest as the unwillingness to try new
@@ -5205,6 +5225,10 @@ and never gives up the ship, such as the Terminator, or,
 on the brighter side, the pioneers who settled the West.
 It's pronounced SEJ-EH-LESS.
 
+self-consistency bias
+Cognitive bias: The psychological tendency to see oneself as consistent
+which affects our actions.
+
 semantics
 The aspect of linguistics that is concerned with the
 meaning and usage of words. Being precise in what you
@@ -5223,7 +5247,8 @@ political thought; Einstein's work is seminal to modern
 physics. It's pronounced SEMM-IN-AL.
 
 semiotics
-The study of signs and symbols. Like linguistics, an oftmisunderstood yet fascinating field of study.
+The study of signs and symbols. Like linguistics, an oftmisunderstood
+yet fascinating field of study.
 
 senescent
 Aging, or becoming old. Generally used to describe
@@ -5245,6 +5270,10 @@ Serendipity is something wonderful that happens
 suddenly and unexpectedly, such as bumping into a
 dear friend 1,000 miles from home just after you've
 lost your traveler's checks.
+
+serial position effect
+Cognitive bias: Serial-position effect is the tendency of a person to recall
+the first and last items in a series best, and the middle items worst.
 
 serry
 To crowd together closely. Sardines are packed, but
@@ -6257,6 +6286,11 @@ zephyr
 A gentle breeze. It might blow through the trees and
 grasses, soughing and creating susurruses (see sough
 and susurrus).
+
+zero-risk bias
+Cognitive bias: Zero-risk bias is a tendency to prefer the complete
+elimination of a risk even when alternative options produce a greater
+reduction in risk (overall).
 
 zinfandel
 A pink or white wine that people like and wine
