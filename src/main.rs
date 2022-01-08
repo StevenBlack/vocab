@@ -7,7 +7,7 @@ use std::{
     path::Path,
 };
 use structopt::StructOpt;
-
+use textwrap::{fill, Options};
 #[derive(Debug, StructOpt)]
 #[structopt(name = "example", about = "An example of StructOpt usage.")]
 struct Opt {
@@ -34,7 +34,7 @@ struct Entry {
 
 impl Display for Entry {
     fn fmt(&self, fmt: &mut std::fmt::Formatter) -> std::result::Result<(), std::fmt::Error> {
-        writeln!(fmt, "### {}\n{}\n", self.term, self.definition)
+        writeln!(fmt, "### {}\n{}\n", self.term, textwrap::fill(&self.definition, 60))
     }
 }
 
