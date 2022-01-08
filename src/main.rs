@@ -7,7 +7,7 @@ use std::{
     path::Path,
 };
 use structopt::StructOpt;
-use textwrap::{fill, Options};
+use textwrap;
 #[derive(Debug, StructOpt)]
 #[structopt(name = "example", about = "An example of StructOpt usage.")]
 struct Opt {
@@ -17,6 +17,9 @@ struct Opt {
 
     #[structopt(short, long)]
     toc: bool,
+
+    #[structopt(short, long)]
+    wrap: Option<usize>,
 }
 
 fn lines_from_file(filename: impl AsRef<Path>) -> Vec<String> {
@@ -30,11 +33,16 @@ fn lines_from_file(filename: impl AsRef<Path>) -> Vec<String> {
 struct Entry {
     pub term: String,
     pub definition: String,
+    pub wrap: Option<usize>,
 }
 
 impl Display for Entry {
     fn fmt(&self, fmt: &mut std::fmt::Formatter) -> std::result::Result<(), std::fmt::Error> {
-        writeln!(fmt, "### {}\n{}\n", self.term, textwrap::fill(&self.definition, 60))
+        if self.wrap.is_some() {
+            writeln!(fmt, "### {}\n{}\n", self.term, &textwrap::fill(&self.definition, self.wrap.unwrap()))
+        } else {
+            writeln!(fmt, "### {}\n{}\n", self.term, &self.definition)
+        }
     }
 }
 
@@ -63,6 +71,7 @@ fn main() {
         let term = Entry {
             term: word.to_string(),
             definition: def,
+            wrap: opt.wrap,
         };
         dictionary.push(term);
     }
