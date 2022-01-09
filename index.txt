@@ -988,6 +988,7 @@ sitomanic
 skeuomorph
 skulduggery
 sloven
+slubber
 smarmy
 sniffish
 snood
@@ -1005,12 +1006,15 @@ soporific
 sororal
 sotto voce
 sough
-soupson
+soupçon
+spado Another word for a castrated man or animal (see also eunuch). Literally.
 sparge
 specious
 spelunk
 spiniferous
 spoonerism
+spoor
+spurious
 squib
 stalactite
 stalwart
@@ -1024,7 +1028,6 @@ subjacent
 subrogate
 subsume
 subterfuge
-subtuscous
 succinct
 succor
 succubus

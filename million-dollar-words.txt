@@ -5710,16 +5710,16 @@ of William S. Burroughs or Laurence Sterne.
 
 schwa
 The upside-down e you always see in a dictionary. It denotes the sound similar
-to eh, as in about, edible, circus. Pronounced SHWAH.
+to eh, as in about, edible, circus.
 
 
 scintilla
 A spark or minute particle. It's usually accompanied by a modifier, as in, "not
-even a scintilla" or "not one scintilla." Pronounced SIN-TILL-AH.
+even a scintilla" or "not one scintilla."
 
 
 scion
-A child, in particular an heir. It's pronounced SIGH-ON.
+A child, in particular an heir.
 
 
 scotch
@@ -5761,21 +5761,20 @@ accusing you of using double talk (which you would never do, of course).
 seminal
 Despite the i, the word derives from "semen," and means the source of a style,
 an idea or a philosophy. The Federalist Papers are a seminal work of American
-political thought; Einstein's work is seminal to modern physics. It's pronounced
-SEMM-IN-AL.
+political thought; Einstein's work is seminal to modern physics.
 
 
 semiotic
-https://www.merriam-webster.com/dictionary/semiotic
+Relating to signs and symbols, and related behaviour.
 
 
 semiotics
-The study of signs and symbols. Like linguistics, an oftmisunderstood yet
+The study of signs and symbols. Like linguistics, an often misunderstood yet
 fascinating field of study.
 
 
 senectitude
-https://www.merriam-webster.com/dictionary/senectitude
+The final stage of the normal life span.
 
 
 senescent
@@ -5790,7 +5789,8 @@ SEN-TEN-SHUSS.
 
 
 sentient
-https://www.merriam-webster.com/dictionary/sentient
+Responsive to or conscious of sense impressions; responsive to or conscious of
+sense impressions.
 
 
 sequacious
@@ -5821,7 +5821,8 @@ like SESS-KWIH'PEH'DALE-YAN .
 
 
 sessile
-https://www.merriam-webster.com/dictionary/sessile
+Attached directly by the base : not raised upon a stalk or peduncle; permanently
+attached or established : not free to move about
 
 
 sexagenarian
@@ -5844,7 +5845,8 @@ refraining from shopping on Sundays are both examples of shibboleths.
 
 
 shoah
-https://www.merriam-webster.com/dictionary/shoah
+The mass murder of Jewish people under the German Nazi regime during the period
+1941–45; the Ηolocaust.
 
 
 sibilant
@@ -5863,7 +5865,7 @@ misteak (sic). Sounds like sick.
 
 sidereal
 Relating to or determined by the stars. Astrologers profit from selling phony
-sidereal advice. Pronounced SYE'DEER'EE-AL.
+sidereal advice.
 
 
 simian
@@ -5876,26 +5878,24 @@ service puts simpatico people in contact. Say SJMM-PAT-EE-COH.
 
 
 simper
-https://www.merriam-webster.com/dictionary/simper
+As a verb, to smile in a silly, affected, or ingratiating manner. As a noun:
+a silly, affected, or ingratiating smile.
 
 
 simulacrum
 Deceptive likeness to or seeming similarity. Wax museums specialize in them.
-Pronounced SIM-YOOL-AY-CRUM.
 
 
 sine qua non
 A Latin phrase for an indispensable requirement or essential need. Being a good
 host is the sine qua non for being the ambassador of good will for a country.
-It's pronounced SEE-NAY KWA NON.
 
 
 sinecure
 An office or post that provides honor or prestige and possibly even profit
 but which requires almost no work. Certain ambassadors' posts are considered
 sinecures, for example, because the job involves a lot of formal parties and
-official gatherings but very little political responsibility. It's pronounced
-SIN-A-CU RE.
+official gatherings but very little political responsibility.
 
 
 sinistrodextral
@@ -5922,7 +5922,9 @@ of sitomania.
 
 
 skeuomorph
-https://www.merriam-webster.com/dictionary/skeuomorph
+an object or feature which imitates the design of a similar artifact made from
+another material. In computing, an element of a graphical user interface which
+mimics a physical object.
 
 
 skulduggery
@@ -5937,8 +5939,10 @@ This is the noun for "slovenly." People who dress in a slovenly way are
 carelessly sloppy; sloven, therefore, is another word for slob. You can also use
 it as a name for someone who does a job poorly or haphazardly. The guy who came
 in to wash your windows and left great big streaks on the glass is a sloven.
-Pronounced SLAH-VENN. slubber To do hastily and carelessly. A sloven (see above)
-slubbers his work.
+
+
+slubber
+To do hastily and carelessly. A sloven (see above) slubbers his work.
 
 
 smarmy
@@ -6034,7 +6038,7 @@ sotto voce
 These Latin words mean "in a whisper"—in a very low voice so as not to be
 overheard. Often seen in screenplays and stage directions. Use it as an
 adjective. " 'Blanche is a cow,' Hortense said sotto voce to her friend
-Hermione." Pronounced SOH-TOE VOE-CHAY.
+Hermione."
 
 
 sough
@@ -6042,13 +6046,16 @@ To make a sighing or rustling sound. Trees sough in a gentle wind. On a breezy
 day, the reeds along the edge of a pond sough. Pronounced sow, not SUFF.
 
 
-soupson
+soupçon
 The French word for a hint, a dash, a trace. It can be used in a recipe, such
-as a soup9on of brandy in the chowder, but it's commonly used figuratively as
+as a soupçon of brandy in the chowder, but it's commonly used figuratively as
 well. "The comedy was a delightful mix of terrific acting, slapstick humor and a
-soup^on of social parody." It's pronounced sooP-SON, like when Mom or Pop calls
-the kid in for dinner. spado Another word for a castrated man or animal (see
-also eunuch). Literally. Rhymes with Play-Dough.
+soupçon of social parody." It's pronounced sooP-SON, like when Mom or Pop calls
+the kid in for dinner.
+
+
+spado Another word for a castrated man or animal (see also eunuch). Literally.
+Rhymes with Play-Dough.
 
 
 sparge
@@ -6059,15 +6066,13 @@ than "scatter" or "sprinkle."
 
 specious
 Something that seems correct on the surface but turns out to be false or wrong.
-A specious argument sounds great but doesn't prove its point. It's pronounced
-SPEE-SHUSS.
+A specious argument sounds great but doesn't prove its point.
 
 
 spelunk
 To explore caves. We wonder if spelunkers get their equipment in the same store
 as keglers do (see kegler). Note that if you need to know the difference between
-a stalactite (see stalactite) and a stalagmite, you should ask a spelunker. Say
-SPEH-LUNK.
+a stalactite (see stalactite) and a stalagmite, you should ask a spelunker.
 
 
 spiniferous
@@ -6080,10 +6085,17 @@ spoonerism
 A spoonerism is the exchange of the first letter of two or more syllables or
 words with comic or clever results. This word comes from an English clergyman
 named W. A. Spooner who often made such slips of the tongue: "flutterby" for
-"butterfly," for example. spoor One of those words you hear often but are never
-quite sure what it means—a track or trail of bones, dung, or fur made by a
-person or an animal being hunted. spurious Not genuine; counterfeit. You could
-be talking about money or sympathy. If it's fake, it's spurious.
+"butterfly," for example.
+
+
+spoor
+One of those words you hear often but are never quite sure what it means—a track
+or trail of bones, dung, or fur made by a person or an animal being hunted.
+
+
+spurious
+Not genuine; counterfeit. You could be talking about money or sympathy. If it's
+fake, it's spurious.
 
 
 squib
@@ -6131,7 +6143,7 @@ Pronounced STAHL-JD.
 
 
 stroppy
-https://www.merriam-webster.com/dictionary/stroppy
+Bad-tempered and argumentative.
 
 
 subaltern
@@ -6166,12 +6178,8 @@ they pretend to be sick, arrange to meet with a teacher or intentionally break a
 toe. It's pronounced SUB-TER'FYOO] .
 
 
-subtuscous
-https://www.merriam-webster.com/dictionary/subtuscous
-
-
 succinct
-https://www.merriam-webster.com/dictionary/succinct
+Compact precise expression, without wasted words.
 
 
 succor
@@ -6189,7 +6197,7 @@ prostitute.  See incubus.
 sui generis
 A Latin phrase for "unique" or "one of a kind." You may claim an incredibly ugly
 antique vase that a pretentious relative gave you is a sui generis work of art.
-Opposite of generic. The correct pronunciation is SOO-EYE JEN'ER'IS.
+Opposite of generic.
 
 
 sultry
@@ -6199,12 +6207,12 @@ voluptuous, like Rita Hayworth or Kathleen Turner.
 
 summa cum laude
 Latin for "with highest praise," the highest honor granted to exceptional
-graduates. (See also magna cum laude.) Pronounced SOO-MA KUM LOUD-A.
+graduates. (See also magna cum laude.)
 
 
 supercilious
 Haughty, contemptuous or superior. (See also bump' tious.) From the Latin word
-for "eyebrows." Pronounced SOO-PER-SJLL-EE-US.
+for "eyebrows."
 
 
 supernal
@@ -6213,28 +6221,27 @@ powers; people with oversized egos think they do, too. Say SOO-PER-NULL.
 
 
 superordinate
-https://www.merriam-webster.com/dictionary/superordinate
+Superior in rank, class, or status.
 
 
 supposition
-https://www.merriam-webster.com/dictionary/supposition
+An uncertain belief.
 
 
 surfeit
-It's pronounced SIR-F/T, and it means an excess. The wealthy have a surfeit
-of assets.
+Excess. The wealthy have a surfeit of assets.
 
 
 susurrus
 This word often crops up in highly descriptive prose. It means a gentle
 whispering or rustling, such as the sound of tall grass blowing in the wind or
 dry leaves dancing along pavement on an autumn day. It's pronounced a bit like
-the sound it describes: soo-SIR- oos. (See also sough.)
+the sound it describes. See also sough.
 
 
 sybarite
 A person who lives luxuriously and self-indulgently. Very posh resorts love to
-advertise as "a haven for sybarites." Say SIB-ER-JTE.
+advertise as "a haven for sybarites."
 
 
 sybaritic
@@ -6248,7 +6255,7 @@ subjects of a course of lectures, or the contents of a curriculum.
 
 
 sylph
-A slender, graceful woman. Audrey Hepburn is the prototype. Say it SIHLF.
+A slender, graceful woman. Audrey Hepburn is the prototype.
 
 
 syncope
@@ -6265,14 +6272,13 @@ synecdoche
 A figure of speech in which a part is substituted for the whole, such as "Get
 your butt in here." (Obviously the speaker wants more than just your posterior.)
 Or the whole may be used to describe a part, as in "Big Business is responsible
-for polluting this lake." It's pronounced SIH-NEK-DUH-KEE.
+for polluting this lake."
 
 
 synergy
 Cooperative activity. Getting more than the sum of the parts. Synergy occurs in
 an office, for example, when coworkers give each other energy and inspire each
-other to be more creative and productive than they would be alone. Say SIN-
-ER-JEE.
+other to be more creative and productive than they would be alone.
 
 
 syzygy
