@@ -70,13 +70,6 @@ struct TOCEntry {
 type Dictionary = Vec<Entry>;
 type TOC = Vec<TOCEntry>;
 
-// pub trait DictionaryActions<'a> {
-//     type Dictionary;
-//     fn sort(&mut self, t1: Entry, t2: Entry) -> Self {
-//         self.sort_by(|t1, t2| t1.term.to_lowercase().cmp(&t2.term.to_lowercase()))
-//     }
-// }
-
 // ---
 fn main() {
     let opt = Opt::from_args();
