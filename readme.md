@@ -17,14 +17,13 @@ golfers and brain surgeons don't suffer from the abdabs. Pronounce it AB-DABS.
 
 
 ### abide
-(used without object): To remain; continue; stay: Abide with me. To have one's
-abode; dwell; reside: To abide in a small Scottish village. To continue in a
-particular condition, attitude, relationship, etc.; last. (used with object):
-to put up with; tolerate; stand: I can't abide dishonesty! To endure, sustain,
-or withstand without yielding or submitting: To abide a vigorous onslaught. To
-wait for; await: To abide the coming of the Lord. To accept without opposition
-or question: To abide the verdict of the judges. To pay the price or penalty of;
-suffer for.
+(used without object): To remain; continue; stay: Abide with me. To have
+one's abode; dwell; reside: To continue in a particular condition, attitude,
+relationship, etc.; last. (used with object): to put up with; tolerate; stand:
+I can't abide dishonesty! To endure, sustain, or withstand without yielding
+or submitting: To abide a vigorous onslaught. To wait for; await: To abide
+the coming of the Lord. To accept without opposition or question: To abide the
+verdict of the judges. To pay the price or penalty of; suffer for.
 
 
 ### abject
@@ -1117,11 +1116,11 @@ for example. Say KAZ-M.
 
 
 ### chasmophile
-A lover of nooks and crannies. Someone who likes sifting through the shelves
-of used-book stores, rummaging through flea markets and browsing in antique
-stores is probably a chasmophile. So are chipmunks, mice and an assortment of
-other field animals who nest in the rafters of old attics. It's pronounced KAZ-
-MOH-FJLE.
+A lover of nooks and crannies. Someone who likes sifting through the shelves of
+used-book stores, rummaging through flea markets and browsing in antique stores
+is probably a chasmophile. So are chipmunks, mice and an assortment of other
+field animals who nest in the rafters of old attics. It's pronounced KAZ- MOH-
+FJLE.
 
 
 ### cheap-jack
@@ -1321,6 +1320,12 @@ without the conscious intention to deceive.
 https://www.merriam-webster.com/dictionary/congenial
 
 
+### congruence bias
+Cognitive bias: similar to confirmation bias. Congruence bias occurs due
+to people's overreliance on directly testing a given hypothesis as well as
+neglecting indirect testing.
+
+
 ### conjecture
 https://www.merriam-webster.com/dictionary/conjecture
 
@@ -1328,20 +1333,20 @@ https://www.merriam-webster.com/dictionary/conjecture
 ### consanguinity
 A formal way of expressing blood ties or kinship. It does not denote specific
 relationships (such as "sister" or "cousin"), but rather a family connection. A
-family tree traces consanguinity. It's pronounced CON-SANG-G WIN-JT-EE.
+family tree traces consanguinity.
 
 
 ### contretemps
 A regrettable situation that leads to embarrassment, such as begging off a date
 by claiming sickness and then bumping into the canceled date at a restaurant
 on the same night, or making two appointments for the same time and having both
-show up at once. Pronounced KON-TRA-TON.
+show up at once.
 
 
 ### contumacious
 Stubbornly rebellious against authority—not just irreverent, but downright
 disobedient. A child who refuses to stop talking during class after being asked
-twice is contumacious. Say KAHN-TOOM-AY-SHUSS.
+twice is contumacious.
 
 
 ### corpus
@@ -2194,9 +2199,9 @@ https://www.merriam-webster.com/dictionary/fallal
 
 
 ### farinaceous
-Made from flour or meal and containing a lot of starch, such as bread, pasta
-or cereal. Vegetarians frequently eat farinaceous meals. Pronounced FARRAH-
-NAY-SHUS.
+Made from flour or meal and containing a lot of starch, such as bread, pasta or
+cereal. Vegetarians frequently eat farinaceous meals. Pronounced FARRAH- NAY-
+SHUS.
 
 
 ### farrago
@@ -3535,8 +3540,8 @@ earrings is the livery of the punk scene, for example. Say LIHV-ER-EE.
 
 
 ### livid
-The word literally means the color of flesh after being strangled—bluish-gray
-—but most of the time it's used to describe furious anger, as in choking with
+The word literally means the color of flesh after being strangled—bluish-gray —
+but most of the time it's used to describe furious anger, as in choking with
 anger. If you arrive a half-hour late for a meeting with someone who hates to
 be kept waiting, you're likely to find that the person you are meeting is either
 livid or not there. Say LIH-VID.
@@ -4459,6 +4464,11 @@ To turn to bone. This word can be used both literally and figuratively. It means
 to become brittle and bone-hard (like a slice of bread after it's been lying
 in the sun for a few days) or to become mentally brittle or rigid in attitude
 and outlook.
+
+
+### ostrich effect
+Cognitive bias: a colloquial term for the mistaken belief that your problem will
+go away if you just ignore them.
 
 
 ### otiose
@@ -5398,8 +5408,8 @@ doo-dads sold in airport souvenir shops.
 
 
 ### raillery
-Not the stuff trains run on. Pronounced RAY-LER-EE, it's another word for good-
-natured banter and light teasing. (See also bavardage.) This belongs with
+Not the stuff trains run on. Pronounced RAY-LER-EE, it's another word for
+good- natured banter and light teasing. (See also bavardage.) This belongs with
 papilote (see papilote) in the "Obscure Restaurant" list.
 
 
@@ -6821,7 +6831,7 @@ only without the humor. It's pronounced VELT-SHMERTZ.
 
 ### whelk
 An extremely civilized word for pimple, and a lot more euphonious (see
-euphonious) than "zit." Say WELK.
+euphonious) than "zit."
 
 
 ### whelp
@@ -6851,8 +6861,7 @@ overcrowded shelves and give them away.
 
 
 ### winsome
-You lose some. (Just kidding.) This word means charming or attractive in a
-disarming way. It's pronounced WIN-SUM, and it's used to refer to both sexes.
+Charming or attractive in a disarming way. Used to refer to both sexes.
 
 
 ### witch ball

@@ -213,6 +213,7 @@ concocted
 concupiscence
 confabulation
 congenial
+congruence bias
 conjecture
 consanguinity
 contretemps
@@ -734,6 +735,7 @@ orthography
 oscitant
 osculate
 ossify
+ostrich effect
 otiose
 oubliette
 ounctilious
