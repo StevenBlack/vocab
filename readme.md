@@ -12,7 +12,7 @@ theory or preconception rather than fact, as in an a priori conclusion.
 
 ### abdabs
 So nervous, you jitter and quake. One hopes that diamond cutters, professional
-golfers and brain surgeons don't suffer from the abdabs. Pronounce it AB-DABS.
+golfers and brain surgeons don't suffer from the abdabs.
 
 
 ### abide
@@ -40,7 +40,7 @@ have a lot of time on their hands. Say AB- LOO-SHUN.
 ### abnegate
 To deny oneself something (usually something a little more serious than giving
 up chocolate cake). You can abnegate the religion you were born into, for
-example. Pronounce it AB-NEGG-ATE.
+example.
 
 
 ### abrogate
@@ -1149,7 +1149,7 @@ A mythological monster with the head of a lion, the body of a goat and the tail
 of a serpent. The word has come to connote any horrible fear or morbid terror.
 The day before an exam, a student is liable to imagine any number of chimeras
 such as not knowing the answer to a single question, or receiving the lowest
-failing grade on record. Pronounce it KIM-EER-AH.
+failing grade on record.
 
 
 ### choplogic
@@ -1447,7 +1447,7 @@ From the French "too much," the word means overdone or excessive in a figurative
 sense. Wearing too much jewelry while working in a homeless shelter would be
 de trop. Unfortunately, using the word de trop is probably de trop in most
 situations and should be accompanied by an appropriate expression of mock
-snobbery. Pronounce it DEH TROH.
+snobbery.
 
 
 ### dearth
@@ -1685,7 +1685,7 @@ https://www.merriam-webster.com/dictionary/doctrine
 
 ### dotard
 An old, feeble-minded person is a dotard. Almost certainly no longer politically
-correct, the word should be used with great care. Pronounce it DOE-TARD.
+correct, the word should be used with great care.
 
 
 ### doughty
@@ -2414,7 +2414,7 @@ a centrally located gatefold.
 ### gelid
 A word for icy or frozen. It is rarely used figuratively. A haughty woman might
 have an icy stare, but gelid should be reserved for lakes in the winter or
-desserts offered by street vendors in the summer. Pronounce it JELL-ID.
+desserts offered by street vendors in the summer.
 
 
 ### genre
@@ -2931,7 +2931,7 @@ word. Say IM-POOR-TUNE.
 A stamp of approval from an acknowledged expert. An endorsement in the form of
 a logo, signature or brand name. Jack Nicklaus lends his imprimatur to a line of
 golf clubs. He didn't design them, he doesn't make them and he doesn't play with
-them; he just endorses them with his name. Pronounce it IM-PREH-MAH-TER.
+them; he just endorses them with his name.
 
 
 ### impudence
@@ -3509,7 +3509,7 @@ https://www.merriam-webster.com/dictionary/lissome
 ### litotes
 Someone who speaks in litotes uses understatements in which two negatives make
 a positive. "She's not a bad actress" is a litotes; so is "You're not looking
-half- bad." Pronounce it L/E-TOH-TEEZ.
+half- bad."
 
 
 ### liverish
@@ -5186,7 +5186,7 @@ elections based on polling results.
 ### prolicide
 The killing of one's own or other children. The kind of act you'd like to commit
 when the four-year-old that's sitting right in front of you on a trans-Atlantic
-flight begins to scream. Pronounce it PRO-LISS-IDE.
+flight begins to scream.
 
 
 ### prolix
@@ -5423,7 +5423,7 @@ https://www.merriam-webster.com/dictionary/rapturous
 
 ### rara avis
 A Latin phrase for an unusual person or thing—a rare bird. A very scholarly way
-of saying one-in-a-million. Pronounce it RAIR-UH AY-viss.
+of saying one-in-a-million.
 
 
 ### rasher
