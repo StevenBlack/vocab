@@ -6,9 +6,8 @@
 Proceeding from cause to effect; reasoning from a general law to a particular
 instance. This describes a deductive approach to a chain of reasoning. If the
 polar ice caps melted, your a priori conclusion would be the eventual flooding
-of coastal areas. A second meaning is "presumptive" or "conjectural"—based
-on theory or preconception rather than fact, as in an a priori conclusion.
-Pronounced AH PREE-OR-EE.
+of coastal areas. A second meaning is "presumptive" or "conjectural"—based on
+theory or preconception rather than fact, as in an a priori conclusion.
 
 
 ### abdabs
@@ -63,7 +62,7 @@ Say AB-SO-LOO-SHUN.
 ### abstemious
 Originally defined as taking food and drink in moderation, now expanded to mean
 temperance in all things. Those who drink deeply from the cup of life are hardly
-abstemious. Pronounced AB-STEEM-EE-US.
+abstemious.
 
 
 ### abstruse
@@ -75,13 +74,13 @@ thing to understanding Hegel would be to describe him as abstruse and move on.
 ### acerbic
 Harsh; severe; biting. Commonly used to mean sarcastic, the actual meaning is
 stronger. A truly acerbic wit can draw blood. Don Rickles isn't acerbic. He's
-too nice. It's pronounced ASS-ER-BIK.
+too nice.
 
 
 ### acolyte
 An attendant, assistant or novice. Not a slave, but a follower. Disciples follow
 a leader—acolytes empty her ashtray. A brilliant professor or an innovative
-employer will often attract acolytes. Pronounced AK-O-LITE.
+employer will often attract acolytes.
 
 
 ### acrimony
@@ -91,10 +90,9 @@ between partners, and vice versa.
 
 
 ### acuminate
-Sharpened or tapered to a point—can be used as an adjective or verb. A candle
-or a sword is acuminate. The next time you need to sharpen your pencil during
-the SATs, raise your hand and explain that your #2 needs to be acuminated.
-Pronounced AH-KYOU'MIN-ATE.
+Sharpened or tapered to a point—can be used as an adjective or verb. A candle or
+a sword is acuminate. The next time you need to sharpen your pencil during the
+SATs, raise your hand and explain that your #2 needs to be acuminated.
 
 
 ### adduce
@@ -113,14 +111,14 @@ Added accidentally, casually or from an outside source. Buying a house in
 winter and discovering that in spring, the property is filled with tulips and
 lilies is adventitious. On the other hand, being the one millionth customer
 at a dealership and winning a brand new Corvette is serendipitous. (See
-serendipitous.) It's pronounced AD-VEN-TISH-US.
+serendipitous.)
 
 
 ### aesthete
 A lover of beauty. Sort of an athlete of the arts. If you belong to PBS, have a
 membership at the local art museum and drive a 1964 Lotus, you are both wealthy
 and an aesthete. Though it can be spelled esthete, the snootier spelling is
-aesthete. Pronounced ESS-THEET.
+aesthete.
 
 
 ### affectation
@@ -139,7 +137,7 @@ Having inspiration, inspired.
 
 ### agelast
 A person who never laughs. Words like "dour" or "stern" are more temporary—
-reserve agelast for longterm sourpusses. Pronounced AH-GEHL-AST.
+reserve agelast for longterm sourpusses.
 
 
 ### agent provocateur
@@ -152,7 +150,6 @@ riots, thus giving an excuse for martial law. Say AGENT PROH-VAHK-OH-TYVR.
 ### agio
 The fee charged by money brokers for exchanging one foreign currency for
 another. Not to be confused with the Spanish word for "garlic," which is
-pronounced the same way. Pronounced AH-JEE-O.
 
 
 ### aglet
@@ -179,7 +176,7 @@ AH.
 ### ailurophilic
 Lover of cats; the opposite of ailurophobia. Admittedly, "cat lover" is a lot
 easier to say, but you can use ailurophilic when you don't want your dog to know
-how you feel. Pronounced EYE-LOOR-A-FILL-JCK.
+how you feel.
 
 
 ### ailuropholic
@@ -259,7 +256,7 @@ is by no means limited to Asian writing.
 ### ancillary
 This word is often used to mean secondary, but it actually means supplementary,
 as in "the ancillary benefits to this job are its good location and the friendly
-staff." The word is pronounced AN-SILL- AR-EE.
+staff." The word is
 
 
 ### anomaly
@@ -270,7 +267,7 @@ UH-LEE.
 
 ### anomie
 The breakdown of norms, ethics and values in a person or in society. Graft,
-corruption and rioting are all signs of anomie. Pronounced AN-EH-MEE.
+corruption and rioting are all signs of anomie.
 
 
 ### antediluvian
@@ -417,7 +414,7 @@ mama and dada. Without assonance, you've got no other way to describe it!
 ### assuage
 To relieve or ease. Through good works, charity and good behavior, you can
 assuage your guilt about fudging your income tax report. But that probably won't
-save you from an audit. (See also absolution.) Pronounced ASS-WAGE.
+save you from an audit. (See also absolution.)
 
 
 ### astir
@@ -439,9 +436,8 @@ your body, hence the term "breast augmentation surgery."
 
 
 ### augur
-To prophesy the future. When Boris Yeltsin took over the USSR, it did not
-augur well for the KGB. (Is this word ever used without "well" attached to it?)
-Pronounced AWG-ER.
+To prophesy the future. When Boris Yeltsin took over the USSR, it did not augur
+well for the KGB. (Is this word ever used without "well" attached to it?)
 
 
 ### autodidact
@@ -1228,7 +1224,7 @@ of the clerisy, it helps to know what the word means.
 
 ### clinomania
 The overwhelming desire to stay in bed. For some reason, mild cases seem to
-occur most often on rainy Sunday mornings. Say CLINN-OH-MAY-NEE-AH.
+occur most often on rainy Sunday mornings.
 
 
 ### clinquant
@@ -2051,7 +2047,6 @@ The final event in the divine plan; the end of the world.
 To avoid or shun something because you find it loathsome or unbearable. One can
 eschew on physical grounds, as in eschewing a wool coat in July, or in terms of
 taste, as in eschewing displays of physical affection in front of dinner guests.
-It's pronounced ESS'CHEW (like a sneeze).
 
 
 ### esprit d'escalier
@@ -2805,9 +2800,8 @@ https://www.merriam-webster.com/dictionary/hypernym
 
 ### hypocorism
 A word for baby talk like "kitchee, kitchee, koo," or for pet names like
-"Snookeeookums," "Sweetie pie" or "My little dumpling." Newlyweds and parents
-of newborn babies are fond of speaking in hypocorisms —before they know better.
-It's pronounced HL- POCK-ER'ISM.
+"Snookeeookums," "Sweetie pie" or "My little dumpling." Newlyweds and parents of
+newborn babies are fond of speaking in hypocorisms —before they know better.
 
 
 ### hyponym
@@ -2850,7 +2844,6 @@ EYE-KON-AH-GRAFF-EE.
 The Latin word for "ditto." (Not those blue-printed papers you used to sniff
 in elementary school.) Ditto means "repeat that last item again." Some people
 prefer to use idem rather than ditto, abbreviated to id. in scholarly works.
-It's pronounced EYE-DEM or EE-DEM.
 
 
 ### idiogamist
@@ -2905,9 +2898,8 @@ to imprison; to build into or entomb in a wall; to surround with walls; fortify.
 
 
 ### impecunious
-Poor. Penniless. The word has a slightly antiquated flavor. Huckleberry Finn
-was impecunious; the people on welfare lines today are unemployed and poor.
-Pronounced JM-PECK-YOO-NEE-US.
+Poor. Penniless. The word has a slightly antiquated flavor. Huckleberry Finn was
+impecunious; the people on welfare lines today are unemployed and poor.
 
 
 ### imperative
@@ -2919,7 +2911,8 @@ help defend friendly nations."
 
 
 ### impertinence
-https://www.merriam-webster.com/dictionary/impertinence
+The quality or state of being impertinent: such as incivility, insolence,
+inappropriateness
 
 
 ### implacable
@@ -2993,8 +2986,7 @@ by constant repetition. Pronounced JN-CULL-PAYT.
 
 ### indefectible
 Perfect; without flaw or defect. It can be used to describe a person's
-character, as well as a perfect diamond or a work of art. Pronounced IN-DEE-
-FECT-L-BLE.
+character, as well as a perfect diamond or a work of art.
 
 
 ### indemnity
@@ -3020,14 +3012,13 @@ one really knows the difference.
 
 ### ingenue
 A naive young woman or, just as common, an actress who plays the role of a naive
-young woman. Marilyn Monroe made the type famous. It's pronounced EN-JEN-OO.
+young woman. Marilyn Monroe made the type famous.
 
 
 ### ingenuous
 Not ingenious, nor disingenuous. Ingenuous means naive and unworldly. (Ingenious
 means clever. Disingenuous means pretending to be innocent and naive.) "His big
-brown eyes and charming, ingenuous grin made him very likeable." Pronounce it
-IN-JENN-YOU-US.
+brown eyes and charming, ingenuous grin made him very likeable."
 
 
 ### inimical
@@ -3037,7 +3028,7 @@ he's in a class by himself but because he's downright vicious.
 
 
 ### iniquity
-Complete wickedness; often found in a den for some reason. Say IH-NICK-WIHT-EE.
+Complete wickedness; often found in a den for some reason.
 
 
 ### innervate
@@ -3058,7 +3049,6 @@ inscrutable.
 Indifference, but with a subtle twist of devil-maycare. An apathetic person may
 be simply indifferent to what's going on; a person who intentionally acts as if
 she doesn't care in order to look cool or invulnerable is showing insouciance.
-Pronounced IN-SOO-SEE-ENTS.
 
 
 ### intense
@@ -3076,9 +3066,8 @@ mistake.
 
 
 ### interdict
-To forbid or sternly prohibit. It's best used with official pronouncements.
-A key word in the war against drugs, usually accomplished by the Coast Guard.
-Pronounced IN-TER-DIKT (not IN-TER-DITE.)
+To forbid or sternly prohibit. It's best used with official pronouncements. A
+key word in the war against drugs, usually accomplished by the Coast Guard.
 
 
 ### interjacent
@@ -3135,7 +3124,9 @@ using invective to motivate their sailors. Say INN-VECK-TJVE.
 
 
 ### invidious
-https://www.merriam-webster.com/dictionary/invidious
+Of an unpleasant or objectionable nature. Like obnoxious invidious remarks.
+Also: of a kind to cause harm or resentment. An invidious comparison. Tending to
+cause discontent, animosity, or envy.
 
 
 ### irascible
@@ -3169,7 +3160,7 @@ a jape!"
 This word has nothing to do with the month in which everyone gets married. It
 means dull and uninteresting, immature and lacking in wisdom. Adolescents are
 notorious for being considered jejune by adults and for considering everybody,
-adults included, jejune. Pronounced ZHI-ZHOON.
+adults included, jejune.
 
 
 ### jerry-built
@@ -3184,9 +3175,8 @@ To throw overboard. Jetsam (see flotsam) is jettisoned all the time.
 
 
 ### jihad
-The word literally means a holy war waged by Muslims as a religious duty, but
-it has come to be used for any cause undertaken on behalf of certain principles.
-Pronounced JJH-HAHD.
+The word literally means a holy war waged by Muslims as a religious duty, but it
+has come to be used for any cause undertaken on behalf of certain principles.
 
 
 ### jingoism
@@ -3198,13 +3188,13 @@ the fear of foreigners.
 
 ### jocose
 Someone who's always joking around is jocose. Compare to verbose, which
-describes someone who's always talking. Pronounced JOH-COSE.
+describes someone who's always talking.
 
 
 ### jodhpurs
 Those ridiculous pants, worn by horseback riders and motorcycle cops, with very
 wide thighs and narrow calves. Dudley DoRight wears a pair. Named after a city
-in western India, in case you were curious. Pronounced JOD-PURRS.
+in western India, in case you were curious.
 
 
 ### joey
@@ -3235,25 +3225,23 @@ more points.
 A reference to the early 20th-century novels of Franz Kafka, whose surreal,
 nightmarish plots revolve around protagonists who are caught in a strangling
 web of bureaucracy. Now applied to any event in which a person is trapped by
-stultifying bureaucratic measures. Pronounced KAHFF-KAH-ESK.
+stultifying bureaucratic measures.
 
 
 ### kakistocracy
 A wonderfully descriptive word, often needed and rarely recognized, that means
-"government by the worst people in the state." It's pronounced KACK-ISS-TOCK-
-RAH-SEE.
+"government by the worst people in the state."
 
 
 ### katabatic
-Moving down a slope or valley. Skiing is clearly a katabatic sport. Pronounced
-CAT-A-BAT-IK.
+Moving down a slope or valley. Skiing is clearly a katabatic sport.
 
 
 ### kef
 The word refers to a drowsy, dreamy state induced by a narcotic, such as
 marijuana, but can be used to mean a stupor brought about by anything. A dull
 speaker can put his audience in a kef; traveling by car on a long turnpike can
-do the same thing. Say KEHF.
+do the same thing.
 
 
 ### kegler
@@ -3269,7 +3257,7 @@ Rhymes with Ken.
 
 ### kente
 A type of African cloth. Developed hundreds of years ago, kente cloth is a sign
-of royalty and wealth. Also spelled kinte. Pronounced KEHN-TAY.
+of royalty and wealth. Also spelled kinte.
 
 
 ### key grip
@@ -3286,12 +3274,12 @@ a spoilsport.
 
 ### kinetic
 Filled with motion. Ballet is a kinetic art, and a kinesiologist studies human
-motion. Pronounced KIN-EH-TICK.
+motion.
 
 
 ### kiosk
 A small, open-sided building, often used for selling tickets or dispensing
-information. It's pronounced KEE-OSK, not KY-OSK.
+information.
 
 
 ### kismet
@@ -3306,7 +3294,7 @@ you refer to them as your kith and kin.
 
 
 ### knave
-https://www.merriam-webster.com/dictionary/knave
+A tricky deceitful perso..
 
 
 ### knell
@@ -3330,8 +3318,7 @@ groveling or currying favor. Rhymes with how now brown cow.
 ### krotoscope
 Remember those old dance shows on TV when prizes were awarded to the contestant
 who earned the most applause? The device used to measure applause is a
-krotoscope. Probably developed in some secret government lab. Say CROW-TEH-
-SCOPE.
+krotoscope. Probably developed in some secret government lab.
 
 
 ### kudos
@@ -3356,7 +3343,8 @@ LACK-RF-MOSE.
 
 
 ### lackey
-https://www.merriam-webster.com/dictionary/lackey
+Servant. Someone who does menial tasks or runs errands for another. A servile
+follower.
 
 
 ### lacuna
@@ -3383,7 +3371,7 @@ good idea when on vacation to request a LAN-EYE, even if you're not in Hawaii.
 
 
 ### languor
-https://www.merriam-webster.com/dictionary/languor
+Weakness or weariness of body or mind. Also Listless indolence or inertia.
 
 
 ### lanugo
@@ -3399,7 +3387,7 @@ for social or political conventions".
 
 
 ### lascivious
-https://www.merriam-webster.com/dictionary/lascivious
+Filled with or showing sexual desire.
 
 
 ### lee
@@ -3418,10 +3406,6 @@ legerdemain." Pronounced LEJ-ER-DEM-ANE.
 ### leitmotif
 A theme maintained throughout a body of work, particularly a musical work,
 associated with a character, an idea or an emotion. It's pronounced UTE-MO-TEEF.
-
-
-### leitmotit
-https://www.merriam-webster.com/dictionary/leitmotit
 
 
 ### lethologica
@@ -3480,7 +3464,10 @@ responses.
 
 
 ### liminal
-https://www.merriam-webster.com/dictionary/liminal
+Relating to, or situated at a sensory threshold : barely perceptible or
+capable of eliciting a response. Example: a liminal visual stimuli.  Also of,
+relating to, or being an intermediate state, phase, or condition : in-between,
+transitional.
 
 
 ### limn
@@ -3926,7 +3913,6 @@ making minatory postures at mail carriers. Pronounced M/N-AT-ORV.
 An onomatopoeic (see onomatopoeia) way of saying meanspirited, stingy and
 ungenerous. It wraps up the definition nicely in one word, and you're sure that
 whomever it's directed to will catch the drift, even without knowing the word.
-It's pronounced M/N-JEE.
 
 
 ### minikin
@@ -4357,7 +4343,6 @@ one would get any messages!
 A female slave or concubine in a harem, usually portrayed in 17th- and 18th-
 century paintings reclining on a divan, swathed in transparent drapery. It's
 sometimes a good word to use to describe a sexy or sultry (see sultry) woman.
-It's pronounced OH-DAL-ISK.
 
 
 ### oenology
@@ -4685,7 +4670,6 @@ commonplace. Pronounced PAYTH-OSE or PAY-THOSS.
 The outermost layer of a metal surface, most particularly the filmy green layer
 that forms on bronze or copper after oxidation that is thought to add beauty.
 You could be figurative and use it to describe a person's manner and appearance.
-It's pronounced PAT-JH-NUH. Also patine, pronounced PAH-TEEN.
 
 
 ### patois
@@ -4860,7 +4844,6 @@ at all.
 This word is used to describe language that conveys friendship or sociability
 rather than information. Greetings exchanged among friends at a party, or
 conversations on a receiving line at a wedding or funeral, are generally phatic.
-It's pronounced FAT-IK.
 
 
 ### phenology
@@ -5065,7 +5048,6 @@ tend to enclose them and use them as sun porches.
 ### portmanteau
 A blend or combination of uses. The word is most often used as a noun to
 describe words that combine or blend other words like "smog" or "docudrama."
-It's pronounced PORT-MAN-TOH.
 
 
 ### postiche
@@ -5099,7 +5081,6 @@ https://www.merriam-webster.com/dictionary/precept
 ### preciosity
 An excessive fastidiousness, particularly in the use of language. It refers to
 something precious or affected, not precious in the ordinary sense of the word.
-It's pronounced PRESH-EE-OSS-IH-TEE.
 
 
 ### precis
@@ -6386,7 +6367,6 @@ Ambivalence; a continual changing of one's mind. Someone who can't decide
 what to wear to a party- or whether to go at all—is suffering a bout of
 tergiversation. It's pronounced TER-JIV-ER-ZAY-SHUN. termagant A violent,
 overbearing or shrewish woman. Some thought Joan Crawford fit this category.
-It's pronounced TERM-AG-ENT.
 
 
 ### terrapin
@@ -6537,7 +6517,6 @@ devices,[ motifs or clichés in creative works.
 ### truculent
 This is a very harsh word, though few people use it correctly. It means cruel,
 brutal, savage. The behavior of the Nazis during the Holocaust was truculent.
-It's pronounced TRL/CK-YOO-LENT.
 
 
 ### tumescent
@@ -6968,7 +6947,6 @@ devoted to a fault—a fanatic. Say ZELL-us and ZELL-UT.
 Another great German word, in the spirit of Weltanshauung and Weltschmerz, that
 has broad philosophical implications. It means "spirit of the times," and refers
 to the general cultural, moral, and intellectual climate of a particular era.
-It's pronounced ZITE-GUYST.
 
 
 ### zenith
@@ -7020,7 +6998,6 @@ say it, the correct pronunciation is ZOH-AHL-OH-;EE.
 Chess enthusiasts probably know this word because it means a situation in a
 game of chess where all the moves open to one player will cause damage to his
 position. Like many chess moves, it's an excellent word to use metaphorically.
-It's pronounced TSOOK-TSFANG.
 
 
 ### zwieback
