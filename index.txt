@@ -104,6 +104,7 @@ benthos
 beset
 besetting
 betime
+bias blind spot
 bibelot
 biblioclast
 bibulous
@@ -127,7 +128,6 @@ boulevardier
 bovine
 bowdlerize
 brachiation
-brachycephalic
 brachycerous
 brocade
 bromide
@@ -335,6 +335,7 @@ ergasiophobia
 ergodic
 ersatz
 eruct
+escalation of commitment
 eschatology
 eschaton
 eschew

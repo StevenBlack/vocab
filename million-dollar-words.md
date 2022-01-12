@@ -565,34 +565,33 @@ make sure you pronounce it correctly: BAH REE-LEAF.
 ### bathos
 A fall from the sublime to the commonplace; often used to describe the plot of
 a play, a movie or a piece of fiction which tells how the mighty have fallen.
-Pronounced BAY-THOSS, the word should be distinguished from pathos (see pathos),
-which means evoking genuine pity or compassion.
+The word should be distinguished from pathos (see pathos), which means evoking
+genuine pity or compassion.
 
 
 ### battologize
 To write or repeat words or phrases over and over and over and over, again and
-again and again and again. It's pronounced BAT-OLL-OH-JIZE.
+again and again and again.
 
 
 ### bauhaus
 Not a place to put Fido at night. A school of architecture and design developed
 in Germany in 1918, which emphasized the functional aspect of objects over their
 form. The style is typified by the box-like buildings of Mies Van der Rohe, who
-was famous for his aesthetic theory that "less is more." Say BOW-HOUSE.
+was famous for his aesthetic theory that "less is more."
 
 
 ### bavardage
 Foolish or nonsensical talk with a touch of light banter. Friends might engage
 in bavardage by hurling meaningless insults at one another—without hurting
 anyone's feelings. It's similar to badinage (see badinage) but has a more
-playful tone. In modernparlance, "dissing," but without malice. Pronounce the
-word BAH-VAR-DAJ.
+playful tone. In modernparlance, "dissing," but without malice.
 
 
 ### beau geste
 Literally a "pretty gesture," an act that is meaningless, but looks good or has
 the effect of generosity or conciliation. An example is sending flowers to the
-host after a dinner party. Pronounced BOJHEST.
+host after a dinner party.
 
 
 ### beaver
@@ -602,9 +601,8 @@ and chin.
 
 
 ### bedizen
-To vulgarly dress or gaudily accessorize; too many bangles and beads. Pronounced
-BIH-DYE-ZEN. An ugly, old woman. Not to be confused with beldam bedlam, which
-means "confusion."
+To vulgarly dress or gaudily accessorize; too many bangles and beads. An ugly,
+old woman. Not to be confused with beldam bedlam, which means "confusion."
 
 
 ### beguile
@@ -639,17 +637,24 @@ just cut you off.
 
 
 ### beset
-https://www.merriam-webster.com/dictionary/beset
+to set or stud with or as if with ornaments; example: a crown beset with rubies.
+Trouble, harass, assail.
 
 
 ### besetting
-https://www.merriam-webster.com/dictionary/besetting
+Constantly present or attacking; obsessive.
 
 
 ### betime
 Early, soon; often misused to mean "sometimes." "I will be there betimes" means
 "I'll see you soon." A small decorative object that is prized for its beauty or
 s rarity; the kind of porcelain figurine or little brass
+
+
+### bias blind spot
+Cognitive bias: the bias blind spot is the cognitive bias of recognizing the
+impact of biases on the judgment of others, while failing to see the impact of
+biases on one's own judgment.
 
 
 ### bibelot
@@ -713,8 +718,8 @@ Or, stretching a little, what a gerbil does in one of those exercise wheels:
 ### bisextile
 A good deal more mundane than bisexual, this word refers to events that fall
 on February 29, the extra day of a leap year. If you have a bisextile birthday,
-you'll age only 25 years each century. Pronounced BYE-SEX- TLLL. You may not use
-this word often, but when you do, you'll feel great.
+you'll age only 25 years each century. You may not use this word often, but when
+you do, you'll feel great.
 
 
 ### bivouac
@@ -734,7 +739,7 @@ disregard of cultures outside the United States."
 
 
 ### bloviate
-https://www.merriam-webster.com/dictionary/bloviate
+To speak or write verbosely and windily.
 
 
 ### blowzy
@@ -759,21 +764,20 @@ the appearance of being busy.
 
 
 ### bootless
-Useless; fruitless; to no avail. Thus the line from Shakespeare's sonnet ".. .
+Useless; fruitless; to no avail. Thus the line from Shakespeare's sonnet "...
 and trouble deaf Heaven with my bootless cries" does not refer to someone
 praying with his shoes off.
 
 
 ### boulevardier
 A man-about-town; the kind of guy who makes sure he's seen at the trendiest
-restaurants and the hippest clubs. The model/artist/fashion set. Pronounced
-BOOL-A 'VAR'DEER.
+restaurants and the hippest clubs. The model/artist/fashion set.
 
 
 ### bovine
 Scientists use this phrase to classify the family that includes buffalo, kudus,
 oxen and cows. Often used derogatorily to describe fat, lazy dullards who move
-slowly and always seem to be chewing their cuds. Pronounced BO-VINE.
+slowly and always seem to be chewing their cuds.
 
 
 ### bowdlerize
@@ -781,19 +785,15 @@ To edit a piece of writing by cutting out all the obscene parts. In certain
 Middle Eastern countries, some Western magazines are bowdlerized from cover
 to cover. The word derives from the name of Thomas Bowdler, who had the gall
 to issue an expurgated edition of the works of that well-known pornographer,
-William Shakespeare. Pronounced BOD-LEHR-ISE.
+William Shakespeare.
 
 
 ### brachiation
-https://www.merriam-webster.com/dictionary/brachiation
-
-
-### brachycephalic
-https://www.merriam-webster.com/dictionary/brachycephalic
+To progress by swinging from hold to hold by the arms.
 
 
 ### brachycerous
-https://www.merriam-webster.com/dictionary/brachycerous
+Having short antennae.
 
 
 ### brocade
@@ -842,36 +842,36 @@ Pronounced KUH-BAHL.
 A hidden treasure. Not the kind found in chests under the sea but of more
 personal value, such as a cache of chocolates in a night-table drawer or a cache
 of sharpened pencils hidden from coworkers. For some reason, police always seem
-to find guns hidden in caches. Pronounced CASH.
+to find guns hidden in caches.
 
 
 ### cachet
 A mark of distinction, a stamp of approval by a recognized authority. Could
 be the Levi's label or Louis Vuitton luggage. The word has come to describe a
-certain style which someone always seems to have. Pronounced CASH-AY or CASH-AY.
+certain style which someone always seems to have.
 
 
 ### cachinate
 To laugh too loud or too hard. Much more than a giggle, and with a bit of
 unnatural excess, such as nervous laughter after hearing bad news. Good example
-of onomatopoeia (see onomatopoeia). Pronounced CAK-IN-ATE.
+of onomatopoeia (see onomatopoeia).
 
 
 ### cacology
-https://www.merriam-webster.com/dictionary/cacology
+Bad diction or pronunciation.
 
 
 ### cadence
 A balanced, rhythmic flow or movement. You can talk about the cadence of a
 marching band, for example, or use the term figuratively, to describe art or a
-babbling brook. Pronounced KAY-DENSE.
+babbling brook.
 
 
 ### cadre
 A group of people who train others in an expanding organization. Often used
 in a military context: "Cadres of medical personnel were sent to the field
 hospitals." During the 1950s, Communists always seemed to be organized in
-cadres. Pronounced CAH-DRA.
+cadres.
 
 
 ### caitiff
@@ -881,9 +881,8 @@ traitors and people who hurt others to further themselves.
 
 
 ### cajole
-To coax or encourage, usually to get someone to do something she doesn't want
-to do but that's good for her, such as take her medicine or get some rest. Say
-CAH-JOLE.
+To coax or encourage, usually to get someone to do something she doesn't want to
+do but that's good for her, such as take her medicine or get some rest.
 
 
 ### callow
@@ -902,7 +901,6 @@ of calumny.
 ### camber
 To arch upward in the middle. A rainbow cambers; so does a gentle hill. Downhill
 skis are cambered— the center is a few inches higher than the tip or heel.
-Pronounced CAM-BURR.
 
 
 ### cambist
@@ -914,8 +912,7 @@ combination of cash and pizza. He's a cambist.
 
 ### campanile
 A bell tower that is usually separate from surrounding buildings. Far more
-common in Europe than in the States. The preferred pronunciation is KAM-PUH-
-NEE-LEE.
+common in Europe than in the States.
 
 
 ### canard
@@ -929,27 +926,25 @@ To include in a definitive collection—especially refers to written works. The
 works of Chaucer have been canonized; multiculturalists have been arguing to
 canonize the works of minority writers. One can speak of being included among
 the canon of great poets, for instance. Also used to describe the process of
-transforming ordinary people into saints. Pronounced CAN-NON-/ZE.
+transforming ordinary people into saints.
 
 
 ### canorous
 Pleasant-sounding, melodious and resonant. Could be used to describe organ
 music, or the sound of a rainstorm against the windowpanes. It may sound like
-cantankerous (cranky), but means something completely different. Pronounced CAN-
-OR-US.
+cantankerous (cranky), but means something completely different.
 
 
 ### caparison
 To dress sumptuously; to gussy up. Although the word originally referred to the
 ornamental covering for a horse, it has come to be used for people as well, such
-as when heads of state get fully caparisoned for a ball at the White House. Say
-KUH-PAR-UH-SUHN.
+as when heads of state get fully caparisoned for a ball at the White House.
 
 
 ### capriccio
-Not an Italian coffee. A capriccio is a frolic or caper, such as when a bunch of
-friends spontaneously decide to jump into a car and drive to the beach for the
-day. Pronounced CAP-REE-SHE-O.
+Not an Italian coffee. A capriccio is a frolic or caper, such as when a bunch
+of friends spontaneously decide to jump into a car and drive to the beach for
+the day.
 
 
 ### capricious
@@ -958,9 +953,9 @@ Changeable.
 
 
 ### captious
-Critical and hard to please in an irritable, nit-picking way. Small children can
-be captious at the dinner table; teenagers and in-laws may be captious all the
-time. Say CAP-SHUSS.
+Critical and hard to please in an irritable, nit-picking way. Small children
+can be captious at the dinner table; teenagers and in-laws may be captious all
+the time.
 
 
 ### carapace
@@ -968,7 +963,7 @@ The tough upper part of the turtle's shell. The carapace is the part that used
 to be polished and used for jewelry, combs and precious objects before turtles
 were threatened with extinction and the practice was outlawed in most countries.
 The word is sometimes used metaphorically to mean the demeanor of extremely
-self-protective people—or the pate of a bald man. Pronounced CAH-RAH-PISS.
+self-protective people—or the pate of a bald man.
 
 
 ### carrel
@@ -980,7 +975,7 @@ scholars even went so far as to name it!)
 ### caryatid
 An architectural support column in the form of a draped female figure—the kind
 of structure, often seen in museums and Greek ruins, that resembles the Venus de
-Milo. (Not a bug; that's a katydid.) Pronounced CAR-EE-AH-TID.
+Milo. (Not a bug; that's a katydid.)
 
 
 ### castrophenia
@@ -1058,7 +1053,7 @@ expensive divorce suits on their hands.
 ### cerulean
 Deep blue, such as the color of the sky on a sunny day, the water off the coast
 of a Greek island, or Paul Newman's eyes. Not mentioned in the Crayola 64 crayon
-box. Pronounced SEH-RULE-EE-JN.
+box.
 
 
 ### chad
@@ -1689,20 +1684,20 @@ correct, the word should be used with great care.
 
 
 ### doughty
-Hearty, brave and courageous (as distinguished from dowdy, which means plain or
-unattractive). Pronounced DOWT-EE.
+Hearty, brave and courageous (as distinguished from dowdy, which means plain
+or unattractive).
 
 
 ### doyen
 The leader or commander; a doyenne if it's a woman. A successful artist might
 become the doyenne of the art world and then, if she's hip enough, the doyenne
-of the social world. It's pronounced DOI-EN.
+of the social world.
 
 
 ### draconian
 Drastic; harsh; inhuman. Cutting off the fingers of pickpockets is considered
 by many to be draconian punishment. It dramatically cuts down on recidivism,
-however. (See also recidivate.) It's pronounced DRAH- COH-NEE-AN.
+however. (See also recidivate.)
 
 
 ### dragoon
@@ -1713,7 +1708,6 @@ have dragooned their victims to get their dubloons.
 ### dulcet
 Pleasant; melodious; sweet to the eye or ear. Usually used in conjunction with
 the word "tone." A nightingale sings in dulcet tones. (See also mellifluous.)
-Pronounce the word DULL-SET.
 
 
 ### duplicity
@@ -1732,8 +1726,7 @@ has an opposite, eupepsia-a rarely used word meaning "good digestion."
 
 
 ### dystopia
-The opposite of a Utopia; a place where everything goes wrong. Say it DISS-TOH-
-PEE-AH.
+The opposite of a Utopia; a place where everything goes wrong.
 
 
 ### e pluribus Unum
@@ -2034,6 +2027,14 @@ think of erupt: "After the very large meal, the man leaned back in his chair and
 eructed." Pronounced EE-RUCT.
 
 
+### escalation of commitment
+Cognitive bias: escalation of commitment is a human behavior pattern in which
+an individual or group facing increasingly negative outcomes from a decision,
+action, or investment nevertheless continues the behavior instead of altering
+course. The actor maintains behaviors that are irrational, but align with
+previous decisions and actions.
+
+
 ### eschatology
 The branch of theology that is concerned with such final things as death and
 Last Judgment; Heaven and Hell; the ultimate destiny of humankind.
@@ -2052,45 +2053,45 @@ taste, as in eschewing displays of physical affection in front of dinner guests.
 ### esprit d'escalier
 You probably never knew that there was a word for this—a clever remark or reply
 that you didn't think of at the appropriate moment but thought of too late, as
-in "I should have said.. . " It comes from the French phrase, "up the stairs":
+in "I should have said..." It comes from the French phrase, "up the stairs":
 "I didn't think of a snappy retort to D'Artagnan until I was already up the
-stairs." The next time you find yourself speechless, just say, "When I come
-up with the esprit d'escalier, I'll give you a call." Pronounced ESS-PREE DEH-
-SCAHL-YAY.
+stairs." The next time you find yourself speechless, just say, "When I come up
+with the esprit d'escalier, I'll give you a call."
 
 
 ### esprit de corps
 A feeling of unification or commonly held beliefs or attitudes among a group of
 people. The phrase can be used to describe a feeling of excitement and belong-
 ng that comes from being part of a successful group. Apple Computer had it for a
-while; so did the Peace Corps. Pronounced ESS-PREE DUH CORE.
+while; so did the Peace Corps.
 
 
 ### etagere
 One of those pieces of furniture (often referred to by pompous antiques dealers
 and interior decorators) that you feel too embarrassed to admit you've never
-heard of. It's a group of open shelves used to store knickknacks. Pronounce it
-AY-TAJ-A/R.
+heard of. It's a group of open shelves used to store knickknacks.
 
 
 ### ethos
-The basic characteristics of a person, group, institution or culture; not a
-form of anesthesia. "The ethos of '60s America was defined by TV." Pronounced
-EE-THOS.
+The basic characteristics of a person, group, institution or culture; not a form
+of anesthesia. "The ethos of '60s America was defined by TV."
 
 
 ### etiolate
-https://www.merriam-webster.com/dictionary/etiolate
+To bleach and alter the natural development of (a green plant) by excluding
+sunlight; to make pale; to deprive of natural vigor; make feeble.
 
 
 ### etiology
-https://www.merriam-webster.com/dictionary/etiology
+The cause of a disease or abnormal condition; a branch of knowledge concerned
+with causes; specifically: a branch of medical science concerned with the causes
+and origins of diseases
 
 
 ### eunuch
 The term for the unfortunate man who's been castrated. Traditionally employed by
 sheiks to protect their harem from loyal servants. Now used to describe someone
-who acts as if he'd been castrated. Pronounced YOU-NICK.
+who acts as if he'd been castrated.
 
 
 ### eupepsia
@@ -2099,41 +2100,39 @@ A rarely used word meaning "good digestion."
 
 ### euphonious
 Pleasant to listen to. The word can describe words or music. It's sometimes
-confused with cacophonous, which means the opposite. Pronounced YOU-FONE- EE-US.
+confused with cacophonous, which means the opposite.
 
 
 ### evanesce
 The word sounds like it means "bubbly," but it really means "to fade slowly."
-Champagne doesn't evanesce; sunsets do. Pronounced EH-VUH-NESS.
+Champagne doesn't evanesce; sunsets do.
 
 
 ### exacerbate
 To incrementally increase the irritation or annoyance of something, as in:
-"Scratching his poison ivy did little but exacerbate the itching." Pronounced
-EX-ASS-UR-BATE.
+"Scratching his poison ivy did little but exacerbate the itching."
 
 
 ### excogitate
-More than just thinking about an issue, to excogitate is to carefully reason it
-out. Pronounced EX-COJ- IH-TATE.
+More than just thinking about an issue, to excogitate is to carefully reason
+it out.
 
 
 ### excoriate
 To peel or take the skin from. The word is generally used figuratively. You peel
-an apple, but you excoriate someone for screwing up. Pronounced EX-KOR- EE-ATE.
+an apple, but you excoriate someone for screwing up.
 
 
 ### exculpate
-To free from blame. Exculpation doesn't mean forgiveness; it means that you
-were never guilty to begin with, and now your name is cleared. Pronounced
-EX'KUL'PATE.
+To free from blame. Exculpation doesn't mean forgiveness; it means that you were
+never guilty to begin with, and now your name is cleared.
 
 
 ### exigency
 An unexpected set of circumstances—but not synonymous with emergency. Urgent
 needs or demands arising from a set of circumstances. "I will definitely not
 raise taxes and positively not cut Social Security. Unless, of course, an
-exigency arises." Pronounced EK-SEH-JEN-SEE.
+exigency arises."
 
 
 ### existential
@@ -2159,8 +2158,7 @@ of an event. (Not to be confused with people who emigrate to a foreign land).
 
 ### expeditious
 Quick and speedy in the sense of "most rapidly accomplished." An expeditious
-solution to feeling nauseatingly drunk is to pass out. Pronounced EKS-PEH-
-DISH'USS.
+solution to feeling nauseatingly drunk is to pass out.
 
 
 ### extirpate
@@ -2180,7 +2178,7 @@ New Yorker answers, "Practice, practice, practice." Say FASS-EE-SHUSS.
 
 ### facinorous
 Exceptionally evil or wicked. Not just the Witch of the West; more along the
-lines of Satan. It's pronounced FASS-IN-OR-US.
+lines of Satan.
 
 
 ### fakir
@@ -2195,22 +2193,20 @@ https://www.merriam-webster.com/dictionary/fallal
 
 ### farinaceous
 Made from flour or meal and containing a lot of starch, such as bread, pasta or
-cereal. Vegetarians frequently eat farinaceous meals. Pronounced FARRAH- NAY-
-SHUS.
+cereal. Vegetarians frequently eat farinaceous meals.
 
 
 ### farrago
 Not a dance—that's a fandango. A farrago is a jumbled hodgepodge, a mixture.
 If you haven't cleaned your closet in years, it's likely to be filled with a
 farrago of old winter coats, dirty socks, deflated balls and lonesome single
-shoes. Pronounced FAH-RAH-GO.
+shoes.
 
 
 ### fastuous
 Overbearingly snotty, pretentious, or arrogant. Not to be confused with fatuous
 (see fatuous), although fastuous people can be fatuous. Be kind to the fastuous
-among us, because they certainly suffer from low self-esteem. Pronounced FAST-
-CHOO-US.
+among us, because they certainly suffer from low self-esteem.
 
 
 ### fatuous
@@ -2227,7 +2223,7 @@ FOH PAH.
 
 ### feral
 Animalistic; existing in a wild state. With his ripped shirt and slight drool,
-Robert seemed almost feral. Pronounced FEER-AL or FEHR-AL.
+Robert seemed almost feral.
 
 
 ### filtrum
@@ -2244,7 +2240,7 @@ most people say FLASS-ID.
 ### flaneur
 A word that comes from the French and means "idler" or "loafer," such as someone
 who sits around all day eating croissants and smoking Gauloises and not doing
-much of anything else. Not the ideal mate. It's pronounced FLA-NYUR.
+much of anything else. Not the ideal mate.
 
 
 ### fletcher
@@ -2260,7 +2256,7 @@ plasticity of clay for ceramic purposes.
 ### florid
 The word has two equally used meanings: "rosy or ruddy" and also "flowery or
 elaborate." The man with the florid complexion sitting behind the bar com-posed
-a poem in florid language about the woman he loves. Pronounced FLOOR-ID.
+a poem in florid language about the woman he loves.
 
 
 ### floromancy
@@ -2340,8 +2336,7 @@ being a fish, means "to move clumsily."
 
 ### fractious
 Irritable, whiny, quarrelsome and rebellious, a word that best applies to the
-behavior of children or to adults who are acting like children. Pronounced
-FRACK-SHISS.
+behavior of children or to adults who are acting like children.
 
 
 ### friable
@@ -2354,13 +2349,12 @@ opposite of friable is indurate.
 A shiver, as from a thrill or a fright. A frisson passes through an audience
 watching the shower scene in Alfred Hitchcock's Psycho. The word is best used as
 a reaction to situations that intend to scare, such as roller coaster rides or
-horror films. It's actually a nice way to say goosebumps. Pronounced FREE-SON.
+horror films. It's actually a nice way to say goosebumps.
 
 
 ### fulgent
 Very bright; shining or radiant. A good word for describing things like the
-spaceship in Close Encounters of the Third Kind, or the full moon. Pronounced
-FUL-JENT.
+spaceship in Close Encounters of the Third Kind, or the full moon.
 
 
 ### fulgurant
@@ -2378,12 +2372,12 @@ someone covertly.
 ### fungible
 Easily interchangeable with something else; the opposite of unique. One loaf
 of bread is fungible with another. In a recession, some employers find certain
-employees fungible. It's pronounced FUN-JI-BLE.
+employees fungible.
 
 
 ### gaffe
 A social blunder, just like a faux pas (see faux pas). If you meet the president
-and call him Your Royal Highness, that's a gaffe. Pronounced GAFF.
+and call him Your Royal Highness, that's a gaffe.
 
 
 ### gainsay
@@ -2401,7 +2395,7 @@ the Milky Way. Coffee creamers are galactoid. So is the blood of many insects.
 Excessively talkative in a silly, chattering way. Often misused to mean just
 plain friendly and willing to talk, which is loquacious. Save garrulous to
 describe relatives who call frequently and make it impossible to get off the
-telephone no matter how hard you try. Pronounced GAH-RUH-LUSS.
+telephone no matter how hard you try.
 
 
 ### gatefold
@@ -2434,8 +2428,7 @@ Pronounced JERM-AJN.
 
 ### gerrymander
 The reorganization of the electoral districts of a state to give one political
-party an advantage. (Either you need this word or you don't.) Pronounced JER-RY-
-MAN-DER.
+party an advantage. (Either you need this word or you don't.)
 
 
 ### gestalt
@@ -2443,13 +2436,12 @@ The word comes from a school of psychology, but has come to mean a way of
 describing the big picture of a situation. Add together all the pieces and sum
 them up in a feeling. This feeling can range from the complicated way our brain
 solves problems to the combination of smells, feelings and sensations you get
-during a massage. Pronounced GEH-SHTALT.
+during a massage.
 
 
 ### gild
 To coat with gold. When used figuratively, as in "gilding the lily," gild means
-adding refinement or ornamentation to something that doesn't need it. Pronounced
-like guild.
+adding refinement or ornamentation to something that doesn't need it.
 
 
 ### gimme caps
@@ -2485,7 +2477,7 @@ is commonly used to describe any complex problem begging for a drastic solution.
 ### gossamer
 Originally a cobweb, now the word describes any translucent, wispy object. The
 Gossamer Albatross was the first pedal-powered aircraft—so named because of its
-fragile gossamer wings. Pronounced GOSS-AH- M URR.
+fragile gossamer wings.
 
 
 ### gracile
@@ -2501,7 +2493,7 @@ This is the word for any sign or letter which signifies a word, such as &.
 ### grand guignol
 Connoting a drama with strains of horror. It's the kind of word people like to
 use metaphorically. A difficult divorce or the cruel way someone was fired from
-a job might be described as a grand guignol. Pronounced GRAND GEEN-YOL.
+a job might be described as a grand guignol.
 
 
 ### grandiloquent
@@ -2522,7 +2514,7 @@ down.
 ### grimalkin
 It sounds like some form of medieval clothing, perhaps a vest for holding
 arrows, but it means an old female cat. A nice way to affectionately refer to
-one's pet. Pronounced GRIM-ALL-KEN.
+one's pet.
 
 
 ### grommet
@@ -2559,7 +2551,7 @@ provided you're not the type who gets seasick.
 The top of the side of a boat (where the rail might be). Especially used in
 referring to small boats such as canoes. Originally used to describe the place
 where you'd rest your gun (probably for shooting fish, or some other sporting
-activity). Pronounced GUN-ELL.
+activity).
 
 
 ### gustatory
@@ -2576,7 +2568,7 @@ gynarchy. Ironically, pronounced GUY-NARK-EE.
 ### hajj
 A pilgrimage to Mecca made at least once by pious Muslims. Can be used
 figuratively to refer to any pilgrimage. Many senior citizens make their annual
-hajj to Florida in the winter, for example. Pronounced HAH/.
+hajj to Florida in the winter, for example.
 
 
 ### halcyon
@@ -2595,7 +2587,7 @@ be spelled with an e on the end, and it's pronounced HAL-IH-DOME.
 ### handsel
 Not Gretel's brother; there's no d in his name. A gift or present that is
 meant to bring good luck, such as a bottle of champagne to the owner of a new
-restaurant. Pronounced HAND-SELL.
+restaurant.
 
 
 ### haptics
@@ -2628,13 +2620,13 @@ https://www.merriam-webster.com/dictionary/haughty
 ### havelock
 A cloth covering for a cap which has a flap to protect the back of the neck
 from the sun—the kind of thing Lawrence of Arabia wore. Players on outdoor urban
-basketball courts wear havelocks today. Pronounced HAVE-LOK.
+basketball courts wear havelocks today.
 
 
 ### hedonist
 A person addicted to things that give pleasure or happiness. A hedonist puts
 chocolate ice cream and hot fudge on a flourless chocolate cake, or spends class
-time sunbathing while attending the University of Miami. Pronounced HE-DUN-IST.
+time sunbathing while attending the University of Miami.
 
 
 ### hegemony
@@ -2677,7 +2669,7 @@ Pronounced HET-ERR-OH-NIM.
 The hints, techniques and concepts we use to make decisions. How does a doctor
 decide what drug to prescribe? Why did you pick a blue shirt instead of a red
 one? An important concept, because understanding the heuristics that we use to
-make a decision can help us learn how to do it better. Pronounced HYUR- ISS-TIC.
+make a decision can help us learn how to do it better.
 
 
 ### hiatus
@@ -2691,13 +2683,13 @@ This is a word for swindler or confidence man. It's a particularly nice word
 because you can accuse someone of being a highbinder without insulting him—he
 probably won't know what the word means! (See also gudgeon.) Hairy. A man in
 need of a shave is hirsute. You hirsute would not describe a sticky or hairy
-situation as hirsute. Pronounced HEER-SUIT.
+situation as hirsute.
 
 
 ### histrionic
 Overly dramatic; so excessively theatrical as to be unbelievable. A teenager
 who sobbingly declares that he will die if he is cut from the tennis team is
-engaging in histrionics. Pronounced HISS-TREE-ON-IC.
+engaging in histrionics.
 
 
 ### hoary
@@ -2723,7 +2715,7 @@ OY.
 Though the word has come to be used to mean natural medicine, such as ginseng
 or flower therapy, as opposed to pharmaceuticals, it means treating disease by
 administering minute doses of drugs that normally produce symptoms like those of
-the disease. Pronounced HOE-MEE-OP-UH-THEE.
+the disease.
 
 
 ### homily
@@ -2756,7 +2748,7 @@ and misplaced his dry-cleaning ticket.
 
 ### hortatory
 Urging someone to do something. The sergeant made a hortatory speech in an
-effort to convince the boys to join the army. Pronounced HOR-TAH-TOR-EE.
+effort to convince the boys to join the army.
 
 
 ### hot spur
@@ -2817,7 +2809,7 @@ The sad situation of getting sicker after treatment by a doctor. Lately expanded
 to connote making anything worse in an effort to make it better. Someone who
 goes into a hospital to be treated for a broken leg and then catches a bad virus
 from the person in the neighboring bed suffers from the iatrogenic conditions
-common to many hospitals. Pronounced EE- YAT-RUH'JEN'IC.
+common to many hospitals.
 
 
 ### ichthyoid
@@ -2830,7 +2822,7 @@ THEE-OID.
 Someone who attacks traditional or popular values, beliefs or symbols of
 traditional values. The man carrying the "God is Dead" sign is an iconoclast,
 as is a politician who attacks beloved TV stars. Along with hubris (see hubris),
-this word belongs in your everyday vocabulary. Pronounced EYE-CON-OH-CLAST.
+this word belongs in your everyday vocabulary.
 
 
 ### iconography
@@ -2862,7 +2854,7 @@ pronounced ID-EE-A-GLOSS-EE-A.
 ### idiograph
 This is not the writing of a stupid person, but rather the word for any private
 trademark or signature. A common idiograph among teenage girls is to dot the i's
-in their names with a heart. Pronounced IH-DEE-OH-GRAFF. (See also paraph.)
+in their names with a heart.
 
 
 ### idiopathy
@@ -2949,7 +2941,7 @@ The Latin expression for "near death." When a person on his deathbed makes a
 sudden decision, such as to change his will and leave everything to a distant
 cousin, his decision is said to have been made in extremis. The word is often
 misused to mean a state of near insanity, since things that are decided in
-extremis are by their very nature, well, extreme. Pronounced IN EX-STREEMWSS.
+extremis are by their very nature, well, extreme.
 
 
 ### in flagrante delicto
@@ -2974,14 +2966,14 @@ unrestrained, as in an incontinent flow of talk.
 ### incubus
 An evil spirit that annoys people while they are sleeping and, in particular, a
 spirit that badgers women for sexual favors. A better way to say you didn't have
-a very good night's sleep. Pronounced IN'CUBE-US.
+a very good night's sleep.
 
 
 ### inculpate
 The opposite of exculpate; to blame, more in a legal sense than a moral one.
 Thieves and murderers are inculpated by society; parents are blamed when their
 children misbehave. Don't confuse the word with inculcate, which means to teach
-by constant repetition. Pronounced JN-CULL-PAYT.
+by constant repetition.
 
 
 ### indefectible
@@ -3035,7 +3027,7 @@ Complete wickedness; often found in a den for some reason.
 The opposite of enervate, which means to weaken or drain. Innervate means to
 stimulate or furnish with nervous energy. Some things can be enervating and
 innervating at the same time, such as spending several hours with a group of
-raucous kids. Pronounced INN'ERV'ATE.
+raucous kids.
 
 
 ### inscrutable
@@ -3138,15 +3130,15 @@ Often associated with cantankerous old men. It's pronounced JR-ASS-JH-BULL.
 ### irenic
 Peaceful, calm and capable of inducing serenity. Save this word to refer to
 personalities rather than things. Lakes are placid; people who meditate are said
-to be irenic. Pronounced EYE-REN'IK.
+to be irenic.
 
 
 ### iterate
 It means the same thing as reiterate: to repeat over and over. Use reiterate if
 you want people to understand what you're saying; save iterate for describing
 learning by doing something over and over again, getting better or more accurate
-each time. That's called an iterative process. An iteration describes one of the
-repetitions. Pronounced IT-ER-ATE.
+each time. That's called an iterative process. An iteration describes one of
+the repetitions.
 
 
 ### jape
@@ -3211,7 +3203,7 @@ roots. If you believe in this stuff, you're Jungian. Say it YOONG'EE'UN.
 ### juvenescent
 Youthful. It has no negative connotation like immature or naive; it literally
 means "young." Plants are juvenescent in the seedling stage; the moon is
-juvenescent when it first begins to wax. Pronounced JOO-VAN'ESS'ENT.
+juvenescent when it first begins to wax.
 
 
 ### juxtapose
@@ -3400,7 +3392,7 @@ things in windy places. Rhymes with flee.
 A particularly elegant way of saying dexterity in the use of one's hands to
 perform magic tricks, juggling, or other feats of deception. The word might
 be used more wryly, as in "That creative accountant's tax work was a feat of
-legerdemain." Pronounced LEJ-ER-DEM-ANE.
+legerdemain..
 
 
 ### leitmotif
@@ -3474,7 +3466,7 @@ transitional.
 To capture through an artistic medium; to evoke or describe, either in a drawing
 or in words. A poet may limn the beauty of a sunset in rhyming couplets; an
 artist may limn the beauty of a person or an object using clay or watercolors or
-shards of pottery, for that matter. Pronounced LIMM.
+shards of pottery, for that matter.
 
 
 ### limpid
@@ -3569,7 +3561,7 @@ https://www.merriam-webster.com/dictionary/lothario
 Decadent, depraved, seedy and immoral. The streets of Saigon during the Viet Nam
 war were louche; certain bars along the waterfront in port cities are louche.
 You can use the word to describe a person's character, but it's better used to
-capture an atmosphere. Pronounced LOOSH.
+capture an atmosphere.
 
 
 ### loup
@@ -3664,7 +3656,7 @@ pompous, and full of hot air—a great way to insult a magniloquent person.
 ### maillot
 A type of fabric of a particularly close knit, the kind often used to make one-
 piece swimsuits. It's come to denote any one-piece swimsuit, regardless of the
-fabric. Pronounced MY-OH.
+fabric.
 
 
 ### maladroit
@@ -3703,7 +3695,7 @@ Pronounced MA-LING-ER.
 ### manque
 The word is usually combined with "artist" or "poet," as in artist manque,
 perhaps because it means unfulfilled or might-have-been. (After all, who ever
-heard of an accountant manque?) Pronounced MAN-KAY.
+heard of an accountant manque?.
 
 
 ### mare's-nest
@@ -3721,7 +3713,7 @@ too much homework every night.
 ### matutinal
 A rather economical way of saying "happening in the morning" from the French
 "matin." Breakfast is a matutinal meal; many people like to take matutinal
-walks; certain radio programs are matutinal. Pronounced MA-TOO-TEH-NALL.
+walks; certain radio programs are matutinal.
 
 
 ### maunder
@@ -3755,7 +3747,7 @@ d'escalier).
 
 ### megrims
 A depression or sinking into low spirits. Someone down in the dumps is suffering
-the megrims. Pronounced MEE-GRIMS.
+the megrims.
 
 
 ### melange
@@ -3767,7 +3759,7 @@ MAY-LAHNJ.
 
 ### melee
 One step short of a riot; a confused or tumultuous fight among several people.
-Useful in painting a powerful word picture. Pronounced MAY-LAY.
+Useful in painting a powerful word picture.
 
 
 ### mellifluous
@@ -3797,7 +3789,7 @@ an even more evil ring to it—as if you're literally killing a mind.
 Describes someone whose mood changes in a heartbeat. It's also used to describe
 someone who is always upbeat—the assumption being, perhaps, that they must be
 depressed in private. In both cases, mercurial people may be difficult, but they
-are always interesting. Pronounced MEHR-CURE-EE-ULL.
+are always interesting.
 
 
 ### mere-exposure effect
@@ -3810,13 +3802,12 @@ with them.
 Acting flashy in an effort to look like something you're not. A meretricious
 artist paints with a lot of elaborate brush strokes, but the painting isn't
 interesting; a meretricious novelist may use fancy language but write a book
-with no real literary impact. Pronounced MEH-RJH-TRISH-USS.
+with no real literary impact.
 
 
 ### merman
 The male version of a mermaid. We hear about them less often, but they still
-make their way into fairy tales. Pronounced like Superman, not like Ethel
-Merman.
+make their way into fairy tales. Merman.
 
 
 ### messianic
@@ -3853,7 +3844,7 @@ This is a figure of speech used as a stylistic device by many writers who
 probably don't know there is a name for it. When you use a metonymy, you
 substitute an attribute or an example of a thing for the thing itself, evoking
 one idea by a term that is related. "Today, the White House announced a tax
-hike," for example, or "He gave up the bottle." Pronounced MET-TAHN-EH-MEE.
+hike," for example, or "He gave up the bottle..
 
 
 ### mettle
@@ -3865,7 +3856,7 @@ is willing to take action. For some reason, mettle is always being tested.
 The foul-smelling gases given off by decaying matter in marshes and swamps. It's
 usually used figuratively to describe any confusing subject or event that's hard
 to sort out. "Her explanation of biogenetics was a miasma of scientific theories
-and incomprehensible equations." Pronounced MY-AZ-MA.
+and incomprehensible equations..
 
 
 ### microeconomics
@@ -3877,7 +3868,7 @@ example.
 ### mien
 A person's demeanor, the manner or habits that reflect character or attitude.
 I can tell by his mien— his furrowed brow, his grimace, the way his hands are
-clutching his elbows and his foot is tapping—that he's furious. Pronounced MEEN.
+clutching his elbows and his foot is tapping—that he's furious.
 
 
 ### milieu
@@ -3906,7 +3897,7 @@ Relating to, characterized by, or exhibiting mimicry.
 
 ### minatory
 Threatening or menacing. When they bark, growl and bare their teeth, dogs are
-making minatory postures at mail carriers. Pronounced M/N-AT-ORV.
+making minatory postures at mail carriers.
 
 
 ### mingy
@@ -3929,7 +3920,7 @@ minions are caught up in the swirls of the bureaucracy.
 
 ### minutia
 The small, trivial details of something. Someone who worries about minutiae
-often overlooks the stuff that matters. Pronounced M/N-NOO-SHAH.
+often overlooks the stuff that matters.
 
 
 ### mirabile dictu
@@ -3958,7 +3949,7 @@ women. It's pronounced M/SS-E;;-EN- AY-SHUN.
 Depraved or villainously wicked. The word can be used as a noun to describe a
 person who commits a not-so-serious crime. Fences are posted to keep miscreants
 out of parks; paints have been developed to discourage miscreants from drawing
-graffiti on buses and trains. Pronounced MISS-CREE-ANT.
+graffiti on buses and trains.
 
 
 ### misogamy
@@ -3979,7 +3970,7 @@ the little ones are really getting on your nerves.
 ### mnemonic
 A trick used to help remember something, such as remembering someone's birthday
 because it's the same date as the Battle of Waterloo, or the colors of the
-spectrum by ROYGBIV, or trigonometry by SOHCAHTOA. Pronounced NEH-MON-IK.
+spectrum by ROYGBIV, or trigonometry by SOHCAHTOA.
 
 
 ### mo
@@ -4014,7 +4005,7 @@ https://www.merriam-webster.com/dictionary/monism
 
 ### monodomous
 Living in a single nest, as do bees, ants or humans who can't afford a country
-house. Pronounced MAH-NOD-AH'MUSS.
+house.
 
 
 ### monomania
@@ -4057,8 +4048,8 @@ car wax and nostril-hair removers.
 ### mufti
 The civilian clothes donned by one who usually wears a uniform. Sailors might
 dress in mufti when they leave a ship to visit a port city; a lawyer who comes
-to work one day in jeans and a t-shirt instead of the usual suit is dressed in
-mufti. Pronounced MUFF-TEE.
+to work one day in jeans and a t-shirt instead of the usual suit is dressed
+in mufti.
 
 
 ### mugwump
@@ -4133,7 +4124,7 @@ speeches can induce narcolepsy.
 In the formative stages or in the process of being created. (See also
 chrysalis.) The word is best used to describe abstract things such as ideas,
 feelings or creative works. A nascent feeling would be one that's just beginning
-to come to consciousness. Pronounced NAY-SENT.
+to come to consciousness.
 
 
 ### ne plus ultra
