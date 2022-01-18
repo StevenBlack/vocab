@@ -2168,12 +2168,11 @@ To uproot or completely destroy. An earthquake may extirpate a small village.
 ### fabulist
 A liar. If you want to accuse someone of not telling you the truth without
 instantaneously enraging them, call them a fabulist. It sounds gentler.
-Pronounced FAB-YOOLIST.
 
 
 ### facetious
 Flippant. When a tourist asks, "How do you get to Carnegie Hall?" the facetious
-New Yorker answers, "Practice, practice, practice." Say FASS-EE-SHUSS.
+New Yorker answers, "Practice, practice, practice."
 
 
 ### facinorous
@@ -2183,12 +2182,17 @@ lines of Satan.
 
 ### fakir
 An Arabic word for a guy who makes his living charming snakes or lying on a bed
-of nails. Not pronounced like faker, which might be appropriate— instead, say
-FEH-KEER.
+of nails.
 
 
 ### fallal
-https://www.merriam-webster.com/dictionary/fallal
+A showy ornament especially in dress; costume jewelry or cheap, flashy trimmings
+on clothing.
+
+
+### false memory
+Cognitive bias: a psychological phenomenon where a person recalls something that
+did not happen or differently from the way it happened.
 
 
 ### farinaceous
@@ -2211,7 +2215,7 @@ among us, because they certainly suffer from low self-esteem.
 
 ### fatuous
 Foolish or inane. Clowns aren't fatuous, they're silly. A boorish drunk or a
-fawning suitor can easily become fatuous, however. Say FATCH-OO-US.
+fawning suitor can easily become fatuous, however.
 
 
 ### faux pas
@@ -2233,8 +2237,7 @@ name for it, and now you know what it is.
 
 ### flaccid
 Limp or flabby, like the stems of wilted flowers or the thighs of people who eat
-too much and don't exercise. The preferred pronunciation is FLAK-SID, although
-most people say FLASS-ID.
+too much and don't exercise.
 
 
 ### flaneur
@@ -2295,7 +2298,7 @@ onomatopoeia)!
 To bungle or goof up. Not recommended in referring to truly serious goof-ups,
 like erasing your hard disk. Better for describing the acts of a waiter who
 brings every single person the wrong dish at dinner. It's one of those words
-that makes you smile every time you use it. Rhymes with boozle.
+that makes you smile every time you use it.
 
 
 ### foray
@@ -2316,15 +2319,13 @@ Has two meanings, though only one appears in everyday conversation. In classical
 music, forte means "play this loudly!" It's pronounced FOUR-TAY since the word
 comes from the Italian. However, the usual meaning of forte is "strong point"
 as in, "Bad decisions are his forte" or "Cooking Cajun food is my forte." But if
-you want to sound smart, be sure to say the word correctly. It's pronounced fort
-with no vowel sound on the end.
+you want to sound smart, be sure to say the word correctly.
 
 
 ### fortuitous
 Depending on luck or chance; accidental. Fortuitous circumstances may help you
 to win some money, but they can also cause you to lose a bet. Don't use the word
 to convey only good luck—it describes things that are up to chance, good or bad.
-The correct pronunciation is FOR-TOO-JT-US.
 
 
 ### founder
@@ -2358,7 +2359,7 @@ spaceship in Close Encounters of the Third Kind, or the full moon.
 
 
 ### fulgurant
-https://www.merriam-webster.com/dictionary/fulgurant
+Flashing like lightning.
 
 
 ### fulsome
@@ -4197,6 +4198,11 @@ Excessively petty or nit-picking. A job that involves endless poring over
 details is niggling work.
 
 
+### next-in line effect
+Cognitive bias: the phenomena of people being unable to recall information
+concerning events immediately preceding their turn to perform.
+
+
 ### nihilism
 Skepticism so complete that it denies there can be any objective basis for
 truth and, by extension, that there are no morals or values in the universe. A
@@ -5428,6 +5434,12 @@ When you give a great deal of thought to a problem, you can say you figured it
 out by ratiocination. Pronounced RASH-EE-OH-SIN-ATE.
 
 
+### reactance
+Cognitive bias: an unpleasant motivational arousal (reaction) to offers,
+persons, rules, or regulations that threaten or eliminate specific behavioral
+freedoms.
+
+
 ### rebarbative
 Irritating, repellent.
 
@@ -5724,6 +5736,11 @@ West. It's pronounced SEJ-EH-LESS.
 ### self-consistency bias
 Cognitive bias: The psychological tendency to see oneself as consistent which
 affects our actions.
+
+
+### self-serving bias
+Cognitive bias: people's tendency to attribute positive events to their own
+character but attribute negative events to external factors.
 
 
 ### semantics

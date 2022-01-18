@@ -365,6 +365,7 @@ facetious
 facinorous
 fakir
 fallal
+false memory
 farinaceous
 farrago
 fastuous
@@ -695,6 +696,7 @@ nephology
 nepotism
 nethermost
 nettlesome
+next-in line effect
 nihilism
 nirvana
 niveous
@@ -900,6 +902,7 @@ rapturous
 rara avis
 rasher
 ratiocinate
+reactance
 rebarbative
 recalcitrant
 recidivate
@@ -954,6 +957,7 @@ scunner
 scurrilous
 sedulous
 self-consistency bias
+self-serving bias
 semantics
 seminal
 semiotic
