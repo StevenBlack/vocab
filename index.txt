@@ -935,6 +935,7 @@ rubricate
 ruthful
 sage
 salient
+salmagundi
 salubrious
 salutary
 Samovar
