@@ -207,6 +207,7 @@ colloquy
 colophon
 columbarium
 comminate
+compendious
 complaisant
 concise
 concocted
@@ -703,6 +704,7 @@ niveous
 nodus
 noisome
 nom de guerre
+normalcy bias
 nubbin
 nubile
 nugatory
@@ -861,6 +863,7 @@ proactive
 probity
 profligacy
 prognosticate
+projection bias
 prolicide
 prolix
 Promethean
@@ -932,6 +935,7 @@ roman a clef
 roue
 rubric
 rubricate
+rumbelow
 ruthful
 sage
 salient
