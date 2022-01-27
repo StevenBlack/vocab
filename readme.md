@@ -2065,6 +2065,11 @@ ng that comes from being part of a successful group. Apple Computer had it for a
 while; so did the Peace Corps.
 
 
+### Essentialism
+Cognitive bias: the view that every entity has a set of attributes that are
+necessary to its identity and function.
+
+
 ### etagere
 One of those pieces of furniture (often referred to by pompous antiques dealers
 and interior decorators) that you feel too embarrassed to admit you've never
@@ -3747,8 +3752,7 @@ the megrims.
 ### melange
 This French word for "mixture" is slightly more evocative than plain old
 "mixture." It's used for more subtle descriptions. A combination of flour, sugar
-and milk is a mixture. A blend of passion, romance and eros is a melange. Say
-MAY-LAHNJ.
+and milk is a mixture. A blend of passion, romance and eros is a melange.
 
 
 ### melee
@@ -4486,7 +4490,7 @@ car that still gets around.
 
 ### paillette
 A large sequin or spangle, the kind sewn onto evening gowns to make them
-glitter. Now you know what those sparkly things are called! Pronounced PAL-YET.
+glitter. Now you know what those sparkly things are called!
 
 
 ### paladin
@@ -4519,8 +4523,7 @@ Adam" or "RADAR" or "A man, a plan, a canal—Panama!"
 Something that eases or soothes a situation, feeling or condition without
 solving or curing it. Aspirin, for example, is a palliative because it can take
 away the fever caused by a virus, but can't cure the virus itself. Giving a
-crying child a lollipop after an allergy shot has a palliative effect. Say PAL-
-EE-AH-T/V.
+crying child a lollipop after an allergy shot has a palliative effect.
 
 
 ### panacea

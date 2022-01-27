@@ -342,6 +342,7 @@ eschaton
 eschew
 esprit d'escalier
 esprit de corps
+Essentialism
 etagere
 ethos
 etiolate
