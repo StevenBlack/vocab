@@ -2876,6 +2876,12 @@ cognitive bias: in which consumers place a disproportionately high value on
 products they partially created.
 
 
+### illusory truth effect
+Cognitive bias: (also known as the validity effect, truth effect or the
+reiteration effect) is the tendency to believe information to be correct after
+repeated exposure.
+
+
 ### imbroglio
 A state of confusion; an entangled mess. Often used to describe a mob of players
 duking it out at home plate, or a skirmish among many factions on Capitol Hill.
@@ -4562,19 +4568,18 @@ covered the wedding buffet table."
 ### papilote
 Bet you didn't know there was a word for this. It's the little piece of colorful
 fringed paper wrapped around the end of a lamb chop. You see fewer and fewer of
-them, but they're still around in certain fine restaurants. Pronounce it PAP-
-ILL-OAT.
+them, but they're still around in certain fine restaurants.
 
 
 ### paraclete
 A person you call upon to intercede. Referees, umpires, and judges are all
-paracletes. Pronounced PAR-AH-CLEET.
+paracletes.
 
 
 ### paradigm
 A model example; the standard to hold up for comparison. Politicians hold up the
 decline of the U.S. auto industry as a paradigm for Japanese strategy in other
-areas. Pronounced PAR-A-D/ME.
+areas.
 
 
 ### paralogize
@@ -5540,6 +5545,11 @@ uneasy. A variation on restless.
 ### retrench
 To reduce or cut back. During a recession, people tend to retrench, spending
 less on luxury items and entertainment.
+
+
+### reverse psychology
+Cognitive bias: to make someone do what you want by asking them to do the
+opposite and expecting them to disagree with you.
 
 
 ### rimple

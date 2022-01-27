@@ -480,6 +480,7 @@ idiograph
 idiopathy
 ignoble
 IKEA effect
+illusory truth effect
 imbroglio
 imminent
 immure
@@ -928,6 +929,7 @@ renege
 reprobate
 restive
 retrench
+reverse psychology
 rimple
 riparian
 riposte
