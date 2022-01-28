@@ -1,7 +1,15 @@
 ## Contents
 
 
-[**a**](#a-priori) - [**b**](#babbitt) - [**c**](#cabal) - [**d**](#dactyl) - [**e**](#e-pluribus-unum) - [**f**](#fabulist) - [**g**](#gaffe) - [**h**](#hajj) - [**i**](#iatrogenic) - [**j**](#jape) - [**k**](#kafkaesque) - [**l**](#labile) - [**m**](#macedoine) - [**n**](#nabob) - [**o**](#obdurate) - [**p**](#padnag) - [**q**](#quagmire) - [**r**](#raconteur) - [**s**](#sage) - [**t**](#taciturn) - [**u**](#ubiety) - [**v**](#vacuous) - [**w**](#wallah-wallah) - [**x**](#xanadu) - [**y**](#yahoo) - [**z**](#zaftig)
+[**a**](#a-contrario) - [**b**](#babbitt) - [**c**](#cabal) - [**d**](#dactyl) - [**e**](#e-pluribus-unum) - [**f**](#fabulist) - [**g**](#gaffe) - [**h**](#hajj) - [**i**](#iatrogenic) - [**j**](#jape) - [**k**](#kafkaesque) - [**l**](#labile) - [**m**](#macedoine) - [**n**](#nabob) - [**o**](#obdurate) - [**p**](#padnag) - [**q**](#quagmire) - [**r**](#raconteur) - [**s**](#sage) - [**t**](#taciturn) - [**u**](#ubiety) - [**v**](#vacuous) - [**w**](#wallah-wallah) - [**x**](#xanadu) - [**y**](#yahoo) - [**z**](#zaftig)
+### a contrario
+Latin: from the opposite.
+
+
+### a falsis principiis proficisci
+Latin: to set forth from false principles.
+
+
 ### a priori
 Proceeding from cause to effect; reasoning from a general law to a particular
 instance. This describes a deductive approach to a chain of reasoning. If the
@@ -4244,6 +4252,10 @@ de guerre, for example, is Bob Dylan.
 ### normalcy bias
 Cognitive bias: disbelieving one's situation when faced with grave and imminent
 danger and/or catastrophe.
+
+
+### nosce hostem
+Latin: know the enemy.
 
 
 ### nubbin

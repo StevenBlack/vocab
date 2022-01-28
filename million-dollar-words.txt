@@ -1,3 +1,11 @@
+a contrario
+Latin: from the opposite.
+
+
+a falsis principiis proficisci
+Latin: to set forth from false principles.
+
+
 a priori
 Proceeding from cause to effect; reasoning from a general law to a particular
 instance. This describes a deductive approach to a chain of reasoning. If the
@@ -2747,6 +2755,8 @@ hortatory
 Urging someone to do something. The sergeant made a hortatory speech in an
 effort to convince the boys to join the army.
 
+nosce hostem
+Latin: know the enemy.
 
 hot spur
 A rash, impetuous person who is volatile, hottempered, and easily spurred
