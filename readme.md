@@ -570,8 +570,9 @@ make sure you pronounce it correctly: BAH REE-LEAF.
 
 
 ### base rate fallacy
-The tendency to ignore base rate information (generic, general information) and
-focus on specific information (information only pertaining to a certain case).
+Cognitive bias — the tendency to ignore base rate information (generic, general
+information) and focus on specific information (information only pertaining to a
+certain case).
 
 
 ### bathos
@@ -2940,8 +2941,8 @@ class than stubborn.
 
 
 ### implicit stereotypes
-An implicit bias, or implicit stereotype, is the unconscious attribution of
-particular qualities to a member of a certain social group.
+Cognitive bias — an implicit bias, or implicit stereotype, is the unconscious
+attribution of particular qualities to a member of a certain social group.
 
 
 ### importune
