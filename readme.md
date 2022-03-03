@@ -569,6 +569,11 @@ pedestals, graves and a host of other ruins. If you're going to use the word,
 make sure you pronounce it correctly: BAH REE-LEAF.
 
 
+### base rate fallacy
+The tendency to ignore base rate information (generic, general information) and
+focus on specific information (information only pertaining to a certain case).
+
+
 ### bathos
 A fall from the sublime to the commonplace; often used to describe the plot of
 a play, a movie or a piece of fiction which tells how the mighty have fallen.
@@ -1388,6 +1393,11 @@ Acceptable or adequate a bit wryly.
 
 ### crucible
 https://www.merriam-webster.com/dictionary/crucible
+
+
+### cryptomnesia
+When a forgotten memory returns without it being recognized as such by the
+subject, who believes it is something new and original.
 
 
 ### cue-dependent forgetting
@@ -2929,6 +2939,11 @@ Not to be pleased, convinced or reconciled. Implacable carries with it more
 class than stubborn.
 
 
+### implicit stereotypes
+An implicit bias, or implicit stereotype, is the unconscious attribution of
+particular qualities to a member of a certain social group.
+
+
 ### importune
 To beg or plead with great intensity and persistence. A child might beg her
 mother to let her stay up late; a man might importune his wife not to leave
@@ -3786,6 +3801,10 @@ https://www.merriam-webster.com/dictionary/mendacious
 
 ### mendacity
 https://www.merriam-webster.com/dictionary/mendacity
+
+
+### mendicant
+A beggar.
 
 
 ### mensch

@@ -565,6 +565,9 @@ you may use this word about 400 times a day to describe carved doors, walls,
 pedestals, graves and a host of other ruins. If you're going to use the word,
 make sure you pronounce it correctly: BAH REE-LEAF.
 
+base rate fallacy
+The tendency to ignore base rate information (generic, general information) and
+focus on specific information (information only pertaining to a certain case).
 
 bathos
 A fall from the sublime to the commonplace; often used to describe the plot of
@@ -1382,6 +1385,11 @@ Acceptable or adequate a bit wryly.
 
 crucible
 https://www.merriam-webster.com/dictionary/crucible
+
+
+cryptomnesia
+When a forgotten memory returns without it being recognized as such by the subject,
+who believes it is something new and original.
 
 
 cue-dependent forgetting
@@ -2931,6 +2939,9 @@ mother to let her stay up late; a man might importune his wife not to leave him.
 Choose importune when the importance of the plea is great enough to merit the
 word.
 
+implicit stereotypes
+An implicit bias, or implicit stereotype, is the unconscious attribution of
+particular qualities to a member of a certain social group.
 
 imprimatur
 A stamp of approval from an acknowledged expert. An endorsement in the form of
@@ -3781,6 +3792,9 @@ https://www.merriam-webster.com/dictionary/mendacious
 mendacity
 https://www.merriam-webster.com/dictionary/mendacity
 
+
+mendicant
+A beggar.
 
 mensch
 A Yiddish word for someone who combines wisdom, humor and honor.
@@ -5562,6 +5576,7 @@ riposte
 A sharp, usually clever, retort; the exact opposite of an esprit d'escalier (see
 esprit d'escalier). Originally a fencing term.
 
+
 rodomontade
 A bragging, boastful speech. None of us could bear to listen to another word of
 that arrogant pedant's rodomontade. (See also pedant.)
@@ -5575,6 +5590,7 @@ disguised by fictitious names.
 roue
 A rake; a dissipated, lascivious man, but with a touch of the dashing romantic.
 Don Juan took the cake.
+
 
 rubric
 Not the multicolored puzzle cube, but close. A set of regulations for behavior
@@ -5606,6 +5622,7 @@ randy and lascivious.) Pronounced SAHL-AY-SHUSS.
 salient
 The most notable; the things that stand out as the most important. The salient
 features of a product are the things that make it worth buying.
+
 
 salmagundi
 A mixture or miscellaneous collection. (See also farragoand olio.)
@@ -5729,6 +5746,7 @@ affects our actions.
 self-serving bias
 Cognitive bias: people's tendency to attribute positive events to their own
 character but attribute negative events to external factors.
+
 
 semantics
 The aspect of linguistics that is concerned with the meaning and usage of words.

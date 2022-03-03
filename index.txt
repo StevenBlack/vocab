@@ -91,6 +91,7 @@ baluster
 balustrade
 barm
 bas-relief
+base rate fallacy
 bathos
 battologize
 bauhaus
@@ -229,6 +230,7 @@ crepuscular
 crinoline
 cromulent
 crucible
+cryptomnesia
 cue-dependent forgetting
 curmudgeon
 curriculum
@@ -490,6 +492,7 @@ impecunious
 imperative
 impertinence
 implacable
+implicit stereotypes
 importune
 imprimatur
 impudence
@@ -631,6 +634,7 @@ melee
 mellifluous
 mendacious
 mendacity
+mendicant
 mensch
 menticide
 mercurial
