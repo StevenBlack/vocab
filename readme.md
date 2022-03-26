@@ -1636,8 +1636,7 @@ them a bit of decoration.
 
 ### diphthong
 No, it's not a type of sandal. It's a syllable containing two letters used to
-make a single sound. For example the ou in sound. Pronounced DIF-THONG, not
-DIP-THONG.
+make a single sound. For example the ou in sound.
 
 
 ### discreet
@@ -1768,13 +1767,12 @@ ECK-AY HOE-MOE.
 
 ### echolalia
 The involuntary repeating of someone's words or syllables right after they are
-uttered; a human echo chamber. Often associated with autism. Pronounced ECK-OH-
-LAY-LEE-UH .
+uttered; a human echo chamber. Often associated with autism.
 
 
 ### ecru
 Cream-colored. A little more tan than off-white, but a lot lighter than beige.
-Lace curtains are often ecru. Pronounced AY-CREW or EH-CREW.
+Lace curtains are often ecru.
 
 
 ### ectomorphic
@@ -1787,13 +1785,12 @@ generally considered type-A personalities.
 Though it has religious implications and is often associated with the Christian
 church, the word is used to mean "worldwide" or "universal." An ecumenical
 council on hunger would deal with the problem of hunger around the globe.
-Pronounced EHK-YOU-MEN-IH-CAL .
 
 
 ### edacious
 Devouring or consuming. Someone with an edacious appetite for books reads all
 the time; someone with an edacious appetite for food is probably fat. Don't
-confuse with audacious, which means having chutzpah. Pronounced ID-AY-SHUSS.
+confuse with audacious, which means having chutzpah.
 
 
 ### effete
@@ -1806,14 +1803,13 @@ EH-FEET.
 ### efficacious
 Efficient; effective. It might take a little longer to do a job efficaciously,
 but the desired effect is perfectly obtained. Ideal when used to describe
-medical treatment. Pronounced EFF-EH-KA Y-SHUSS.
+medical treatment.
 
 
 ### effluence
 A flowing out or streaming forth. The waste that comes from sewage-treatment
 plants is effluence. "An effluence of people poured from the stadium when the
-ball game was over, creating quite a traffic jam." Sounds like affluence with an
-eh at the beginning: pronounced EF-LOO-ENCE.
+ball game was over, creating quite a traffic jam."
 
 
 ### effluvium
@@ -1832,13 +1828,11 @@ sunshine.
 Originally meaning just plain "exceptional," egregious has come to mean not
 just bad, but outstand ingly bad. When things are worse than awful, they are
 egregious. An egregious error would be calling your present lover by an old
-lover's name. Beating child for bad behavior is egregious punishment. Pronounced
-EH-GREE-juss.
+lover's name. Beating child for bad behavior is egregious punishment.
 
 
 ### elan
-Dash or real style; charisma plus skill. David Niven had elan. Pronounced AY-
-LAN.
+Dash or real style; charisma plus skill. David Niven had elan.
 
 
 ### eldritch
@@ -1848,8 +1842,7 @@ his front lawn." A good way for little boys to describe their little sisters.
 
 ### eleemosynary
 Charitable or supported by a charity. The United Way is an eleemosynary
-institution. Often used in legalese to distinguish from "for-profit." Pronounced
-ELL-EH-MAH-SINN-AR-EE .
+institution. Often used in legalese to distinguish from "for-profit."
 
 
 ### elephantine
@@ -1890,7 +1883,6 @@ https://www.merriam-webster.com/dictionary/eminence
 ### eminence grise
 The power behind the throne—for example, in the '80s, Nancy Reagan (or even
 Nancy Reagan's astrologer). Literally means "gray eminence," if you care.
-Pronounced AY-MEE-NANS GREEZ.
 
 
 ### emolument
@@ -1906,20 +1898,19 @@ https://www.merriam-webster.com/dictionary/empirical
 ### encephalesthenia
 Exhaustion due to emotional stress rather than lack of sleep or physical work. A
 person who deals with an impending lawsuit by taking naps constantly is probably
-suffering from encephalesthenia. Pronounced EN-SEF-A-LUS-THEEN-EE-A.
+suffering from encephalesthenia.
 
 
 ### encomium
-A eulogy that sums up the good qualities of a dead person. It's come to mean
-any ceremonious praise that celebrates a person dead or alive. Pronounced EN-
-CO'MEE'UM.
+A eulogy that sums up the good qualities of a dead person. It's come to mean any
+ceremonious praise that celebrates a person dead or alive.
 
 
 ### encyclical
 A letter from the pope to all his bishops. It has come to be used figuratively
 to refer to any very important letter. The CEO of a company could send a memo
 to all the division heads, who might sarcastically refer to it as the boss's
-encyclical. Pronounced EN-SICK'UCK'AL.
+encyclical.
 
 
 ### endemic
@@ -1929,9 +1920,8 @@ American South; muggings are endemic to large urban environments.
 
 ### enervate
 Even though this word sounds as if it denotes "tofrom epidemic. excite or make
-nervous," it means the opposite— to weaken or take away the energy. A long
-and boring lecture can be very enervating, making an audience fall asleep.
-Pronounced ENN-ER-VATE.
+nervous," it means the opposite— to weaken or take away the energy. A long and
+boring lecture can be very enervating, making an audience fall asleep.
 
 
 ### enigma
@@ -1960,20 +1950,19 @@ and adopts feminine postures is exhibiting eonism. Pronounced EE-ON-ISM.
 ### ephemera
 Something lasting only a short time. Though often used to denote triviality,
 ephemera involves time or lifespan, not importance. An earthquake is ephemeral,
-as is youth. Pronounced EH-FEM-EH-RA.
+as is youth.
 
 
 ### epicene
 The word has nothing to do with the center of an earthquake; that's an
 epicenter. Epicene means reflecting both male and female characteristics;
 androgynous. The word has also acquired a secondary meaning as effeminate or
-feeble. Pronounced EPP-EH-SEEN.
+feeble.
 
 
 ### epigone
 A disciple, not famous in his own right, of a famous writer. If there were a
-good example, he wouldn't be a proper epigone because he'd be famous. Pronounced
-EPP-I-GOHNE.
+good example, he wouldn't be a proper epigone because he'd be famous.
 
 
 ### epigram
@@ -1988,7 +1977,7 @@ The religious meaning is a Christian feast celebrated on January 6 to
 commemorate the appearance of Christ, but the word is also used to mean a sudden
 realization of the true meaning of something. The light bulb that appears over
 Newton's head in a cartoon demonstrates an epiphany. The light bulb in that
-cartoon is also an anachronism (see anachronism). Pronounced EH-PIFF-ENN-EE.
+cartoon is also an anachronism (see anachronism).
 
 
 ### epistemic
@@ -2005,13 +1994,13 @@ we know what we know.
 Giving one's name to a book, a record or an organization. Lolita is the
 eponymous character of Vladimir Nabokov's Lolita. The word is frequently used in
 record reviews to refer to a hit single whose title is the same as the album on
-which it appears. Pronounced EH-PONN-AH-MUSS.
+which it appears.
 
 
 ### equable
 Uniform; not differing. In an equable distribution, everyone gets the same
 amount. Why not say equitable? Because equitable implies fairness. The
-distribution might be equal, but it might not be fair. Pronounced EHK-WA-BULL.
+distribution might be equal, but it might not be fair.
 
 
 ### equivocal
@@ -2019,13 +2008,12 @@ Something that's equivocal has several meanings and is therefore capable of
 being interpreted in several ways. Answers that are equivocal are usually
 intentionally so; when someone doesn't want to commit himself, he would most
 likely give an equivocal answer. More often heard as the antonym, unequivocal,
-meaning "leaving no doubt." Pronounced eh-QUIV-AH'CULL.
+meaning "leaving no doubt."
 
 
 ### ergasiophobia
 Fear of, or aversion, to work. What Maynard G. Krebbs suffered in the Dobie
-Gillis show. If you're not too lazy to pronounce it, it's EHR-GAZ-EE-OH-FOH-
-BEE-A.
+Gillis show.
 
 
 ### ergodic
@@ -2036,13 +2024,13 @@ representative of the whole (as in regard to a statistical parameter).
 ### ersatz
 Artificial, a substitute for the real thing. Sweet 'n Low is ersatz sugar;
 margarine is ersatz butter. Formica can be ersatz marble, wood or any other
-number of finishes. Pronounced AIR-SATZ.
+number of finishes.
 
 
 ### eruct
 An extremely erudite way of saying "belch." One way to remember the word is to
-think of erupt: "After the very large meal, the man leaned back in his chair and
-eructed." Pronounced EE-RUCT.
+think of erupt: "After the very large meal, the man leaned back in his chair
+and eructed."
 
 
 ### escalation of commitment
@@ -2166,7 +2154,6 @@ https://www.merriam-webster.com/dictionary/existential
 A more precise way to describe the introduction to a speech, presentation or
 book. Readers (such as yourself?) often skip over the preface, but they'll
 certainly spend the time to read the exordium if it is clearly labeled.
-Pronounced EGG-ZORD-EE-UM.
 
 
 ### exoteric
@@ -2244,8 +2231,7 @@ fawning suitor can easily become fatuous, however.
 ### faux pas
 From the French for "false step." This is a wonderful word for a social blunder,
 an error of etiquette. If you pronounce your boss's name incorrectly while
-introducing his speech at a large convention, you have committed a faux pas. Say
-FOH PAH.
+introducing his speech at a large convention, you have committed a faux pas.
 
 
 ### feral
@@ -2504,8 +2490,7 @@ fragile gossamer wings.
 
 
 ### gracile
-Slender and graceful, such as a fawn, a gazelle or a ballet dancer. It's
-pronounced GRASS-ILL.
+Slender and graceful, such as a fawn, a gazelle or a ballet dancer.
 
 
 ### grammalogue
@@ -2743,7 +2728,6 @@ the disease.
 ### homily
 A sermon or a moral lecture. Priests deliver homilies on living morally; coaches
 deliver homilies on living cleanly; parents often deliver homilies on both.
-Pronounced HOM-/LL-EE.
 
 
 ### homunculus
@@ -2753,7 +2737,6 @@ more commonly used figuratively to mean "the little man inside the box making
 decisions." Often used in philosophy as a slick way to describe consciousness
 or computers. Your mind is nothing more than a skull with a homunculus inside,
 making the decisions (who's inside the homunculus? another homunculus!).
-Pronounced HO-MUNG-KYUH-LUSS.
 
 
 ### honorarium
@@ -2836,8 +2819,7 @@ common to many hospitals.
 
 ### ichthyoid
 This is a scientific word for "fish-like." Some underwater creatures are
-ichthyoid; so are the handshakes of certain disagreeable people. Pronounced ICK~
-THEE-OID.
+ichthyoid; so are the handshakes of certain disagreeable people.
 
 
 ### iconoclast
@@ -2850,8 +2832,7 @@ this word belongs in your everyday vocabulary.
 ### iconography
 Pictorial or symbolic representation of something. Cave writings depict ancient
 cultures by telling stories through pictures; in the same way, urban graffiti
-often provides the iconography for contemporary urban street culture. Pronounced
-EYE-KON-AH-GRAFF-EE.
+often provides the iconography for contemporary urban street culture.
 
 
 ### idem
@@ -2862,15 +2843,13 @@ prefer to use idem rather than ditto, abbreviated to id. in scholarly works.
 
 ### idiogamist
 A man who is capable of engaging in sexual intercourse only with his wife.
-Pronounce it ID-EE-AH-GAM-IST.
 
 
 ### idioglossia
 This is the word for the invented, unintelligible form of speech shared by
 twins, siblings or any children who are closely associated. You could probably
 extend the definition to describe intense technical discussions between computer
-whizzes, or the shorthand used by waiters at a short-order lunch counter. It's
-pronounced ID-EE-A-GLOSS-EE-A.
+whizzes, or the shorthand used by waiters at a short-order lunch counter.
 
 
 ### idiograph
@@ -2887,7 +2866,6 @@ A disease not preceded or occasioned by any known morbid condition.
 It basically means the opposite of "noble"—mean, contemptible and of generally
 low character. Taking credit for someone else's work is an ignoble act, as is
 lying, stealing, cheating and generally acting like a selfish, ungenerous jerk.
-Say it IG-NO-BULL.
 
 
 ### IKEA effect
@@ -2981,13 +2959,11 @@ extremis are by their very nature, well, extreme.
 An evocative Latin phrase for being caught in the middle of a sexual act. A wife
 leaves work early and comes home to find her husband in flagrante delicto with
 another woman. (Sexual infidelity must have been common in Roman times, too.)
-Pronounce it IN FLAG-RAN-TAY DEL-JFC-TOE.
 
 
 ### inchoate
-Not yet formed; just begun. A novel is inchoate after the first chapter has
-been written; the earth was inchoate when nothing existed but primordial ooze.
-Pronounced IN-KOH-IT.
+Not yet formed; just begun. A novel is inchoate after the first chapter has been
+written; the earth was inchoate when nothing existed but primordial ooze.
 
 
 ### incontinent
@@ -3136,9 +3112,8 @@ conditions, but the management remained intransigent..
 
 ### inure
 To become hardened and unaffected by hardship, difficulty or attack. The boy
-was teased so often for being shorter than his classmates that after a while
-he became inured to the taunting words and tried out for the basketball team.
-Pronounced JN-YOOR.
+was teased so often for being shorter than his classmates that after a while he
+became inured to the taunting words and tried out for the basketball team.
 
 
 ### invective
@@ -3308,8 +3283,7 @@ information.
 
 ### kismet
 Fate or destiny. Usually used in a positive sense—it was kismet that Lana Turner
-happened to be at the counter at Schwab's the day she was discovered. Pronounced
-KIZ-MET.
+happened to be at the counter at Schwab's the day she was discovered.
 
 
 ### kith
@@ -3324,8 +3298,7 @@ A tricky deceitful perso..
 ### knell
 The sound of a bell tolling. The word is most often used to refer to the sound
 of funeral bells ringing. Almost always coupled with "death." For instance,
-"Videocassettes sounded the death knell for revival movie houses." Rhymes with
-bell.
+"Videocassettes sounded the death knell for revival movie houses."
 
 
 ### knurl
@@ -3336,7 +3309,7 @@ a good word to know if you need to explain any magic tricks that involve coins.
 ### kowtow
 To bow before someone. Though it can mean bowing in a gesture of genuine
 respect, as it did when the word was coined by the Chinese, it has come to mean
-groveling or currying favor. Rhymes with how now brown cow.
+groveling or currying favor.
 
 
 ### krotoscope
@@ -3362,8 +3335,7 @@ Pronounce it like label.
 ### lachrymose
 Given to weeping. It has less to do with being sad than it does with shedding
 tears. The movies that we call tear-jerkers make us cry because they are sad.
-Eyedrops, air pollution or a bitter wind can make us lachrymose. Pronounced
-LACK-RF-MOSE.
+Eyedrops, air pollution or a bitter wind can make us lachrymose.
 
 
 ### lackey
@@ -3372,13 +3344,10 @@ follower.
 
 
 ### lacuna
-This is not a South Sea islet, a California beach, a type of punctuation or
-a foreign currency. A lacuna is a rather elegant way of describing a gap or
-a missing portion. The most famous lacuna of all is the 18- minute gap in the
-Watergate tapes. If you borrow a book from a careless friend and the middle
-fifty pages are missing, you might call to ask what happened in the lacuna.
-It's pronounced LAK-YOO-NAH. The plural is lacunae, and surprisingly enough, is
-pronounced LAK-YOO-NEE.
+A lacuna is a rather elegant way of describing a gap or a missing portion. The
+most famous lacuna of all is the 18- minute gap in the Watergate tapes. If you
+borrow a book from a careless friend and the middle fifty pages are missing, you
+might call to ask what happened in the lacuna.
 
 
 ### lambent
@@ -3390,8 +3359,7 @@ playing on the surface of a stream.
 
 
 ### lanai
-Hotel jargon for a private terrace or balcony that comes with a room. It's a
-good idea when on vacation to request a LAN-EYE, even if you're not in Hawaii.
+Hotel jargon for a private terrace or balcony that comes with a room.
 
 
 ### languor
@@ -3417,14 +3385,14 @@ Filled with or showing sexual desire.
 ### lee
 The sheltered side of something; the side away from the wind. Most things have
 a leeward (say LEE-WORD or LOO-WURD) side and a windward side, at least most
-things in windy places. Rhymes with flee.
+things in windy places.
 
 
 ### legerdemain
 A particularly elegant way of saying dexterity in the use of one's hands to
 perform magic tricks, juggling, or other feats of deception. The word might
 be used more wryly, as in "That creative accountant's tax work was a feat of
-legerdemain..
+legerdemain."
 
 
 ### leitmotif
@@ -3433,17 +3401,15 @@ associated with a character, an idea or an emotion.
 
 
 ### lethologica
-A temporary inability to remember a word or a name; the condition that makes
-you screw up your face and say, "Ooh...it's on the tip of my tongue." The next
-time a friend forgets a word, here's hoping you don't say, "Oh, there's a word
-for that condition. It's called...ooh...I forget." It's pronounced LETH-AL-OH-
-JIK-AH.
+A temporary inability to remember a word or a name; the condition that makes you
+screw up your face and say, "Ooh...it's on the tip of my tongue." The next time
+a friend forgets a word, here's hoping you don't say, "Oh, there's a word for
+that condition. It's called...ooh...I forget."
 
 
 ### lexicon
 This word refers to the working or usable vocabulary of a language, a person or
-a culture. After reading this book, your lexicon should be greatly expanded. Say
-LECKS-IH-CON.
+a culture. After reading this book, your lexicon should be greatly expanded.
 
 
 ### libertarian
