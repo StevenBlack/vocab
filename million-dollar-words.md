@@ -1069,6 +1069,10 @@ of a Greek island, or Paul Newman's eyes. Not mentioned in the Crayola 64 crayon
 box.
 
 
+### Ceteris Paribus
+A Latin phrase that generally means "all other things being equal."
+
+
 ### chad
 The little paper circles that fall from the hole- puncher and litter the
 floor, stick to your shoes and create static electricity that makes them almost

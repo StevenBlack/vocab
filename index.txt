@@ -172,6 +172,7 @@ catholic
 cavil
 celerity
 cerulean
+Ceteris Paribus
 chad
 chaff
 changeling
