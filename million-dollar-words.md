@@ -177,8 +177,7 @@ misleading scientific data.
 
 
 ### agrypnia
-Insomnia. The kind of word you stay awake trying to remember. Say AH-GRIP-NEE-
-AH.
+Insomnia. The kind of word you stay awake trying to remember.
 
 
 ### ailurophilic
@@ -221,8 +220,7 @@ pronounced AL- EE-AY-SHUSS.
 ### alliteration
 A poetic device in which words that begin with the same sound are strung
 together. "Helplessly hoping her harlequin hovers nearby ---------- " Score big
-points by identifying alliteration wherever you find it. Pronounced UH-LIT-ER-
-AY-SHUN.
+points by identifying alliteration wherever you find it.
 
 
 ### amanuensis
@@ -243,8 +241,7 @@ the Depression.
 A nonsensical composition or parody, often made of sounds that imitate words
 and rhyme, or words that rhyme but have no logical meaning. An example is the
 writing of Dr. Seuss when he says about eating green eggs and ham: "Would you
-like them in a house? Would you like them with a mouse?" Pronounced AM-FI-GORE-
-EE.
+like them in a house? Would you like them with a mouse?"
 
 
 ### anachronism
@@ -269,8 +266,7 @@ staff." The word is
 
 ### anomaly
 An unexpected result that deviates from the standard. A anomaly, as is a book on
-underwater gardening that makes it to the best-seller lists. Pronounced UH- NOM-
-UH-LEE.
+underwater gardening that makes it to the best-seller lists.
 
 
 ### anomie
@@ -316,7 +312,7 @@ to corrupt, and absolute power corrupts absolutely”.
 
 
 ### aplomb
-Self-assurance, especially under duress. Not a fruit, but pronounced A-PLUM.
+Self-assurance, especially under duress.
 
 
 ### apocrine
@@ -351,8 +347,7 @@ Breaking off in the middle of a statement upon suddenly realizing that someone's
 feelings are hurt or about to be hurt. "The reason I didn't invite your wife to
 the party is that everybody thinks she's...well, never mind." You may never find
 occasion to actually use the word, but it's nice to know there's a word for that
-particular gaffe or faux pas. (See gaffe and faux pas.) Pronounce it AP-UH-SEE-
-UH-PEE-SISS.
+particular gaffe or faux pas. (See gaffe and faux pas.)
 
 
 ### apostasy
@@ -372,8 +367,7 @@ expression."
 
 ### argot
 Slang belonging to a specific group or class. When you know the argot of
-computers, you can talk with the hackers in the MIS department. Pronounced AR-
-GOH.
+computers, you can talk with the hackers in the MIS department.
 
 
 ### arrant
@@ -403,8 +397,7 @@ artful contrivance or expedient.
 ### ascetic
 Self-denying; austere. A hedonist loves pleasure; an ascetic shuns it. In
 Eastern culture, ascetics eschew (see eschew) anything not necessary to maintain
-life, thus taking them one step closer to nirvana. (See nirvana.) Pronounced UH-
-SETT-IK.
+life, thus taking them one step closer to nirvana. (See nirvana.)
 
 
 ### assiduous
@@ -456,8 +449,7 @@ himself something without the help of experts.
 
 ### autolatry
 Worship of the self. The next time you want to insult that narcissistic, self-
-involved egomaniac you know, tell him he engages in autolatry. Pronounce it AWT-
-OL-AH'TREE.
+involved egomaniac you know, tell him he engages in autolatry.
 
 
 ### avatar
@@ -503,8 +495,7 @@ certain of a job at the IRS.
 ### bacchanal
 A drunken, riotous orgy, or anyone who parties in the style of the Roman god
 Bacchus. You can refer to party revelers as bacchanals or to the party itself as
-a bacchanal. No place for abstemious (see abstemious) people. Pronounced BAHK-
-AH-NAL.
+a bacchanal. No place for abstemious (see abstemious) people.
 
 
 ### bacchanalian
@@ -565,8 +556,7 @@ there's nothing like an ice cold beer with a good barm."
 A sculpture or carved work in which projecting parts stand out slightly from
 their surrounding surface. When touring European cities for the first time,
 you may use this word about 400 times a day to describe carved doors, walls,
-pedestals, graves and a host of other ruins. If you're going to use the word,
-make sure you pronounce it correctly: BAH REE-LEAF.
+pedestals, graves and a host of other ruins.
 
 
 ### base rate fallacy
@@ -1258,8 +1248,7 @@ sensitive are cloying.
 ### cockalorum
 A conceited, self-important, pretentious person. Be careful in your use of this
 word, or you'll become one. coeval Contemporary; of the same time period. Bell-
-bottoms and love beads are coeval, so are two 30-year-olds. Pronounced COH-
-EE-VAL.
+bottoms and love beads are coeval, so are two 30-year-olds.
 
 
 ### codification
@@ -1384,8 +1373,7 @@ have the courage to admit the truth about something. Pronounced CRAY-VEN.
 ### crepuscular
 Lit by twilight; dusky. Though it has an ugly sound, the word usually evokes
 a faintly romantic darkness, such as "the mountains crepuscular in the setting
-sun." The lighting in certain dim restaurants is crepuscular. Pronounced CREH-
-PUSSK-U-LAR.
+sun." The lighting in certain dim restaurants is crepuscular.
 
 
 ### crinoline
@@ -1484,8 +1472,7 @@ evergreen tree, which confuses everything.
 ### declasse
 Low-class in appearance, manners or taste; the word is generally reserved for
 those sufficiently upper-class to consider calling others low-class. Also used
-by the upper class to describe fashion that has become dated. Pronounced DAY-
-CLASS-AY.
+by the upper class to describe fashion that has become dated.
 
 
 ### decorous
@@ -1503,8 +1490,7 @@ or a political injustice.
 ### defenestration
 To throw out the window—what you sometimes feel like doing with whining
 children. It seems that such an important-sounding word should mean something
-else, which is why people will be stunned when you use it properly. Pronounced
-DEE-FENN-EH-STRAY-SHUN.
+else, which is why people will be stunned when you use it properly.
 
 
 ### degage
@@ -1549,8 +1535,7 @@ Pronounced DEE-RASS-IN-ATE.
 To see or discover something, after careful observation. A flock of birds on the
 horizon on a foggy day can be descried. Can mean literally seeing something with
 your eyes or intellectually comprehending something that is difficult. It should
-not be confused with decry, which means to put down or disparage. Pronounced
-DI-SKRY.
+not be confused with decry, which means to put down or disparage.
 
 
 ### desultory
@@ -1570,8 +1555,7 @@ destruction? Pronounced DAY- TAHNT.
 
 ### detritus
 Both a literal and figurative way of saying "debris." Empty soda cans on a beach
-are detritus; so are street punks who are looking for trouble. Pronounced DEH-
-TRY-TUS.
+are detritus; so are street punks who are looking for trouble.
 
 
 ### detumescence
@@ -1765,8 +1749,7 @@ Sincere and intense conviction. An intense and serious state of mind.
 The words of Pilate when presenting Christ to his accusers, the phrase means
 "Behold the man—here he is." It has come to be used for any vaguely similar
 contemporary circumstances. A scruffy freshman comes home from college with a
-sack full of dirty laundry and announces sarcastically, "Ecce homo." Pronounced
-ECK-AY HOE-MOE.
+sack full of dirty laundry and announces sarcastically, "Ecce homo."
 
 
 ### echolalia
@@ -1800,8 +1783,7 @@ confuse with audacious, which means having chutzpah.
 ### effete
 Various meanings include sterile and depleted, but the most common usage conveys
 decadent, fey or affected. An effete snob is someone who shuns anything remotely
-commonplace; an effete person indulges in rare or obscure pleasures. Pronounced
-EH-FEET.
+commonplace; an effete person indulges in rare or obscure pleasures.
 
 
 ### efficacious
@@ -2686,16 +2668,11 @@ make a decision can help us learn how to do it better.
 
 ### hiatus
 A break in a career or routine. Optimistic TV producers talk about a show going
-on hiatus, when they really mean that it has been canceled. Pronounce it HJ-AY-
-TI/SS. (See also lacuna.)
-
-
-### highbinder
-This is a word for swindler or confidence man. It's a particularly nice word
-because you can accuse someone of being a highbinder without insulting him—he
-probably won't know what the word means! (See also gudgeon.) Hairy. A man in
-need of a shave is hirsute. You hirsute would not describe a sticky or hairy
-situation as hirsute.
+on hiatus, when they really mean that it has been canceled. highbinder This is
+a word for swindler or confidence man. It's a particularly nice word because you
+can accuse someone of being a highbinder without insulting him—he probably won't
+know what the word means! (See also gudgeon.) Hairy. A man in need of a shave is
+hirsute. You hirsute would not describe a sticky or hairy situation as hirsute.
 
 
 ### histrionic
@@ -2791,12 +2768,8 @@ who is often cheap and miserly. Scrooge was a hunks before he met his ghosts.
 ### hyperbole
 An intentionally exaggerated exaggeration, not meant to be taken literally.
 "You're the nicest person I've ever met" might be an exaggeration, but "You're
-the nicest person in the whole wide world" is a hyperbole. Pronounced HIGH-PER-
-BO-LEE.
-
-
-### hypernym
-https://www.merriam-webster.com/dictionary/hypernym
+the nicest person in the whole wide world" is a hyperbole. hypernym https://
+www.merriam-webster.com/dictionary/hypernym
 
 
 ### hypocorism
@@ -3585,12 +3558,8 @@ https://www.merriam-webster.com/dictionary/lubricous
 
 ### lucubrate
 To burn the midnight oil—to work or study late into the night. The home office
-and the personal computer have made lucubration far easier. Pronounced LOO-
-KYEH-BRATE.
-
-
-### lugubrious
-https://www.merriam-webster.com/dictionary/lugubrious
+and the personal computer have made lucubration far easier. lugubrious https://
+www.merriam-webster.com/dictionary/lugubrious
 
 
 ### lumpen
@@ -3621,12 +3590,8 @@ pronounced MASS-EH'DWAN.
 
 ### machination
 This word really rolls off the tongue. It means a secret plot or scheme and
-has a particularly sneaky and underhanded tone. Competitive coworkers often get
-involved in machinations to move up in the office hierarchy. Pronounced MAK-IN-
-AY-SHUN.
-
-
-### macroeconomics
+has a particularly sneaky and underhanded tone. Competitive coworkers often
+get involved in machinations to move up in the office hierarchy. macroeconomics
 The study of the broad and general aspects of an economy, such as the general
 level of inflation, rather than of a particular aspect of a society's economy
 (see microeconomics).
@@ -3660,15 +3625,12 @@ fabric.
 
 ### maladroit
 This word has several meanings, none of them complimentary. It means physically
-awkward or clumsy, as well as verbally awkward in the sense of tactless. Though
-the word comes from the French, it's been anglicized to be pronounced MAL-AH-
-DROYT.
+awkward or clumsy, as well as verbally awkward in the sense of tactless.
 
 
 ### malapropism
 The confusion of similar-sounding words, usually with ridiculous results.
-"Beware the ideas of March." "It's not the heat; it's the humility." Pronounced
-MAL-AH-PROP-ISM.
+"Beware the ideas of March." "It's not the heat; it's the humility."
 
 
 ### malfeasance
@@ -3680,15 +3642,13 @@ private use, for example, is malfeasance.
 
 ### malice
 The desire to see a great deal of evil done upon another. Worse than spite or
-holding a grudge, malice is serious hatred. Pronounced mahl-iss. Rhymes with
-"Alice."
+holding a grudge, malice is serious hatred. Pronounced mahl-iss.
 
 
 ### malinger
-To pretend to be sick in order to avoid work. A child who doesn't want to go
-to school can pretend to have a sore throat. If he wants to be honest, he can
-tell his parents he's malingering and hope they don't know what the word means.
-Pronounced MA-LING-ER.
+To pretend to be sick in order to avoid work. A child who doesn't want to go to
+school can pretend to have a sore throat. If he wants to be honest, he can tell
+his parents he's malingering and hope they don't know what the word means.
 
 
 ### manque
@@ -3809,7 +3769,7 @@ with no real literary impact.
 
 ### merman
 The male version of a mermaid. We hear about them less often, but they still
-make their way into fairy tales. Merman.
+make their way into fairy tales.
 
 
 ### messianic
@@ -3836,9 +3796,8 @@ always meted). It sounds just like meat but spelled differently.
 
 
 ### metier
-This is another word for forte (see forte)—an occupation or activity in which
-a person has a particularly strong talent. However, unlike forte, which is
-pronounced fort, metier retains its French pronunciation: MET-EE-AY.
+This is another word for forte (see forte)—an occupation or activity in which a
+person has a particularly strong talent.
 
 
 ### metonymy
@@ -3846,7 +3805,7 @@ This is a figure of speech used as a stylistic device by many writers who
 probably don't know there is a name for it. When you use a metonymy, you
 substitute an attribute or an example of a thing for the thing itself, evoking
 one idea by a term that is related. "Today, the White House announced a tax
-hike," for example, or "He gave up the bottle..
+hike," for example, or "He gave up the bottle".
 
 
 ### mettle
@@ -3890,7 +3849,6 @@ great length of time: "How have you been? I haven't seen you in a millennium!"
 Someone with a character like bread dipped in milk— bland, timid, meek and
 unassertive. The word refers to the comic-strip character Caspar Milquetoast,
 created by H. T. Webster. That's why it's spelled with a qu and not with a k.
-Say MILK-TOAST.
 
 
 ### mimetic
@@ -3959,14 +3917,10 @@ Hatred of marriage, a common condition.
 
 
 ### misogyny
-Hatred of women. You can call a woman-hater a misogynist. Pronounce it M/SS-OJ-
-EN-EE.
-
-
-### misopedia
-The last of the miso- words we're going to include in this book; it means hatred
-of children, especially one's own. Certainly a good word to use on a day when
-the little ones are really getting on your nerves.
+Hatred of women. You can call a woman-hater a misogynist. misopedia The last
+of the miso- words we're going to include in this book; it means hatred of
+children, especially one's own. Certainly a good word to use on a day when the
+little ones are really getting on your nerves.
 
 
 ### mnemonic
@@ -3988,7 +3942,7 @@ A Latin phrase that means "mode of operation." Formerly used by Dick Tracy
 and the Dragnet team to describe the telltale signs a criminal leaves behind,
 it's now perfect to describe anyone who has a certain way of operating. "Don't
 worry about Marc—screaming at a meeting is part of his modus operandi." Often
-shortened to "M.O." Pronounced MOH-DUS OPP-EHR-AHN-DIE.
+shortened to "M.O."
 
 
 ### moil
@@ -4030,14 +3984,12 @@ also acerbic.)
 
 ### morose
 Moody, sullen or gloomy. Much more powerful than the overused "depressed."
-Pronounced MUH-ROHS.
 
 
 ### motile
 Capable of motion or moving. The word is used most often in microbiological
 contexts. Plants, animals and people move; cells and bacteria, for example, are
 motile. If the mold in your refrigerator turns motile, it's time to defrost.
-Pronounced MOH-T/LL.
 
 
 ### mountebank
@@ -4068,8 +4020,7 @@ Particularly appropriate to describe participants in the Mardi Gras parade.
 ### munificent
 Extremely generous and willing to give. It has a slightly different meaning than
 beneficent, which means willing to do good. Many students receive scholarships
-thanks to munificent corporate and private sponsors. Pronounced MEW-N/FF-EH-
-SENT.
+thanks to munificent corporate and private sponsors.
 
 
 ### mussitation
@@ -4112,7 +4063,6 @@ wife on one day." Sounds like Nader, as in Ralph. (See also apogee.)
 The birth or origin of a concept, an organization, a movement or an idea, as
 opposed to the renaissance, or rebirth of any of those things. The naissance of
 rock-and-roll took place in the '50s and '60s; its renaissance was in the '80s.
-Say NAY-SENSE.
 
 
 ### narcolepsy
@@ -4143,8 +4093,7 @@ MAN-SEE.
 ### nefarious
 Very evil or wicked; frequently used to describe cartoon villains. Think of the
 guy who was always tying Pauline to the railroad tracks. It's also used quite
-seriously, however: Hitler's henchmen committed nefarious acts. Pronounced NEH-
-FARE-EE-USS.
+seriously, however: Hitler's henchmen committed nefarious acts.
 
 
 ### negativity bias
@@ -4163,20 +4112,18 @@ a tendency to reject unknown or novel foods.
 
 ### neophyte
 Another way of saying "novice" or "beginner." Someone who takes up tennis for
-the first time is a neophyte. Pronounced NEE-OH-FIGHT.
+the first time is a neophyte.
 
 
 ### nepenthe
 Anything which makes someone forget sorrow, suffering or pain. For some, alcohol
-is a nepenthe for woes. Others prefer books, movies or shopping. Pronounced NIH-
-PEN-THEE.
+is a nepenthe for woes. Others prefer books, movies or shopping.
 
 
 ### nephology
 This is the scientific term for the study of clouds. The next time you decide to
 escape to a field and lie on the grass and find shapes of animals in the clouds,
-you can say you spent the afternoon studying nephology. Pronounced NEFF-OL-
-OH-JEE.
+you can say you spent the afternoon studying nephology.
 
 
 ### nepotism
@@ -4198,7 +4145,7 @@ Excessively petty or nit-picking. A job that involves endless poring over
 details is niggling work.
 
 
-### next-in line effect
+### next-in-line effect
 Cognitive bias: the phenomena of people being unable to recall information
 concerning events immediately preceding their turn to perform.
 
@@ -4207,7 +4154,7 @@ concerning events immediately preceding their turn to perform.
 Skepticism so complete that it denies there can be any objective basis for
 truth and, by extension, that there are no morals or values in the universe. A
 good word for a philosophy that annihilates just about every concept previously
-thought to exist. Pronounced NYE-EH-LISM.
+thought to exist.
 
 
 ### nirvana
@@ -4260,9 +4207,8 @@ the word came to mean all attractive, young women.
 
 
 ### nugatory
-This is not a reference to a kind of candy. The word means "worthless" or
-"insignificant." The side effects of a particularly safe medicine, for example,
-are nugatory.
+Means "worthless" or "insignificant." The side effects of a particularly safe
+medicine, for example, are nugatory.
 
 
 ### nympholepsy
@@ -4285,8 +4231,7 @@ you—tell her to stop obfuscating.
 Like the angle in geometry, which includes lines which are neither parallel
 nor perpendicular, the word refers to things that are not straight or
 straightforward, but indirect. An oblique reference does not directly address
-the true subject but alludes to it in a secondary or slightly obscure way. It's
-pronounced OH-BLEEK.
+the true subject but alludes to it in a secondary or slightly obscure way.
 
 
 ### oblivescence
@@ -4395,7 +4340,7 @@ EH-SENT.
 ### oniomania
 An irrepressible urge to buy things; the kind of condition that inspires
 astronomical credit card bills and t-shirt slogans like: "When the going gets
-tough, the tough go shopping." Pronounced OHN-EE-OH-MAIN-EE-A.
+tough, the tough go shopping."
 
 
 ### onomatopoeia
@@ -4503,8 +4448,7 @@ glitter. Now you know what those sparkly things are called!
 
 ### paladin
 A brave knight or a chivalrous champion; a good word to use for that person
-you've been hoping will ride in on a white horse and save the day. When that
-savior rides in, call him or her a PAL-AH-D/N.
+you've been hoping will ride in on a white horse and save the day.
 
 
 ### palaver
@@ -4535,10 +4479,9 @@ crying child a lollipop after an allergy shot has a palliative effect.
 
 
 ### panacea
-A cure for all ills. Since nothing is a cure-all, the word is usually used
-in the negative, as in: "The new government policy is not a panacea for all
-of society's ills, but it will relieve certain economic burdens of the poor."
-Pronounced PAN-A-SEE-AH.
+A cure for all ills. Since nothing is a cure-all, the word is usually used in
+the negative, as in: "The new government policy is not a panacea for all of
+society's ills, but it will relieve certain economic burdens of the poor."
 
 
 ### pandemic
@@ -4587,14 +4530,13 @@ areas.
 ### paralogize
 This odd verb means "to draw illogical conclusions from a series of facts." An
 example: after being told about a pet that barks, likes bones, chases cats and
-wags its tail, you say, "Oh, I didn't know you had a parrot." It's pronounced
-PAR-AHL-OH-J/ZE.
+wags its tail, you say, "Oh, I didn't know you had a parrot."
 
 
 ### paraph
 The word for the elaborate flourishes people add to their signatures to make
 them unique. Think John Hancock. In this age of Bic pens, they're rapidly
-disappearing. Pronounced PAR-EFF or PAR-EFF. (See also idiograph.)
+disappearing.
 
 
 ### paravalent
@@ -4618,13 +4560,13 @@ which, while often parochial, may not be.
 
 ### paroxysm
 A fit or outburst, often of emotion, as in: "The comedian inspired the crowd to
-paroxysms of laughter." Pronounced PAHR-OX-JZM.
+paroxysms of laughter."
 
 
 ### parure
 A matched set of jewelry, such as earrings and a necklace; the kind of word seen
 most often on museum cards and in auction catalogues. Save the word for when
-you're talking about diamonds and emeralds—not Bakelite. Pronounced PUH-ROOR.
+you're talking about diamonds and emeralds—not Bakelite.
 
 
 ### parvenu
@@ -4633,18 +4575,13 @@ who has recently acquired money or social status, but has not yet acquired the
 appropriate style or manner. The word can also be used to describe any newcomer
 to a situation who has not yet learned to handle his role or responsibility,
 such as a young worker who gets a big promotion and acts obnoxious and superior
-around the people who were his closest colleagues the day before. Pronounced
-PAR-VEN-YOO. (See also arriviste.)
-
-
-### pasquinade
+around the people who were his closest colleagues the day before. pasquinade
 https://www.merriam-webster.com/dictionary/pasquinade
 
 
 ### passementerie
-The squiggly, braided trimming you see on clothing such as matador's suits,
-felt sombreros or other clothing. (How did you live without knowing that?) It's
-pronounced PASS-A-MENT-A/R-EE.
+The squiggly, braided trimming you see on clothing such as matador's suits, felt
+sombreros or other clothing.
 
 
 ### pastiche
@@ -4693,7 +4630,7 @@ a peccadillo.
 ### peccant
 This does not mean spicy and flavorful; that's piquant (see piquant). Guilty
 of a moral sin. Perhaps the woman who had a peccadillo (see above) could be
-considered peccant. Pronounced PECK-ANT.
+considered peccant.
 
 
 ### pedagogue
@@ -4716,8 +4653,7 @@ call it pellucid.
 ### penicil
 No, it's not a writing implement. In fact, it's the kind of short, bristly
 tufts of hair or fur you find along the backs of caterpillars. A great word for
-crossword puzzles or for teasing a friend who just got a punk haircut. Say PEN-
-L-S/LL.
+crossword puzzles or for teasing a friend who just got a punk haircut.
 
 
 ### pentimento
@@ -4785,8 +4721,7 @@ book in no particular order. (See also peregrinate.)
 
 ### perorate
 This word is a mouthful, as is its meaning, which is: to make a lengthy speech,
-often summarizing everything that's been said before. When you try, say PER-
-UH-RATE.
+often summarizing everything that's been said before.
 
 
 ### perquisite
@@ -4796,12 +4731,11 @@ vacation time; fringe benefits.
 
 
 ### persevere
-To persist. Never give up. Not spelled perservere, a common error. Say PURR-S/
-H-VEER.
+To persist. Never give up. Not spelled perservere, a common error.
 
 
 ### persiflage
-Light banter. (See also bavardage.) Pronounced PER-SIF'LAJ.
+Light banter. (See also bavardage.)
 
 
 ### perspicacious
@@ -4814,9 +4748,11 @@ Clearly expressed, easy to understand; lucid.
 
 ### pertinacious
 Holding firmly to a belief or opinion; unwilling to be drawn away from a
-previously held idea. (See also obdurate.) Pronounced PERT-IN-AY-SHUSS. peruse
-To review thoroughly, study carefully. Often misused to mean "skim." Say PURR-
-OOZE.
+previously held idea. (See also obdurate.)
+
+
+### peruse
+To review thoroughly, study carefully. Often misused to mean "skim."
 
 
 ### pestle
@@ -4833,8 +4769,7 @@ niggler).
 
 ### pharisee
 A sanctimonious, self-righteous hypocrite; someone who loudly criticizes others
-for behavior he engages in himself. Say FAIR-fS-HE, even though he's not fair
-at all.
+for behavior he engages in himself.
 
 
 ### phatic
@@ -4860,8 +4795,7 @@ spouses deliver philipics against erring partners. Pronounced PHIL-IPP-ICK.
 ### philistine
 An uncultured person; someone who has no interest or knowledge of art or
 civilization. Someone who'd rather go skateboarding than to a museum would be
-considered funloving by some and a philistine by others. If you don't want to
-sound like a philistine, pronounce it FILL-ISS-TEEN.
+considered funloving by some and a philistine by others.
 
 
 ### philobat
@@ -4873,7 +4807,7 @@ tough job in sales.
 ### picaresque
 Roguish or devilish. Don Quixote was the original picaresque character (see
 quixotic). Take care to distinguish from picturesque, which describes pleasant
-scenery. Pronounced PICK-AH-REHSK.
+scenery.
 
 
 ### piebald
@@ -4885,7 +4819,7 @@ Ben and Jerry's ice-cream containers.
 ### pilaster
 A fancy word for a fake column, the kind that doesn't stand freely, but runs
 along the walls of rooms that are trying to resemble the Colosseum in Rome or an
-ancient Greek ruin. Pronounce PIE-LASS-TER.
+ancient Greek ruin.
 
 
 ### pindlin
@@ -4905,7 +4839,6 @@ like a pintle and gudgeon."
 Not to be confused with peccant (see peccant). A pleasantly sharp or spicy
 flavor. Good marinara sauce, Cajun ribs, Szechwan beef and chicken Vindaloo are
 all piquant. Classier than saying "hot," and having to explain you mean spicy.
-Pronounced (once your mouth cools down) PEEK-ANT OR PEEK-UNT.
 
 
 ### pismire
@@ -5008,16 +4941,14 @@ different subjects; a well-educated, intelligent person with eclectic interests.
 
 ### polymorphous
 Occurring in any number of varied forms, such as the voice of a mockingbird
-which can imitate other birds or the changing colors of a chameleon. Say POL-EE-
-MORF-us.
+which can imitate other birds or the changing colors of a chameleon.
 
 
 ### polysemous
 Ambiguous in the sense of having several different meanings. An artfully concise
 book title that could be interpreted in several different ways is polysemous.
 Abraham Lincoln's famous book review, "People who like this sort of thing will
-find this the sort of thing they like" is polysemous. Pronounce it POLL-EE-
-SEEM-us.
+find this the sort of thing they like" is polysemous.
 
 
 ### pontificate
@@ -5050,7 +4981,6 @@ describe words that combine or blend other words like "smog" or "docudrama."
 Not to be confused with a pastiche (see pastiche). A postiche is a superfluous
 ornament, usually added to a sculpture or work that is already finished. Think
 of adding earrings to the Statue of Liberty or a mustache to the Mona Lisa.
-Pronounced POST -EESH.
 
 
 ### postpositive
@@ -5085,13 +5015,9 @@ discussed. Pronounced PRAY-SEE.
 
 
 ### predicable
-Something that can be stated as true or that can be proved. Pronounced PRED-IK-
-AH-BULL.
-
-
-### predormition
-The period of semiconsciousness before sleep, when you either begin to dream or
-to worry (in which case you may not sleep at all).
+Something that can be stated as true or that can be proved. predormition The
+period of semiconsciousness before sleep, when you either begin to dream or to
+worry (in which case you may not sleep at all).
 
 
 ### preponderant
@@ -5117,12 +5043,8 @@ pronounced PREE-TER-HYOO-MAN.
 
 ### preternatural
 Beyond the course of nature—almost supernatural. The forest can be
-preternaturally quiet—so quiet that it's not natural. Pronounced PREE-TER-NATCH-
-OO R-UL.
-
-
-### prevaricate
-Not quite fibbing, but close. When you prevaricate, you make vague or misleading
+preternaturally quiet—so quiet that it's not natural. prevaricate Not quite
+fibbing, but close. When you prevaricate, you make vague or misleading
 statements without telling an outright falsehood. If you don't want to go
 somewhere and you're feeling healthy, "I can't make it tonight. I'm sick" is a
 lie; "I'm not sure I can make it tonight. I'll get there if I can but don't wait
@@ -5143,25 +5065,19 @@ Rhymes with simmer.
 
 ### primogenitor
 Often confused to mean first-born or heir apparent. In fact, it means ancestor.
-Pronounced PR/ME-OH- JEN-IT-OR. When something is pristine, it retains its
-original or pure form.
 
 
 ### pristine
 Most commonly, works of art or antiques in perfect condition are described as
-pristine. A photograph that has no creases, tears or stains is pristine. Say
-PRISS-TEEN.
+pristine. A photograph that has no creases, tears or stains is pristine. When
+something is pristine, it retains its original or pure form.
 
 
 ### proactive
 Often misused to mean "active." It means the opposite of reactive. Action that
 is proactive precedes, even promotes or prevents, a situation. Politicians
 are reactive; good chess players are proactive. probity Honesty; integrity;
-incorruptibility. Has nothing to do with probability or wills. Pronounced PROH-
-BIT-EE.
-
-
-### probity
+incorruptibility. Has nothing to do with probability or wills. probity
 Integrity, especially of the quality of having strong moral principles; decency
 and honesty. Synonyms: godliness, goodness, honour, righteousness, saintliness,
 uprightness, virtue. Antonym: wickedness
@@ -5951,12 +5867,8 @@ staring contemptuously and you've got it—a sniffish snob.
 The Yuppie hairband made famous by Hillary Clinton is called a snood. Also a
 netlike cap worn by women. A snood was originally a badge of virginity. Now it
 just keeps your hair out of your eyes. Rhymes with food. Moniker, another word
-for nickname. Chicago's sobriquet sobriquet is "The Windy City." Pronounced
-SOH-BRICK'AY.
-
-
-### sociopath
-A favorite insult to hurl at selfish, nasty, ungenerous and unthoughtful people,
+for nickname. Chicago's sobriquet sobriquet is "The Windy City." sociopath A
+favorite insult to hurl at selfish, nasty, ungenerous and unthoughtful people,
 the word is a clinical term meaning someone who is hostile to society. Serial
 killers are often sociopaths.
 
@@ -5979,10 +5891,9 @@ or reading poetry. It has come to be used to mean any party held at night.
 
 
 ### solecism
-Any mistake or inconsistency, including a grammatical error. A person who says
-"who" when he should say "whom," or "me" when he should say "I," speaks in
-solecisms. It's pronounced SOLL-EH-SIZ-EM. To pronounce it any other way would
-be a solecism.
+Any mistake or inconsistency, including a grammatical error. A person who
+says "who" when he should say "whom," or "me" when he should say "I," speaks
+in solecisms.
 
 
 ### solipsism

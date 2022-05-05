@@ -453,7 +453,6 @@ hermaphrodite
 heterodox
 heuristic
 hiatus
-highbinder
 histrionic
 hoary
 Hobson's choice
@@ -470,7 +469,6 @@ hubris
 huggermugger
 hunks
 hyperbole
-hypernym
 hypocorism
 hyponym
 hypothesis
@@ -605,13 +603,11 @@ loup
 lubricious
 lubricous
 lucubrate
-lugubrious
 lumpen
 lurid
 lysophobia
 macedoine
 machination
-macroeconomics
 madrilene
 magna cum laude
 magniloquent
@@ -668,7 +664,6 @@ miscegenation
 miscreant
 misogamy
 misogyny
-misopedia
 mnemonic
 mo
 modus operandi
@@ -706,7 +701,7 @@ nephology
 nepotism
 nethermost
 nettlesome
-next-in line effect
+next-in-line effect
 nihilism
 nirvana
 niveous
@@ -779,7 +774,6 @@ parochial
 paroxysm
 parure
 parvenu
-pasquinade
 passementerie
 pastiche
 pathetic fallacy
@@ -812,6 +806,7 @@ persiflage
 perspicacious
 perspicuous
 pertinacious
+peruse
 pestle
 pettifogger
 pharisee
@@ -858,19 +853,16 @@ precept
 preciosity
 precis
 predicable
-predormition
 preponderant
 prepossess
 presage
 preterhuman
 preternatural
-prevaricate
 prima facie
 primer
 primogenitor
 pristine
 proactive
-probity
 profligacy
 prognosticate
 projection bias
@@ -1012,7 +1004,6 @@ slubber
 smarmy
 sniffish
 snood
-sociopath
 sodality
 soigne
 soiree
