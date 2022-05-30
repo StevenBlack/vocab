@@ -1912,9 +1912,9 @@ American South; muggings are endemic to large urban environments.
 
 
 ### enervate
-Even though this word sounds as if it denotes "tofrom epidemic. excite or make
-nervous," it means the opposite— to weaken or take away the energy. A long and
-boring lecture can be very enervating, making an audience fall asleep.
+Even though this word sounds as if it denotes "to make nervous," it means the
+opposite— to weaken or take away the energy. A long and boring lecture can be
+very enervating, making an audience fall asleep.
 
 
 ### enigma
@@ -4444,8 +4444,8 @@ shrimp" and "deposed Presidentfor-Life."
 
 ### padnag
 Literally, it means an old, slow horse, like a nag, but it's a good word for
-describing an old piece of wellloved but slow office equipment, or a broken-down
-car that still gets around.
+describing an old piece of well loved but slow office equipment, or a broken-
+down car that still gets around.
 
 
 ### paillette
@@ -5122,10 +5122,11 @@ in big trouble for stealing fire from Mount Olympus and giving it to mankind.
 
 
 ### propinquity
-Closeness or nearness, either physically (as in proximity) or spiritually (as in
-affinity). Something lying right next to something else is in propinquity to it;
-two people who share spiritual, philosophical or intellectual ideas also have
-a propinquity.
+Social psychology: Closeness or nearness, either physically (as in proximity) or
+spiritually (as in affinity). Something lying right next to something else is in
+propinquity to it; two people who share spiritual, philosophical or intellectual
+ideas also have a propinquity. The physical or psychological proximity between
+people.
 
 
 ### prosaic
