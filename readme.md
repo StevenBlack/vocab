@@ -4422,8 +4422,10 @@ up frequently in fairy tales that feature monsters. Fair maidens and princesses
 are always being thrown into oubliettes by evil monsters.
 
 
-### ounctilious
-https://www.merriam-webster.com/dictionary/ounctilious
+### Overton Window
+The Overton window is the range of policies politically acceptable to the
+mainstream population at a given time.[1] It is also known as the window of
+discourse.
 
 
 ### ovine
@@ -5193,9 +5195,9 @@ person of breathtaking, heartbreaking beauty is pulchritudinous.
 
 
 ### punctilious
-Not someone who knows where to put punctuation— although it could be. A
-punctilious person is someone who is meticulous and pays attention to details,
-punctuation or otherwise.
+A punctilious person is someone who is meticulous and pays attention to details,
+punctuation or otherwise. Marked by or concerned about precise accordance with
+the details of codes or conventions
 
 
 ### purlieu
