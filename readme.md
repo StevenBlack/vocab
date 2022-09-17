@@ -505,12 +505,12 @@ Characterized by or given to drunken revelry; riotously drunken.
 ### badinage
 Playful, teasing banter, the kind of conversation that makes English drawing-
 room comedy so much fun to watch, even though there's no action. Best done by
-Tracy and Hepburn. Pronounced BAH-DEH-NAHJ .
+Tracy and Hepburn.
 
 
 ### Baedeker
 A publisher of very good travel books. The word has come to describe any
-complete travel guide. Pronounced BAY-DIK-ER.
+complete travel guide.
 
 
 ### bagatelle
@@ -522,7 +522,6 @@ a knickknack or a small good deed.
 In one's area of interest or authority; the word derives from the area in
 which a bailiff, a minor court officer, presides. When the V.P. of Sales starts
 walking around the factory, complain that she's stepping into your bailiwick.
-Say it BALE-EE-WIK.
 
 
 ### baleful
@@ -534,7 +533,7 @@ fellow human beings was baleful.
 ### balletomane
 A ballet-lover, who for some reason is not called a balletophile. While we're
 on the topic, if a female ballet star is called a ballerina, why don't they call
-Barishnykov a ballerino? (Just wondering.) Pronounced BAH-LET-EH-MANE.
+Barishnykov a ballerino? (Just wondering.)
 
 
 ### baluster
@@ -544,7 +543,6 @@ you don't have to call it a thingee any longer!)
 
 ### balustrade
 A banister plus all the balusters (see above) that hold up the banister.
-Pronounced BAL-UH-STRAYDE.
 
 
 ### barm
@@ -616,7 +614,7 @@ To deceive or delude (using guile); to charm, delight or captivate; to cause
 ### bel-esprit
 A verbal, witty, intellectually lively person; the person at the party who's
 telling an amusing little story to a circle of delighted hangers-on. The
-personality shy people covet. Pronounce the word BELL-ESS-PREE.
+personality shy people covet.
 
 
 ### bellwether
@@ -662,7 +660,6 @@ biases on one's own judgment.
 
 ### bibelot
 pot that decorates a coffeetable or bookcase. Better than a knickknack.
-Pronounced BIB-LO.
 
 
 ### biblioclast
@@ -681,7 +678,7 @@ a soda.
 ### bifurcate
 To split into two parts or branches; to fork. Though you can say that a road is
 bifurcated, and you can certainly bifurcate a crab before you eat it, the word
-is most often used to describe ideas or concepts. Pronounced BYE-FUR-KATE.
+is most often used to describe ideas or concepts.
 
 
 ### biggin
@@ -1160,20 +1157,18 @@ mental state.)
 
 ### chrysalis
 The pupa of a butterfly. The word has come to connote any person or thing in
-the process of being born. An adolescent on the verge of self-discovery could be
-in a chrysalis state; a novel in the early stages of creation could be called a
-chrysalis. Pronounced CHRISS-A-LISS.
+the process of being born. An adolescent on the verge of self-discovery could
+be in a chrysalis state; a novel in the early stages of creation could be called
+a chrysalis.
 
 
 ### cicatrix
-Not what happens when a kid gets tired of his favorite breakfast cereal; it's
-the scar that forms on a healed wound, the marks from childhood mishaps that
-cover the knees of most adults.
+The scar that forms on a healed wound.
 
 
 ### cicerone
 A guide who escorts tourists or sightseers, such as the gondoliers of Venice or
-the people who lead walking tours in most cities. Pronounced SISS-A-RO-NEE.
+the people who lead walking tours in most cities.
 
 
 ### cinerary
@@ -1185,7 +1180,7 @@ cinerary urn"
 A roundabout way of saying something; using too many words and complicated
 expressions. A person who wants to avoid answering certain questions or offering
 certain opinions is inclined to use circumlocution. A good way of disguising
-choplogic (see chopbgic). Pronounced SIR-KUM-LOH-CU-SHUN.
+choplogic (see chopbgic).
 
 
 ### circumscribe
@@ -1193,20 +1188,19 @@ To create limits or define boundaries; to establish definite means or
 procedures. At recess, for example, children can play in circumscribed ways:
 they can throw balls but not rocks; they can play tag but not hit each other.
 Also, the scope of your research might be circumscribed by the availability of
-time or money. Pronounced SIR-kum-scribe.
+time or money.
 
 
 ### clamjamfry
 Ordinary people or the collective mob; politicians walk among the clamjamfry to
-shake hands and kiss babies. Pronounce the word CLAM-JAM-FREE.
+shake hands and kiss babies.
 
 
 ### clarion
 A shrill-sounding trumpet used as a signal in war. The word has come to be used
 metaphorically to describe any obvious warning of things to come— often a bad
 event. "When the guest arrived and rearranged the furniture in the guest room,
-it was a clarion call that a difficult visit was ahead." Pronounced CLARE-EE-ON.
-(See also vuarison.)
+it was a clarion call that a difficult visit was ahead."
 
 
 ### clemency
@@ -1267,7 +1261,7 @@ https://www.merriam-webster.com/dictionary/cogitation
 Conversation, more like a formal dialogue than a casual chat. The kind of thing
 that goes on between a talk show host and his guest, or between two speakers
 at a symposium; hence the academic word colloquium. One doesn't usually have a
-colloquy with a friend on the telephone. Pronounced CAHL-OH-KWEE.
+colloquy with a friend on the telephone.
 
 
 ### colophon
@@ -1361,13 +1355,12 @@ pampering. You can cosset a child by carrying him instead of letting him walk.
 
 ### cozen
 To defraud or trick. Usually less serious than downright fraud. Scalpers cozen
-their clients by charging outrageous rates for last-minute tickets. Rhymes with
-dozen: CUZ-/N.
+their clients by charging outrageous rates for last-minute tickets.
 
 
 ### craven
 Very cowardly, with a connotation of moral disapproval. A craven liar doesn't
-have the courage to admit the truth about something. Pronounced CRAY-VEN.
+have the courage to admit the truth about something.
 
 
 ### crepuscular
@@ -1377,7 +1370,10 @@ sun." The lighting in certain dim restaurants is crepuscular.
 
 
 ### crinoline
-https://www.merriam-webster.com/dictionary/crinoline
+A crinoline is a stiff or structured petticoat designed to hold out a woman's
+skirt, popular at various times since the mid-19th century. Originally,
+crinoline described a stiff fabric made of horsehair and cotton or linen which
+was used to make underskirts and as a dress lining.
 
 
 ### cromulent
@@ -1404,7 +1400,7 @@ humor. Hitler was evil. Scrooge was a curmudgeon.
 
 
 ### curriculum
-https://www.merriam-webster.com/dictionary/curriculum
+The set of courses constituting an area of specialization.
 
 
 ### cygnet
@@ -1427,7 +1423,7 @@ had three-toed feet (get it?). Rhymes with fractal.
 A movement of art that hypothesized, "since art is everything, everything is
 art." That's why there are urinals and baseballs on exhibit in art museums. Not
 limited to the visual arts; use dada to describe any approach that is silly,
-stupid or ridiculous. Assonant with mama (see assonnance).
+stupid or ridiculous.
 
 
 ### daymare
@@ -1436,17 +1432,14 @@ during the daytime.
 
 
 ### de facto
-Actually existing; a matter of fact. If the president of the company is on his
-yacht, the vice president becomes the de facto leader of the company. On the
-other hand, if the president of the company is on the vice-president's yacht, he
-becomes the de facto captain.
+Actually existing; a matter of fact.
 
 
 ### de profundis
 A Latin phrase for "out of the depths." Someone is pulled de profundis from
 sleep, meditation or thought. It has nothing to do with "profound," which makes
 the word an excellent excuse for why you weren't paying attention to whomever
-was speaking to you. Pronounced DAY PRO-FUND-ISS.
+was speaking to you.
 
 
 ### de trop
@@ -1478,7 +1471,7 @@ by the upper class to describe fashion that has become dated.
 ### decorous
 Proper, elegant in behavior and attitude. The proper decorum at a wedding
 does not include making bird calls or doing your Rodney Dangerfield imitation
-(regardless of how good it is). Pronounced DECK-OR-US.
+(regardless of how good it is).
 
 
 ### decry
@@ -1501,7 +1494,9 @@ degage.
 
 
 ### delusion
-https://www.merriam-webster.com/dictionary/delusion
+Something that is falsely or delusively believed or propagated. a persistent
+false psychotic belief regarding the self or persons or objects outside the self
+that is maintained despite indisputable evidence to the contrary
 
 
 ### demagogue
@@ -1559,7 +1554,7 @@ are detritus; so are street punks who are looking for trouble.
 
 
 ### detumescence
-https://www.merriam-webster.com/dictionary/detumescence
+Subsidence or diminution of swelling or erection
 
 
 ### deus ex machina
@@ -3028,6 +3023,10 @@ Mysterious; difficult to understand or fully grasp. A great catch-all word
 that can be applied to people, ideas, written works or life in general.
 Obscure philosophers are inscrutable; shy people who don't talk much are often
 inscrutable.
+
+
+### insipid
+Uninteresting. Plain. Boring.
 
 
 ### insouciance
@@ -6245,17 +6244,15 @@ all are.
 
 
 ### telegenic
-Sounds like a fortuneteller or someone with supernatural powers, but it's
-not. Someone who is telegenic looks good on television or, to use the more
-contemporary phrase, is videogenic.
+Someone who looks good on television.
 
 
 ### teleology
 The belief that all things in nature are created for a particular purpose.
 Evolution is all about teleology— the duckbilled platypus has developed a
 duckbill because it is useful in an overall natural design. Misused, this
-reasoning can give rise to statements like, "If man were meant to fly, he'd have
-wings." Pronounced TEL-EE-AHL-OH-JEE.
+reasoning can give rise to statements like, "If man were meant to fly, he'd
+have wings."
 
 
 ### temblor
@@ -6282,7 +6279,7 @@ purpose, especially a controversial one.
 
 ### tenebrous
 Gloomy and dark. Stormy skies are tenebrous. So are the expressions on the faces
-of depressed people. Pronounced TEN-EB-RUSS.
+of depressed people.
 
 
 ### tergiversation
@@ -6480,13 +6477,7 @@ ubiquitous.
 
 
 ### ultramarine
-Not an underwater superhero. Deep blue in color. To howl like a dog, hoot like
-an owl or wail like a
-
-
-### ululate
-coyote—the kind of sound friends make at 2:00 in the morning when they leave a
-bar, link arms and look up at the moon.
+Deep blue in color.
 
 
 ### umbrage
@@ -6514,7 +6505,7 @@ restaurant without shoes on is unseemly behavior.
 
 ### untoward
 Very close to unseemly (see above). Untoward behavior is improper, not so much a
-question of good taste as of being rude. Pronounced UN-TORD.
+question of good taste as of being rude.
 
 
 ### urbane
