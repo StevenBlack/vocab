@@ -2575,9 +2575,8 @@ be spelled with an e on the end.
 
 
 handsel
-Not Gretel's brother; there's no d in his name. A gift or present that is
-meant to bring good luck, such as a bottle of champagne to the owner of a new
-restaurant.
+A gift or present that is meant to bring good luck, such as a bottle of champagne
+to the owner of a new restaurant.
 
 
 haptics
@@ -2664,6 +2663,8 @@ make a decision can help us learn how to do it better.
 hiatus
 A break in a career or routine. Optimistic TV producers talk about a show going
 on hiatus, when they really mean that it has been canceled.
+
+
 highbinder
 This is a word for swindler or confidence man. It's a particularly nice word
 because you can accuse someone of being a highbinder without insulting him—he
@@ -2742,10 +2743,6 @@ hot spur
 A rash, impetuous person who is volatile, hottempered, and easily spurred
 to violence. There's some generosity in the insult; it's kinder than calling
 someone a homicidal maniac.
-
-
-https://www.merriam-webster.com/dictionary/imperative
-
 
 hubris
 Excessive pride; proud to a fault. Originally used to describe the flaw of mere
@@ -2894,6 +2891,10 @@ inappropriateness
 implacable
 Not to be pleased, convinced or reconciled. Implacable carries with it more
 class than stubborn.
+
+
+imperative
+Necessary; not to be avoided or evaded; expressive of a command.
 
 
 importune
@@ -3138,10 +3139,9 @@ a jape!"
 
 
 jejune
-This word has nothing to do with the month in which everyone gets married. It
-means dull and uninteresting, immature and lacking in wisdom. Adolescents are
-notorious for being considered jejune by adults and for considering everybody,
-adults included, jejune.
+Dull and uninteresting, immature and lacking in wisdom. Adolescents are notorious
+for being considered jejune by adults and for considering everybody, adults
+included, jejune.
 
 
 jerry-built
@@ -3226,14 +3226,11 @@ do the same thing.
 
 
 kegler
-It sounds like a kegler might be a person who drinks a lot of beer, but in fact
-it's a person who bowls, such as Ralph Kramden of "The Honeymooners." So, it may
-in fact be a person who drinks a lot of beer.
+A person who bowls (bolwing).
 
 
 ken
 Area of expertise or authority. '"That's outside my ken,' said the detective."
-Rhymes with Ken.
 
 
 kente
@@ -3274,7 +3271,7 @@ you refer to them as your kith and kin.
 
 
 knave
-A tricky deceitful perso..
+A tricky deceitful person.
 
 
 knell
