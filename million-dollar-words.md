@@ -638,7 +638,7 @@ just cut you off.
 
 
 ### beset
-to set or stud with or as if with ornaments; example: a crown beset with rubies.
+To set or stud with or as if with ornaments; example: a crown beset with rubies.
 Trouble, harass, assail.
 
 
@@ -659,7 +659,7 @@ biases on one's own judgment.
 
 
 ### bibelot
-pot that decorates a coffeetable or bookcase. Better than a knickknack.
+Pot that decorates a coffeetable or bookcase. Better than a knickknack.
 
 
 ### biblioclast
@@ -981,8 +981,7 @@ Milo. (Not a bug; that's a katydid.)
 ### castrophenia
 Believing that your thoughts are being stolen by your competitors. Screenwriters
 often suffer from castrophenia when they see that the movie they were just about
-to write has appeared in neighborhood theaters. Not Castrophilia—that's love of
-Fidel Castro, in case you were interested.
+to write has appeared in neighborhood theaters.
 
 
 ### casuistry
@@ -1275,7 +1274,7 @@ https://www.merriam-webster.com/dictionary/columbarium
 
 
 ### comminate
-https://www.merriam-webster.com/dictionary/comminate
+To threaten with divine punishment
 
 
 ### compendious
@@ -1291,7 +1290,8 @@ person would probably expect to be served by a complaisant person.
 
 
 ### concise
-https://www.merriam-webster.com/dictionary/concise
+Marked by brevity of expression or statement : free from all elaboration and
+superfluous detail.
 
 
 ### concocted
@@ -1320,7 +1320,9 @@ neglecting indirect testing.
 
 
 ### conjecture
-https://www.merriam-webster.com/dictionary/conjecture
+Inference formed without proof or sufficient evidence. A conclusion deduced by
+surmise or guesswork. In mathematics: a proposition before it has been proved
+or disproved.
 
 
 ### consanguinity
