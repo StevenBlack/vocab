@@ -1364,7 +1364,10 @@ sun." The lighting in certain dim restaurants is crepuscular.
 
 
 crinoline
-https://www.merriam-webster.com/dictionary/crinoline
+A crinoline is a stiff or structured petticoat designed to hold out a woman's
+skirt, popular at various times since the mid-19th century. Originally, crinoline
+described a stiff fabric made of horsehair and cotton or linen which was used to
+make underskirts and as a dress lining.
 
 
 cromulent
@@ -1391,7 +1394,7 @@ humor. Hitler was evil. Scrooge was a curmudgeon.
 
 
 curriculum
-https://www.merriam-webster.com/dictionary/curriculum
+The set of courses constituting an area of specialization.
 
 
 cygnet
@@ -1484,7 +1487,9 @@ degage.
 
 
 delusion
-https://www.merriam-webster.com/dictionary/delusion
+Something that is falsely or delusively believed or propagated. a persistent
+false psychotic belief regarding the self or persons or objects outside the
+self that is maintained despite indisputable evidence to the contrary
 
 
 demagogue
@@ -1540,8 +1545,9 @@ detritus
 Both a literal and figurative way of saying "debris." Empty soda cans on a beach
 are detritus; so are street punks who are looking for trouble.
 
+
 detumescence
-https://www.merriam-webster.com/dictionary/detumescence
+Subsidence or diminution of swelling or erection
 
 
 deus ex machina
