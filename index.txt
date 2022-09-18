@@ -454,6 +454,7 @@ hermaphrodite
 heterodox
 heuristic
 hiatus
+highbinder
 histrionic
 hoary
 Hobson's choice
@@ -465,7 +466,6 @@ honorarium
 hoodoo
 hortatory
 hot spur
-https://www.merriam-webster.com/dictionary/imperative
 hubris
 huggermugger
 hunks
@@ -490,6 +490,7 @@ imminent
 immure
 impecunious
 imperative
+imperative
 impertinence
 implacable
 implicit stereotypes
@@ -505,6 +506,7 @@ incubus
 inculpate
 indefectible
 indemnity
+indulgences
 ineffable
 infamous
 ingenue

@@ -2584,9 +2584,8 @@ be spelled with an e on the end.
 
 
 ### handsel
-Not Gretel's brother; there's no d in his name. A gift or present that is
-meant to bring good luck, such as a bottle of champagne to the owner of a new
-restaurant.
+A gift or present that is meant to bring good luck, such as a bottle of
+champagne to the owner of a new restaurant.
 
 
 ### haptics
@@ -2672,11 +2671,15 @@ make a decision can help us learn how to do it better.
 
 ### hiatus
 A break in a career or routine. Optimistic TV producers talk about a show going
-on hiatus, when they really mean that it has been canceled. highbinder This is
-a word for swindler or confidence man. It's a particularly nice word because you
-can accuse someone of being a highbinder without insulting him—he probably won't
-know what the word means! (See also gudgeon.) Hairy. A man in need of a shave is
-hirsute. You hirsute would not describe a sticky or hairy situation as hirsute.
+on hiatus, when they really mean that it has been canceled.
+
+
+### highbinder
+This is a word for swindler or confidence man. It's a particularly nice word
+because you can accuse someone of being a highbinder without insulting him—he
+probably won't know what the word means! (See also gudgeon.) Hairy. A man in
+need of a shave is hirsute. You hirsute would not describe a sticky or hairy
+situation as hirsute.
 
 
 ### histrionic
@@ -2745,10 +2748,6 @@ effort to convince the boys to join the army.
 A rash, impetuous person who is volatile, hottempered, and easily spurred
 to violence. There's some generosity in the insult; it's kinder than calling
 someone a homicidal maniac.
-
-
-### https://www.merriam-webster.com/dictionary/imperative
-
 
 
 ### hubris
@@ -2889,6 +2888,10 @@ unavoidable obligation or requirement; necessity: "It is an imperative that we
 help defend friendly nations."
 
 
+### imperative
+Necessary; not to be avoided or evaded; expressive of a command.
+
+
 ### impertinence
 The quality or state of being impertinent: such as incivility, insolence,
 inappropriateness
@@ -2976,6 +2979,11 @@ Insurance or compensation against loss. You can indemnify someone against
 damages that may occur because of your actions. For movie buffs, double
 indemnity is an insurance phrase for a double pay-off in certain instances—
 murder, for example.
+
+
+### indulgences
+In the teaching of the Catholic Church, an indulgence is "a way to reduce the
+amount of punishment one has to undergo for sins".
 
 
 ### ineffable
@@ -3141,8 +3149,7 @@ a jape!"
 
 
 ### jejune
-This word has nothing to do with the month in which everyone gets married. It
-means dull and uninteresting, immature and lacking in wisdom. Adolescents are
+Dull and uninteresting, immature and lacking in wisdom. Adolescents are
 notorious for being considered jejune by adults and for considering everybody,
 adults included, jejune.
 
@@ -3229,14 +3236,11 @@ do the same thing.
 
 
 ### kegler
-It sounds like a kegler might be a person who drinks a lot of beer, but in fact
-it's a person who bowls, such as Ralph Kramden of "The Honeymooners." So, it may
-in fact be a person who drinks a lot of beer.
+A person who bowls (bolwing).
 
 
 ### ken
 Area of expertise or authority. '"That's outside my ken,' said the detective."
-Rhymes with Ken.
 
 
 ### kente
@@ -3277,7 +3281,7 @@ you refer to them as your kith and kin.
 
 
 ### knave
-A tricky deceitful perso..
+A tricky deceitful person.
 
 
 ### knell
