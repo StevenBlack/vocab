@@ -902,6 +902,7 @@ quotidian
 raconteur
 raffish
 raillery
+rakish
 rallentando
 ramekin
 randy
@@ -942,7 +943,6 @@ roman a clef
 roue
 rubric
 rubricate
-rumbelow
 ruthful
 sage
 salient
@@ -1008,6 +1008,7 @@ slubber
 smarmy
 sniffish
 snood
+sociopath
 sodality
 soigne
 soiree

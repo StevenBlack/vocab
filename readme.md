@@ -5314,8 +5314,13 @@ good- natured banter and light teasing. (See also bavardage.) This belongs with
 papilote (see papilote) in the "Obscure Restaurant" list.
 
 
+### rakish
+Having a trim or streamlined appearance suggestive of speed; dashingly or
+carelessly unconventional.
+
+
 ### rallentando
-https://www.merriam-webster.com/dictionary/rallentando
+From Italian, meaning slowing down.
 
 
 ### ramekin
@@ -5324,7 +5329,7 @@ foods such as French onion soup.
 
 
 ### randy
-Lustful or lecherous. In the '50s, this word was used instead of "horny."
+Lustful or lecherous.
 
 
 ### rankle
@@ -5338,7 +5343,7 @@ pillage it. (See also plunder.)
 
 
 ### rapturous
-https://www.merriam-webster.com/dictionary/rapturous
+To fill, or be filled, with joy.
 
 
 ### rara avis
@@ -5368,16 +5373,12 @@ Irritating, repellent.
 
 
 ### recalcitrant
-Rebellious, stubborn and disobedient. The word is generally reserved to describe
-difficult children (or adults who act like difficult children). "I begged him to
-come to the concert, but he was recalcitrant, refusing to go because no Motown
-music was going to be played at the Philharmonic."
+Rebellious, stubborn and disobedient.
 
 
 ### recidivate
 To relapse. Most often used to describe convicts who are released from prison,
 then commit more crimes. Chain smokers who try to quit are prone to recidivism.
-Pronounced REE-SID-I-VATE.
 
 
 ### recondite
@@ -5404,9 +5405,7 @@ To recur, or break out anew after a dormant period.
 
 ### rectitude
 Moral righteousness or integrity. People who say or do things with rectitude
-have generally been truly good. There's no self-righteousness or hypocrisy
-involved. Mother Theresa has rectitude, as do a lot of good people who are less
-famous.
+have generally been truly good.
 
 
 ### red herring
@@ -5422,24 +5421,19 @@ spring, as are the newly washed heads of infants.
 
 
 ### refractory
-Hard to manage; resistant to conventional treatment. A child who refuses to obey
-is refractory. So is a malignant tumor that does not respond to chemotherapy or
-any other conventional cancer therapy.
+Hard to manage; resistant to conventional treatment.
 
 
 ### refulgent
-Shining or gleaming, like harbor lights or stars on a clear night. R/H-FUHL-JENT
-is the way to say it.
+Shining or gleaming.
 
 
 ### reify
-To make an abstract concept concrete. A written contract, for example, may reify
-the terms of an agreement that have been discussed in a meeting.
+To make an abstract concept concrete. en discussed in a meeting.
 
 
 ### rejoinder
-A response to an answer, usually a good response but not quite as clever as a
-riposte (see riposte).
+A response to an answer.
 
 
 ### remit
@@ -5458,8 +5452,7 @@ A person who escapes the pressures of civilization by fleeing to the mountains
 
 
 ### renege
-You probably know what it means to go back on one's word or break a promise. But
-did you know it had an e on the end?
+To go back on one's word or break a promise.
 
 
 ### reprobate
@@ -5488,7 +5481,8 @@ eyes; poorly packed clothes come out of the suitcase filled with rimples.
 
 
 ### riparian
-https://www.merriam-webster.com/dictionary/riparian
+Relating to or living or located on the bank of a natural watercourse (such as a
+river) or a lake or a tidewater.
 
 
 ### riposte
@@ -5518,11 +5512,6 @@ or procedure.
 
 ### rubricate
 https://www.merriam-webster.com/dictionary/rubricate
-
-
-### rumbelow
-A combination of meaningless syllables that evoke a feeling or mood, such as
-"yo-ho-ho" or "tra-la-la" or "lah  di-dah."
 
 
 ### ruthful
@@ -5589,8 +5578,7 @@ https://www.merriam-webster.com/dictionary/Sapient
 ### saporific
 Peggy Lee sings a great song about it. She pronounces with an a means "giving
 flavor." Dull lectures, B-movies, and tranquilizers are soporifics; red pepper,
-hot fudge, and curry are all saporifics. Not to be confused with soporific
-(seeit SAHN SUE-SEE soporific),.
+hot fudge, and curry are all saporifics. Not to be confused with soporific.
 
 
 ### sardonic
@@ -5734,9 +5722,8 @@ serried.
 
 
 ### sesquipedalian
-This is one of our favorites. It means a very long word (literally "a foot and
-a half'), or given to using very long words. A sesquipedalian loves using words
-like SESS-KWIH'PEH'DALE-YAN .
+This is one of our favorites. It means a very long word (literally "a foot and a
+half'), or given to using very long words.
 
 
 ### sessile
@@ -5768,10 +5755,8 @@ The mass murder of Jewish people under the German Nazi regime during the period
 
 
 ### sibilant
-Any speech sound that resembles a hiss; in particular, words that begin with
-s, z or sh. Of course, it's all in the way you pronounce them. "Yes" is not
-necessarily sibilant, but could be: '"Yessssssssss, my pretty,' said the wicked
-witch." If you like, you can pronounce it SSSSSSSSIB-EH-LANT.
+Any speech sound that resembles a hiss; in particular, words that begin with s,
+z or sh.
 
 
 ### SIC
@@ -5782,8 +5767,7 @@ misteak (sic).
 
 
 ### sidereal
-Relating to or determined by the stars. Astrologers profit from selling phony
-sidereal advice.
+Relating to or determined by the stars.
 
 
 ### simian
@@ -5805,8 +5789,7 @@ Deceptive likeness to or seeming similarity. Wax museums specialize in them.
 
 
 ### sine qua non
-A Latin phrase for an indispensable requirement or essential need. Being a good
-host is the sine qua non for being the ambassador of good will for a country.
+A Latin phrase for an indispensable requirement or essential need.
 
 
 ### sinecure
@@ -5828,9 +5811,8 @@ strong cheese.
 
 
 ### sirenic
-Having the qualities of a siren (the human kind)— women who are irresistibly
-alluring and almost dangerously tempting. Michelle Pfeiffer frequently plays
-sirenic roles. Pronounced SY-REN-LCK.
+Having the qualities of a siren (the human kind) — irresistibly alluring and
+almost dangerously tempting.
 
 
 ### sitomanic
@@ -5860,7 +5842,7 @@ in to wash your windows and left great big streaks on the glass is a sloven.
 
 
 ### slubber
-To do hastily and carelessly. A sloven (see above) slubbers his work.
+To do hastily and carelessly.
 
 
 ### smarmy
@@ -5871,15 +5853,15 @@ falling all over their clients. (See also obsequious.)
 
 ### sniffish
 Picture a haughty person with her nose in the air, sniffing disdainfully and
-staring contemptuously and you've got it—a sniffish snob.
+staring contemptuously and you've got it — a sniffish snob.
 
 
 ### snood
-The Yuppie hairband made famous by Hillary Clinton is called a snood. Also a
-netlike cap worn by women. A snood was originally a badge of virginity. Now it
-just keeps your hair out of your eyes. Rhymes with food. Moniker, another word
-for nickname. Chicago's sobriquet sobriquet is "The Windy City." sociopath A
-favorite insult to hurl at selfish, nasty, ungenerous and unthoughtful people,
+A hairband. Also a netlike cap worn by women.
+
+
+### sociopath
+A favorite insult to hurl at selfish, nasty, ungenerous and unthoughtful people,
 the word is a clinical term meaning someone who is hostile to society. Serial
 killers are often sociopaths.
 
@@ -5890,15 +5872,11 @@ Two people who share common interests have a sodality between them.
 
 
 ### soigne
-Elegant in the sense of "well-groomed" or "carefully put together." A woman in
-a simple black dress with her hair arranged in a French twist (in the style of
-Audrey Hepburn or Catherine Deneuve) is soigne.
+Well-groomed or carefully put together.
 
 
 ### soiree
-From the French: a social gathering that takes place in the evening for a
-particular purpose, such as listening to live music, holding a discussion group
-or reading poetry. It has come to be used to mean any party held at night.
+From the French: a social gathering that takes place in the evening or at night.
 
 
 ### solecism
@@ -6483,7 +6461,7 @@ the remark—or possibly give umbrage for the remark and call her an idiot.
 ### unctuous
 Oily or slimy. Not a literal description as much as a way of describing
 someone's character. A person who is overly flattering or too smooth is
-unctuous. Lounge lizards, for example, are unctuous.
+unctuous.
 
 
 ### unexceptionable
@@ -6711,8 +6689,6 @@ that means to writhe or wallow.
 ### Weltschmerz
 The kind of word only the Germans could come up with. It literally means "world
 pain," but it's used to evoke a strong melancholy over the state of the world.
-Woody Allen exhibits Weltschmerz in most of his films; Ingmar Bergman does too,
-only without the humor.
 
 
 ### whelk
@@ -6868,8 +6844,7 @@ of a risk even when alternative options produce a greater reduction in risk
 
 
 ### zinfandel
-A pink or white wine that people like and wine critics don't. Made from a small
-black grape, usually in California.
+A pink or white wine. Made from a small black grape, usually in California.
 
 
 ### zoanthropy
