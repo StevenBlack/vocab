@@ -213,8 +213,7 @@ move made by your opponent.
 
 ### alliaceous
 Smelling or tasting of garlic or onions, such as one's breath after a great
-Italian meal. The alliaceous meal was delicious; her breath was not. It's
-pronounced AL- EE-AY-SHUSS.
+Italian meal. The alliaceous meal was delicious; her breath was not.
 
 
 ### alliteration
@@ -828,14 +827,12 @@ correct nonetheless.
 ### bumptious
 Overbearing or self-assertive to the point of being obnoxious; conceited
 bordering on arrogant. Salespeople in trendy, expensive shops can be bumptious.
-Pronounced BUMP-SHUSS.
 
 
 ### cabal
 A group engaged in secret plotting against authority. A cabal might be a
 political faction that scorns the government, or a splinter group of employees
 dissatisfied with the head of their department. Often associated with witches.
-Pronounced KUH-BAHL.
 
 
 ### cache
@@ -875,9 +872,7 @@ cadres.
 
 
 ### caitiff
-A despicable lowlife; a contemptible or cowardly person. Should be pronounced
-CAY-TIFF, probably through clenched teeth, with a sneer. Reserve the term for
-traitors and people who hurt others to further themselves.
+A despicable lowlife; a contemptible or cowardly person.
 
 
 ### cajole
@@ -1012,7 +1007,6 @@ an alliance come into play, such as one nation being attacked by another.
 The raised platform that holds a coffin containing a corpse during funeral
 ceremonies. A funeral is no place to show off your vocabulary, though, so you'll
 have to be content to know that you could show off, if you were so inclined.
-Pronounced CAT-A-FALK.
 
 
 ### catchpenny
@@ -1022,9 +1016,6 @@ https://www.merriam-webster.com/dictionary/catchpenny
 ### catharsis
 Originally referred to the emotional release, the necessity of which was created
 by Greek tragedy. Catharsis has come to mean any purging or release of emotions.
-Crying at the movies is considered cathartic. A debate continues to rage over
-whether violent movies offer catharsis—do they decrease violence among viewers
-or encourage it? Pronounced CAH- THAR-sis.
 
 
 ### catholic
@@ -1037,7 +1028,7 @@ Stephen King.
 ### cavil
 To nit-pick or make small-minded criticisms or objections. An old-fashioned
 teacher might cavil at the way his students dress; a scholar might cavil at the
-latest novel of a professor-turned-best-selling- author. Pronounced KAV-EL.
+latest novel of a professor-turned-best-selling- author.
 
 
 ### celerity
@@ -1282,9 +1273,7 @@ classics.
 
 
 ### complaisant
-Obliging and eager to please. Even though they're pronounced the same, don't
-confuse with complacent, which means self-satisfied and smug. A complacent
-person would probably expect to be served by a complaisant person.
+Obliging and eager to please.
 
 
 ### concise
@@ -1404,14 +1393,13 @@ The set of courses constituting an area of specialization.
 
 
 ### cygnet
-A young swan. Often used to describe a particularly beautiful young woman. It's
-pronounced SIG-NIT.
+A young swan. Often used to describe a particularly beautiful young woman.
 
 
 ### cynosure
 The center of attention—usually a person who becomes the main attraction
 and directs everyone else's focus. Elizabeth Taylor at a cocktail party, for
-example. Pronounced SYE-NEH-SHUR.
+example.
 
 
 ### dactyl
@@ -1502,7 +1490,7 @@ that is maintained despite indisputable evidence to the contrary
 ### demagogue
 Usually refers to a politician or a leader who gains power by playing on the
 emotions of his constituents; there's an element of charisma and danger in it.
-Adolf Hitler was a demagogue. Pronounced DEM-AH-GOG.
+Adolf Hitler was a demagogue.
 
 
 ### demijohn
@@ -1513,7 +1501,7 @@ Italian restaurants.
 
 ### demimondaine
 A fallen woman; a woman who has lost her good reputation by a foolish or
-indiscreet action. Pronounced DEMJ-MON-DANE.
+indiscreet action.
 
 
 ### depredate
@@ -1521,9 +1509,8 @@ To plunder. Rome suffered depredation at the hands of Attila the Hun.
 
 
 ### deracinate
-To uproot in a big sense. Plants are uprooted; families or whole cultures
-are deracinated. The African slave trade deracinated thousands of persons.
-Pronounced DEE-RASS-IN-ATE.
+To uproot in a big sense. Plants are uprooted; families or whole cultures are
+deracinated.
 
 
 ### descry
@@ -1538,14 +1525,14 @@ Casually arranged, without particular or apparent structure. Clothes strewn
 on a bed lie there in a desultory fashion. Couples going nowhere in particular
 may stroll desultorily on a warm summer night; conversations about nothing
 in particular may go on in a desultory way. The word has nothing to do with
-depression, which some think it might. Pronounced DEH-SUHL-TI/H-REE.
+depression, which some think it might.
 
 
 ### detente
 A relaxation of tensions between nations. Popularized by Henry Kissinger, this
 is a great concept and a great word to use in other situations. Coke and Pepsi
 could end a price war by agreeing to a detente; what's the point of mutual
-destruction? Pronounced DAY- TAHNT.
+destruction?
 
 
 ### detritus
@@ -1560,8 +1547,7 @@ Subsidence or diminution of swelling or erection
 ### deus ex machina
 Originally in classical Greek drama, the god that came down to earth to solve a
 problem that couldn't be solved by any logical turn of events. It now refers to
-any chance event that intervenes and prevents a disaster from occurring. Sort of
-like a miracle, but not as good. Pronounced DAY-oos EX MA-KEEN-AH.
+any chance event that intervenes and prevents a disaster from occurring.
 
 
 ### devil's tattoo
@@ -1579,7 +1565,6 @@ octopus has eight arms.
 ### diaphanous
 Usually used to describe fabric, the word means sheer, delicate and flowing.
 Some sexy nightgowns are diaphanous, as are angel's wings and nylon curtains.
-Pronounced D/E-AFF-AH-NUSS.
 
 
 ### diatribe
@@ -1588,13 +1573,13 @@ A bitter criticism or denunciation; an abusive dispute. (See also polemic.)
 
 ### dieresis
 The two dots placed on top of the second of two vowels that indicates that they
-are supposed to be pronounced separately, as in cooperate.
+are supposed to be pronounced separately.
 
 
 ### diglot
 Someone who is fluent in two languages is diglot. Can be both an adjective and
-a noun; it's just a different way of saying bilingual. Polyglot is the next step
-up. Pronounced DYE-GLOT.
+a noun; it's just a different way of saying bilingual. Polyglot is the next
+step up.
 
 
 ### dilatory
@@ -1674,7 +1659,7 @@ dithyrambs, too.
 
 ### docent
 A museum guide; the person who walks you through the antiquities room in a
-museum and explains how Egyptians built pyramids. Pronounced DOE-SENT.
+museum and explains how Egyptians built pyramids.
 
 
 ### doctrinaire
@@ -1861,7 +1846,7 @@ decide who was guilty.
 ### emeritus
 No longer actively employed, but kept on the staff as an honor. A professor
 emeritus probably doesn't teach any courses but gets paid to make a guest
-lecture or two. Pronounced EH-MER-IT-US.
+lecture or two.
 
 
 ### eminence
@@ -1921,7 +1906,6 @@ have absolutely no idea—"It's an enigma."
 ### ennui
 From the French word for "boredom." It means indifferent; bored in a world-
 weary sense. The Duke of York suffered from it—too much money, not enough to do.
-Pronounced AHN-WEE.
 
 
 ### enormity
@@ -1932,7 +1916,7 @@ horribleness or awfulness. The enormity of a situation—like starvation in Afri
 
 ### eonism
 A technical way of saying transvestism. A man who dresses in women's clothing
-and adopts feminine postures is exhibiting eonism. Pronounced EE-ON-ISM.
+and adopts feminine postures is exhibiting eonism.
 
 
 ### ephemera
@@ -2313,10 +2297,9 @@ actually filled with information that applies to everyone.
 
 ### forte
 Has two meanings, though only one appears in everyday conversation. In classical
-music, forte means "play this loudly!" It's pronounced FOUR-TAY since the word
-comes from the Italian. However, the usual meaning of forte is "strong point"
-as in, "Bad decisions are his forte" or "Cooking Cajun food is my forte." But if
-you want to sound smart, be sure to say the word correctly.
+music, forte means "play this loudly!" However, the usual meaning of forte is
+"strong point" as in, "Bad decisions are his forte" or "Cooking Cajun food is
+my forte."
 
 
 ### fortuitous
@@ -2415,12 +2398,11 @@ of literature.
 
 
 ### germane
-Another way of saying relevant, pertinent or appropriate, but strictly
-reserved for referring to ideas. You couldn't say that wearing a certain
-pair of shoes is germane to a particular set of clothes. The topic of sexual
-harassment is germane to a discussion about rights in the workplace, however.
-In a conversation about classical music, James Brown is probably not germane.
-Pronounced JERM-AJN.
+Another way of saying relevant, pertinent or appropriate, but strictly reserved
+for referring to ideas. You couldn't say that wearing a certain pair of shoes
+is germane to a particular set of clothes. The topic of sexual harassment
+is germane to a discussion about rights in the workplace, however. In a
+conversation about classical music, James Brown is probably not germane.
 
 
 ### gerrymander
@@ -2599,7 +2581,6 @@ a harbinger of Wall Drug in South Dakota.
 ### harridan
 A bad-tempered old woman; a hag. Harridan could be used to describe your eighth-
 grade history teacher, a nasty neighbor or the wicked witch in a fairy tale.
-Pronounced HA-RIH-DEN.
 
 
 ### haruspex
@@ -2628,7 +2609,6 @@ time sunbathing while attending the University of Miami.
 This word frequently crops up in academic texts, and means political and/or
 economic leadership, as in one country over another or one state over another.
 Japan has hegemony over the United States in the consumer electronics industry.
-Pronounced HEH- J EM-EN-EE.
 
 
 ### hegira
@@ -2655,9 +2635,12 @@ Heterodox is generally used to refer to religion but can be used more broadly.
 For example, a Catholic who maintains heterodox beliefs may support the abortion
 movement. A professor at a conservative university who has heterodox ideas
 may cancel all classes in favor of life experience internships and private
-conferences. Pronounced HETT-ERR-OH-DOX. heteronym A word spelled like another,
-but with a different sound and meaning, such as lead and lead, read and read.
-Pronounced HET-ERR-OH-NIM.
+conferences.
+
+
+### heteronym
+A word spelled like another, but with a different sound and meaning, such as
+lead and lead, read and read.
 
 
 ### heuristic
@@ -2749,9 +2732,7 @@ someone a homicidal maniac.
 
 
 ### hubris
-Excessive pride; proud to a fault. Originally used to describe the flaw of mere
-mortals who challenged the gods. Icarus was guilty of hubris, as is Donald Trump
-Pronounced HYOU-BRISS.
+Excessive pride; proud to a fault.
 
 
 ### huggermugger
@@ -2860,7 +2841,6 @@ repeated exposure.
 ### imbroglio
 A state of confusion; an entangled mess. Often used to describe a mob of players
 duking it out at home plate, or a skirmish among many factions on Capitol Hill.
-The correct pronunciation is IM-BROHL-YOH (don't pronounce the g).
 
 
 ### imminent
@@ -2991,11 +2971,12 @@ bar is not ineffable, but the beauty of nature may be.
 
 
 ### infamous
-This doesn't mean "not famous." Infamous describes a famous person whose fame is
-based on unsavory acts. Serial killers and hardened criminals are infamous, as
-are most dictators. Pronounced /N-FEH-MUSS. inflammable Just like flammable, but
-the word is longer. Both types of objects will burst into flames when lit. No
-one really knows the difference.
+A famous person whose fame is based on unsavory acts.
+
+
+### inflammable
+Just like flammable, but the word is longer. Both types of objects will burst
+into flames when lit. No one really knows the difference.
 
 
 ### ingenue
@@ -3073,7 +3054,6 @@ could intercede if a fight broke out."
 Since the word is almost always used in conjunction with "warfare," it has come
 to be misunderstood to mean "nuclear." In fact, it means "mutually destructive."
 A divorce can be internecine, so can squabbling among divisions of a company.
-Pronounced IN-TER-NESS-EEN.
 
 
 ### intestate
@@ -3312,11 +3292,7 @@ praise. Critics extend kudos to playwrights.
 
 ### labile
 Although the word means unstable in general, it is most frequently used to mean
-emotionally unstable, as in temperamental or moody. A child who cries at the
-slightest provocation is labile; an adult who laughs too loudly at a joke and
-then sinks suddenly into depression is also labile. Labile people generally make
-others uncomfortable, since every reaction comes across like an overreaction.
-Pronounce it like label.
+emotionally unstable, as in temperamental or moody.
 
 
 ### lachrymose
@@ -3554,10 +3530,8 @@ Rhymes with soup.
 
 
 ### lubricious
-You can pronounce it LOO-BRIK-US or LOO-BRISH-US, and either way it means
-slippery in a literal sense (as in lubricated), or slippery in a more figurative
-sense (lecherous, lascivious or licentious). Rakes, roues, Lotharios (see above)
-are all lubricious; so is a newly waxed floor or a well-oiled hinge.
+Slippery in a literal sense (as in lubricated), or slippery in a more figurative
+sense (lecherous, lascivious or licentious).
 
 
 ### lubricous
@@ -3566,8 +3540,11 @@ https://www.merriam-webster.com/dictionary/lubricous
 
 ### lucubrate
 To burn the midnight oil—to work or study late into the night. The home office
-and the personal computer have made lucubration far easier. lugubrious https://
-www.merriam-webster.com/dictionary/lugubrious
+and the personal computer have made lucubration far easier. lugubrious
+
+
+### lugubrious
+https://www.merriam-webster.com/dictionary/lugubrious
 
 
 ### lumpen
@@ -3589,17 +3566,17 @@ means a morbid dread of going insane.
 
 
 ### macedoine
-Not a citizen of Macedonia. This is the kind of word you see on the menus
-of fancy restaurants that offer things like medaillons of beef or chicken en
-crotite. It means diced and mixed. A macedoine of fruit is nothing more or
-less than a fruit cocktail. But it sounds much more exotic, doesn't it? It's
-pronounced MASS-EH'DWAN.
+Diced and mixed. A macedoine of fruit is nothing more or less than a fruit
+cocktail.
 
 
 ### machination
 This word really rolls off the tongue. It means a secret plot or scheme and
-has a particularly sneaky and underhanded tone. Competitive coworkers often
-get involved in machinations to move up in the office hierarchy. macroeconomics
+has a particularly sneaky and underhanded tone. Competitive coworkers often get
+involved in machinations to move up in the office hierarchy.
+
+
+### macroeconomics
 The study of the broad and general aspects of an economy, such as the general
 level of inflation, rather than of a particular aspect of a society's economy
 (see microeconomics).
@@ -3650,7 +3627,7 @@ private use, for example, is malfeasance.
 
 ### malice
 The desire to see a great deal of evil done upon another. Worse than spite or
-holding a grudge, malice is serious hatred. Pronounced mahl-iss.
+holding a grudge, malice is serious hatred.
 
 
 ### malinger
@@ -4002,9 +3979,7 @@ motile. If the mold in your refrigerator turns motile, it's time to defrost.
 
 ### mountebank
 This somewhat archaic word means a traveling salesman for quack remedies; it's
-come to be used to mean any trickster or charlatan. Pronounced MOLWT-A-BANK,
-it's a good word for the stars of those half-hour-long infomercials that sell
-car wax and nostril-hair removers.
+come to be used to mean any trickster or charlatan.
 
 
 ### mufti
@@ -4330,8 +4305,8 @@ olio of vegetables and fish. (See also/arrago.)
 
 ### ombudsman
 An official whose job is to investigate complaints made by private citizens
-about abuses or wrongdoing performed by the government or by the organization he
-represents. Pronounced OMM-BUDZ-MUHN.
+about abuses or wrongdoing performed by the government or by the organization
+he represents.
 
 
 ### omnifarious
@@ -4799,7 +4774,7 @@ hibernation, plant flowerings and so forth.
 Sounds like a cure for indigestion, but it's more likely to cause a stomachache
 than cure one. A philipic is a hostile speech that denounces a person or thing
 with great bitterness. Demonstrators deliver philipics during rallies; furious
-spouses deliver philipics against erring partners. Pronounced PHIL-IPP-ICK.
+spouses deliver philipics against erring partners.
 
 
 ### philistine
@@ -4852,10 +4827,8 @@ all piquant. Classier than saying "hot," and having to explain you mean spicy.
 
 
 ### pismire
-Another word for "ant." You can use it to refer to the little bug, or to
-describe something equally tiny. It's a good word to use when you're annoyed
-with someone, as in: "I'm tired of your pismire hobbies that leave no time for
-more important things." Pronounced PISS-MIRE.
+An "ant." You can use it to refer to the little bug, or to describe something
+equally tiny.
 
 
 ### pithy
@@ -4864,7 +4837,7 @@ https://www.merriam-webster.com/dictionary/pithy
 
 ### plangent
 Deep, low and resonantly mournful. Used to describe the music at a funeral or
-the mooing of a lone cow in an open field. Pronounced PLAN-JENT.
+the mooing of a lone cow in an open field.
 
 
 ### pledget
@@ -4884,7 +4857,6 @@ Pleistocene era.
 A person vested with the full power to act on behalf of someone else. It's more
 than a power of attorney. A parent may act as a plenipotentiary for a child; an
 ambassador may be sent to act as a plenipotentiary for the ruler of a country.
-Pronounce PLEHN-EH-PEH- TEN-SH EE-EHR-EE.
 
 
 ### pleonasm
@@ -4909,7 +4881,7 @@ PLOO-TOCK-REH-SEE.
 How's this for a great insult? Someone who is careless or shows little concern
 or interest for a job or responsibility. A person who consistently leaves work
 early and takes too many days off is a pococurante; so is a student who doesn't
-attend classes or hand in assignments. Pronounced PO-CO-CYOOR-ANT-EE.
+attend classes or hand in assignments.
 
 
 ### poi
@@ -5021,7 +4993,7 @@ something precious or affected, not precious in the ordinary sense of the word.
 
 ### precis
 A summary. Book reviews frequently contain a precis of the plot of the book
-discussed. Pronounced PRAY-SEE.
+discussed.
 
 
 ### predicable
@@ -5041,14 +5013,12 @@ immediately. Someone who makes a good first impression is very prepossessing.
 
 
 ### presage
-It means to forewarn or to portend. The first snowflake presages winter. You may
-know the word, but do you know that it's pronounced PRESS'lj?
+It means to forewarn or to portend. The first snowflake presages winter.
 
 
 ### preterhuman
 This is another way of saying superhuman or beyond the powers of mere mortals.
-(Clark Kent must have thought that "Preterman" sounded pretty silly.) It's
-pronounced PREE-TER-HYOO-MAN.
+(Clark Kent must have thought that "Preterman" sounded pretty silly.)
 
 
 ### preternatural
@@ -5241,7 +5211,6 @@ intelligence," "quasi-healthy," "quasi-important." It means seeming to be,
 but not really being. A quasi-intelligent person probably sounds smart and
 insightful, but if you listen carefully he may be saying very little. Quasi-
 healthy food may be labeled "all natural" but contain lots of sugar or fat.
-Pronounced QWAY-ZEE or KWAH-ZEE.
 
 
 ### quay
@@ -5257,7 +5226,7 @@ forced to behave. A querulous adult is probably acting like a child.
 
 ### quid pro quo
 Tit for tat; something given in return. If you are a vengeful person and I'm
-nasty to you, quid pro quo you'll be nasty to me. Pronounced KW1D PRO KWO.
+nasty to you, quid pro quo you'll be nasty to me.
 
 
 ### quidnunc
@@ -5276,7 +5245,7 @@ quiescently frozen.
 A hard word to say (and even harder to spell). It means the arrangement of
 five objects with one at each corner of a square, and the remaining one in
 the center. Think of the arrangement of a five of hearts on a playing card (or
-anything else arranged like the five on a playing card). Pronounced KWING-KUNKS.
+anything else arranged like the five on a playing card).
 
 
 ### quisling
@@ -5309,9 +5278,7 @@ doo-dads sold in airport souvenir shops.
 
 
 ### raillery
-Not the stuff trains run on. Pronounced RAY-LER-EE, it's another word for
-good- natured banter and light teasing. (See also bavardage.) This belongs with
-papilote (see papilote) in the "Obscure Restaurant" list.
+Another word for good-natured banter and light teasing. (See also bavardage.)
 
 
 ### rakish
@@ -5524,7 +5491,7 @@ showed ruth."
 We know it's a spice, but it also means "extremely wise." In particular, it
 refers to the kind of wisdom that comes from experience rather than from books.
 salacious Yet another word for lustful and lecherous. (See also licentious,
-randy and lascivious.) Pronounced SAHL-AY-SHUSS.
+randy and lascivious.)
 
 
 ### salient
@@ -5558,7 +5525,6 @@ https://www.merriam-webster.com/dictionary/sanctimony
 ### sang froid
 Composure or calm in the face of danger, difficulty or annoyance. The guards in
 front of Buckingham Palace maintain their sang froid under all circumstances.
-Pronounced SANG FRWAH.
 
 
 ### sanguine
@@ -5603,7 +5569,7 @@ To make superficial cuts or scratches. Certain African and Latin American
 tribes scarify their faces and bodies for decoration. The word can also be used
 in a figurative sense to mean making small insults, wounding with words. "The
 children scarified the new kid in the class by teasing him mercilessly about the
-way he dressed." Pronounced SCAR-IF-EVE.
+way he dressed."
 
 
 ### scatology
@@ -5687,7 +5653,7 @@ The final stage of the normal life span.
 
 ### senescent
 Aging, or becoming old. Generally used to describe people rather than things.
-Houses become decrepit; people become senescent. Pronounced SEH-NESS-SENT.
+Houses become decrepit; people become senescent.
 
 
 ### sententious
@@ -6432,7 +6398,7 @@ A baby turtle. Cute, eh?
 
 ### tyro
 Also spelled tiro (both are correct), it means abeginner or novice. (See also
-neophyte.) Pronounced TIE-ROW.
+neophyte.)
 
 
 ### ubiety
@@ -6517,7 +6483,7 @@ paradigm) for vacuity.
 
 
 ### vagary
-A whimsical, capricious or eccentric idea or action. Pronounced VAY-GER-EE.
+A whimsical, capricious or eccentric idea or action.
 
 
 ### valetudinarian
@@ -6615,10 +6581,12 @@ someone out, you use vituperative language.
 
 
 ### volitation
-The act of or capacity for flying. Birds have it; so does Superman. It's
-pronounced VOLE-IH-TAY-SHUN. volition Free will. Doing something of your own
-volition means that you decided on your own to do it. You decided without
-outside aid or intervention.
+The act of or capacity for flying. Birds have it; so does Superman.
+
+
+### volition
+Free will. Doing something of your own volition means that you decided on your
+own to do it.
 
 
 ### voluble
@@ -6663,7 +6631,7 @@ rioters may act with wanton destructiveness, breaking windows and looting shops.
 ### warison
 A note sounded to start an attack. This can be a literal trumpet call or a
 figurative battle cry. "When they decided to take separate vacations, I knew
-that was the warison for the divorce that followed." Pronounced WAR-UH-SON.
+that was the warison for the divorce that followed."
 
 
 ### welt

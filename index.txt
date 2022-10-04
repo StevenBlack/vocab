@@ -452,6 +452,7 @@ hegira
 heliotrope
 hermaphrodite
 heterodox
+heteronym
 heuristic
 hiatus
 highbinder
@@ -509,6 +510,7 @@ indemnity
 indulgences
 ineffable
 infamous
+inflammable
 ingenue
 ingenuous
 inimical
@@ -607,11 +609,13 @@ loup
 lubricious
 lubricous
 lucubrate
+lugubrious
 lumpen
 lurid
 lysophobia
 macedoine
 machination
+macroeconomics
 madrilene
 magna cum laude
 magniloquent
@@ -1147,6 +1151,7 @@ vitiate
 vituperate
 vituperative
 volitation
+volition
 voluble
 vulgate
 vulpine
