@@ -274,6 +274,7 @@ dingbat
 diphthong
 diptych
 discreet
+discrete
 discursiveness
 disingenuous
 disposition effect
