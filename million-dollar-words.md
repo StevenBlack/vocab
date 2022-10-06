@@ -2536,7 +2536,7 @@ champagne to the owner of a new restaurant.
 
 
 ### haptics
-https://www.merriam-webster.com/dictionary/haptics
+Science concerned with the sense of touch.
 
 
 ### harbinger
