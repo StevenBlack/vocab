@@ -5964,11 +5964,7 @@ basement of the house was subjacent to the living room."
 
 
 ### subrogate
-To substitute, as in subrogating fat-free foods for ice cream and butter when
-you're on a diet. When your history teacher was sick and you got a replacement
-for the day, she was not called a subrogate teacher because that's just not the
-idiom! Don't confuse subrogate with surrogate, which means more or less the same
-thing, but can be used as a noun.
+To substitute.
 
 
 ### subsume
@@ -5978,10 +5974,7 @@ the university."
 
 
 ### subterfuge
-An evasion or deceit used to conceal or avoid something. High-school students
-use many forms of subterfuge in order to get out of physical education classes:
-they pretend to be sick, arrange to meet with a teacher or intentionally break
-a toe.
+An evasion or deceit used to conceal or avoid something.
 
 
 ### succinct
@@ -5996,19 +5989,16 @@ aid, etc. Verb: to help or relieve.
 ### succubus
 A female demon which comes to men, especially monks, in their dreams to seduce
 them and have sexual intercourse, drawing energy from the men to sustain
-themselves, often until the point of exhaustion or death. A strumpet, whore or
-prostitute.  See incubus.
+themselves, often until the point of exhaustion or death.
 
 
 ### sui generis
-A Latin phrase for "unique" or "one of a kind." You may claim an incredibly ugly
-antique vase that a pretentious relative gave you is a sui generis work of art.
-Opposite of generic.
+A Latin phrase for "unique" or "one of a kind."  Opposite of generic.
 
 
 ### sultry
-Very hot and humid, like the air on a mid-August night in Miami, or sensual and
-voluptuous, like Rita Hayworth or Kathleen Turner.
+Very hot and humid, like the air on a mid-August night in Miami, or sensual
+and voluptuous.
 
 
 ### summa cum laude
@@ -6017,8 +6007,7 @@ graduates. (See also magna cum laude.)
 
 
 ### supercilious
-Haughty, contemptuous or superior. (See also bump' tious.) From the Latin word
-for "eyebrows."
+Haughty, contemptuous or superior. From the Latin word for "eyebrows."
 
 
 ### supernal
@@ -6039,14 +6028,12 @@ Excess. The wealthy have a surfeit of assets.
 
 
 ### susurrus
-This word often crops up in highly descriptive prose. It means a gentle
-whispering or rustling, such as the sound of tall grass blowing in the wind or
-dry leaves dancing along pavement on an autumn day.
+A gentle whispering or rustling, such as the sound of tall grass blowing in the
+wind or dry leaves dancing along pavement on an autumn day.
 
 
 ### sybarite
-A person who lives luxuriously and self-indulgently. Very posh resorts love to
-advertise as "a haven for sybarites."
+A person who lives luxuriously and self-indulgently.
 
 
 ### sybaritic
@@ -6060,7 +6047,7 @@ subjects of a course of lectures, or the contents of a curriculum.
 
 
 ### sylph
-A slender, graceful woman. Audrey Hepburn is the prototype.
+A slender, graceful woman.
 
 
 ### syncope
@@ -6081,9 +6068,7 @@ for polluting this lake."
 
 
 ### synergy
-Cooperative activity. Getting more than the sum of the parts. Synergy occurs in
-an office, for example, when coworkers give each other energy and inspire each
-other to be more creative and productive than they would be alone.
+Cooperative activity.
 
 
 ### syzygy
@@ -6093,22 +6078,15 @@ occurs at an eclipse. In medicine: the fusion of some or all of the organs.
 
 
 ### taciturn
-Preferring to remain silent; unwilling to talk. Children are often taciturn
-when they are asked to explain their behavior; adults are taciturn whenever
-they prefer to keep their feelings private. Taciturn people generally don't
-join group therapy unless they're trying to get over their unwillingness to talk
-to people.
+Preferring to remain silent; unwilling to talk.
 
 
 ### talaria
-The winged sandals worn by Mercury. Granted, Mercury and FTD are probably the
-only people who need to use this word regularly, but think about all those times
-you were in a hurry and wished you had a pair of talaria. Rhymes with malaria.
+The winged sandals worn by Mercury.
 
 
 ### talisman
-A lucky charm. Typically a rabbit's foot or any other doo-dad you habitually
-bring along when you're playing a team sport or gambling.
+A lucky charm.
 
 
 ### tartuffery
@@ -6116,9 +6094,7 @@ Religious hypocrisy.
 
 
 ### tatterdemalion
-A person dressed in ragged clothing; possibly a decent alternative to "homeless
-person," except that a person in ragged clothing may very well have a home. The
-kids in the old "Our Gang" TV series were tatterdemalions.
+A person dressed in ragged clothing.
 
 
 ### tautological
@@ -6133,12 +6109,7 @@ Redundant use of words, a pleonasm, an unnecessary and tedious repetition.
 ### taxonomy
 A taxonomy (or taxonomical classification) is a scheme of classification,
 especially a hierarchical classification, in which things are organized into
-groups or types. Among other things, a taxonomy can be used to organize and
-index knowledge (stored as documents, articles, videos, etc.), such as in
-the form of a library classification system, or a search engine taxonomy, so
-that users can more easily find the information they are searching for. Many
-taxonomies are hierarchies (and thus, have an intrinsic tree structure), but not
-all are.
+groups or types.
 
 
 ### telegenic
@@ -6147,16 +6118,10 @@ Someone who looks good on television.
 
 ### teleology
 The belief that all things in nature are created for a particular purpose.
-Evolution is all about teleology— the duckbilled platypus has developed a
-duckbill because it is useful in an overall natural design. Misused, this
-reasoning can give rise to statements like, "If man were meant to fly, he'd
-have wings."
 
 
 ### temblor
-Another word for earthquake. Most often used by reporters in California in
-reporting on yet another earthquake. Note that the word is not tremblor, which
-may seem more accurate, but doesn't exist!
+An earthquake.
 
 
 ### temerity
@@ -6170,19 +6135,15 @@ with a partisan, biased or prejudiced purpose, especially a controversial one.
 
 
 ### tenebrous
-Gloomy and dark. Stormy skies are tenebrous. So are the expressions on the faces
-of depressed people.
+Gloomy and dark.
 
 
 ### tergiversation
-Ambivalence; a continual changing of one's mind. Someone who can't decide
-what to wear to a party- or whether to go at all—is suffering a bout of
-tergiversation.
+Ambivalence; a continual changing of one's mind.
 
 
 ### terrapin
-An edible freshwater turtle. The name comes from the Algonquin Indians. Useful
-if you're ever offered turtle soup: "It has terrapins in it," you'll say.
+An edible freshwater turtle.
 
 
 ### thalassic
@@ -6196,18 +6157,15 @@ less heavenly associations.
 
 
 ### thersitical
-Verbally abusive; using foul language. When you hurl curses at someone, you are
-being thersitical.
+Verbally abusive; using foul language.
 
 
 ### thespian
-Anything relating to acting or the theatre. A small town's thespian society is
-responsible for the local theatre.
+Anything relating to acting or the theatre.
 
 
 ### throe
-A sharp pang of emotion. Adolescents frequently find themselves in the throes of
-despair; new lovers are usually in the throes of passion.
+A sharp pang of emotion.
 
 
 ### tiffin
@@ -6257,9 +6215,7 @@ called a torpor.
 
 
 ### tortuous
-This word does not mean causing torture; that's torturous. A tortuous road is
-a winding, twisting or crooked road; a tortuous argument is so convoluted that
-it's hard to follow.
+Winding, twisting or crooked.
 
 
 ### traduce
@@ -6267,9 +6223,7 @@ To slander, malign, or ruin someone's reputation.
 
 
 ### transmogrify
-To change in form or appearance, usually much for the worse. Dr. Jekyll
-transmogrified into Mr. Hyde. A simple project can transmogrify into a
-convoluted disaster when your boss's boss decides to change the objectives.
+To change in form or appearance, usually much for the worse.
 
 
 ### tremulous
@@ -6316,15 +6270,13 @@ exist. From the French for "deceiving the eye,.
 
 
 ### trope
-A literary trope is the use of figurative language, via word, phrase or an
-image, for artistic effect such as using a figure of speech. The word trope has
-also come to be used for describing commonly recurring literary and rhetorical
-devices,[ motifs or clichés in creative works.
+The use of figurative language, via word, phrase or an image, for artistic
+effect. Also: commonly recurring literary and rhetorical devices, motifs or
+clichés.
 
 
 ### truculent
-This is a very harsh word, though few people use it correctly. It means cruel,
-brutal, savage. The behavior of the Nazis during the Holocaust was truculent.
+Cruel, brutal, savage.
 
 
 ### tumescent
@@ -6333,24 +6285,19 @@ sexual arousal.
 
 
 ### turbid
-Opaque in the sense of muddy or clouded. This word is often confused with
-turgid, which means bloated, swollen and pompous. Turgid prose can also be
-turbid prose, but these words do not mean the same thing.
+Opaque in the sense of muddy or clouded.
 
 
 ### turnback
-The curved end of a clothes hanger. To prevent guests from stealing hangers,
-most hotels have replaced the turnback with a straight piece that fits into a
-hoop attached to the closet rod.
+The curved end of a clothes hanger.
 
 
 ### turtlet
-A baby turtle. Cute, eh?
+A baby turtle.
 
 
 ### tyro
-Also spelled tiro (both are correct), it means abeginner or novice. (See also
-neophyte.)
+Also spelled tiro (both are correct), it means abeginner or novice.
 
 
 ### ubiety
@@ -6361,9 +6308,7 @@ sounded like Gertrude Stein.
 
 
 ### ubiquitous
-Appearing everywhere at the same time; omnipresent. During the Gulf War, yellow
-ribbons were ubiquitous. On commuter trains at rush hour, suits and ties are
-ubiquitous.
+Appearing everywhere at the same time; omnipresent.
 
 
 ### ultramarine
@@ -6371,26 +6316,19 @@ Deep blue in color.
 
 
 ### umbrage
-The sense of being slighted or of having one's feelings hurt. You can take
-umbrage or give it. If someone calls you a silly fool, you would take umbrage at
-the remark—or possibly give umbrage for the remark and call her an idiot.
+Being slighted or of having one's feelings hurt.
 
 
 ### unctuous
-Oily or slimy. Not a literal description as much as a way of describing
-someone's character. A person who is overly flattering or too smooth is
-unctuous.
+Oily or slimy.
 
 
 ### unexceptionable
-A nice word that should not be confused with unexceptional. Unexceptional means
-ordinary or average. Unexceptionable means without exception or fault; beyond
-criticism.
+Ordinary or average.
 
 
 ### unseemly
-Inappropriate; not in keeping with good taste. Walking into a fancy French
-restaurant without shoes on is unseemly behavior.
+Inappropriate; not in keeping with good taste.
 
 
 ### untoward
@@ -6399,15 +6337,11 @@ question of good taste as of being rude.
 
 
 ### urbane
-Sophisticated, suave, worldly; at home in most social situations. Someone who
-knows which wine to order with which course, can read a menu in most languages
-and can maintain charming dinner-table conversation is urbane.
+Sophisticated, suave, worldly; at home in most social situations.
 
 
 ### usury
-The practice of lending money at illegally high interest rates. Even if not
-illegal, exorbitant rates (like those used for credit cards) can be described
-as usurious.
+The practice of lending money at illegally high interest rates.
 
 
 ### utilitarianism
@@ -6418,20 +6352,15 @@ should be the guiding principle of conduct.
 
 
 ### uvula
-The little glob of flesh that hangs down at the back of the mouth. You often see
-one wobbling when cartoon characters yell, and children always mistake it for
-a tonsil.
+The little glob of flesh that hangs down at the back of the mouth.
 
 
 ### uxorious
-Completely enamored with one's wife, in fact overly so. A man who is completely
-submissive to his spouse is uxorious.
+Completely enamored with one's wife, in fact overly so.
 
 
 ### vacuous
-Empty-headed; without ideas or purpose. It's often used to describe someone
-who is attractive but dumb. Chippendale's male strippers are a paradigm (see
-paradigm) for vacuity.
+Empty-headed; without ideas or purpose.
 
 
 ### vagary
@@ -6439,16 +6368,11 @@ A whimsical, capricious or eccentric idea or action.
 
 
 ### valetudinarian
-This is not the smart student who makes a speech at graduation (that's a
-valedictorian). A valetudinarian is an invalid or a convalescing person who is
-obsessed with his poor health. Distinguish from a hypochondriac, who has the
-same feelings, but is healthy.
+An invalid or a convalescing person who is obsessed with his poor health.
 
 
 ### vassal
-A subordinate. Not exactly a slave—more like a subject. From the feudal
-relationship between kings and their subjects. You could use the term
-sarcastically to refer to the boss's assistants.
+A subordinate. Not exactly a slave—more like a subject.
 
 
 ### vatic
@@ -6456,8 +6380,8 @@ Describing or predicting what will happen in the future.
 
 
 ### vaunt
-It means "to boast of' or "to brag about," and is usually used to describe a
-reputation. It is hard to get a reservation in a much-vaunted restaurant.
+It means "to boast of' or "to brag about," and is usually used to describe
+a reputation.
 
 
 ### vedic
@@ -6478,9 +6402,8 @@ far as sins go.
 
 
 ### veracity
-Truth. The veracity of something can be proven by hard evidence. Something
-that has veracity is veracious. This should not be confused with someone who is
-voracious, which means excessively eager, hungry for food or any other need.
+Truth. The veracity of something can be proven by hard evidence. Something that
+has veracity is veracious.
 
 
 ### verisimilitude
