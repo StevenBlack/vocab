@@ -458,6 +458,7 @@ heuristic
 hiatus
 highbinder
 hirsute
+histological
 histrionic
 hoary
 Hobson's choice

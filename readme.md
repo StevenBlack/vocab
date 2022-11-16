@@ -2619,6 +2619,11 @@ A swindler or confidence man.
 A man in need of a shave.
 
 
+### histological
+The anatomical study of the microscopic structure of animal and plant tissues.
+The microscopic structure of tissue.
+
+
 ### histrionic
 Overly dramatic; so excessively theatrical as to be unbelievable.
 
