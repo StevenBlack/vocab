@@ -468,6 +468,10 @@ an aunt? Avauntular? Regardless, try to be avuncular to all of the children
 you meet.
 
 
+axiom
+An axiom, postulate, or assumption is a statement that is taken to be true,
+to serve as a premise or starting point for further reasoning and arguments.
+
 babbitt
 A reference to the eponymous (see eponymous) title of Sinclair Lewis's best-
 known novel, the word has come to mean a person who blindly conforms to middle-
@@ -6721,3 +6725,167 @@ zygote
 A term from cellular biology, generally used in conversation to refer to the
 cell that results from the meeting of the egg and the sperm. Father to son:
 "I've known you ever since you were a zygote."
+
+
+Baader-Meinhof Phenomenon
+When we notice something new, like an unusual word, we start seeing it more often. It feels like it's become more common but really we're just more alert to it, and we confuse our attention with reality itself. Hence conspiracy theories.
+
+
+Ostrich Effect
+We often try to avoid info that we fear will cause us stress. Thus bills and work emails remain unopened, bank balances remain unchecked. This is counterproductive because ignoring a problem doesn't eliminate the problem or your anxiety; it only prolongs them.
+
+
+Nobel Disease
+We idolize those who excel in a particular field, inflating their egos and afflicting them with the hubris to opine on matters they know little about. By celebrating people for their intelligence, we make them stupid.
+
+
+Warnock's Dilemma
+Online content that provokes people gets more engagement than content people merely agree with, which incentivizes content creators to be provocative. So much is alarming and enraging only because so much is trying to get your attention.
+
+
+Google Scholar Effect
+We all get our answers from whatever tops the search results, so these results come to dominate a topic, muscling out unluckier viewpoints. Google has trapped us in an orgy of intellectual incest where everyone is drawing from the same tiny meme-pool.
+
+
+Paradox Of Unanimity
+Researchers Gunn et al. (2016) found that when eyewitnesses unanimously agreed on the identity of suspects, they were more likely to be wrong. The more people agree, the less likely they are thinking for themselves.Therefore, beware of consensuses.
+
+
+Epistemic Humility
+Instead of trying to be right, try to be less wrong. Avoiding idiocy is easier than achieving genius, and by beginning from the position that you don't know enough (which you don't), you'll gain more awareness of your blindspots and become harder to fool.
+
+
+Mimetic Desire
+Craving is contagious; watching other people want a thing makes us want it too. It's why ads are so effective. But it puts us all into unnecessary competition as we fool ourselves into chasing what others are chasing simply because they are chasing it.
+
+
+Overblown Implications Effect
+“We think people judge us by a single success or failure, but they don’t. If you mess up one meal no one thinks you're a bad chef, and if you have one great idea no one thinks you're a genius. People just aren't thinking about you that much.” —Ethan Mollick
+
+
+Ellsberg Paradox
+People prefer a clear risk over an unclear one, even if it's no safer. E.g. They'd rather bet on a ball picked from a mix of 50 red & 50 black balls than on one where the exact ratio of red to black balls is unknown. Helps explain market volatility.
+
+
+Veblen Goods
+We often attach value to things simply because they're hard to get. People will be more attracted to a painting if it costs $3 million than if it costs $
+The price becomes a feature of the product in that it allows the buyer to signal affluence to others.
+
+Peter Principle
+People in a hierarchy such as a business or government will be promoted until they suck at their jobs, at which point they will remain where they are. As a result, the world is filled with people who suck at their jobs.
+
+
+Meme Theory
+An ideology parasitizes the mind, changing the host’s behavior so they spread it to other people. Therefore, a successful ideology (the only kind we hear about) is not configured to be true; it is configured only to be easily transmitted and easily believed.
+
+
+Gambler's Fallacy
+We often feel we're owed luck for being unlucky. "The coin was heads 10 flips in a row, the next flip has gotta be tails!" But probability has no memory; it won't make amends for its past behavior. Therefore, treat every possibility independent of the past.
+
+
+Do Something Principle
+We often procrastinate because we're intimidated by our task. So make your task less intimidating by dividing it into steps and focusing only on the next step. Action creates traction, so each step you take will facilitate the next.
+
+
+Lindy Effect
+The longer a non-biological system has existed, the longer it's likely to exist, because its age demonstrates its ability to weather the fickleness of fashions and the erosion of eons.
+
+
+The Liar's Dividend
+Teaching people about deepfakes and other disinfo doesn't make them skeptical of falsehoods as much as it makes them skeptical of reality. Amid such confusion, they default to believing what they want to, discounting anything they don't like as disinfo.
+
+
+Shibboleth
+An absurd ideological belief is a form of tribal signaling. It signifies that one considers their ideology more important than truth, reason, or sanity. To one's allies, this is an oath of unwavering loyalty. To one's enemies, it is a threat display.
+
+
+The Potato Paradox
+Alice has 100kg of potatoes, which are 99% water. She lets them dry till they are 98% water. What is their new weight? 50kg. Sound crazy? A reminder that the truth is often counterintuitive.
+
+
+Throat-Clearing
+Before criticizing their own tribe, people feel the need to reaffirm their loyalty to the tribe. "I support X but..." They do this because other people cannot comprehend that someone could see flaws in anyone other than the enemy team.
+
+
+Law of Triviality
+A company needs a nuclear reactor and a bike shed. Few workers understand reactors, but all understand sheds, so the shed becomes the focus of debate as everyone tries to enact their vision. Projects that require the least attention tend to get the most.
+
+
+Chilling Effect
+When punishment for what people say becomes widespread, people stop saying what they really think and instead say whatever is needed to thrive in the social environment. Thus, limits on speech become limits on sincerity.
+
+
+Reiteration Effect
+Joseph Goebbels said*, "Repeat a lie often enough and it becomes the truth," and he was right; repetition can make people believe things they otherwise wouldn't.
+
+*Goebbels didn't actually say this, but everyone thinks he did because of the Reiteration Effect.
+
+
+Naïve Realism
+We know others are biased, but think we see the world as it is. Thus, teaching people about biases & fallacies doesn't make them doubt their own beliefs, it only makes them even more doubtful of their opponents'.
+
+Maybe posting this megathread was a mistake...
+
+
+Purity Spiral
+Members of political tribes inevitably begin competing with their fellows to be the most ideologically pure. The constant one-upmanship toward moral superiority causes the whole group to gradually become more extreme. E.g. Maoist China, Twitter echo-chambers.
+
+
+Kayfabrication
+Politics is pro-wrestling in suits. Opposing parties are collaborators in a greater system, whose choreographed conflict entertains and distracts us from what is really going on.
+
+
+Postjournalism
+The press lost its monopoly on news when the internet democratized info. To save its business model, it pivoted from journalism into tribalism. The new role of the press is not to inform its readers but to confirm what they already believe.
+
+
+Curiosity Zone
+Curiosity is the desire to fill gaps in knowledge. Thus, curiosity occurs not when you know nothing about something, but when you know a bit about it. So learn a little about as much as you can (like you're doing now!), and it will spur you to learn even more.
+
+
+Sorites Paradox
+What's the minimum number of grains of sand needed to make a heap? We don't know, because human language (in this case the word "heap") is imprecise. If our language can't even quantify a heap, how can it resolve the complex questions we so fiercely debate?
+
+
+Brandolini's Law (aka the Bullshit Asymmetry Principle)
+It takes a lot more energy to refute bullshit than to produce it. Hence, the world is full of unrefuted bullshit.
+
+
+Algorithmic Blindspots
+We find growth while searching for other things. Algorithms give us exactly what we want on demand, so we never need to search, and never find what we never knew we needed. If you wish to grow, defy the robots' recommendations.
+
+
+Longtermism
+a) Future people matter morally as much as people alive now. b) There are likely many more future people than people alive now. c) Small changes now can have huge repercussions in future. If these are true, should we be doing more for future generations?
+
+
+The Two-Minute Rule
+If a task would take less than two minutes, do it immediately. This is because adding the task to your mental to-do list, keeping it in your memory, and managing the anxiety of not having done it will take far more effort than just doing it now.
+
+
+Promethean Gap
+Technology is outpacing wisdom; we're changing the world faster than we can adapt to it. Lagging ever more behind accelerating progress, we're increasingly unable to foresee the effects of what we create. We're amassing the power of gods, yet we remain apes.
+
+
+Information-Action Ratio
+The mark of useful info is that it makes us act differently. Most info we consume doesn't make us act differently; we just passively graze on it like cattle before defecating it undigested. Stop mindless scrolling and seek out info that changes you.
+
+
+Gurwinder's Third Paradox
+In order for you to beat someone in a debate, your opponent needs to realize they've lost. Therefore, it's easier to win an argument against a genius than an idiot.
+
+
+Media Naturalness Theory
+Writing has existed for <2% of human history, so our brains are not evolved for reading; we need vocal/facial cues for context. Thus, accept that you'll be misunderstood online, but never stop posting, for the only way to write clearer is by writing.
+
+
+Tilting At Windmills
+An online stranger doesn't know you; all they have are a few vague impressions of you, too meager to form anything but a phantasm. So when they attack "you", they're really just attacking their own imagination, and there is no need to take it personally.
+
+
+Principle Of Humanity
+Every single person is exactly what you would be if you were them. This includes your political opponents. So instead of dismissing them as evil or stupid, maybe seek to understand the circumstances that led them to their conclusions.
+
+
+Empty Name
+We can be convinced that a concept is real by the mere fact that it has a name, but the world is full of names for things that aren't real (e.g. Batman). As such, assume nothing is true just because it has a name (including every concept in this megathread!)
