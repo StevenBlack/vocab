@@ -5380,8 +5380,7 @@ healthy food may be labeled "all natural" but contain lots of sugar or fat.
 
 
 ### quay
-An often misused word. A quay is a wharf, not a bay. So a walk out on Hawk's
-Quay in Florida won't get you wet.
+A wharf.
 
 
 ### querulous
@@ -5400,18 +5399,12 @@ A gossip. The only word that ends in unc.
 
 
 ### quiescent
-A nice word for "motionless" or "still." If someone isn't talking, he's quiet;
-if he's lying down, he's sleeping or relaxing; if he's sitting motionless on
-a couch and staring into space, he's quiescent (or catatonic). A still lake at
-dawn is quiescent. The coolest use of this word is for the Popsicle, which is
-quiescently frozen.
+Motionless, or still.
 
 
 ### quincunx
-A hard word to say (and even harder to spell). It means the arrangement of
-five objects with one at each corner of a square, and the remaining one in
-the center. Think of the arrangement of a five of hearts on a playing card (or
-anything else arranged like the five on a playing card).
+The arrangement of five objects with one at each corner of a square, and the
+remaining one in the center.
 
 
 ### quisling
@@ -5421,10 +5414,8 @@ refer to anyone who spies on his own group for the benefit of a competitor.
 
 
 ### quixotic
-This word is often misused to mean "flaky" or "changeable." In fact, as anyone
-who remembers the story of Don Quixote knows, a quixotic person is someone who
-is romantic and idealistic and pursues lofty but impractical goals. One grows
-impatient with people but rarely dislikes them.
+A quixotic person is someone who is romantic and idealistic and pursues lofty
+but impractical goals.
 
 
 ### quotidian
@@ -5432,9 +5423,7 @@ Ordinary, common, or occurring every day, such as a dose of vitamins.
 
 
 ### raconteur
-A great storyteller; the kind of person who tells wonderfully amusing anecdotes
-with split-second timing and a great choice of words. Mark Twain is perhaps the
-most famous example.
+A great storyteller.
 
 
 ### raffish
@@ -5444,7 +5433,7 @@ doo-dads sold in airport souvenir shops.
 
 
 ### raillery
-Another word for good-natured banter and light teasing. (See also bavardage.)
+Good-natured banter and light teasing.
 
 
 ### rakish
@@ -5549,8 +5538,7 @@ the terms of issuance of shares of a new corporation.
 
 
 ### redolent
-A very musical word for fragrant or sweet-smelling. Gardens are redolent in
-spring, as are the newly washed heads of infants.
+Fragrant or sweet-smelling.
 
 
 ### refractory
@@ -5613,9 +5601,8 @@ opposite and expecting them to disagree with you.
 
 
 ### rimple
-Not a hat worn by a nun or a medieval lady; that's a wimple. Rimple is just
-another word for a wrinkle or crease. Aging persons have rimples around their
-eyes; poorly packed clothes come out of the suitcase filled with rimples.
+A wrinkle or crease. Aging persons have rimples around their eyes; poorly packed
+clothes come out of the suitcase filled with rimples.
 
 
 ### riparian
@@ -5640,12 +5627,10 @@ disguised by fictitious names.
 
 ### roue
 A rake; a dissipated, lascivious man, but with a touch of the dashing romantic.
-Don Juan took the cake.
 
 
 ### rubric
-Not the multicolored puzzle cube, but close. A set of regulations for behavior
-or procedure.
+A set of regulations for behavior or procedure.
 
 
 ### rubricate
@@ -5653,9 +5638,8 @@ https://www.merriam-webster.com/dictionary/rubricate
 
 
 ### ruthful
-The opposite of ruthless is indeed a word; it means having pity, compassion or
-remorse. To use it as a noun, just say "ruth": "At the funeral, the murderer
-showed ruth."
+Having pity, compassion or remorse. To use it as a noun, just say "ruth": "At
+the funeral, the murderer showed ruth."
 
 
 ### sage
@@ -5675,9 +5659,7 @@ A mixture or miscellaneous collection. (See also farragoand olio.)
 
 
 ### salubrious
-Promoting good health. Spa water, vitamins and oat bran (and a slew of other
-items that are health-food store staples) are said to be salubrious. Say it SAL-
-OO BREE-USS.
+Promoting good health.
 
 
 ### salutary
@@ -5749,8 +5731,8 @@ of William S. Burroughs or Laurence Sterne.
 
 
 ### schwa
-The upside-down e you always see in a dictionary. It denotes the sound similar
-to eh, as in about, edible, circus.
+The upside-down e glyf. It denotes the sound similar to eh, as in about, edible,
+circus.
 
 
 ### scintilla
@@ -5774,9 +5756,6 @@ reason. If a teacher takes a scunner to you, you're in trouble.
 
 ### scurrilous
 Incredibly abusive, obscenely nasty. Villains are guilty of scurrilous deeds.
-This is a good word to use when you need to yell at someone who's made you
-furious, as in: "I'm sick and tired of your scurrilous treatment of me and
-everyone else around you."
 
 
 ### sedulous
@@ -5859,13 +5838,13 @@ serried.
 
 
 ### sesquipedalian
-This is one of our favorites. It means a very long word (literally "a foot and a
-half'), or given to using very long words.
+A very long word (literally "a foot and a half'), or given to using very long
+words.
 
 
 ### sessile
-Attached directly by the base : not raised upon a stalk or peduncle; permanently
-attached or established : not free to move about
+Attached directly by the base; not raised upon a stalk or peduncle; permanently
+attached or established; not free to move about
 
 
 ### sexagenarian
