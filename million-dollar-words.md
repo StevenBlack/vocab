@@ -1,7 +1,11 @@
 ## Contents
 
 
-[**a**](#a-contrario) - [**b**](#babbitt) - [**c**](#cabal) - [**d**](#dactyl) - [**e**](#e-pluribus-unum) - [**f**](#fabulist) - [**g**](#gaffe) - [**h**](#hajj) - [**i**](#iatrogenic) - [**j**](#jape) - [**k**](#kafkaesque) - [**l**](#labile) - [**m**](#macedoine) - [**n**](#nabob) - [**o**](#obdurate) - [**p**](#padnag) - [**q**](#quagmire) - [**r**](#raconteur) - [**s**](#sage) - [**t**](#taciturn) - [**u**](#ubiety) - [**v**](#vacuous) - [**w**](#wallah-wallah) - [**x**](#xanadu) - [**y**](#yahoo) - [**z**](#zaftig)
+[*****](#*goebbels-didn't-actually-say-this,-but-everyone-thinks-he-did-because-of-the-reiteration-effect.) - [**a**](#a-contrario) - [**b**](#baader-meinhof-phenomenon) - [**c**](#cabal) - [**d**](#dactyl) - [**e**](#e-pluribus-unum) - [**f**](#fabulist) - [**g**](#gaffe) - [**h**](#hajj) - [**i**](#iatrogenic) - [**j**](#jape) - [**k**](#kafkaesque) - [**l**](#labile) - [**m**](#macedoine) - [**n**](#nabob) - [**o**](#obdurate) - [**p**](#padnag) - [**q**](#quagmire) - [**r**](#raconteur) - [**s**](#sage) - [**t**](#taciturn) - [**u**](#ubiety) - [**v**](#vacuous) - [**w**](#wallah-wallah) - [**x**](#xanadu) - [**y**](#yahoo) - [**z**](#zaftig)
+### *Goebbels didn't actually say this, but everyone thinks he did because of the Reiteration Effect.
+
+
+
 ### a contrario
 Latin: from the opposite.
 
@@ -209,6 +213,12 @@ skill.
 A method for solving a mathematical problem. You can win or tie every game of
 tic tac toe by following a simple algorithm—start in the middle, then block any
 move made by your opponent.
+
+
+### Algorithmic Blindspots
+We find growth while searching for other things. Algorithms give us exactly what
+we want on demand, so we never need to search, and never find what we never knew
+we needed. If you wish to grow, defy the robots' recommendations.
 
 
 ### alliaceous
@@ -470,6 +480,17 @@ guacamole from turning brown by placing an avocado pit in it.
 Like an uncle; kind. Here's the hard part—what do you call someone who's like
 an aunt? Avauntular? Regardless, try to be avuncular to all of the children
 you meet.
+
+
+### axiom
+An axiom, postulate, or assumption is a statement that is taken to be true, to
+serve as a premise or starting point for further reasoning and arguments.
+
+
+### Baader-Meinhof Phenomenon
+When we notice something new, like an unusual word, we start seeing it more
+often. It feels like it's become more common but really we're just more alert to
+it, and we confuse our attention with reality itself. Hence conspiracy theories.
 
 
 ### babbitt
@@ -793,6 +814,11 @@ To progress by swinging from hold to hold by the arms.
 
 ### brachycerous
 Having short antennae.
+
+
+### Brandolini's Law (aka the Bullshit Asymmetry Principle)
+It takes a lot more energy to refute bullshit than to produce it. Hence, the
+world is full of unrefuted bullshit.
 
 
 ### brocade
@@ -1130,6 +1156,12 @@ https://www.merriam-webster.com/dictionary/cherubic
 https://www.merriam-webster.com/dictionary/chiasmus
 
 
+### Chilling Effect
+When punishment for what people say becomes widespread, people stop saying what
+they really think and instead say whatever is needed to thrive in the social
+environment. Thus, limits on speech become limits on sincerity.
+
+
 ### chimera
 A mythological monster with the head of a lion, the body of a goat and the tail
 of a serpent. The word has come to connote any horrible fear or morbid terror.
@@ -1381,6 +1413,13 @@ subject, who believes it is something new and original.
 ### cue-dependent forgetting
 Cognitive bias: Cue-dependent forgetting, or retrieval failure, is the failure
 to recall information without memory cues.
+
+
+### Curiosity Zone
+Curiosity is the desire to fill gaps in knowledge. Thus, curiosity occurs not
+when you know nothing about something, but when you know a bit about it. So
+learn a little about as much as you can (like you're doing now!), and it will
+spur you to learn even more.
 
 
 ### curmudgeon
@@ -1649,6 +1688,12 @@ provoke dithyrambs from their mothers. The tragic portions of operas are
 dithyrambs, too.
 
 
+### Do Something Principle
+We often procrastinate because we're intimidated by our task. So make your task
+less intimidating by dividing it into steps and focusing only on the next step.
+Action creates traction, so each step you take will facilitate the next.
+
+
 ### docent
 A museum guide; the person who walks you through the antiquities room in a
 museum and explains how Egyptians built pyramids.
@@ -1809,6 +1854,13 @@ https://www.merriam-webster.com/dictionary/elide
 https://www.merriam-webster.com/dictionary/elision
 
 
+### Ellsberg Paradox
+People prefer a clear risk over an unclear one, even if it's no safer. E.g.
+They'd rather bet on a ball picked from a mix of 50 red & 50 black balls than
+on one where the exact ratio of red to black balls is unknown. Helps explain
+market volatility.
+
+
 ### embayment
 A bay. Physical Geography: the process by which a bay is formed.
 
@@ -1843,6 +1895,13 @@ Say EH-MAHL-YEH-MENT.
 
 ### empirical
 https://www.merriam-webster.com/dictionary/empirical
+
+
+### Empty Name
+We can be convinced that a concept is real by the mere fact that it has a name,
+but the world is full of names for things that aren't real (e.g. Batman). As
+such, assume nothing is true just because it has a name (including every concept
+in this megathread!)
 
 
 ### encephalesthenia
@@ -1931,6 +1990,13 @@ cartoon is also an anachronism (see anachronism).
 
 ### epistemic
 https://www.merriam-webster.com/dictionary/epistemic
+
+
+### Epistemic Humility
+Instead of trying to be right, try to be less wrong. Avoiding idiocy is easier
+than achieving genius, and by beginning from the position that you don't know
+enough (which you don't), you'll gain more awareness of your blindspots and
+become harder to fool.
 
 
 ### epistemology
@@ -2339,6 +2405,13 @@ This is a nice word because the word has nothing to do with outer space—it mea
 the Milky Way. Coffee creamers are galactoid. So is the blood of many insects.
 
 
+### Gambler's Fallacy
+We often feel we're owed luck for being unlucky. "The coin was heads 10 flips
+in a row, the next flip has gotta be tails!" But probability has no memory;
+it won't make amends for its past behavior. Therefore, treat every possibility
+independent of the past.
+
+
 ### garrulous
 Excessively talkative in a silly, chattering way. Often misused to mean just
 plain friendly and willing to talk, which is loquacious. Save garrulous to
@@ -2405,6 +2478,13 @@ she shakes hands. Rhymes with clean.
 ### gobbet
 Another way of saying morsel or lump, as in: "Please put a gobbet of whipped
 cream on top of my pecan pie."
+
+
+### Google Scholar Effect
+We all get our answers from whatever tops the search results, so these results
+come to dominate a topic, muscling out unluckier viewpoints. Google has trapped
+us in an orgy of intellectual incest where everyone is drawing from the same
+tiny meme-pool.
 
 
 ### googol
@@ -2498,6 +2578,12 @@ The top of the side of a boat (where the rail might be). Especially used in
 referring to small boats such as canoes. Originally used to describe the place
 where you'd rest your gun (probably for shooting fish, or some other sporting
 activity).
+
+
+### Gurwinder's Third Paradox
+In order for you to beat someone in a debate, your opponent needs to realize
+they've lost. Therefore, it's easier to win an argument against a genius than
+an idiot.
 
 
 ### gustatory
@@ -2936,6 +3022,13 @@ Just like flammable, but the word is longer. Both types of objects will burst
 into flames when lit. No one really knows the difference.
 
 
+### Information-Action Ratio
+The mark of useful info is that it makes us act differently. Most info we
+consume doesn't make us act differently; we just passively graze on it like
+cattle before defecating it undigested. Stop mindless scrolling and seek out
+info that changes you.
+
+
 ### ingenue
 A naive young woman or, just as common, an actress who plays the role of a naive
 young woman. Marilyn Monroe made the type famous.
@@ -3163,6 +3256,12 @@ A wonderfully descriptive word, often needed and rarely recognized, that means
 Moving down a slope or valley. Skiing is clearly a katabatic sport.
 
 
+### Kayfabrication
+Politics is pro-wrestling in suits. Opposing parties are collaborators in a
+greater system, whose choreographed conflict entertains and distracts us from
+what is really going on.
+
+
 ### kef
 The word refers to a drowsy, dreamy state induced by a narcotic, such as
 marijuana, but can be used to mean a stupor brought about by anything. A dull
@@ -3300,6 +3399,13 @@ for social or political conventions".
 Filled with or showing sexual desire.
 
 
+### Law of Triviality
+A company needs a nuclear reactor and a bike shed. Few workers understand
+reactors, but all understand sheds, so the shed becomes the focus of debate as
+everyone tries to enact their vision. Projects that require the least attention
+tend to get the most.
+
+
 ### lee
 The sheltered side of something; the side away from the wind. Most things have
 a leeward (say LEE-WORD or LOO-WURD) side and a windward side, at least most
@@ -3398,6 +3504,12 @@ a piece of machinery, now used to describe the crucial element in an argument
 or organization.
 
 
+### Lindy Effect
+The longer a non-biological system has existed, the longer it's likely to exist,
+because its age demonstrates its ability to weather the fickleness of fashions
+and the erosion of eons.
+
+
 ### lingua franca
 Sounds like a pasta dish, but it's not. The phrase describes a common language—
 a good way to break the ice in a difficult negotiation. When people talk sports,
@@ -3452,6 +3564,13 @@ the mouth. When you meet someone who makes you nervous and you begin to chatter
 nervously and say stupid things that you regret later, you are suffering from a
 temporary case of logorrhea. Things could be worse—it's a real medical condition
 and some people suffer it permanently.
+
+
+### Longtermism
+a) Future people matter morally as much as people alive now. b) There are likely
+many more future people than people alive now. c) Small changes now can have
+huge repercussions in future. If these are true, should we be doing more for
+future generations?
 
 
 ### looby
@@ -3638,6 +3757,17 @@ and talking about who's in her will, is mawkish. It's not a good way to be. Soap
 operas are mawkish; so are bad movies.
 
 
+### Maybe posting this megathread was a mistake...
+
+
+
+### Media Naturalness Theory
+Writing has existed for <2% of human history, so our brains are not evolved
+for reading; we need vocal/facial cues for context. Thus, accept that you'll be
+misunderstood online, but never stop posting, for the only way to write clearer
+is by writing.
+
+
 ### meet
 There's a nice, slightly archaic, meaning for this word aside from the obvious
 one. Something that is meet is fitting, suitable or appropriate. Wearing a tie
@@ -3666,6 +3796,13 @@ Useful in painting a powerful word picture.
 A nightingale's song is mellifluous, as is a lover's whisper. Music or sound
 that flows smoothly or sweetly, like the sound of the word itself: MELL-IF-
 LOO-USS.
+
+
+### Meme Theory
+An ideology parasitizes the mind, changing the host’s behavior so they spread it
+to other people. Therefore, a successful ideology (the only kind we hear about)
+is not configured to be true; it is configured only to be easily transmitted and
+easily believed.
 
 
 ### mendacious
@@ -3795,6 +3932,13 @@ created by H. T. Webster. That's why it's spelled with a qu and not with a k.
 
 ### mimetic
 Relating to, characterized by, or exhibiting mimicry.
+
+
+### Mimetic Desire
+Craving is contagious; watching other people want a thing makes us want it too.
+It's why ads are so effective. But it puts us all into unnecessary competition
+as we fool ourselves into chasing what others are chasing simply because they
+are chasing it.
 
 
 ### minatory
@@ -4018,6 +4162,12 @@ feelings or creative works. A nascent feeling would be one that's just beginning
 to come to consciousness.
 
 
+### Naïve Realism
+We know others are biased, but think we see the world as it is. Thus, teaching
+people about biases & fallacies doesn't make them doubt their own beliefs, it
+only makes them even more doubtful of their opponents'.
+
+
 ### ne plus ultra
 The Latin phrase for the absolute top, the culminating point, the highest
 degree. For an antique-car collector, finding a Tucker in mint condition would
@@ -4107,6 +4257,12 @@ of nirvana.
 
 ### niveous
 Snowy; resembling snow.
+
+
+### Nobel Disease
+We idolize those who excel in a particular field, inflating their egos and
+afflicting them with the hubris to opine on matters they know little about. By
+celebrating people for their intelligence, we make them stupid.
 
 
 ### nodus
@@ -4343,6 +4499,13 @@ Cognitive bias: a colloquial term for the mistaken belief that your problem will
 go away if you just ignore them.
 
 
+### Ostrich Effect
+We often try to avoid info that we fear will cause us stress. Thus bills
+and work emails remain unopened, bank balances remain unchecked. This is
+counterproductive because ignoring a problem doesn't eliminate the problem or
+your anxiety; it only prolongs them.
+
+
 ### otiose
 Idle, useless and unnecessary. Not to be confused with adipose, which means fat.
 When companies make cutbacks, they can fire the otiose personnel and they won't
@@ -4353,6 +4516,13 @@ be sued for discriminating against overweight people.
 A hidden dungeon that can only be entered from above; the kind of word that pops
 up frequently in fairy tales that feature monsters. Fair maidens and princesses
 are always being thrown into oubliettes by evil monsters.
+
+
+### Overblown Implications Effect
+“We think people judge us by a single success or failure, but they don’t. If you
+mess up one meal no one thinks you're a bad chef, and if you have one great idea
+no one thinks you're a genius. People just aren't thinking about you that much.”
+—Ethan Mollick
 
 
 ### Overton Window
@@ -4467,6 +4637,13 @@ paracletes.
 A model example; the standard to hold up for comparison. Politicians hold up the
 decline of the U.S. auto industry as a paradigm for Japanese strategy in other
 areas.
+
+
+### Paradox Of Unanimity
+Researchers Gunn et al. (2016) found that when eyewitnesses unanimously agreed
+on the identity of suspects, they were more likely to be wrong. The more people
+agree, the less likely they are thinking for themselves.Therefore, beware of
+consensuses.
 
 
 ### paralogize
@@ -4703,6 +4880,12 @@ pestle is the stick that looks like a knee bone; the mortar is the little bowl
 that holds the stuff to be crushed.
 
 
+### Peter Principle
+People in a hierarchy such as a business or government will be promoted until
+they suck at their jobs, at which point they will remain where they are. As a
+result, the world is filled with people who suck at their jobs.
+
+
 ### pettifogger
 A person overly concerned with details, such as certain accountants or lawyers
 for the opposing side. A pettifogger is someone who nit-picks, a niggler (see
@@ -4922,6 +5105,12 @@ ornament, usually added to a sculpture or work that is already finished. Think
 of adding earrings to the Statue of Liberty or a mustache to the Mona Lisa.
 
 
+### Postjournalism
+The press lost its monopoly on news when the internet democratized info. To save
+its business model, it pivoted from journalism into tribalism. The new role of
+the press is not to inform its readers but to confirm what they already believe.
+
+
 ### postpositive
 A word that is always used after another. For example, manque (see manque) never
 stands alone, instead we say "artist manque."
@@ -5004,6 +5193,12 @@ Rhymes with simmer.
 Often confused to mean first-born or heir apparent. In fact, it means ancestor.
 
 
+### Principle Of Humanity
+Every single person is exactly what you would be if you were them. This includes
+your political opponents. So instead of dismissing them as evil or stupid, maybe
+seek to understand the circumstances that led them to their conclusions.
+
+
 ### pristine
 Most commonly, works of art or antiques in perfect condition are described as
 pristine. A photograph that has no creases, tears or stains is pristine. When
@@ -5049,6 +5244,13 @@ Unnecessarily wordy; verbose. 'Nuff said.
 ### Promethean
 Daringly original; innovative and creative. In Greek mythology, Prometheus got
 in big trouble for stealing fire from Mount Olympus and giving it to mankind.
+
+
+### Promethean Gap
+Technology is outpacing wisdom; we're changing the world faster than we can
+adapt to it. Lagging ever more behind accelerating progress, we're increasingly
+unable to foresee the effects of what we create. We're amassing the power of
+gods, yet we remain apes.
 
 
 ### propinquity
@@ -5126,6 +5328,13 @@ person of breathtaking, heartbreaking beauty is pulchritudinous.
 A punctilious person is someone who is meticulous and pays attention to details,
 punctuation or otherwise. Marked by or concerned about precise accordance with
 the details of codes or conventions
+
+
+### Purity Spiral
+Members of political tribes inevitably begin competing with their fellows to be
+the most ideologically pure. The constant one-upmanship toward moral superiority
+causes the whole group to gradually become more extreme. E.g. Maoist China,
+Twitter echo-chambers.
 
 
 ### purlieu
@@ -5354,6 +5563,11 @@ Shining or gleaming.
 
 ### reify
 To make an abstract concept concrete. en discussed in a meeting.
+
+
+### Reiteration Effect
+Joseph Goebbels said*, "Repeat a lie often enough and it becomes the truth," and
+he was right; repetition can make people believe things they otherwise wouldn't.
 
 
 ### rejoinder
@@ -5672,6 +5886,13 @@ or sect but now seen as rather old-fashioned and useless. Stoning witches and
 refraining from shopping on Sundays are both examples of shibboleths.
 
 
+### Shibboleth
+An absurd ideological belief is a form of tribal signaling. It signifies that
+one considers their ideology more important than truth, reason, or sanity. To
+one's allies, this is an oath of unwavering loyalty. To one's enemies, it is a
+threat display.
+
+
 ### shoah
 The mass murder of Jewish people under the German Nazi regime during the period
 1941–45; the Ηolocaust.
@@ -5840,6 +6061,13 @@ reasoning. A false argument; sophism.
 Something that produces sleep is a soporific. It can be used as a noun or an
 adjective. A sleeping pill is a soporific. A geography lecture may be soporific.
 (See also saporific, which has an entirely different meaning.)
+
+
+### Sorites Paradox
+What's the minimum number of grains of sand needed to make a heap? We don't
+know, because human language (in this case the word "heap") is imprecise. If our
+language can't even quantify a heap, how can it resolve the complex questions we
+so fiercely debate?
 
 
 ### sororal
@@ -6155,6 +6383,26 @@ An edible freshwater turtle.
 Of or relating to seas and oceans or smaller bodies of water, as seas and gulfs.
 
 
+### The Liar's Dividend
+Teaching people about deepfakes and other disinfo doesn't make them skeptical of
+falsehoods as much as it makes them skeptical of reality. Amid such confusion,
+they default to believing what they want to, discounting anything they don't
+like as disinfo.
+
+
+### The Potato Paradox
+Alice has 100kg of potatoes, which are 99% water. She lets them dry till they
+are 98% water. What is their new weight? 50kg. Sound crazy? A reminder that the
+truth is often counterintuitive.
+
+
+### The Two-Minute Rule
+If a task would take less than two minutes, do it immediately. This is because
+adding the task to your mental to-do list, keeping it in your memory, and
+managing the anxiety of not having done it will take far more effort than just
+doing it now.
+
+
 ### theomania
 A theomaniac is someone who believes he is God or has been chosen by God for
 some special purpose. Distinguish from messianic (see messianic), which can have
@@ -6167,6 +6415,13 @@ Verbally abusive; using foul language.
 
 ### thespian
 Anything relating to acting or the theatre.
+
+
+### Throat-Clearing
+Before criticizing their own tribe, people feel the need to reaffirm their
+loyalty to the tribe. "I support X but..." They do this because other people
+cannot comprehend that someone could see flaws in anyone other than the enemy
+team.
 
 
 ### throe
@@ -6182,6 +6437,13 @@ every day.
 
 ### tilak
 The colored mark worn on the forehead by Hindu men and women.
+
+
+### Tilting At Windmills
+An online stranger doesn't know you; all they have are a few vague impressions
+of you, too meager to form anything but a phantasm. So when they attack "you",
+they're really just attacking their own imagination, and there is no need to
+take it personally.
 
 
 ### timorous
@@ -6389,6 +6651,13 @@ It means "to boast of' or "to brag about," and is usually used to describe
 a reputation.
 
 
+### Veblen Goods
+We often attach value to things simply because they're hard to get. People will
+be more attracted to a painting if it costs $3 million than if it costs $ The
+price becomes a feature of the product in that it allows the buyer to signal
+affluence to others.
+
+
 ### vedic
 Of or relating to the Aryans who settled in India c1500 b.c., or to their
 literature or religion. The language used in the Vedas, an early form of
@@ -6512,6 +6781,13 @@ rioters may act with wanton destructiveness, breaking windows and looting shops.
 A note sounded to start an attack. This can be a literal trumpet call or a
 figurative battle cry. "When they decided to take separate vacations, I knew
 that was the warison for the divorce that followed."
+
+
+### Warnock's Dilemma
+Online content that provokes people gets more engagement than content people
+merely agree with, which incentivizes content creators to be provocative.
+So much is alarming and enraging only because so much is trying to get your
+attention.
 
 
 ### welt

@@ -1,3 +1,4 @@
+*Goebbels didn't actually say this, but everyone thinks he did because of the Reiteration Effect.
 a contrario
 a falsis principiis proficisci
 a priori
@@ -33,6 +34,7 @@ ait
 alacrity
 aleatory
 algorithm
+Algorithmic Blindspots
 alliaceous
 alliteration
 amanuensis
@@ -76,6 +78,8 @@ autolatry
 avatar
 avocado
 avuncular
+axiom
+Baader-Meinhof Phenomenon
 babbitt
 babelism
 babelize
@@ -132,6 +136,7 @@ bovine
 bowdlerize
 brachiation
 brachycerous
+Brandolini's Law (aka the Bullshit Asymmetry Principle)
 brocade
 bromide
 bruin
@@ -187,6 +192,7 @@ cheechako
 cheerleader effect
 cherubic
 chiasmus
+Chilling Effect
 chimera
 choplogic
 chrysalis
@@ -233,6 +239,7 @@ cromulent
 crucible
 cryptomnesia
 cue-dependent forgetting
+Curiosity Zone
 curmudgeon
 curriculum
 cygnet
@@ -281,6 +288,7 @@ disposition effect
 dissemble
 dissimulate
 dithyramb
+Do Something Principle
 docent
 doctrinaire
 doctrine
@@ -313,6 +321,7 @@ eleemosynary
 elephantine
 elide
 elision
+Ellsberg Paradox
 embayment
 embrangle
 emeritus
@@ -320,6 +329,7 @@ eminence
 eminence grise
 emolument
 empirical
+Empty Name
 encephalesthenia
 encomium
 encyclical
@@ -335,6 +345,7 @@ epigone
 epigram
 epiphany
 epistemic
+Epistemic Humility
 epistemology
 eponymous
 equable
@@ -408,6 +419,7 @@ fungible
 gaffe
 gainsay
 galactoid
+Gambler's Fallacy
 garrulous
 gatefold
 gelid
@@ -419,6 +431,7 @@ gild
 gimme caps
 glean
 gobbet
+Google Scholar Effect
 googol
 Gordian knot
 gossamer
@@ -435,6 +448,7 @@ gudgeon
 gullible
 gunkhole
 gunwale
+Gurwinder's Third Paradox
 gustatory
 gynarchy
 hajj
@@ -514,6 +528,7 @@ indulgences
 ineffable
 infamous
 inflammable
+Information-Action Ratio
 ingenue
 ingenuous
 inimical
@@ -552,6 +567,7 @@ juxtapose
 Kafkaesque
 kakistocracy
 katabatic
+Kayfabrication
 kef
 kegler
 ken
@@ -578,6 +594,7 @@ languor
 lanugo
 larrikin
 lascivious
+Law of Triviality
 lee
 legerdemain
 leitmotif
@@ -594,6 +611,7 @@ liminal
 limn
 limpid
 linchpin
+Lindy Effect
 lingua franca
 lissom
 lissome
@@ -603,6 +621,7 @@ livery
 livid
 logophobia
 logorrhea
+Longtermism
 looby
 loquacious
 Lothario
@@ -635,11 +654,14 @@ matutinal
 maunder
 maverick
 mawkish
+Maybe posting this megathread was a mistake...
+Media Naturalness Theory
 meet
 megrims
 melange
 melee
 mellifluous
+Meme Theory
 mendacious
 mendacity
 mendicant
@@ -663,6 +685,7 @@ milieu
 millennium
 milquetoast
 mimetic
+Mimetic Desire
 minatory
 mingy
 minikin
@@ -701,6 +724,7 @@ nadir
 naissance
 narcolepsy
 nascent
+Naïve Realism
 ne plus ultra
 necromancy
 nefarious
@@ -716,6 +740,7 @@ next-in-line effect
 nihilism
 nirvana
 niveous
+Nobel Disease
 nodus
 noisome
 nom de guerre
@@ -756,8 +781,10 @@ oscitant
 osculate
 ossify
 ostrich effect
+Ostrich Effect
 otiose
 oubliette
+Overblown Implications Effect
 Overton Window
 ovine
 oxhaft
@@ -777,6 +804,7 @@ panoply
 papilote
 paraclete
 paradigm
+Paradox Of Unanimity
 paralogize
 paraph
 paravalent
@@ -819,6 +847,7 @@ perspicuous
 pertinacious
 peruse
 pestle
+Peter Principle
 pettifogger
 pharisee
 phatic
@@ -857,6 +886,7 @@ popple
 portico
 portmanteau
 postiche
+Postjournalism
 postpositive
 postprandial
 pother
@@ -872,6 +902,7 @@ preternatural
 prima facie
 primer
 primogenitor
+Principle Of Humanity
 pristine
 proactive
 profligacy
@@ -880,6 +911,7 @@ projection bias
 prolicide
 prolix
 Promethean
+Promethean Gap
 propinquity
 prosaic
 proscribe
@@ -891,6 +923,7 @@ puce
 puerile
 pulchritude
 punctilious
+Purity Spiral
 purlieu
 putsch
 pyrrhic
@@ -933,6 +966,7 @@ redolent
 refractory
 refulgent
 reify
+Reiteration Effect
 rejoinder
 remit
 remonstrate
@@ -994,6 +1028,7 @@ sessile
 sexagenarian
 shaman
 shibboleth
+Shibboleth
 shoah
 sibilant
 SIC
@@ -1026,6 +1061,7 @@ sonorous
 sophism
 sophistry
 soporific
+Sorites Paradox
 sororal
 sotto voce
 sough
@@ -1088,12 +1124,17 @@ tenebrous
 tergiversation
 terrapin
 thalassic
+The Liar's Dividend
+The Potato Paradox
+The Two-Minute Rule
 theomania
 thersitical
 thespian
+Throat-Clearing
 throe
 tiffin
 tilak
+Tilting At Windmills
 timorous
 tintinnabulation
 tonsorial
@@ -1139,6 +1180,7 @@ valetudinarian
 vassal
 vatic
 vaunt
+Veblen Goods
 vedic
 venal
 venial
@@ -1163,6 +1205,7 @@ wamble
 wampus
 wanton
 warison
+Warnock's Dilemma
 welt
 Weltanshauung
 welter
