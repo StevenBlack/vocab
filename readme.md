@@ -1,11 +1,7 @@
 ## Contents
 
 
-[*****](#*goebbels-didn't-actually-say-this,-but-everyone-thinks-he-did-because-of-the-reiteration-effect.) - [**a**](#a-contrario) - [**b**](#baader-meinhof-phenomenon) - [**c**](#cabal) - [**d**](#dactyl) - [**e**](#e-pluribus-unum) - [**f**](#fabulist) - [**g**](#gaffe) - [**h**](#hajj) - [**i**](#iatrogenic) - [**j**](#jape) - [**k**](#kafkaesque) - [**l**](#labile) - [**m**](#macedoine) - [**n**](#nabob) - [**o**](#obdurate) - [**p**](#padnag) - [**q**](#quagmire) - [**r**](#raconteur) - [**s**](#sage) - [**t**](#taciturn) - [**u**](#ubiety) - [**v**](#vacuous) - [**w**](#wallah-wallah) - [**x**](#xanadu) - [**y**](#yahoo) - [**z**](#zaftig)
-### *Goebbels didn't actually say this, but everyone thinks he did because of the Reiteration Effect.
-
-
-
+[**a**](#a-contrario) - [**b**](#baader-meinhof-phenomenon) - [**c**](#cabal) - [**d**](#dactyl) - [**e**](#e-pluribus-unum) - [**f**](#fabulist) - [**g**](#gaffe) - [**h**](#hajj) - [**i**](#iatrogenic) - [**j**](#jape) - [**k**](#kafkaesque) - [**l**](#labile) - [**m**](#macedoine) - [**n**](#nabob) - [**o**](#obdurate) - [**p**](#padnag) - [**q**](#quagmire) - [**r**](#raconteur) - [**s**](#sage) - [**t**](#taciturn) - [**u**](#ubiety) - [**v**](#vacuous) - [**w**](#wallah-wallah) - [**x**](#xanadu) - [**y**](#yahoo) - [**z**](#zaftig)
 ### a contrario
 Latin: from the opposite.
 
@@ -584,10 +580,8 @@ certain case).
 
 
 ### bathos
-A fall from the sublime to the commonplace; often used to describe the plot of
-a play, a movie or a piece of fiction which tells how the mighty have fallen.
-The word should be distinguished from pathos (see pathos), which means evoking
-genuine pity or compassion.
+A fall from the sublime to the commonplace; often used to describe the plot of a
+play, a movie or a piece of fiction which tells how the mighty have fallen.
 
 
 ### battologize
@@ -4499,13 +4493,6 @@ Cognitive bias: a colloquial term for the mistaken belief that your problem will
 go away if you just ignore them.
 
 
-### Ostrich Effect
-We often try to avoid info that we fear will cause us stress. Thus bills
-and work emails remain unopened, bank balances remain unchecked. This is
-counterproductive because ignoring a problem doesn't eliminate the problem or
-your anxiety; it only prolongs them.
-
-
 ### otiose
 Idle, useless and unnecessary. Not to be confused with adipose, which means fat.
 When companies make cutbacks, they can fire the otiose personnel and they won't
@@ -4532,9 +4519,7 @@ discourse.
 
 
 ### ovine
-If a cow is a bovine (see bovine), what's a sheep? Ovine! Use this word to
-describe sheep-like behavior. This could include lack of individual initiative,
-a tendency to say baaah, or wool growing on one's back.
+Sheep, or sheep-like behavior. This could include lack of individual initiative.
 
 
 ### oxhaft
@@ -4544,7 +4529,7 @@ as, "I'd like an oxhaft of double decaf espresso please."
 
 ### oxymoron
 This word describes a phrase that is internally contradictory. We like "jumbo
-shrimp" and "deposed Presidentfor-Life."
+shrimp" and "deposed President-for-Life."
 
 
 ### padnag
@@ -4623,9 +4608,8 @@ covered the wedding buffet table."
 
 
 ### papilote
-Bet you didn't know there was a word for this. It's the little piece of colorful
-fringed paper wrapped around the end of a lamb chop. You see fewer and fewer of
-them, but they're still around in certain fine restaurants.
+The little piece of colorful fringed paper wrapped around the end of a lamb chop
+or a roast turkey.
 
 
 ### paraclete
@@ -4647,34 +4631,28 @@ consensuses.
 
 
 ### paralogize
-This odd verb means "to draw illogical conclusions from a series of facts." An
-example: after being told about a pet that barks, likes bones, chases cats and
-wags its tail, you say, "Oh, I didn't know you had a parrot."
+To draw illogical conclusions from a series of facts. Example: after being told
+about a pet that barks, likes bones, chases cats and wags its tail, you say,
+"Oh, I didn't know you had a parrot."
 
 
 ### paraph
 The word for the elaborate flourishes people add to their signatures to make
-them unique. Think John Hancock. In this age of Bic pens, they're rapidly
-disappearing.
+them unique.
 
 
 ### paravalent
-Sexually potent only in unusual circumstances—a fancy word for kinky.
+Sexually potent only in unusual circumstances. A fancy word for kinky.
 
 
 ### parlous
-You might think this has something to do with speech or parlance, but it
-doesn't. It means perilous, dangerous and difficult to escape from. "After a
-number of parlous incidents in the jungle, which included being bitten by snakes
-and shot at by poachers, the tourists decided to take their next vacation in
-Miami."
+Perilous, dangerous and difficult to escape from.
 
 
 ### parochial
-Excessively narrow in outlook; having backward views stemming from a lack
-of worldly experience. People who live in small towns are often considered
-parochial in their attitudes and beliefs. Don't confuse with parochial schools,
-which, while often parochial, may not be.
+Excessively narrow in outlook; having backward views stemming from a lack of
+worldly experience. Don't confuse with parochial schools, which, while often
+parochial, may not be.
 
 
 ### paroxysm
@@ -4695,6 +4673,9 @@ appropriate style or manner. The word can also be used to describe any newcomer
 to a situation who has not yet learned to handle his role or responsibility,
 such as a young worker who gets a big promotion and acts obnoxious and superior
 around the people who were his closest colleagues the day before. pasquinade
+
+
+### pasquinade
 https://www.merriam-webster.com/dictionary/pasquinade
 
 
@@ -4715,9 +4696,7 @@ anthropomorphism), which attributes human characteristics to inanimate objects.
 
 
 ### pathos
-Any work or situation that inspires pity or sorrow. It should be distinguished
-from bathos (see bathos), which chronicles a fall from the sublime to the
-commonplace.
+Any work or situation that inspires pity or sorrow.
 
 
 ### patina
@@ -5556,6 +5535,8 @@ To make an abstract concept concrete. en discussed in a meeting.
 ### Reiteration Effect
 Joseph Goebbels said*, "Repeat a lie often enough and it becomes the truth," and
 he was right; repetition can make people believe things they otherwise wouldn't.
+Goebbels didn't actually say this, but everyone thinks he did because of the
+Reiteration Effect.
 
 
 ### rejoinder
