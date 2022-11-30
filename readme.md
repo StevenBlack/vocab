@@ -157,7 +157,7 @@ riots, thus giving an excuse for martial law.
 
 ### agio
 The fee charged by money brokers for exchanging one foreign currency for
-another. Not to be confused with the Spanish word for garlic, which is ajo.
+another.
 
 
 ### aglet
@@ -356,8 +356,7 @@ particular gaffe or faux pas. (See gaffe and faux pas.)
 
 
 ### apostasy
-Abandonment of one's religion, politics or principles. Not to be confused with
-apostle. St. Matthew was an apostle; Judas was an apostate.
+Abandonment of one's religion, politics or principles.
 
 
 ### apothegm
@@ -617,7 +616,7 @@ and chin.
 
 ### bedizen
 To vulgarly dress or gaudily accessorize; too many bangles and beads. An ugly,
-old woman. Not to be confused with beldam bedlam, which means "confusion."
+old woman.
 
 
 ### beguile
@@ -2170,7 +2169,7 @@ esoteric. If goat cheese is esoteric, then cheddar is exoteric.
 
 ### expatiate
 To expand upon, as in a speech that goes on to explain the causes and symptoms
-of an event. (Not to be confused with people who emigrate to a foreign land).
+of an event.
 
 
 ### expeditious
@@ -2222,9 +2221,7 @@ A jumbled hodgepodge, a mixture.
 
 
 ### fastuous
-Overbearingly snotty, pretentious, or arrogant. Not to be confused with fatuous
-(see fatuous), although fastuous people can be fatuous. Be kind to the fastuous
-among us, because they certainly suffer from low self-esteem.
+Overbearingly snotty, pretentious, or arrogant.
 
 
 ### fatuous
@@ -2586,9 +2583,7 @@ different dishes.
 
 
 ### gynarchy
-Government by a woman or by women. Not to be confused with matriarchy, which
-refers to a family or tribe headed by women. Until recently, Great Britain was
-a gynarchy.
+Government by a woman or by women.
 
 
 ### hajj
@@ -2668,10 +2663,7 @@ https://www.merriam-webster.com/dictionary/heliotrope
 
 
 ### hermaphrodite
-This is a human being or an animal that has both male and female sex organs. Do
-not confuse with an androgyne, someone who exhibits both male and female sexual
-manners and traits. There are many androgynous people in the world, but very
-few hermaphrodites.
+This is a human being or an animal that has both male and female sex organs.
 
 
 ### heterodox
@@ -2904,7 +2896,7 @@ help defend friendly nations."
 
 
 ### imperative
-Necessary; not to be avoided or evaded; expressive of a command.
+Necessary.
 
 
 ### impertinence
@@ -2913,8 +2905,7 @@ inappropriateness
 
 
 ### implacable
-Not to be pleased, convinced or reconciled. Implacable carries with it more
-class than stubborn.
+Stubborn. Not pleased, convinced or reconciled.
 
 
 ### implicit stereotypes
@@ -3437,10 +3428,8 @@ defense.
 
 
 ### libertine
-Not to be confused with a libertarian (see above), a libertine is someone who
-advocates the liberty to be dissolute, particularly with regard to sexual needs.
-A libertine, like a rake or a roue (see roue) seeks to satisfy personal lust at
-just about any cost. Don Juan was a libertine.
+Someone who advocates the liberty to be dissolute, particularly with regard to
+sexual needs.
 
 
 ### licentious
@@ -3731,9 +3720,7 @@ walks; certain radio programs are matutinal.
 
 
 ### maunder
-O.K. to confuse with meander, which means more or less the same thing. To
-maunder is to walk or talk in a random or confused manner. "The sick man,
-flushed with fever, maundered on about his wasted life."
+To walk or talk in a random or confused manner.
 
 
 ### maverick
@@ -3981,8 +3968,7 @@ https://www.merriam-webster.com/dictionary/misanthrope
 ### miscegenation
 Marriage or cohabitation of people from different races; the mixture of races
 by interbreeding. Amazingly enough, this was illegal in Virginia until the mid-
-1960s. Not to be confused with misogyny (see misogyny), which means hatred of
-women.
+1960s.
 
 
 ### miscreant
@@ -4350,9 +4336,8 @@ client fired him.
 
 
 ### obumbrate
-Not to be confused with adumbrate, which means to foreshadow, obumbrate means
-to darken, overshadow or make difficult to see or understand. The word should
-be used only figuratively. Skies cbud over before a rainstorm; weak explanations
+To darken, overshadow or make difficult to see or understand. The word should be
+used only figuratively. Skies cloud over before a rainstorm; weak explanations
 obumbrate the understanding of a scientific concept.
 
 
@@ -4451,10 +4436,7 @@ entities within a domain, organized by relationships; a system model.
 
 
 ### oppugn
-Not to be confused with opine, which means to offer an opinion, oppugn means
-to fight against or counterattack. "You always squeeze the toothpaste from the
-middle!" he said. "You drink from the milk carton and eat crackers in bed!"
-she oppugned.
+To fight against or counterattack.
 
 
 ### oreternatural
@@ -4494,9 +4476,7 @@ go away if you just ignore them.
 
 
 ### otiose
-Idle, useless and unnecessary. Not to be confused with adipose, which means fat.
-When companies make cutbacks, they can fire the otiose personnel and they won't
-be sued for discriminating against overweight people.
+Idle, useless and unnecessary.
 
 
 ### oubliette
@@ -4726,9 +4706,7 @@ a peccadillo.
 
 
 ### peccant
-This does not mean spicy and flavorful; that's piquant (see piquant). Guilty
-of a moral sin. Perhaps the woman who had a peccadillo (see above) could be
-considered peccant.
+Guilty of a moral sin.
 
 
 ### pedagogue
@@ -4883,10 +4861,8 @@ conversations on a receiving line at a wedding or funeral, are generally phatic.
 
 
 ### phenology
-Not to be confused with phrenology; that's the study of the skull as an
-indicator of mental characteristics. Phenology is the study of the role of
-climate in annually recurring natural phenomena, such as bird migration, animal
-hibernation, plant flowerings and so forth.
+The study of the role of climate in annually recurring natural phenomena, such
+as bird migration, animal hibernation, plant flowerings and so forth.
 
 
 ### philipic
@@ -4940,9 +4916,7 @@ like a pintle and gudgeon."
 
 
 ### piquant
-Not to be confused with peccant (see peccant). A pleasantly sharp or spicy
-flavor. Good marinara sauce, Cajun ribs, Szechwan beef and chicken Vindaloo are
-all piquant. Classier than saying "hot," and having to explain you mean spicy.
+A pleasantly sharp or spicy flavor.
 
 
 ### pismire
@@ -5079,9 +5053,7 @@ describe words that combine or blend other words like "smog" or "docudrama."
 
 
 ### postiche
-Not to be confused with a pastiche (see pastiche). A postiche is a superfluous
-ornament, usually added to a sculpture or work that is already finished. Think
-of adding earrings to the Statue of Liberty or a mustache to the Mona Lisa.
+A superfluous ornament, usually added to a sculpture or work that is already
 
 
 ### Postjournalism
@@ -5678,7 +5650,7 @@ https://www.merriam-webster.com/dictionary/Sapient
 ### saporific
 Peggy Lee sings a great song about it. She pronounces with an a means "giving
 flavor." Dull lectures, B-movies, and tranquilizers are soporifics; red pepper,
-hot fudge, and curry are all saporifics. Not to be confused with soporific.
+hot fudge, and curry are all saporifics.
 
 
 ### sardonic
