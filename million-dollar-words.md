@@ -1208,9 +1208,7 @@ cinerary urn"
 
 ### circumlocution
 A roundabout way of saying something; using too many words and complicated
-expressions. A person who wants to avoid answering certain questions or offering
-certain opinions is inclined to use circumlocution. A good way of disguising
-choplogic (see chopbgic).
+expressions.
 
 
 ### circumscribe
@@ -1227,52 +1225,36 @@ shake hands and kiss babies.
 
 
 ### clarion
-A shrill-sounding trumpet used as a signal in war. The word has come to be used
-metaphorically to describe any obvious warning of things to come— often a bad
-event. "When the guest arrived and rearranged the furniture in the guest room,
-it was a clarion call that a difficult visit was ahead."
+A shrill-sounding trumpet used as a signal in war. Metaphorically describes any
+obvious warning of things to come — often a bad event.
 
 
 ### clemency
-Mercy or forgiveness, especially in choosing punishment. "The judge displayed
-clemency in letting the thief go free because it was his first offense." "The
-students begged the teacher for clemency when they were caught cheating on
-the final exam." Because clemency conveys mildness, the word is also used to
-describe the weather: clement weather is perfect for a bike ride; inclement
-weather is generally stormy.
+Mercy or forgiveness, especially in choosing punishment.
 
 
 ### clerisy
-Intelligentsia; the collective group of educated people. In order to be a member
-of the clerisy, it helps to know what the word means.
+Intelligentsia; the collective group of educated people.
 
 
 ### clinomania
-The overwhelming desire to stay in bed. For some reason, mild cases seem to
-occur most often on rainy Sunday mornings.
+The overwhelming desire to stay in bed.
 
 
 ### clinquant
-Glittering, from gold or tinsel. Christmas trees are clinquant, as is Zsa Zsa
-Gabor. What an appropriate sound the word has: CLINK-EHNT.
+Glittering, from gold or tinsel.
 
 
 ### clock
-Decorations along the sides of socks or stockings. The little argyles that sock
-manufacturers are fond of weaving into men's socks are clocks. The next time
-someone scares you, you can say, "You scared the clocks off my socks!"
+Decorations along the sides of socks or stockings.
 
 
 ### cloy
-To overdo and become nauseating; may be used as a verb and an adjective. Candy
-that is too sugary may cloy; people who are unnecessarily sweet or overly
-sensitive are cloying.
+To overdo and become nauseating; may be used as a verb and an adjective.
 
 
 ### cockalorum
-A conceited, self-important, pretentious person. Be careful in your use of this
-word, or you'll become one. coeval Contemporary; of the same time period. Bell-
-bottoms and love beads are coeval, so are two 30-year-olds.
+A conceited, self-important, pretentious person.
 
 
 ### codification
@@ -1289,15 +1271,13 @@ https://www.merriam-webster.com/dictionary/cogitation
 
 ### colloquy
 Conversation, more like a formal dialogue than a casual chat. The kind of thing
-that goes on between a talk show host and his guest, or between two speakers
-at a symposium; hence the academic word colloquium. One doesn't usually have a
-colloquy with a friend on the telephone.
+that goes on between a talk show host and his guest, or between two speakers at
+a symposium; hence the academic word colloquium.
 
 
 ### colophon
-Not a brand of cookware. The page at the end of a book that describes the
-typeface used. In this age of desktop publishing, they're coming back in style.
-Also a publishers' emblem or trademark.
+The page at the end of a book that describes the typeface used. Also a
+publishers' emblem or trademark.
 
 
 ### columbarium
@@ -1309,9 +1289,7 @@ To threaten with divine punishment
 
 
 ### compendious
-It may sound as if the word means "big" and "encyclopedic" but it really means
-the opposite: concise, expressed in compact form—like Monarch Notes of the
-classics.
+Concise, expressed in compact form.
 
 
 ### complaisant
@@ -1328,8 +1306,7 @@ https://www.merriam-webster.com/dictionary/concocted
 
 
 ### concupiscence
-A fancy way of saying sexual desire or lust, with undertones of fertility. Like
-pulchritude (see pulchritude), the word won't help you get a date.
+A fancy way of saying sexual desire or lust, with undertones of fertility.
 
 
 ### confabulation
@@ -6013,13 +5990,7 @@ To do hastily and carelessly.
 
 ### smarmy
 Ingratiating; falsely flattering or fawning in order to get in someone's good
-graces. People without noticeable talent who need business are often smarmy,
-falling all over their clients. (See also obsequious.)
-
-
-### sniffish
-Picture a haughty person with her nose in the air, sniffing disdainfully and
-staring contemptuously and you've got it — a sniffish snob.
+graces.
 
 
 ### snood
@@ -6027,14 +5998,12 @@ A hairband. Also a netlike cap worn by women.
 
 
 ### sociopath
-A favorite insult to hurl at selfish, nasty, ungenerous and unthoughtful people,
-the word is a clinical term meaning someone who is hostile to society. Serial
-killers are often sociopaths.
+Selfish, nasty, ungenerous and unthoughtful person; someone who is hostile to
+society.
 
 
 ### sodality
-Like solidarity, the word means companionship or union in attitude or belief.
-Two people who share common interests have a sodality between them.
+Companionship or union in attitude or belief.
 
 
 ### soigne
@@ -6046,22 +6015,16 @@ From the French: a social gathering that takes place in the evening or at night.
 
 
 ### solecism
-Any mistake or inconsistency, including a grammatical error. A person who
-says "who" when he should say "whom," or "me" when he should say "I," speaks
-in solecisms.
+Any mistake or inconsistency, including a grammatical error.
 
 
 ### solipsism
-This philosophical theory asserts that the self is the only thing that exists
-or can be proved to exist, but its meaning has now been stretched to convey
-narcissism. Any person who sees him- or herself as the center of the universe
-may be called solipsistic.
+Asserts that the self is the only thing that exists or can be proved to exist,
+but its meaning has now been stretched to convey narcissism.
 
 
 ### somatist
-A psychiatrist who believes that all mental illnesses are physical in
-origin. Almost the opposite of someone who believes that all illnesses are
-psychosomatic, or psychological in origin.
+A psychiatrist who believes that all mental illnesses are physical in origin.
 
 
 ### sonder
@@ -6070,13 +6033,11 @@ as your own.
 
 
 ### sonorous
-Capable of producing deep, rich sound, like the bells of Notre Dame.
+Capable of producing deep, rich sound.
 
 
 ### sophism
-A deceptive or false argument or belief. When someone comes up with a series
-of facts that don't prove the point she's trying to make, you can accuse her of
-making a sophism.
+A deceptive or false argument or belief.
 
 
 ### sophistry
@@ -6085,9 +6046,7 @@ reasoning. A false argument; sophism.
 
 
 ### soporific
-Something that produces sleep is a soporific. It can be used as a noun or an
-adjective. A sleeping pill is a soporific. A geography lecture may be soporific.
-(See also saporific, which has an entirely different meaning.)
+Inducing sleep. It can be used as a noun or an adjective.
 
 
 ### Sorites Paradox
@@ -6103,43 +6062,31 @@ Of, relating to, or characteristic of a sister or sisters; sisterly.
 
 ### sotto voce
 These Latin words mean "in a whisper"—in a very low voice so as not to be
-overheard. Often seen in screenplays and stage directions. Use it as an
-adjective. " 'Blanche is a cow,' Hortense said sotto voce to her friend
-Hermione."
+overheard.
 
 
 ### sough
-To make a sighing or rustling sound. Trees sough in a gentle wind. On a breezy
-day, the reeds along the edge of a pond sough.
+To make a sighing or rustling sound.
 
 
 ### soupçon
-The French word for a hint, a dash, a trace. It can be used in a recipe, such
-as a soupçon of brandy in the chowder, but it's commonly used figuratively as
-well. "The comedy was a delightful mix of terrific acting, slapstick humor and a
-soupçon of social parody.
+The French word for a hint, a dash, a trace.
 
 
 ### spado
-Another word for a castrated man or animal (see also eunuch). Literally. Rhymes
-with Play-Dough.
+Another word for a castrated man or animal (see also eunuch).
 
 
 ### sparge
-A sparge is a sprinkling or a spattering, like a sparge of wild lilies along
-the side of a highway. It can also be used as a verb, but it sounds more awkward
-than "scatter" or "sprinkle."
+A sprinkling or a spattering.
 
 
 ### specious
 Something that seems correct on the surface but turns out to be false or wrong.
-A specious argument sounds great but doesn't prove its point.
 
 
 ### spelunk
-To explore caves. We wonder if spelunkers get their equipment in the same store
-as keglers do (see kegler). Note that if you need to know the difference between
-a stalactite (see stalactite) and a stalagmite, you should ask a spelunker.
+To explore caves.
 
 
 ### spiniferous
@@ -6171,23 +6118,15 @@ describes a short football kick.
 
 
 ### stalactite
-Not, of course, to be confused with stalagmite. Let's sort them out once and for
-all: a stalactite is the icicle-like formation that hangs from the roof or wall
-of a cave. A stalagmite is a deposit on the floor of the cave that looks like
-an inverted stalactite. Remember that stalactites must be tight to stay on the
-roof of the cave and you'll be all set. Both are made from crystalline calcium
-carbonate buildup.
+The icicle-like formation that hangs from the roof or wall of a cave.
 
 
 ### stalwart
-Stout; steady; dependably courageous. Friends who can be counted on for their
-bravery and loyalty are stalwart.
+Stout; steady; dependably courageous.
 
 
 ### stentorian
-People often use this word to mean authoritarian, but that's not exactly what it
-means. Someone who speaks with a stentorian voice speaks loudly and harshly. It
-often has the effect of being authoritarian, however.
+Speaking loudly and harshly.
 
 
 ### stochastic
@@ -6197,15 +6136,11 @@ probability distribution.
 
 
 ### stodge
-To eat greedily; to gorge or stuff. People on diets often sneak down to the
-kitchen in the middle of the night to stodge themselves with leftovers from
-the fridge.
+To eat greedily; to gorge or stuff.
 
 
 ### stolid
-Unemotional, or at least slow to express feelings. Certain men who were raised
-in the pre-conscious- ness-raising days are stolid. Old army officers who insist
-that their family members call them General, for instance, are also stolid.
+Unemotional, or at least slow to express feelings.
 
 
 ### stroppy
@@ -6213,9 +6148,7 @@ Bad-tempered and argumentative.
 
 
 ### subaltern
-Subordinate or of lower rank. It's used as an adjective. "The president and her
-subaltern staff toured the factory to see how the assembly-line workers were
-doing."
+Subordinate or of lower rank. It's used as an adjective.
 
 
 ### subjacent
@@ -6322,9 +6255,7 @@ stress in music resulting in syncopation.
 
 ### synecdoche
 A figure of speech in which a part is substituted for the whole, such as "Get
-your butt in here." (Obviously the speaker wants more than just your posterior.)
-Or the whole may be used to describe a part, as in "Big Business is responsible
-for polluting this lake."
+your butt in here."
 
 
 ### synergy
@@ -6431,9 +6362,9 @@ doing it now.
 
 
 ### theomania
-A theomaniac is someone who believes he is God or has been chosen by God for
-some special purpose. Distinguish from messianic (see messianic), which can have
-less heavenly associations.
+Someone who believes he is God or has been chosen by God for some special
+purpose. Distinguish from messianic (see messianic), which can have less
+heavenly associations.
 
 
 ### thersitical
@@ -6456,10 +6387,7 @@ A sharp pang of emotion.
 
 
 ### tiffin
-In India, millions of women prepare lunches each morning and send them by
-messenger to their husbands at work. This light midday meal is called a tiffin,
-and can now be used as an elegant way of describing the yogurt and apple you eat
-every day.
+A light midday meal in India.
 
 
 ### tilak
@@ -6474,23 +6402,19 @@ take it personally.
 
 
 ### timorous
-Meek, fearful; another word for timid. Yes, you can be timorous as a mouse.
+Meek, fearful; another word for timid.
 
 
 ### tintinnabulation
-The sound of ringing bells. The word often used as an example of onomatopoeia
-(see onomatopoeia) because it sounds just like what it means. Immortalized in
-Edgar Allan Poe's poem, "The Bells."
+The sound of ringing bells.
 
 
 ### tonsorial
-This has nothing to do with those things in your throat that swell up when
-you're sick. Someone skilled in the tonsorial arts is a great barber.
+Someone skilled in the tonsorial arts is a great barber.
 
 
 ### toothsome
-Dentists are rarely toothsome. Toothsome means delicious or luscious: fresh
-peaches, perhaps, or a ripe avocado.
+Delicious or luscious.
 
 
 ### toper
