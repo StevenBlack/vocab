@@ -15,6 +15,7 @@ acolyte
 acrimony
 acuminate
 adduce
+adronitis
 adulatory
 adventitious
 aesthete
@@ -36,12 +37,14 @@ algorithm
 Algorithmic Blindspots
 alliaceous
 alliteration
+altschmerz
 amanuensis
 ameliorate
 amphigory
 anachronism
 analects
 ancillary
+anecdoche
 anomaly
 anomie
 antediluvian
@@ -195,6 +198,7 @@ Chilling Effect
 chimera
 choplogic
 chrysalis
+chrysalism
 cicatrix
 cicerone
 cinerary
@@ -320,6 +324,7 @@ eleemosynary
 elephantine
 elide
 elision
+ellipsism
 Ellsberg Paradox
 embayment
 embrangle
@@ -337,6 +342,7 @@ enervate
 enigma
 ennui
 enormity
+enouement
 eonism
 ephemera
 epicene
@@ -379,6 +385,7 @@ exoteric
 expatiate
 expeditious
 extirpate
+exulansis
 fabulist
 facetious
 facinorous
@@ -560,6 +567,7 @@ jingoism
 jocose
 jodhpurs
 joey
+jouska
 Jungian
 juvenescent
 juxtapose
@@ -570,6 +578,7 @@ Kayfabrication
 kef
 kegler
 ken
+kenopsia
 kente
 key grip
 killjoy
@@ -583,7 +592,9 @@ knurl
 kowtow
 krotoscope
 kudos
+kuebiko
 labile
+lachesism
 lachrymose
 lackey
 lacuna
@@ -599,6 +610,7 @@ legerdemain
 leitmotif
 lethologica
 lexicon
+liberosis
 libertarian
 libertine
 licentious
@@ -650,6 +662,7 @@ manque
 mare's-nest
 martinet
 matutinal
+mauerbauertraurigkeit The inexplicable urge to push people away, even close friends who you really ike.
 maunder
 maverick
 mawkish
@@ -702,6 +715,7 @@ mo
 modus operandi
 moil
 mollify
+monachopsis
 monism
 monodomous
 monomania
@@ -741,6 +755,7 @@ nirvana
 niveous
 Nobel Disease
 nodus
+Nodus Tollens
 noisome
 nom de guerre
 normalcy bias
@@ -759,6 +774,7 @@ obsequious
 obtuse
 obumbrate
 obviate
+occhiolism
 occiput
 octogenarian
 octothorpe
@@ -771,8 +787,10 @@ ombudsman
 omnifarious
 omnificent
 oniomania
+onism
 onomatopoeia
 ontology
+opia
 oppugn
 oreternatural
 orthography
@@ -981,9 +999,11 @@ riposte
 rodomontade
 roman a clef
 roue
+rubatosis
 rubric
 rubricate
 ruthful
+rückkehrunruhe
 sage
 salient
 salmagundi
@@ -1056,6 +1076,7 @@ soiree
 solecism
 solipsism
 somatist
+sonder
 sonorous
 sophism
 sophistry
@@ -1181,6 +1202,8 @@ vatic
 vaunt
 Veblen Goods
 vedic
+vellichor
+vemödalen
 venal
 venial
 veracity

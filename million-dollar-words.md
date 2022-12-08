@@ -110,6 +110,10 @@ that I am, I adduced the customer to my way of thinking by demonstrating how
 effective the Elektra was at picking up dust."
 
 
+### adronitis
+An emotion; Frustration with how long it takes to get to know someone
+
+
 ### adulatory
 Excessive devotion to someone; servile flattery.
 
@@ -228,6 +232,11 @@ together. "Helplessly hoping her harlequin hovers nearby ---------- " Score big
 points by identifying alliteration wherever you find it.
 
 
+### altschmerz
+An emotion; Weariness with the same old issues that you've always had - the same
+boring flaws and arieties that you've been gnawing on for years.
+
+
 ### amanuensis
 A scribe; someone employed to take dictation or copy what another has written.
 John Milton's wife was his amanuensis; Milton dictated Paradise Lost to her.
@@ -267,6 +276,10 @@ is by no means limited to Asian writing.
 This word is often used to mean secondary, but it actually means supplementary,
 as in "the ancillary benefits to this job are its good location and the friendly
 staff." The word is
+
+
+### anecdoche
+An emotion; A conversation in which everyone is talking, but nobody is listening
 
 
 ### anomaly
@@ -1175,6 +1188,10 @@ be in a chrysalis state; a novel in the early stages of creation could be called
 a chrysalis.
 
 
+### chrysalism
+An emotion; The amniotic tranquilty of being indoors during a thunderstorm.
+
+
 ### cicatrix
 The scar that forms on a healed wound.
 
@@ -1847,6 +1864,10 @@ https://www.merriam-webster.com/dictionary/elide
 https://www.merriam-webster.com/dictionary/elision
 
 
+### ellipsism
+An emotion; A sadness that you never be able to know how history will turn out.
+
+
 ### Ellsberg Paradox
 People prefer a clear risk over an unclear one, even if it's no safer. E.g.
 They'd rather bet on a ball picked from a mix of 50 red & 50 black balls than
@@ -1941,6 +1962,11 @@ weary sense. The Duke of York suffered from it—too much money, not enough to d
 Contrary to popular belief, the word has nothing to do with size, but with
 horribleness or awfulness. The enormity of a situation—like starvation in Africa
 — describes the extent of the tragedy.
+
+
+### enouement
+An emotion; The bittersweetness of having arrived in the future, seeing how
+things turn out, but not being able to tell your past self.
 
 
 ### eonism
@@ -2179,6 +2205,11 @@ solution to feeling nauseatingly drunk is to pass out.
 
 ### extirpate
 To uproot or completely destroy. An earthquake may extirpate a small village.
+
+
+### exulansis
+An emotion; The tendency to give up trying to talk about an experience because
+people are unable to relate to it.
 
 
 ### fabulist
@@ -3206,6 +3237,11 @@ A baby kangaroo. Not just because his mama named him that. All baby kangaroos
 are called joeys, just as all baby bears are called cubs.
 
 
+### jouska
+An emotion; A hypothetical conversation that you compulsively play out in your
+head.
+
+
 ### Jungian
 Carl Jung was a contemporary and follower of Freud, and is best known for his
 theories of a universal mythology, a connection that brings us all back to basic
@@ -3260,6 +3296,11 @@ A person who bowls (bolwing).
 
 ### ken
 Area of expertise or authority. '"That's outside my ken,' said the detective."
+
+
+### kenopsia
+An emotion; The eerie, forlom atmosphere of a place that is usually bustling
+with people but is now abandoned and quiet.
 
 
 ### kente
@@ -3331,9 +3372,18 @@ Not a method of self-defense, or a brand of chocolate bar, but applause or
 praise. Critics extend kudos to playwrights.
 
 
+### kuebiko
+An emotion; A state of exhaustion inspired by acts of senseless violence
+
+
 ### labile
 Although the word means unstable in general, it is most frequently used to mean
 emotionally unstable, as in temperamental or moody.
+
+
+### lachesism
+An emotion; The desire to be struck by disaster - to survive a plane crash, or
+to lose everything in a fire.
 
 
 ### lachrymose
@@ -3419,6 +3469,10 @@ that condition. It's called...ooh...I forget."
 ### lexicon
 This word refers to the working or usable vocabulary of a language, a person or
 a culture. After reading this book, your lexicon should be greatly expanded.
+
+
+### liberosis
+An emotion; The desire to care less about things.
 
 
 ### libertarian
@@ -3717,6 +3771,10 @@ too much homework every night.
 A rather economical way of saying "happening in the morning" from the French
 "matin." Breakfast is a matutinal meal; many people like to take matutinal
 walks; certain radio programs are matutinal.
+
+
+### mauerbauertraurigkeit The inexplicable urge to push people away, even close friends who you really ike.
+
 
 
 ### maunder
@@ -4021,6 +4079,10 @@ To soothe, appease or calm down. Chamberlain tried to mollify Hitler. A father
 might try to mollify a small child who dropped an ice-cream cone.
 
 
+### monachopsis
+An emotion; The subtle but persistent feeling of being out of place.
+
+
 ### monism
 https://www.merriam-webster.com/dictionary/monism
 
@@ -4251,6 +4313,11 @@ your research, you're likely to be stuck for days trying to discover the right
 answer. The plural is nodi.
 
 
+### Nodus Tollens
+An emotion; The realization that the plot of your life doesn't make sense to
+you anymore
+
+
 ### noisome
 If you think this has to do with an assault on the ears, you've got the wrong
 organ. Strangely enough, the word means foul-smelling. The diaper bin is
@@ -4345,6 +4412,10 @@ obumbrate the understanding of a scientific concept.
 https://www.merriam-webster.com/dictionary/obviate
 
 
+### occhiolism
+An emotion; The awareness of the smallness of your perspective.
+
+
 ### occiput
 https://www.merriam-webster.com/dictionary/occiput
 
@@ -4418,6 +4489,11 @@ astronomical credit card bills and t-shirt slogans like: "When the going gets
 tough, the tough go shopping."
 
 
+### onism
+An emotion; The frustration of being stuck in just one body, that inhabits only
+one place at a time.
+
+
 ### onomatopoeia
 A word that sounds like what it defines (see flump). Consider "hiss" or
 "scratch."
@@ -4433,6 +4509,11 @@ comprises the domain of discourse, the things that are defined as existing,
 together with whatever emerges from their mutual implications. LOGIC: A logical
 system involving theory of classes. COMPUTER SCIENCE: A structure of concepts or
 entities within a domain, organized by relationships; a system model.
+
+
+### opia
+An emotion; The ambiguous intensity of Looking someone in the eye, which can
+feel simultaneously invasive and vulnerable.
 
 
 ### oppugn
@@ -5582,6 +5663,10 @@ disguised by fictitious names.
 A rake; a dissipated, lascivious man, but with a touch of the dashing romantic.
 
 
+### rubatosis
+An emotion; The unsettling awareness of your own heartbeat.
+
+
 ### rubric
 A set of regulations for behavior or procedure.
 
@@ -5593,6 +5678,11 @@ https://www.merriam-webster.com/dictionary/rubricate
 ### ruthful
 Having pity, compassion or remorse. To use it as a noun, just say "ruth": "At
 the funeral, the murderer showed ruth."
+
+
+### rückkehrunruhe
+An emotion; The feeling of returning home after an immersive trip only to find
+it fading rapidly from your awareness.
 
 
 ### sage
@@ -5972,6 +6062,11 @@ may be called solipsistic.
 A psychiatrist who believes that all mental illnesses are physical in
 origin. Almost the opposite of someone who believes that all illnesses are
 psychosomatic, or psychological in origin.
+
+
+### sonder
+An emotion; The realization that each passerby has a life as vivid and complex
+as your own.
 
 
 ### sonorous
@@ -6595,6 +6690,15 @@ Of or relating to the Aryans who settled in India c1500 b.c., or to their
 literature or religion. The language used in the Vedas, an early form of
 Sanskrit. Also called Vedic Sanskrit. the language of the Veda, closely related
 to classical Sanskrit.
+
+
+### vellichor
+An emotion; The strange wistfulness of used bookshops.
+
+
+### vemödalen
+An emotion; The frustration of photographic something amazing when thousands of
+identical photos already exist.
 
 
 ### venal
