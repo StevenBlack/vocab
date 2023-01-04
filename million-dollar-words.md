@@ -4212,6 +4212,10 @@ greater psychological impact on us than positive experiences of the same
 magnitude.
 
 
+### neologism
+A newly coined word or expression.
+
+
 ### neophobia
 The fear of anything new, especially a persistent and abnormal fear. In its
 milder form, it can manifest as the unwillingness to try new things or break
