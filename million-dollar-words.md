@@ -4194,15 +4194,11 @@ be the ne plus ultra.
 
 
 ### necromancy
-A scientific-sounding word for sorcery or witchcraft. Use it when you want
-something to sound a little more serious than just plain "magic." Say NEK-RUH-
-MAN-SEE.
+Sorcery or witchcraft.
 
 
 ### nefarious
-Very evil or wicked; frequently used to describe cartoon villains. Think of the
-guy who was always tying Pauline to the railroad tracks. It's also used quite
-seriously, however: Hitler's henchmen committed nefarious acts.
+Very evil or wicked.
 
 
 ### negativity bias
@@ -4224,25 +4220,19 @@ a tendency to reject unknown or novel foods.
 
 
 ### neophyte
-Another way of saying "novice" or "beginner." Someone who takes up tennis for
-the first time is a neophyte.
+A novice or a beginner.
 
 
 ### nepenthe
-Anything which makes someone forget sorrow, suffering or pain. For some, alcohol
-is a nepenthe for woes. Others prefer books, movies or shopping.
+Anything which makes someone forget sorrow, suffering or pain. F
 
 
 ### nephology
-This is the scientific term for the study of clouds. The next time you decide to
-escape to a field and lie on the grass and find shapes of animals in the clouds,
-you can say you spent the afternoon studying nephology.
+The study of clouds.
 
 
 ### nepotism
-Showing favoritism to friends or relatives in business or politics. If the
-boss's son is an incompetent idiot and nevertheless is appointed president of
-the company, chances are that nepotism is at work.
+Showing favoritism to friends or relatives in business or politics.
 
 
 ### nethermost
@@ -4252,10 +4242,7 @@ planet. The Arctic is the nethermost region of the earth.
 
 
 ### nettlesome
-Irritating or annoying. When a car's burglar alarm goes off and blares for
-hours, that's nettlesome. Particularly in the middle of the night. niggling
-Excessively petty or nit-picking. A job that involves endless poring over
-details is niggling work.
+Irritating or annoying.
 
 
 ### next-in-line effect
@@ -4320,9 +4307,7 @@ Latin: know the enemy.
 
 
 ### nubbin
-This word means exactly what it sounds like—a lumpy stub, a bumpy nub. The pills
-that form on sweaters after you've worn them for a time could just as well be
-called nubbins.
+A lumpy stub, a bumpy nub.
 
 
 ### nubile
