@@ -339,25 +339,20 @@ produce the characteristic odor of perspiration (distinguished from eccrine).
 
 
 ### apocryphal
-Of doubtful authenticity; practically a fable. Not like Paul Bunyan; more like
-Babe Ruth calling his home run. As we have lost our ability to believe real
-fables, many apocryphal stories have been created about heroes such as Kennedy
-and Hemingway.
+Of doubtful authenticity; practically a fable.
 
 
 ### apogee
-Refers to the point in the orbit of the moon when the moon is furthest from the
-earth, but has come to refer to any figurative high point or climax, as in a
-career. Being elected President would be the apogee of a politician's career;
-failing to be re-elected would be the nadir. (See nadir.)
+The point in the orbit that is furthest from the orbited body.
 
 
 ### apophasis
-Rhetoric: denial of one's intention to speak of a subject that is at the same
-time named or insinuated, as “I shall not mention Caesar's avarice, nor his
-cunning, nor his morality.” Theology: knowledge, understanding, or description
-of God through negative statements about qualities and characteristics that God
-does not possess, as "God is not confined by space or time."
+Rhetoric: denial of one's intention to speak of a subject that is at the
+same time named or insinuated, as “I shall not mention Caesar's avarice,
+nor his cunning, nor his morality.” In theology: knowledge, understanding,
+or description of God through negative statements about qualities and
+characteristics that God does not possess, as "God is not confined by space
+or time."
 
 
 ### aposiopesis
@@ -1335,6 +1330,12 @@ or disproved.
 A formal way of expressing blood ties or kinship. It does not denote specific
 relationships (such as "sister" or "cousin"), but rather a family connection. A
 family tree traces consanguinity.
+
+
+### Context effect
+The Context Effect is a part of Cognitive Psychology that states that the
+context (environmental factors) that surrounds an event effects how an event is
+perceived and remembered.
 
 
 ### contretemps
@@ -6137,6 +6138,11 @@ Unemotional, or at least slow to express feelings.
 Bad-tempered and argumentative.
 
 
+### subadditivity effect
+The subadditivity effect is the tendency to judge probability of the whole to be
+less than the probabilities of the parts.
+
+
 ### subaltern
 Subordinate or of lower rank. It's used as an adjective.
 
@@ -6702,18 +6708,15 @@ assign most often.
 
 
 ### vulpine
-Fox-like. Someone who is crafty or sneaky and seems to slip through your fingers
-is vulpine.
+Fox-like. Someone who is crafty or sneaky.
 
 
 ### wallah wallah
-It means the same thing as muckity-muck or head honcho. A wallah wallah is the
-person in charge.
+The person in charge.
 
 
 ### wamble
-Not what Elmer Fudd does in a motor home. To move unsteadily or stagger about. A
-drunk wambles down the street after a night at the bar.
+To move unsteadily or stagger about.
 
 
 ### wampus
@@ -6722,15 +6725,11 @@ interrupting a great speech is a wampus.
 
 
 ### wanton
-No, not a soup. Unprovoked, unjustified and generally egregiously out of
-control. Nasty people act with wanton disregard for the feelings of others;
-rioters may act with wanton destructiveness, breaking windows and looting shops.
+Unprovoked, unjustified and generally egregiously out of control.
 
 
 ### warison
-A note sounded to start an attack. This can be a literal trumpet call or a
-figurative battle cry. "When they decided to take separate vacations, I knew
-that was the warison for the divorce that followed."
+A note sounded to start an attack.
 
 
 ### Warnock's Dilemma
@@ -6741,59 +6740,40 @@ attention.
 
 
 ### welt
-A more powerful way to say "a bruise." Boxers often have welts after a difficult
-match.
+A bruise.
 
 
 ### Weltanshauung
-A German word that means "world outlook" or "world view." It's a fancy way to
-say "perspective," and if you use it correctly, it sounds intelligent but not
-pretentious. If you want to talk about small-town morality, you can talk about
-the town's Weltanshauung. If you want to argue with someone, you can begin by
-saying "You have a different Weltanshauung" — you'll probably begin with an
-advantage.
+A German word that means world outlook, world view, or perspective.
 
 
 ### welter
-A lot or a great many; confusion, turmoil. Imagine having a welter of homework
-to do or seeing a welter of dirty laundry scattered about your room. Also a verb
-that means to writhe or wallow.
+A lot or a great many; confusion, turmoil.
 
 
 ### Weltschmerz
-The kind of word only the Germans could come up with. It literally means "world
-pain," but it's used to evoke a strong melancholy over the state of the world.
+World pain, but used to evoke a strong melancholy over the state of the world.
 
 
 ### whelk
-An extremely civilized word for pimple, and a lot more euphonious (see
-euphonious) than "zit."
+A pimple or zit.
 
 
 ### whelp
 The young of a carnivore, for example a dog, bear, lion, seal, etc. Also a
-youth, especially an impudent or despised one. In machinery, whelps are any
-of a series of longitudinal projections or ridges on the barrel of a capstan,
-windlass, etc. or any of the teeth of a sprocket wheel.
+youth, especially an impudent or despised one.
 
 
 ### whiffle
-There are several meanings for this word, but the best is "to vacillate or go
-back and forth about something." Before going out to dinner, one may whiffle
-between wanting Chinese or Italian food.
+To vacillate or go back and forth about something.
 
 
 ### white paper
-An official report by the government about a specific issue. Environmentalists
-might refer to a white paper on the spotted owl.
+An official report about a specific issue.
 
 
 ### winnow
-It literally means to separate the grain from the chaff by getting rid of the
-chaff. There's even a piece of farm equipment called a winnower. You are more
-likely to use this word figuratively, however. You can winnow out the weak
-athletes to make an all-star team, or winnow the unimportant books from your
-overcrowded shelves and give them away.
+To separate the grain from the chaff by getting rid of the chaff.
 
 
 ### winsome

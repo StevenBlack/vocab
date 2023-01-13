@@ -230,6 +230,7 @@ congenial
 congruence bias
 conjecture
 consanguinity
+Context effect
 contretemps
 contumacious
 corpus
@@ -1103,6 +1104,7 @@ stochastic
 stodge
 stolid
 stroppy
+subadditivity effect
 subaltern
 subjacent
 subrogate
