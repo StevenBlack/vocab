@@ -159,6 +159,7 @@ camber
 cambist
 campanile
 canard
+canicular
 canonize
 canorous
 caparison
