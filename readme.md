@@ -2948,6 +2948,10 @@ leaves work early and comes home to find her husband in flagrante delicto with
 another woman. (Sexual infidelity must have been common in Roman times, too.)
 
 
+### In Omnia Paratus
+Prepared in all things; ready for anything.
+
+
 ### inchoate
 Not yet formed; just begun. A novel is inchoate after the first chapter has been
 written; the earth was inchoate when nothing existed but primordial ooze.
@@ -5485,9 +5489,7 @@ Moral righteousness or integrity.
 
 ### red herring
 Something introduced merely to divert attention from a more important and
-possibly controversial issue. Appears in Agatha Christie mysteries all the time.
-In a different context, it's also used to denote a printed prospectus detailing
-the terms of issuance of shares of a new corporation.
+possibly controversial issue.
 
 
 ### redolent
