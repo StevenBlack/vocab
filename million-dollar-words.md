@@ -2569,9 +2569,9 @@ activity).
 
 
 ### Gurwinder's Third Paradox
-In order for you to beat someone in a debate, your opponent needs to realize
-they've lost. Therefore, it's easier to win an argument against a genius than
-an idiot.
+ >>>> In order for you to beat someone in a debate, your opponent needs to  >>>>
+realize they've lost. Therefore, it's easier to win an argument against a  >>>>
+genius than an idiot.
 
 
 ### gustatory
@@ -3743,8 +3743,9 @@ A rather economical way of saying "happening in the morning" from the French
 walks; certain radio programs are matutinal.
 
 
-### mauerbauertraurigkeit The inexplicable urge to push people away, even close friends who you really ike.
-
+### mauerbauertraurigkeit
+The inexplicable urge to push people away, even close friends who you really
+ike.
 
 
 ### maunder
@@ -3764,10 +3765,6 @@ physicist.
 Overly sentimental or maudlin. Your great-aunt, who is always hugging and crying
 and talking about who's in her will, is mawkish. It's not a good way to be. Soap
 operas are mawkish; so are bad movies.
-
-
-### Maybe posting this megathread was a mistake...
-
 
 
 ### Media Naturalness Theory
@@ -6168,6 +6165,10 @@ Superior in rank, class, or status.
 An uncertain belief.
 
 
+### supranational
+Having power or influence that transcends national boundaries or governments.
+
+
 ### surfeit
 Excess. The wealthy have a surfeit of assets.
 
@@ -6582,9 +6583,7 @@ Capable of being bribed; open to being corrupted.
 
 
 ### venial
-Contrary to popular misuse, a venial sin is one that can be pardoned, overlooked
-or forgiven. Distinguish from venal (see above), which is the Hall of Fame as
-far as sins go.
+Pardonable. A venial sin is one that can be pardoned, overlooked or forgiven.
 
 
 ### veracity
@@ -6601,7 +6600,7 @@ imitating life.
 
 ### vernal
 Happening in the spring. For example, an equinox, or the budding of flowers, or
-the sighting of the first robin... Or victrix.
+the sighting of the first robin.
 
 
 ### victress
@@ -6813,7 +6812,7 @@ aspect.
 
 ### zaftig
 A Yiddish adjective that describes a woman who is pleasingly plump or well-
-rounded. Mae West is the queen of zaftig.
+rounded.
 
 
 ### zarf
