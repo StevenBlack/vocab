@@ -464,6 +464,7 @@ hajj
 halcyon
 halidom
 handsel
+Hanlon's razor
 haptics
 harbinger
 harridan

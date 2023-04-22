@@ -2611,6 +2611,11 @@ A gift or present that is meant to bring good luck, such as a bottle of
 champagne to the owner of a new restaurant.
 
 
+### Hanlon's razor
+An aphorism expressed in various ways including "Never attribute to malice that
+which is adequately explained by stupidity."
+
+
 ### haptics
 Science concerned with the sense of touch.
 
