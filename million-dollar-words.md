@@ -4305,6 +4305,11 @@ danger and/or catastrophe.
 Latin: know the enemy.
 
 
+### nostrum
+a medicine, especially one that is not considered effective, prepared by an
+unqualified person.
+
+
 ### nubbin
 A lumpy stub, a bumpy nub.
 
@@ -4343,7 +4348,7 @@ the true subject but alludes to it in a secondary or slightly obscure way.
 
 
 ### oblivescence
-https://www.merriam-webster.com/dictionary/oblivescence
+An act, or the process, of forgetting.
 
 
 ### obloquy
@@ -4412,23 +4417,15 @@ an oenophile.
 
 
 ### officious
-An officious person meddles or interferes without being asked. Overbearing
-mothers are officious, as are strangers who tell you what you should or
-shouldn't do. Officials are rarely officious, and officious people are not
-necessarily officials. oligarchy A government in which a small group exercises
-power over the majority. A company run by a committee is accurately referred to
-as an oligarchy.
+An officious person meddles or interferes without being asked.
 
 
-### ohlebotomist
-https://www.merriam-webster.com/dictionary/ohlebotomist
+### oligarchy
+A government in which a small group exercises power over the majority.
 
 
 ### olio
-Yes, it means "oil" in other languages, but the definition we're interested in
-is what it means in English, which is a hodge-podge, a mixture of miscellaneous
-elements. A grab bag contains an olio of presents; a seafood stew contains an
-olio of vegetables and fish. (See also/arrago.)
+A hodge-podge, a mixture of miscellaneous elements.
 
 
 ### ombudsman
@@ -4438,20 +4435,15 @@ he represents.
 
 
 ### omnifarious
-Of all varieties or forms; diverse. Nothing to do with being supremely wicked or
-evil. That's nefarious (see nefarious).
+Of all varieties or forms; diverse.
 
 
 ### omnificent
-Having supreme creative power; able to create all things. Many people think God
-is omnificent; some very egotistical people think they are, too. Say OMM-NIF-
-EH-SENT.
+Having supreme creative power; able to create all things.
 
 
 ### oniomania
-An irrepressible urge to buy things; the kind of condition that inspires
-astronomical credit card bills and t-shirt slogans like: "When the going gets
-tough, the tough go shopping."
+An irrepressible urge to buy things.
 
 
 ### onism
@@ -4485,10 +4477,6 @@ feel simultaneously invasive and vulnerable.
 To fight against or counterattack.
 
 
-### oreternatural
-https://www.merriam-webster.com/dictionary/oreternatural
-
-
 ### orthography
 It's not the study of birds, tooth appliances or support shoes. Orthography is
 the correct spelling of words according to established rules or usage. Newspaper
@@ -4497,23 +4485,15 @@ editors worry about this a lot. Saying "Check the orthography" is much like,
 
 
 ### oscitant
-An oscitant person acts as if he just took a Valium or is badly in need of
-a nap: lazy, drowsy, inattentive and unfocused. It can be used to describe
-a physical condition or a state of mind. More temporary than narcolepsy (see
-narcolepsy).
+Lazy, drowsy, inattentive and unfocused.
 
 
 ### osculate
-To kiss and/or hug. Like pulchritude (see pulchritude), this is an ugly word for
-a wonderful action. The word was probably created by a lexicographer who didn't
-do enough osculating.
+To kiss and/or hug.
 
 
 ### ossify
-To turn to bone. This word can be used both literally and figuratively. It means
-to become brittle and bone-hard (like a slice of bread after it's been lying
-in the sun for a few days) or to become mentally brittle or rigid in attitude
-and outlook.
+To turn to bone.
 
 
 ### ostrich effect
@@ -4526,9 +4506,7 @@ Idle, useless and unnecessary.
 
 
 ### oubliette
-A hidden dungeon that can only be entered from above; the kind of word that pops
-up frequently in fairy tales that feature monsters. Fair maidens and princesses
-are always being thrown into oubliettes by evil monsters.
+A hidden dungeon that can only be entered from above.
 
 
 ### Overblown Implications Effect
@@ -4540,8 +4518,7 @@ no one thinks you're a genius. People just aren't thinking about you that much.â
 
 ### Overton Window
 The Overton window is the range of policies politically acceptable to the
-mainstream population at a given time.[1] It is also known as the window of
-discourse.
+mainstream population at a given time. Also known as the window of discourse.
 
 
 ### ovine
@@ -4549,29 +4526,24 @@ Sheep, or sheep-like behavior. This could include lack of individual initiative.
 
 
 ### oxhaft
-Approximately 57 gallons. Useful in hyperbolic (see hyperbole) statements such
-as, "I'd like an oxhaft of double decaf espresso please."
+Approximately 57 gallons.
 
 
 ### oxymoron
-This word describes a phrase that is internally contradictory. We like "jumbo
-shrimp" and "deposed President-for-Life."
+A phrase that is internally contradictory.
 
 
 ### padnag
-Literally, it means an old, slow horse, like a nag, but it's a good word for
-describing an old piece of well loved but slow office equipment, or a broken-
-down car that still gets around.
+Something old and slow.
 
 
 ### paillette
 A large sequin or spangle, the kind sewn onto evening gowns to make them
-glitter. Now you know what those sparkly things are called!
+glitter.
 
 
 ### paladin
-A brave knight or a chivalrous champion; a good word to use for that person
-you've been hoping will ride in on a white horse and save the day.
+A brave knight or a chivalrous champion.
 
 
 ### palaver
@@ -4590,47 +4562,33 @@ before coming up with the final answer.
 
 
 ### palindrome
-A word or phrase that reads the same backward as forward, such as "Madam, I'm
-Adam" or "RADAR" or "A man, a plan, a canalâ€”Panama!"
+A word or phrase that reads the same backward as forward.
 
 
 ### palliative
 Something that eases or soothes a situation, feeling or condition without
-solving or curing it. Aspirin, for example, is a palliative because it can take
-away the fever caused by a virus, but can't cure the virus itself. Giving a
-crying child a lollipop after an allergy shot has a palliative effect.
+solving or curing it.
 
 
 ### panacea
-A cure for all ills. Since nothing is a cure-all, the word is usually used in
-the negative, as in: "The new government policy is not a panacea for all of
-society's ills, but it will relieve certain economic burdens of the poor."
+A cure for all ills.
 
 
 ### pandemic
 Distributed or prevalent practically throughout the world; universal.
-Homelessness is a problem pandemic to every urban society. Throughout the world,
-Coca-Cola is the pandemic drink of choice. A pandemic is similar to an epidemic,
-but a pandemic is much more widespread.
 
 
 ### panegyric
-A speech that lavishly praises someone or something. A homeopathic (see
-homeopathy) doctor might deliver a panegyric on the healing qualities of
-ginseng.
+A speech that lavishly praises someone or something.
 
 
 ### panjandrum
-A pompous, self-important official, such as the people who check your bags
-at customs or the oh-so- helpful assistants behind the desks in motor vehicle
-bureaus. If you're really frustrated by the way they treat you, you could
-probably call them panjandrums and get away with it.
+A pompous, self-important official.
 
 
 ### panoply
-A complete array of something that is usually quite splendid in its breadth and
-size. "A panoply of flowers blanketed the open field." "A panoply of desserts
-covered the wedding buffet table."
+A complete array of something that is usually quite splendid in its breadth
+and size.
 
 
 ### papilote
@@ -4677,8 +4635,7 @@ Perilous, dangerous and difficult to escape from.
 
 ### parochial
 Excessively narrow in outlook; having backward views stemming from a lack of
-worldly experience. Don't confuse with parochial schools, which, while often
-parochial, may not be.
+worldly experience.
 
 
 ### paroxysm
@@ -4702,7 +4659,7 @@ around the people who were his closest colleagues the day before. pasquinade
 
 
 ### pasquinade
-https://www.merriam-webster.com/dictionary/pasquinade
+A lampoon posted in a public place. Satire.
 
 
 ### passementerie
@@ -4733,9 +4690,7 @@ You could be figurative and use it to describe a person's manner and appearance.
 
 ### patois
 Local dialect or jargon; a language peculiar to people of a certain area that is
-distinct from the standard language. Natives of Caribbean islands, for instance,
-converse in French or English or Dutch with tourists, but speak patois among
-themselves.
+distinct from the standard language.
 
 
 ### patronize
@@ -4745,10 +4700,7 @@ her: "Of course, I'll be there on time. Let me give you a signed statement."
 
 
 ### peccadillo
-The word refers to small sins or minor offenses, often sexual. When a married
-woman has a brief affair, she has a peccadillo. If a worker borrows a few
-dollars from petty cash and takes a long time to pay it back, that's also
-a peccadillo.
+The word refers to small sins or minor offenses, often sexual.
 
 
 ### peccant
@@ -4764,12 +4716,11 @@ opinions on others, ignoring common sense in favor of theoretical knowledge.
 ### pedant
 A teacher, but the implication is one who is tiresome, and always focused on
 small details. "Be careful with your new-found vocabulary skills, or you'll
-become a pedant and no one will talk to you any more." (See pedagogue above.)
+become a pedant and no one will talk to you any more."
 
 
 ### pellucid
-Transparent or translucent; as long as you can see through something, you may
-call it pellucid.
+Transparent or translucent.
 
 
 ### penicil
@@ -4779,16 +4730,12 @@ crossword puzzles or for teasing a friend who just got a punk haircut.
 
 
 ### pentimento
-https://www.merriam-webster.com/dictionary/pentimento
+A reappearance in a painting of an original drawn or painted element which was
+eventually painted over by the artist.
 
 
 ### penultimate
-Second to last, whether it's your place on line, or the next-to-the-last
-paragraph. The letter t is the
-
-
-### penultimate
-letter in the word penultimate.
+Second to last.
 
 
 ### perdition
@@ -4798,8 +4745,7 @@ suggests ultimate punishment for moral sin.
 
 
 ### peregrinate
-A verb that means to wander or travel with no plans or itinerary. Jack Kerouac
-wrote of his peregrinations in On the Road.
+To wander or travel with no plans or itinerary.
 
 
 ### peremptory
@@ -4809,41 +4755,32 @@ your room!" is a peremptory order.
 
 ### perfervid
 Extremely ardent or intense; fervent to the nth degree. Zealots are perfervid,
-whatever their cause. (See also messianic.)
+whatever their cause.
 
 
 ### perfidious
-Treacherous; nefarious; wicked. There are lots of words for evil; perfidious
-carries a note of disloyalty or betrayal. Benedict Arnold was perfidious. To
-call him a perfidious traitor would be redundant.
+Treacherous; nefarious; wicked.
 
 
 ### perfidy
 The quality or state of being faithless or disloyal : treachery. An act or an
-instance of disloyalty. In the context of war, perfidy is a form of deception in
-which one side promises to act in good faith with the intention of breaking that
-promise once the unsuspecting enemy is exposed.
+instance of disloyalty.
 
 
 ### perfunctory
-Routine; performed automatically, without thought or feeling. A job done
-perfunctorily reveals no particular passion and seems careless. A perfunctory
-greeting lacks enthusiasm.
+Routine; performed automatically, without thought or feeling.
 
 
 ### periohrasis
-https://www.merriam-webster.com/dictionary/periohrasis
+The use of indirect and circumlocutory speech or writing.
 
 
 ### peripatetic
 An adjective or noun that means traveling from place to place; itinerant.
-Migrant workers are peripatetic. You can also be peripatetic by reading this
-book in no particular order. (See also peregrinate.)
 
 
 ### perorate
-This word is a mouthful, as is its meaning, which is: to make a lengthy speech,
-often summarizing everything that's been said before.
+To make a lengthy speech, often summarizing everything that's been said before.
 
 
 ### perquisite
@@ -4853,11 +4790,11 @@ vacation time; fringe benefits.
 
 
 ### persevere
-To persist. Never give up. Not spelled perservere, a common error.
+To persist. Never give up.
 
 
 ### persiflage
-Light banter. (See also bavardage.)
+Light banter.
 
 
 ### perspicacious
@@ -4870,17 +4807,16 @@ Clearly expressed, easy to understand; lucid.
 
 ### pertinacious
 Holding firmly to a belief or opinion; unwilling to be drawn away from a
-previously held idea. (See also obdurate.)
+previously held idea.
 
 
 ### peruse
-To review thoroughly, study carefully. Often misused to mean "skim."
+To review thoroughly, study carefully.
 
 
 ### pestle
-As in "mortar and pestle," the traditional tools used by a pharmacist. The
-pestle is the stick that looks like a knee bone; the mortar is the little bowl
-that holds the stuff to be crushed.
+A traditional tools used by a pharmacist. The pestle is the stick that looks
+like a knee bone.
 
 
 ### Peter Principle
@@ -4890,9 +4826,7 @@ result, the world is filled with people who suck at their jobs.
 
 
 ### pettifogger
-A person overly concerned with details, such as certain accountants or lawyers
-for the opposing side. A pettifogger is someone who nit-picks, a niggler (see
-niggler).
+A person overly concerned with details.
 
 
 ### pharisee
@@ -4961,7 +4895,7 @@ equally tiny.
 
 
 ### pithy
-https://www.merriam-webster.com/dictionary/pithy
+having substance and point : tersely cogent.
 
 
 ### plangent
@@ -4989,7 +4923,7 @@ ambassador may be sent to act as a plenipotentiary for the ruler of a country.
 
 
 ### pleonasm
-https://www.merriam-webster.com/dictionary/pleonasm
+The use of more words than those necessary to denote mere sense. Redundancy.
 
 
 ### plethora
