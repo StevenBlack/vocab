@@ -1590,6 +1590,10 @@ The two dots placed on top of the second of two vowels that indicates that they
 are supposed to be pronounced separately.
 
 
+### diffident
+Hesitant in acting or speaking through lack of self-confidence.
+
+
 ### diglot
 Someone who is fluent in two languages. Bilingual.
 
