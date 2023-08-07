@@ -473,6 +473,7 @@ haruspex
 haughty
 havelock
 hedonist
+heeltap
 hegemony
 hegira
 heliotrope
@@ -860,6 +861,7 @@ perfidy
 perfunctory
 periohrasis
 peripatetic
+pernoctate
 perorate
 perquisite
 persevere
@@ -891,6 +893,7 @@ Pleistocene era
 plenipotentiary
 pleonasm
 plethora
+Plouter
 plunder
 plutocracy
 pococurante

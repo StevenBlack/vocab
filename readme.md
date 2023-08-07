@@ -2656,6 +2656,10 @@ chocolate ice cream and hot fudge on a flourless chocolate cake, or spends class
 time sunbathing while attending the University of Miami.
 
 
+### heeltap
+Remainder of drink left in a glass or bottle.
+
+
 ### hegemony
 Political and/or economic leadership, as in one country over another or one
 state over another.
@@ -4783,6 +4787,10 @@ The use of indirect and circumlocutory speech or writing.
 An adjective or noun that means traveling from place to place; itinerant.
 
 
+### pernoctate
+To spend the night.
+
+
 ### perorate
 To make a lengthy speech, often summarizing everything that's been said before.
 
@@ -4933,6 +4941,10 @@ The use of more words than those necessary to denote mere sense. Redundancy.
 ### plethora
 An excess; more than enough to choose from; a glut. Imelda Marcos, for example,
 had a plethora of shoes in her closet.
+
+
+### Plouter
+To splash about, to wade.
 
 
 ### plunder
