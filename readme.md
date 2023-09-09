@@ -4813,6 +4813,12 @@ Light banter.
 Of acute discernment; having keen insight; mentally perceptive.
 
 
+### perspicacity
+A penetrating discernment — a clarity of vision or intellect which provides a
+deep understanding and insight. It extends the concept of wisdom by denoting a
+keenness of sense and intelligence applied to insight.
+
+
 ### perspicuous
 Clearly expressed, easy to understand; lucid.
 

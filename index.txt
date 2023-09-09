@@ -867,6 +867,7 @@ perquisite
 persevere
 persiflage
 perspicacious
+perspicacity
 perspicuous
 pertinacious
 peruse
