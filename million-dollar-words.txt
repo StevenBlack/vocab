@@ -4554,7 +4554,7 @@ vacation time; fringe benefits.
 
 
 persevere
-To persist. Never give up.
+To persist.
 
 
 persiflage
@@ -4801,7 +4801,8 @@ relatives, and we're going."
 
 
 precept
-https://www.merriam-webster.com/dictionary/precept
+A command or principle intended especially as a general rule of action.
+Also an order issued by legally constituted authority to a subordinate official.
 
 
 preciosity
@@ -4816,9 +4817,10 @@ discussed.
 
 predicable
 Something that can be stated as true or that can be proved.
+
+
 predormition
-The period of semiconsciousness before sleep, when you either begin to dream or
-to worry (in which case you may not sleep at all).
+The period of semiconsciousness before sleep.
 
 
 preponderant
@@ -4843,12 +4845,10 @@ This is another way of saying superhuman or beyond the powers of mere mortals.
 preternatural
 Beyond the course of nature—almost supernatural. The forest can be
 preternaturally quiet—so quiet that it's not natural.
+
+
 prevaricate
-Not quite fibbing, but close. When you prevaricate, you make vague or misleading
-statements without telling an outright falsehood. If you don't want to go
-somewhere and you're feeling healthy, "I can't make it tonight. I'm sick" is a
-lie; "I'm not sure I can make it tonight. I'll get there if I can but don't wait
-for me" is a prevarication.
+To make vague or misleading statements without telling an outright falsehood.
 
 
 prima facie
@@ -4857,27 +4857,22 @@ cookie jar is prima facie evidence of theft.
 
 
 primer
-A book that covers the basics of a subject. Originally used to describe the
-books used in one-room school- houses, it can now be applied to software
-documentation or basic texts in any subject. Careful with the pronunciation.
-Rhymes with simmer.
+A book that covers the basics of a subject.
 
 
 primogenitor
-Often confused to mean first-born or heir apparent. In fact, it means ancestor.
+Ancestor.
 
 
 pristine
-Most commonly, works of art or antiques in perfect condition are described as
-pristine. A photograph that has no creases, tears or stains is pristine. When
-something is pristine, it retains its original or pure form.
+Belonging to the earliest period or state. Not spoiled, corrupted, or polluted
+(as by civilization). Fresh and clean as or as if new.
 
 
 proactive
-Often misused to mean "active." It means the opposite of reactive. Action that
-is proactive precedes, even promotes or prevents, a situation. Politicians
-are reactive; good chess players are proactive. probity Honesty; integrity;
-incorruptibility. Has nothing to do with probability or wills.
+Acting in anticipation of future problems, needs, or changes.
+
+
 probity
 Integrity, especially of the quality of having strong moral principles; decency
 and honesty. Synonyms: godliness, goodness, honour, righteousness, saintliness,
@@ -4885,15 +4880,11 @@ uprightness, virtue. Antonym: wickedness
 
 
 profligacy
-https://www.merriam-webster.com/dictionary/profligacy
+Wildly extravagant.
 
 
 prognosticate
-To predict from available facts, to foresee or prophesize. The word has to
-do with making a judgment based on available information rather than using
-spiritual or astrological signs. Economists prognosticate the future state of
-the economy based on certain indicators; pollsters prognosticate the outcome of
-elections based on polling results.
+To predict from available facts, to foresee or prophesize.
 
 
 projection bias
@@ -4907,7 +4898,7 @@ flight begins to scream.
 
 
 prolix
-Unnecessarily wordy; verbose. 'Nuff said.
+Unnecessarily wordy; verbose.
 
 
 Promethean
@@ -4960,17 +4951,11 @@ memories of summer camp or trips to the country.
 
 provenance
 Place of origin or source. Frequently used when obtaining information about a
-work of art or an antique. The next time you're in a posh antique store and want
-to give the impression that you belong there, say to the owner, "Can you tell
-something about the provenance of this crystal thingee?"
+work of art or an antique.
 
 
 puce
-No one is quite clear about what color puce really is. Some say chartreuse;
-others guess pinkish-purple. Others shrug and offer, "Green?" Well, here's the
-official answer: the word comes from the French word for "flea" and designates
-the color of a flea, which, if you put that flea under a microscope, you would
-discover is purplish-brown. Rhymes with loose.
+Purplish-brown colour.
 
 
 puerile
@@ -4984,16 +4969,11 @@ pulchritudinous.
 
 punctilious
 Someone who is meticulous and pays attention to details. Marked by or concerned
-about precise accordance with the details of codes or conventions
+about precise accordance with the details of codes or conventions.
 
 
 purlieu
-There are several definitions for this word, but the most usable one is a
-habitat or a place one frequents. The local bar is the purlieu for certain
-folks; the library is the purlieu for others. When you are in your particular
-purlieu, it becomes your milieu (see milieu). Short of breath,
-especially because of being too fat. The obese man in front of you who is slowly
-climbing the steps pursy and panting heavily is pursy. Vivid word, isn't it?
+A habitat or a place one frequents.
 
 
 putsch
