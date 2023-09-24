@@ -2855,9 +2855,8 @@ whizzes, or the shorthand used by waiters at a short-order lunch counter.
 
 
 ### idiograph
-This is not the writing of a stupid person, but rather the word for any private
-trademark or signature. A common idiograph among teenage girls is to dot the i's
-in their names with a heart.
+Any private trademark or signature. A common idiograph among teenage girls is to
+dot the i's in their names with a heart.
 
 
 ### idiopathy
@@ -2865,9 +2864,9 @@ A disease not preceded or occasioned by any known morbid condition.
 
 
 ### ignoble
-It basically means the opposite of "noble"—mean, contemptible and of generally
-low character. Taking credit for someone else's work is an ignoble act, as is
-lying, stealing, cheating and generally acting like a selfish, ungenerous jerk.
+It basically means the opposite of "noble", contemptible and of generally low
+character. Taking credit for someone else's work is an ignoble act, as is lying,
+stealing, cheating and generally acting like a selfish, ungenerous jerk.
 
 
 ### IKEA effect
@@ -2882,8 +2881,7 @@ repeated exposure.
 
 
 ### imbroglio
-A state of confusion; an entangled mess. Often used to describe a mob of players
-duking it out at home plate, or a skirmish among many factions on Capitol Hill.
+A state of confusion; an entangled mess.
 
 
 ### imminent
@@ -2928,17 +2926,11 @@ attribution of particular qualities to a member of a certain social group.
 
 
 ### importune
-To beg or plead with great intensity and persistence. A child might beg her
-mother to let her stay up late; a man might importune his wife not to leave
-him. Choose importune when the importance of the plea is great enough to merit
-the word.
+To beg or plead with great intensity and persistence.
 
 
 ### imprimatur
-A stamp of approval from an acknowledged expert. An endorsement in the form of
-a logo, signature or brand name. Jack Nicklaus lends his imprimatur to a line of
-golf clubs. He didn't design them, he doesn't make them and he doesn't play with
-them; he just endorses them with his name.
+A stamp of approval from an acknowledged expert.
 
 
 ### impudence
@@ -2947,22 +2939,19 @@ A contemptuous or cocky boldness, or disregard of others; impertinet; insolent.
 
 ### impunity
 Freedom from punishment. If you do something with impunity, you know you'll get
-away with it; if you do it without impunity, you know you'll be in deep trouble—
-and you're not using the word correctly either.
+away with it.
 
 
 ### in extremis
 The Latin expression for "near death." When a person on his deathbed makes a
 sudden decision, such as to change his will and leave everything to a distant
-cousin, his decision is said to have been made in extremis. The word is often
-misused to mean a state of near insanity, since things that are decided in
-extremis are by their very nature, well, extreme.
+cousin, his decision is said to have been made in extremis.
 
 
 ### in flagrante delicto
-An evocative Latin phrase for being caught in the middle of a sexual act. A wife
-leaves work early and comes home to find her husband in flagrante delicto with
-another woman. (Sexual infidelity must have been common in Roman times, too.)
+Latin phrase for being caught in the middle of a sexual act. A wife leaves
+work early and comes home to find her husband in flagrante delicto with another
+woman. (Sexual infidelity must have been common in Roman times, too.)
 
 
 ### In Omnia Paratus
@@ -2970,8 +2959,7 @@ Prepared in all things; ready for anything.
 
 
 ### inchoate
-Not yet formed; just begun. A novel is inchoate after the first chapter has been
-written; the earth was inchoate when nothing existed but primordial ooze.
+Not yet formed; just begun.
 
 
 ### incontinent
@@ -2994,15 +2982,11 @@ by constant repetition.
 
 
 ### indefectible
-Perfect; without flaw or defect. It can be used to describe a person's
-character, as well as a perfect diamond or a work of art.
+Perfect; without flaw or defect.
 
 
 ### indemnity
-Insurance or compensation against loss. You can indemnify someone against
-damages that may occur because of your actions. For movie buffs, double
-indemnity is an insurance phrase for a double pay-off in certain instances—
-murder, for example.
+Insurance or compensation against loss.
 
 
 ### indulgences
@@ -3012,8 +2996,7 @@ amount of punishment one has to undergo for sins".
 
 ### ineffable
 Indescribable, impossible to capture in words. Usually used for things that are
-indescribably good or too mysterious or spiritual to put into words. A Mounds
-bar is not ineffable, but the beauty of nature may be.
+indescribably good or too mysterious or spiritual to put into words.
 
 
 ### infamous
@@ -3021,8 +3004,7 @@ A famous person whose fame is based on unsavory acts.
 
 
 ### inflammable
-Just like flammable, but the word is longer. Both types of objects will burst
-into flames when lit. No one really knows the difference.
+Just like flammable.
 
 
 ### Information-Action Ratio
@@ -3034,37 +3016,27 @@ info that changes you.
 
 ### ingenue
 A naive young woman or, just as common, an actress who plays the role of a naive
-young woman. Marilyn Monroe made the type famous.
+young woman.
 
 
 ### ingenuous
-Not ingenious, nor disingenuous. Ingenuous means naive and unworldly. (Ingenious
-means clever. Disingenuous means pretending to be innocent and naive.) "His big
-brown eyes and charming, ingenuous grin made him very likeable."
+Naive and unworldly.
 
 
 ### inimical
-Often confused with inimitable (which means impossible to imitate), inimical
-means hostile and unfriendly. An inimical rival should be avoided, not because
-he's in a class by himself but because he's downright vicious.
+Hostile and unfriendly.
 
 
 ### iniquity
-Complete wickedness; often found in a den for some reason.
+Complete wickedness.
 
 
 ### innervate
-The opposite of enervate, which means to weaken or drain. Innervate means to
-stimulate or furnish with nervous energy. Some things can be enervating and
-innervating at the same time, such as spending several hours with a group of
-raucous kids.
+To stimulate or furnish with nervous energy.
 
 
 ### inscrutable
-Mysterious; difficult to understand or fully grasp. A great catch-all word
-that can be applied to people, ideas, written works or life in general.
-Obscure philosophers are inscrutable; shy people who don't talk much are often
-inscrutable.
+Mysterious; difficult to understand or fully grasp.
 
 
 ### insipid
@@ -3072,53 +3044,38 @@ Uninteresting. Plain. Boring.
 
 
 ### insouciance
-Indifference, but with a subtle twist of devil-maycare. An apathetic person may
-be simply indifferent to what's going on; a person who intentionally acts as if
-she doesn't care in order to look cool or invulnerable is showing insouciance.
+Indifference, but with a subtle twist of devil-maycare.
 
 
 ### intense
-Existing in an extreme degree. "The excitement was intense." Having or showing a
-characteristic in extreme degree. Marked by or expressive of great zeal, energy,
-determination, or concentration. Exhibiting strong feeling or earnestness of
-purpose. Deeply felt.
+Existing in an extreme degree. Having or showing a characteristic in extreme
+degree. Marked by or expressive of great zeal, energy, determination, or
+concentration. Exhibiting strong feeling or earnestness of purpose. Deeply felt.
 
 
 ### intents and purposes
-Usually used in the phrase "for all intents and purposes," it means under usual
-circumstances or during normal conditions: For all intents and purposes, a
-seat belt increases the safety of the driver. Not intensive purposes, a common
-mistake.
+Under usual circumstances or during normal conditions.
 
 
 ### interdict
-To forbid or sternly prohibit. It's best used with official pronouncements. A
-key word in the war against drugs, usually accomplished by the Coast Guard.
+To forbid or sternly prohibit.
 
 
 ### interjacent
-In between, unlike adjacent, which means next to. Most often used in
-mathematical discussions, but can be applied in everyday speech, as in: "They
-took a hotel room that was interjacent to the rooms of their friends so they
-could intercede if a fight broke out."
+In between.
 
 
 ### internecine
-Since the word is almost always used in conjunction with "warfare," it has come
-to be misunderstood to mean "nuclear." In fact, it means "mutually destructive."
-A divorce can be internecine, so can squabbling among divisions of a company.
+Mutually destructive. Destructive to both sides in a conflict. Also relating to
+conflict within a group.
 
 
 ### intestate
-Dying without a will. In many states, this costs your heirs lots of money. For
-some reason, many Americans believe that creating a will somehow encourages an
-early visit from the Grim Reaper.
+Dying without a will.
 
 
 ### intort
-Kind of like contort, but neater. When you twist or curl something around a
-fixed point, you intort it. Pretzels could be described this way, complicated
-logic probably not.
+Twisting or curling something around a fixed point.
 
 
 ### intractable
@@ -4802,7 +4759,7 @@ vacation time; fringe benefits.
 
 
 ### persevere
-To persist. Never give up.
+To persist.
 
 
 ### persiflage
@@ -5062,7 +5019,8 @@ relatives, and we're going."
 
 
 ### precept
-https://www.merriam-webster.com/dictionary/precept
+A command or principle intended especially as a general rule of action. Also an
+order issued by legally constituted authority to a subordinate official.
 
 
 ### preciosity
@@ -5076,9 +5034,11 @@ discussed.
 
 
 ### predicable
-Something that can be stated as true or that can be proved. predormition The
-period of semiconsciousness before sleep, when you either begin to dream or to
-worry (in which case you may not sleep at all).
+Something that can be stated as true or that can be proved.
+
+
+### predormition
+The period of semiconsciousness before sleep.
 
 
 ### preponderant
@@ -5102,12 +5062,11 @@ This is another way of saying superhuman or beyond the powers of mere mortals.
 
 ### preternatural
 Beyond the course of nature—almost supernatural. The forest can be
-preternaturally quiet—so quiet that it's not natural. prevaricate Not quite
-fibbing, but close. When you prevaricate, you make vague or misleading
-statements without telling an outright falsehood. If you don't want to go
-somewhere and you're feeling healthy, "I can't make it tonight. I'm sick" is a
-lie; "I'm not sure I can make it tonight. I'll get there if I can but don't wait
-for me" is a prevarication.
+preternaturally quiet—so quiet that it's not natural.
+
+
+### prevaricate
+To make vague or misleading statements without telling an outright falsehood.
 
 
 ### prima facie
@@ -5116,14 +5075,11 @@ cookie jar is prima facie evidence of theft.
 
 
 ### primer
-A book that covers the basics of a subject. Originally used to describe the
-books used in one-room school- houses, it can now be applied to software
-documentation or basic texts in any subject. Careful with the pronunciation.
-Rhymes with simmer.
+A book that covers the basics of a subject.
 
 
 ### primogenitor
-Often confused to mean first-born or heir apparent. In fact, it means ancestor.
+Ancestor.
 
 
 ### Principle Of Humanity
@@ -5133,31 +5089,26 @@ seek to understand the circumstances that led them to their conclusions.
 
 
 ### pristine
-Most commonly, works of art or antiques in perfect condition are described as
-pristine. A photograph that has no creases, tears or stains is pristine. When
-something is pristine, it retains its original or pure form.
+Belonging to the earliest period or state. Not spoiled, corrupted, or polluted
+(as by civilization). Fresh and clean as or as if new.
 
 
 ### proactive
-Often misused to mean "active." It means the opposite of reactive. Action that
-is proactive precedes, even promotes or prevents, a situation. Politicians
-are reactive; good chess players are proactive. probity Honesty; integrity;
-incorruptibility. Has nothing to do with probability or wills. probity
+Acting in anticipation of future problems, needs, or changes.
+
+
+### probity
 Integrity, especially of the quality of having strong moral principles; decency
 and honesty. Synonyms: godliness, goodness, honour, righteousness, saintliness,
 uprightness, virtue. Antonym: wickedness
 
 
 ### profligacy
-https://www.merriam-webster.com/dictionary/profligacy
+Wildly extravagant.
 
 
 ### prognosticate
-To predict from available facts, to foresee or prophesize. The word has to
-do with making a judgment based on available information rather than using
-spiritual or astrological signs. Economists prognosticate the future state of
-the economy based on certain indicators; pollsters prognosticate the outcome of
-elections based on polling results.
+To predict from available facts, to foresee or prophesize.
 
 
 ### projection bias
@@ -5171,7 +5122,7 @@ flight begins to scream.
 
 
 ### prolix
-Unnecessarily wordy; verbose. 'Nuff said.
+Unnecessarily wordy; verbose.
 
 
 ### Promethean
@@ -5231,17 +5182,11 @@ memories of summer camp or trips to the country.
 
 ### provenance
 Place of origin or source. Frequently used when obtaining information about a
-work of art or an antique. The next time you're in a posh antique store and want
-to give the impression that you belong there, say to the owner, "Can you tell
-something about the provenance of this crystal thingee?"
+work of art or an antique.
 
 
 ### puce
-No one is quite clear about what color puce really is. Some say chartreuse;
-others guess pinkish-purple. Others shrug and offer, "Green?" Well, here's the
-official answer: the word comes from the French word for "flea" and designates
-the color of a flea, which, if you put that flea under a microscope, you would
-discover is purplish-brown. Rhymes with loose.
+Purplish-brown colour.
 
 
 ### puerile
@@ -5255,7 +5200,7 @@ pulchritudinous.
 
 ### punctilious
 Someone who is meticulous and pays attention to details. Marked by or concerned
-about precise accordance with the details of codes or conventions
+about precise accordance with the details of codes or conventions.
 
 
 ### Purity Spiral
@@ -5266,12 +5211,7 @@ Twitter echo-chambers.
 
 
 ### purlieu
-There are several definitions for this word, but the most usable one is a
-habitat or a place one frequents. The local bar is the purlieu for certain
-folks; the library is the purlieu for others. When you are in your particular
-purlieu, it becomes your milieu (see milieu). Short of breath, especially
-because of being too fat. The obese man in front of you who is slowly climbing
-the steps pursy and panting heavily is pursy. Vivid word, isn't it?
+A habitat or a place one frequents.
 
 
 ### putsch
