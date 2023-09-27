@@ -778,10 +778,8 @@ informal blue or gray wool stockings instead of black silk ones.
 
 
 ### boondoggle
-Though the word is now used to describe the kind of conventions that are held in
-tropical places to give employees a chance for some paid vacation time, the word
-literally means "busy work," meaningless tasks carried out laboriously to create
-the appearance of being busy.
+means "busy work," meaningless tasks carried out laboriously to create the
+appearance of being busy.
 
 
 ### bootless
@@ -838,10 +836,7 @@ either soothe or turn one's stomach.
 
 
 ### bruin
-A bear. People who call their office "work-o-rama" and their friend Bill "the
-Billster!" probably refer to Yogi Bear as a "bruin." You can tell them that the
-term comes from the Dutch word for "brown," and that Bern, Switzerland, is named
-after the Swiss word for bear.
+A bear.
 
 
 ### brussels sprout
@@ -1888,8 +1883,7 @@ https://www.merriam-webster.com/dictionary/empirical
 ### Empty Name
 We can be convinced that a concept is real by the mere fact that it has a name,
 but the world is full of names for things that aren't real (e.g. Batman). As
-such, assume nothing is true just because it has a name (including every concept
-in this megathread!)
+such, assume nothing is true just because it has a name.
 
 
 ### encephalesthenia
@@ -2577,9 +2571,9 @@ activity).
 
 
 ### Gurwinder's Third Paradox
- >>>> In order for you to beat someone in a debate, your opponent needs to  >>>>
-realize they've lost. Therefore, it's easier to win an argument against a  >>>>
-genius than an idiot.
+In order for you to beat someone in a debate, your opponent needs to realize
+they've lost. Therefore, it's easier to win an argument against a genius than
+an idiot.
 
 
 ### gustatory
@@ -3742,7 +3736,7 @@ operas are mawkish; so are bad movies.
 
 
 ### Media Naturalness Theory
-Writing has existed for <2% of human history, so our brains are not evolved
+Writing has existed for < 2% of human history, so our brains are not evolved
 for reading; we need vocal/facial cues for context. Thus, accept that you'll be
 misunderstood online, but never stop posting, for the only way to write clearer
 is by writing.
