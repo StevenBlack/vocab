@@ -5389,7 +5389,8 @@ possibly controversial issue.
 
 
 ### redolent
-Fragrant or sweet-smelling.
+Fragrant or sweet-smelling.  Redolent (of/with) means Strongly reminiscent or
+suggestive of. As in, "names redolent of history and tradition."
 
 
 ### refractory
