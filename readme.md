@@ -69,8 +69,7 @@ Say AB-SO-LOO-SHUN.
 
 ### abstemious
 Originally defined as taking food and drink in moderation, now expanded to mean
-temperance in all things. Those who drink deeply from the cup of life are hardly
-abstemious.
+temperance in all things.
 
 
 ### abstruse
@@ -81,8 +80,7 @@ thing to understanding Hegel would be to describe him as abstruse and move on.
 
 ### acerbic
 Harsh; severe; biting. Commonly used to mean sarcastic, the actual meaning is
-stronger. A truly acerbic wit can draw blood. Don Rickles isn't acerbic. He's
-too nice.
+stronger.
 
 
 ### acolyte
@@ -165,9 +163,7 @@ another.
 
 
 ### aglet
-The covering at the end of a shoelace. Of all the words for a-thing-that-should-
-have-a-name-but-youcan-never-remember-what-it-is, this is the easiest to use
-in conversation.
+The covering at the end of a shoelace.
 
 
 ### agnotological statement
@@ -181,13 +177,11 @@ misleading scientific data.
 
 
 ### agrypnia
-Insomnia. The kind of word you stay awake trying to remember.
+Insomnia.
 
 
 ### ailurophilic
-Lover of cats; the opposite of ailurophobia. Admittedly, "cat lover" is a lot
-easier to say, but you can use ailurophilic when you don't want your dog to know
-how you feel.
+Lover of cats; the opposite of ailurophobia.
 
 
 ### ailuropholic
@@ -261,21 +255,15 @@ like them in a house? Would you like them with a mouse?"
 ### anachronism
 A person or event erroneously placed in time. Although it can be used either
 way, the word usually describes something from the past intruding upon the
-present in a contradictory or paradoxical way. Space people from the future
-would not usually be called an anachronism, but a person with a black-and-white
-TV and a gramophone would.
+present in a contradictory or paradoxical way.
 
 
 ### analects
-Selected extracts from the writings of one or more authors. Usually associated
-with Confucius, as in The Analects of Confucius, or with Mao—although the word
-is by no means limited to Asian writing.
+Selected extracts from the writings of one or more authors.
 
 
 ### ancillary
-This word is often used to mean secondary, but it actually means supplementary,
-as in "the ancillary benefits to this job are its good location and the friendly
-staff." The word is
+This word is often used to mean secondary, but it actually means supplementary.
 
 
 ### anecdoche
@@ -294,34 +282,25 @@ corruption and rioting are all signs of anomie.
 
 ### antediluvian
 This word literally means "before the Biblical flood," but it's come to connote
-generally ancient or antiquated. Someone with very old-fashioned ideas might
-jestingly be described as antediluvian.
+generally ancient or antiquated.
 
 
 ### antepenultimate
 The third from the last in a series; the word or thing that precedes the second
-to last (or penultimate) and the last. A useful word when discussing a piece of
-writing, as in: "It says here in the antepenultimate paragraph . . ."
+to last (or penultimate) and the last.
 
 
 ### anthropomorphism
-Assignment of human-like attributes to inanimate objects or animals. People tend
-to anthropomorphise computers: "The computer gets upset when I type this." The
-word can be used to refer to fairy tales about singing trees and talking frogs.
+Assignment of human-like attributes to inanimate objects or animals.
 
 
 ### antithetical
 Something that is in direct opposition to something else is antithetical to it.
-The word has a larger meaning than just plain "opposite." Rich is the opposite
-of poor; booking a rap music group at a staid, elegant French restaurant would
-be antithetical to the restaurant's atmosphere.
 
 
 ### aphasia
 Loss or impairment of speech, or of the power to understand written or spoken
-language. It's rare to find a permanent case in real life, but temporary aphasia
-is all around us. A great excuse when your boss catches you snoozing at a
-meeting; she'll be too stunned to look up the word.
+language.
 
 
 ### aphorism
@@ -517,8 +496,7 @@ certain of a job at the IRS.
 
 ### bacchanal
 A drunken, riotous orgy, or anyone who parties in the style of the Roman god
-Bacchus. You can refer to party revelers as bacchanals or to the party itself as
-a bacchanal. No place for abstemious (see abstemious) people.
+Bacchus.
 
 
 ### bacchanalian
@@ -5565,8 +5543,7 @@ hot fudge, and curry are all saporifics.
 
 
 ### sardonic
-Bitter or scornful. It can describe a sense of humor, a personality type or a
-work of art.
+Bitter, cynical, or scornful.
 
 
 ### sartorial
@@ -5575,10 +5552,7 @@ clothes called on the sartorial skills of everyone in his kingdom.
 
 
 ### saturnalia
-A period of wild revelry. Bacchanals (see bacchanal) are drunken revelries in
-imitation of the Roman god Bacchus. Similarly, saturnalia honors Saturn, the
-Roman god of agriculture. Interestingly enough, though saturnalias are wild
-parties, a saturnine person is cold, gloomy and depressed.
+A period of wild revelry.
 
 
 ### scarify
