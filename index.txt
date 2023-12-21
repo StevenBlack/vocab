@@ -112,7 +112,6 @@ benighted
 benthos
 beset
 besetting
-betime
 bias blind spot
 bibelot
 biblioclast
@@ -141,8 +140,6 @@ brachycerous
 Brandolini's Law (aka the Bullshit Asymmetry Principle)
 brocade
 bromide
-bruin
-brussels sprout
 bumptious
 cabal
 cache
@@ -236,6 +233,7 @@ contretemps
 contumacious
 corpus
 coruscate
+cosset
 countenance
 cozen
 craven
