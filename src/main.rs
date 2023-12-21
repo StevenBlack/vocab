@@ -73,7 +73,7 @@ type TOC = Vec<TOCEntry>;
 // ---
 fn main() {
     let opt = Opt::from_args();
-    let lines = lines_from_file("./million-dollar-words.txt");
+    let lines = lines_from_file("./vocabulary.txt");
     let entries = lines.split(|l| l == "");
     let mut dictionary: Dictionary = Vec::new();
     let mut toc: TOC = Vec::new();
