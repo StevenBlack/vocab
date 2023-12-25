@@ -3793,48 +3793,33 @@ https://www.merriam-webster.com/dictionary/mycology
 
 
 ### myopia
-The medical term for near-sightedness also connotes a more figurative lack of
-vision, or short-sightedness. People who wear glasses with certain prescriptions
-suffer from myopia; people who fail to see the consequences of the things they
-say or do are also myopic.
+Near-sightedness. Also connotes a more figurative lack of vision, or short-
+sightedness.
 
 
 ### myriad
-This adjective simply means "a lot." You can say there were myriad stars in the
-sky or there were myriad grains of sand on the beach.
+"a lot."
 
 
 ### nabob
-Made famous by Spiro Agnew's description of the press and liberals as "the
-nattering nabobs of negativism," a nabob is actually a person of great wealth
-who has made a fortune in a faraway country, especially India. It seems that the
-Vice President forfeited accurate English in favor of alliteration.
+A person of great wealth who has made a fortune in a faraway country, especially
+India.
 
 
 ### nadir
-A nadir is literally a point in the heavens directly opposite the zenith (see
-zenith). It is often used, however, to connote a low point, as in the nadir of
-a career or of a life. "He hit the nadir when he lost his house, his job and his
-wife on one day." Sounds like Nader, as in Ralph. (See also apogee.)
+Directly opposite the zenith. A low point.
 
 
 ### naissance
-The birth or origin of a concept, an organization, a movement or an idea, as
-opposed to the renaissance, or rebirth of any of those things. The naissance of
-rock-and-roll took place in the '50s and '60s; its renaissance was in the '80s.
+The birth or origin of a concept, an organization, a movement or an idea.
 
 
 ### narcolepsy
 A condition characterized by an overwhelming desire for brief periods of sleep.
-The word is often used figuratively to describe feeling terrifically bored: Dull
-speeches can induce narcolepsy.
 
 
 ### nascent
-In the formative stages or in the process of being created. (See also
-chrysalis.) The word is best used to describe abstract things such as ideas,
-feelings or creative works. A nascent feeling would be one that's just beginning
-to come to consciousness.
+In the formative stages or in the process of being created.
 
 
 ### Naïve Realism
@@ -3845,8 +3830,7 @@ only makes them even more doubtful of their opponents'.
 
 ### ne plus ultra
 The Latin phrase for the absolute top, the culminating point, the highest
-degree. For an antique-car collector, finding a Tucker in mint condition would
-be the ne plus ultra.
+degree.
 
 
 ### necromancy
@@ -3869,10 +3853,7 @@ A newly coined word or expression.
 
 
 ### neophobia
-The fear of anything new, especially a persistent and abnormal fear. In its
-milder form, it can manifest as the unwillingness to try new things or break
-from routine. In the context of children the term is generally used to indicate
-a tendency to reject unknown or novel foods.
+The fear of anything new, especially a persistent and abnormal fear.
 
 
 ### neophyte
@@ -3892,9 +3873,7 @@ Showing favoritism to friends or relatives in business or politics.
 
 
 ### nethermost
-A long word for "lowest" or "farthest down," generNEPP-o H-T/ZM. - ally used
-literally—not figuratively. The earth's core is the nethermost region of the
-planet. The Arctic is the nethermost region of the earth.
+A long word for "lowest" or "farthest down".
 
 
 ### nettlesome
@@ -3907,18 +3886,14 @@ concerning events immediately preceding their turn to perform.
 
 
 ### nihilism
-Skepticism so complete that it denies there can be any objective basis for
-truth and, by extension, that there are no morals or values in the universe. A
-good word for a philosophy that annihilates just about every concept previously
-thought to exist.
+Skepticism so complete that it denies there can be any objective basis for truth
+and, by extension, that there are no morals or values in the universe.
 
 
 ### nirvana
 This word refers to the Buddhist belief in the release from the cycle of
 reincarnation that leads to the end of all desire and suffering, but it has come
-to be used to mean a state akin to heaven on earth. A birthday party with a big
-cake, lots of candy and ice cream, and piles of presents may be a child's idea
-of nirvana.
+to be used to mean a state akin to heaven on earth.
 
 
 ### niveous
@@ -3932,9 +3907,7 @@ celebrating people for their intelligence, we make them stupid.
 
 
 ### nodus
-A complication or a difficulty, kind of like a snag. If you hit a nodus in
-your research, you're likely to be stuck for days trying to discover the right
-answer. The plural is nodi.
+A complication or a difficulty, kind of like a snag.
 
 
 ### Nodus Tollens
@@ -3943,14 +3916,11 @@ you anymore
 
 
 ### noisome
-If you think this has to do with an assault on the ears, you've got the wrong
-organ. Strangely enough, the word means foul-smelling. The diaper bin is
-noisome.
+Foul-smelling.
 
 
 ### nom de guerre
-From the French, it means the same thing as "pseudonym." Robert Zimmerman's nom
-de guerre, for example, is Bob Dylan.
+A Pseudonym.
 
 
 ### normalcy bias
@@ -3963,7 +3933,7 @@ Latin: know the enemy.
 
 
 ### nostrum
-a medicine, especially one that is not considered effective, prepared by an
+A medicine, especially one that is not considered effective, prepared by an
 unqualified person.
 
 
@@ -3998,10 +3968,7 @@ you—tell her to stop obfuscating.
 
 
 ### oblique
-Like the angle in geometry, which includes lines which are neither parallel
-nor perpendicular, the word refers to things that are not straight or
-straightforward, but indirect. An oblique reference does not directly address
-the true subject but alludes to it in a secondary or slightly obscure way.
+Refers to things that are not straight or straightforward, but indirect.
 
 
 ### oblivescence
@@ -4009,8 +3976,7 @@ An act, or the process, of forgetting.
 
 
 ### obloquy
-Public censure or blame, usually verbal. Richard Nixon suffered the obloquy of
-the press as the events at the Watergate Hotel were revealed.
+Public censure or blame, usually verbal.
 
 
 ### obscurantism
@@ -4020,23 +3986,21 @@ dark.
 
 
 ### obsequious
-An obsequious person fawns, sucks up to or kowtows (see kowtow) to someone else.
+To fawn, sucks up to, or kowtows to someone else.
 
 
 ### obtuse
 When describing an idea or explanation, obtuse is the opposite of lucid or
-clear. The CPA's explanation of deferred tax credits was quite obtuse, so the
-client fired him.
+clear.
 
 
 ### obumbrate
-To darken, overshadow or make difficult to see or understand. The word should be
-used only figuratively. Skies cloud over before a rainstorm; weak explanations
-obumbrate the understanding of a scientific concept.
+To darken, overshadow or make difficult to see or understand.
 
 
 ### obviate
-https://www.merriam-webster.com/dictionary/obviate
+To anticipate and prevent (something, such as a situation) or make (an action)
+unnecessary.
 
 
 ### occhiolism
@@ -4044,33 +4008,23 @@ An emotion; The awareness of the smallness of your perspective.
 
 
 ### occiput
-https://www.merriam-webster.com/dictionary/occiput
+The back part of the head or skull.
 
 
 ### octogenarian
-A person between the ages of 80 and 90, just as a septuagenarian is a person
-between the ages of 70 and 80. The word has a nice ring to it and sounds a lot
-better than "senior citizen."
+A person between the ages of 80 and 90.
 
 
 ### octothorpe
-The term created by the Bell System in 1967 for the # or pound sign. Imagine a
-voice-mail system that instructed callers to "Please press the octothorpe." No
-one would get any messages!
+The # or pound sign.
 
 
 ### odalisque
-A female slave or concubine in a harem, usually portrayed in 17th- and 18th-
-century paintings reclining on a divan, swathed in transparent drapery. It's
-sometimes a good word to use to describe a sexy or sultry (see sultry) woman.
+A female slave or concubine in a harem.
 
 
 ### oenology
-The science of wine or winemaking. Next time you're offered an expensive wine
-list and asked to make a choice, you can pass the list to your date and say,
-"You choose; I'm not an oenologist." If you don't know wines, at least you'll
-come across as someone with a great vocabulary. Someone who does love wine is
-an oenophile.
+The science of wine or winemaking.
 
 
 ### officious
@@ -4109,8 +4063,7 @@ one place at a time.
 
 
 ### onomatopoeia
-A word that sounds like what it defines (see flump). Consider "hiss" or
-"scratch."
+A word that sounds like what it defines.
 
 
 ### ontology
@@ -4135,10 +4088,7 @@ To fight against or counterattack.
 
 
 ### orthography
-It's not the study of birds, tooth appliances or support shoes. Orthography is
-the correct spelling of words according to established rules or usage. Newspaper
-editors worry about this a lot. Saying "Check the orthography" is much like,
-"Please proofread this."
+The correct spelling of words according to established rules or usage.
 
 
 ### oscitant
@@ -4210,12 +4160,7 @@ as do teenagers on the telephone.
 
 ### palimpsest
 A piece of parchment or other tablet, used for early writing, that was erased
-and reused a second time. This is the kind of word that crops up in auctions for
-famous manuscripts and at antique stores that deal in old books and prints. It
-is most often used figuratively, however, to connote a piece of work in which
-a previously completed and erased work shines through. An example—math homework
-in which a teacher can see the ways that a student attempted to solve a problem
-before coming up with the final answer.
+and reused a second time.
 
 
 ### palindrome
@@ -4307,12 +4252,8 @@ you're talking about diamonds and emeralds—not Bakelite.
 
 
 ### parvenu
-A subtler word for what we usually call nouveau riche. A parvenu is someone
-who has recently acquired money or social status, but has not yet acquired the
-appropriate style or manner. The word can also be used to describe any newcomer
-to a situation who has not yet learned to handle his role or responsibility,
-such as a young worker who gets a big promotion and acts obnoxious and superior
-around the people who were his closest colleagues the day before. pasquinade
+Nouveau riche. Someone who has recently acquired money or social status, but has
+not yet acquired the appropriate style or manner.
 
 
 ### pasquinade
@@ -4320,8 +4261,7 @@ A lampoon posted in a public place. Satire.
 
 
 ### passementerie
-The squiggly, braided trimming you see on clothing such as matador's suits, felt
-sombreros or other clothing.
+Braided trimming on clothing.
 
 
 ### pastiche
@@ -4340,9 +4280,7 @@ Any work or situation that inspires pity or sorrow.
 
 
 ### patina
-The outermost layer of a metal surface, most particularly the filmy green layer
-that forms on bronze or copper after oxidation that is thought to add beauty.
-You could be figurative and use it to describe a person's manner and appearance.
+The outermost layer of a metal surface.
 
 
 ### patois
@@ -4381,9 +4319,8 @@ Transparent or translucent.
 
 
 ### penicil
-No, it's not a writing implement. In fact, it's the kind of short, bristly
-tufts of hair or fur you find along the backs of caterpillars. A great word for
-crossword puzzles or for teasing a friend who just got a punk haircut.
+The short, bristly tufts of hair or fur you find along the backs of
+caterpillars.
 
 
 ### pentimento
@@ -4396,9 +4333,7 @@ Second to last.
 
 
 ### perdition
-Utter ruin of the spirit; eternal damnation. Even if you don't believe in Hell,
-you can believe in perdition; it has no necessary religious connotation, but
-suggests ultimate punishment for moral sin.
+Utter ruin of the spirit; eternal damnation.
 
 
 ### peregrinate
@@ -4464,8 +4399,7 @@ Of acute discernment; having keen insight; mentally perceptive.
 
 ### perspicacity
 A penetrating discernment — a clarity of vision or intellect which provides a
-deep understanding and insight. It extends the concept of wisdom by denoting a
-keenness of sense and intelligence applied to insight.
+deep understanding and insight.
 
 
 ### perspicuous
@@ -4502,9 +4436,9 @@ for behavior he engages in himself.
 
 
 ### phatic
-This word is used to describe language that conveys friendship or sociability
-rather than information. Greetings exchanged among friends at a party, or
-conversations on a receiving line at a wedding or funeral, are generally phatic.
+Language that conveys friendship or sociability rather than information.
+Greetings exchanged among friends at a party, or conversations on a receiving
+line at a wedding or funeral, are generally phatic.
 
 
 ### phenology
@@ -4514,8 +4448,6 @@ as bird migration, animal hibernation, plant flowerings and so forth.
 
 ### philipic
 A hostile speech that denounces a person or thing with great bitterness.
-Demonstrators deliver philipics during rallies; furious spouses deliver
-philipics against erring partners.
 
 
 ### philistine
@@ -4651,14 +4583,11 @@ Occurring in any number of varied forms.
 
 
 ### polysemous
-Ambiguous in the sense of having several different meanings. An artfully concise
-book title that could be interpreted in several different ways is polysemous.
-Abraham Lincoln's famous book review, "People who like this sort of thing will
-find this the sort of thing they like" is polysemous.
+Ambiguous in the sense of having several different meanings.
 
 
 ### pontificate
-To express opinions in a pompous, overly ponderous way. (See also pedant.)
+To express opinions in a pompous, overly ponderous way.
 
 
 ### popinjay
@@ -4667,15 +4596,12 @@ date once and never again.
 
 
 ### popple
-Just like it sounds, it means to tumble about or bob up and down irregularly.
-Boiling water popples in the pot; clothes popple past the circular window of a
-dryer when they're drying; buoys popple on the surface of a lake on a windy day.
+Tumble about or bob up and down irregularly.
 
 
 ### portico
-A portico is an open porch consisting of four columns and a roof (but no walls)
-that you often see along the sides of old colonial houses. These days, people
-tend to enclose them and use them as sun porches.
+An open porch consisting of four columns and a roof (but no walls) that you
+often see along the sides of old colonial houses.
 
 
 ### portmanteau
