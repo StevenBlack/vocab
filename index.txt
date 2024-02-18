@@ -62,6 +62,7 @@ aposiopesis
 apostasy
 apothegm
 apotheosis
+aquiline
 argot
 arrant
 arriviste

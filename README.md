@@ -318,6 +318,10 @@ ideal example; epitome; quintessence: "This poem is the apotheosis of lyric
 expression."
 
 
+### aquiline
+Like an eagle.
+
+
 ### argot
 Slang belonging to a specific group or class. When you know the argot of
 computers, you can talk with the hackers in the MIS department.
@@ -2781,7 +2785,7 @@ Not yet formed; just begun.
 
 
 ### incontinent
-Unable to restrain natural discharges or evacuations of urine or feces. Unable
+Unable to restrain natural discharges or evacuations of urine or feces.
 
 
 ### incubus
