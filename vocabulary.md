@@ -323,8 +323,7 @@ Like an eagle.
 
 
 ### argot
-Slang belonging to a specific group or class. When you know the argot of
-computers, you can talk with the hackers in the MIS department.
+Slang belonging to a specific group or class.
 
 
 ### arrant
@@ -1376,30 +1375,21 @@ deracinated.
 
 
 ### descry
-To see or discover something, after careful observation. A flock of birds on the
-horizon on a foggy day can be descried. Can mean literally seeing something with
-your eyes or intellectually comprehending something that is difficult. It should
-not be confused with decry, which means to put down or disparage.
+To see or discover something, after careful observation.
 
 
 ### desultory
-Casually arranged, without particular or apparent structure. Clothes strewn
-on a bed lie there in a desultory fashion. Couples going nowhere in particular
-may stroll desultorily on a warm summer night; conversations about nothing
-in particular may go on in a desultory way. The word has nothing to do with
-depression, which some think it might.
+Casually arranged, without particular or apparent structure.  Lacking a plan,
+purpose, or enthusiasm. (Of conversation or speech) going constantly from one
+subject to another in a halfhearted way; unfocused:
 
 
 ### detente
-A relaxation of tensions between nations. Popularized by Henry Kissinger, this
-is a great concept and a great word to use in other situations. Coke and Pepsi
-could end a price war by agreeing to a detente; what's the point of mutual
-destruction?
+A relaxation of tensions between competitors or nations.
 
 
 ### detritus
-Both a literal and figurative way of saying "debris." Empty soda cans on a beach
-are detritus; so are street punks who are looking for trouble.
+Both a literal and figurative way of saying "debris."
 
 
 ### detumescence
@@ -1442,28 +1432,22 @@ Someone who is fluent in two languages. Bilingual.
 
 
 ### dilatory
-Moving slowly and causing delay. A turtle moves in a dilatory way. The word has
-nothing to do with dilating, which is what your eye doctor does to your pupils,
-or depilatory, which is a fancy way to say Nair.
+Moving slowly and causing delay.
 
 
 ### dilettante
 A person with a superficial interest in art or any branch of knowledge; a
-dabbler. A dilettante is a person who doesn't hold a job and spends the days
-browsing through museums, taking art classes, renting old movies and cooking
-meals with exotic ingredients.
+dabbler.
 
 
 ### dingbat
-Though Archie Bunker used this word as a form of playful insult, the word really
-means a piece of ornamental border, such as a trim of contrasting wallpaper or
-a decorative piece of type. Calling someone a dingbat is tantamount to calling
-them a bit of decoration.
+A piece of ornamental border, such as a trim of contrasting wallpaper or a
+decorative piece of type.
 
 
 ### diphthong
-Asyllable containing two letters used to make a single sound. For example the ou
-in sound.
+A syllable containing two letters used to make a single sound. For example the
+ou in sound.
 
 
 ### diptych
