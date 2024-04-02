@@ -241,6 +241,11 @@ The breakdown of norms, ethics and values in a person or in society. Graft,
 corruption and rioting are all signs of anomie.
 
 
+### anosmia
+Anosmia, also known as smell blindness, is the loss of the ability to detect one
+or more smells.
+
+
 ### antediluvian
 This word literally means "before the Biblical flood," but it's come to connote
 generally ancient or antiquated.
@@ -2628,6 +2633,10 @@ newborn babies are fond of speaking in hypocorisms —before they know better.
 
 ### hyponym
 https://www.merriam-webster.com/dictionary/hyponym
+
+
+### hyposmia
+A decreased sensitivity to some or all smells.
 
 
 ### hypothesis

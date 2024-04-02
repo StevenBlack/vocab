@@ -47,6 +47,7 @@ ancillary
 anecdoche
 anomaly
 anomie
+anosmia
 antediluvian
 antepenultimate
 anthropomorphism
@@ -502,6 +503,7 @@ hunks
 hyperbole
 hypocorism
 hyponym
+hyposmia
 hypothesis
 iatrogenic
 ichthyoid
