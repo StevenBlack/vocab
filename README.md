@@ -1000,10 +1000,7 @@ mental state.)
 
 
 ### chrysalis
-The pupa of a butterfly. The word has come to connote any person or thing in
-the process of being born. An adolescent on the verge of self-discovery could
-be in a chrysalis state; a novel in the early stages of creation could be called
-a chrysalis.
+The pupa of a butterfly.
 
 
 ### chrysalism
@@ -1031,10 +1028,7 @@ expressions.
 
 ### circumscribe
 To create limits or define boundaries; to establish definite means or
-procedures. At recess, for example, children can play in circumscribed ways:
-they can throw balls but not rocks; they can play tag but not hit each other.
-Also, the scope of your research might be circumscribed by the availability of
-time or money.
+procedures.
 
 
 ### clamjamfry
@@ -1278,8 +1272,7 @@ or belief.
 
 
 ### daymare
-Yes, this is a word, and it means an anxiety attack— kind of like a nightmare
-during the daytime.
+An anxiety attack — a nightmare during the daytime.
 
 
 ### de facto
