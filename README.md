@@ -1275,6 +1275,12 @@ limited to the visual arts; use dada to describe any approach that is silly,
 stupid or ridiculous.
 
 
+### Damascene
+Relating to the city of Damascus. Also used in reference to an important moment
+of insight, typically one that leads to a dramatic transformation of attitude
+or belief.
+
+
 ### daymare
 Yes, this is a word, and it means an anxiety attack— kind of like a nightmare
 during the daytime.

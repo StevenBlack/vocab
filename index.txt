@@ -251,6 +251,7 @@ cygnet
 cynosure
 dactyl
 dada
+Damascene
 daymare
 de facto
 de profundis
