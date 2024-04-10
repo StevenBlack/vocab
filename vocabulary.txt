@@ -5296,9 +5296,9 @@ aid, etc. Verb: to help or relieve.
 
 
 succubus
-A female demon which comes to men, especially monks, in their dreams to seduce
-them and have sexual intercourse, drawing energy from the men to sustain
-themselves, often until the point of exhaustion or death.
+A female demon which comes to men in their dreams to seduce them and have sexual
+intercourse, drawing energy from the men to sustain themselves, often until the
+point of exhaustion or death.
 
 
 sui generis
@@ -5458,12 +5458,12 @@ An edible freshwater turtle.
 
 
 thalassic
-Of or relating to seas and oceans or smaller bodies of water, as seas and gulfs.
+Of or relating to seas and oceans or smaller bodies of water.
 
 
 theomania
 Someone who believes he is God or has been chosen by God for some special purpose.
-Distinguish from messianic (see messianic), which can have less heavenly associations.
+Distinguish from messianic, which can have less heavenly associations.
 
 
 thersitical
@@ -5503,8 +5503,7 @@ Delicious or luscious.
 
 
 toper
-Someone who drinks alcohol in excessive quantities is a toper and probably
-frequently slips into a torpor (see torporific). Rhymes with doper.
+Someone who drinks alcohol in excessive quantities.
 
 
 toponym
@@ -5543,9 +5542,8 @@ From German. It means, thinking of the perfect retort after the moment is gone.
 
 triage
 An arrangement derived from medical situations that separates things into three
-categories of urgency—kill it, save it, or leave it where it is for the time
-being. Battlefield casualties are triaged. You can also approach decisions in a
-busy office the same way.
+categories of urgency: kill it, save it, or leave it where it is for the time
+being.
 
 
 trichomegaly
@@ -5567,9 +5565,7 @@ lacking originality or freshness.
 
 
 trompe l'oeil
-A painting intended to create an illusion. For example, a very realistic mural
-on the outside of a windowless building that gives the impression that windows
-exist. From the French for "deceiving the eye,.
+A painting intended to create an illusion.
 
 
 trope
@@ -5603,10 +5599,7 @@ Also spelled tiro (both are correct), it means abeginner or novice.
 
 
 ubiety
-The opposite of absence, it means presence or the state of being there. Had
-Gertrude Stein known the word, she might have said of Oakland, "There is no
-ubiety there" instead of "There is no 'there' there"— but then she wouldn't have
-sounded like Gertrude Stein.
+Presence, or the state of being there.
 
 
 ubiquitous
@@ -5707,10 +5700,7 @@ that has veracity is veracious.
 
 
 verisimilitude
-This is one of those words like juxtapose (see juxtapose) that people love
-to use in order to sound smart when criticizing art, literature or drama. It
-means the appearance of truth. So a film with verisimilitude does a good job of
-imitating life.
+The appearance of truth.
 
 
 vernal
