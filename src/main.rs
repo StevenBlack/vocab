@@ -7,7 +7,7 @@ use std::{
     path::Path,
 };
 use structopt::StructOpt;
-use textwrap;
+
 #[derive(Debug, StructOpt)]
 #[structopt(name = "example", about = "An example of StructOpt usage.")]
 struct Opt {

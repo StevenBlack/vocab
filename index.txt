@@ -25,6 +25,7 @@ agelast
 agent provocateur
 agio
 aglet
+agnosthesia
 agnotological statement
 agnotology
 agrypnia
@@ -239,6 +240,7 @@ cosset
 countenance
 cozen
 craven
+craxis
 crepuscular
 crinoline
 cromulent
@@ -347,7 +349,6 @@ enervate
 enigma
 ennui
 enormity
-enouement
 eonism
 ephemera
 epicene
@@ -430,6 +431,7 @@ fungible
 gaffe
 gainsay
 galactoid
+galagog
 Gambler's Fallacy
 garrulous
 gatefold
@@ -660,6 +662,7 @@ macroeconomics
 madrilene
 magna cum laude
 magniloquent
+mahpiohanzia
 maillot
 maladroit
 malapropism
@@ -961,6 +964,7 @@ quagmire
 quash
 quasi
 quay
+querinous
 querulous
 quid pro quo
 quidnunc
@@ -1124,6 +1128,7 @@ subterfuge
 succinct
 succor
 succubus
+suerza
 sui generis
 sultry
 summa cum laude
@@ -1273,6 +1278,7 @@ Zeitgeist
 zenith
 zephyr
 zero-risk bias
+zielschmerz
 zinfandel
 zoanthropy
 zoetrope
@@ -1280,3 +1286,4 @@ zoology
 zugzwang
 zwieback
 zygote
+énouement

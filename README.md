@@ -1,7 +1,7 @@
 ## Contents
 
 
-[**a**](#a-contrario) - [**b**](#baader-meinhof-phenomenon) - [**c**](#cabal) - [**d**](#dactyl) - [**e**](#e-pluribus-unum) - [**f**](#fabulist) - [**g**](#gaffe) - [**h**](#hajj) - [**i**](#iatrogenic) - [**j**](#jape) - [**k**](#kafkaesque) - [**l**](#labile) - [**m**](#macedoine) - [**n**](#nabob) - [**o**](#obdurate) - [**p**](#padnag) - [**q**](#quagmire) - [**r**](#raconteur) - [**s**](#sage) - [**t**](#taciturn) - [**u**](#ubiety) - [**v**](#vacuous) - [**w**](#wallah-wallah) - [**x**](#xanadu) - [**y**](#yahoo) - [**z**](#zaftig)
+[**a**](#a-contrario) - [**b**](#baader-meinhof-phenomenon) - [**c**](#cabal) - [**d**](#dactyl) - [**e**](#e-pluribus-unum) - [**f**](#fabulist) - [**g**](#gaffe) - [**h**](#hajj) - [**i**](#iatrogenic) - [**j**](#jape) - [**k**](#kafkaesque) - [**l**](#labile) - [**m**](#macedoine) - [**n**](#nabob) - [**o**](#obdurate) - [**p**](#padnag) - [**q**](#quagmire) - [**r**](#raconteur) - [**s**](#sage) - [**t**](#taciturn) - [**u**](#ubiety) - [**v**](#vacuous) - [**w**](#wallah-wallah) - [**x**](#xanadu) - [**y**](#yahoo) - [**z**](#zaftig) - [**é**](#énouement)
 ### a contrario
 Latin: from the opposite.
 
@@ -138,6 +138,14 @@ another.
 
 ### aglet
 The covering at the end of a shoelace.
+
+
+### agnosthesia
+n. the state of not knowing how you really feel about something, which forces
+you to sift through clues hidden in your own behavior, as if you were some other
+person — noticing a twist of acid in your voice, an obscene amount of effort you
+put into something trifling, or an inexplicable weight on your shoulders that
+makes it difficult to get out of bed.
 
 
 ### agnotological statement
@@ -1196,6 +1204,15 @@ Very cowardly, with a connotation of moral disapproval. A craven liar doesn't
 have the courage to admit the truth about something.
 
 
+### craxis
+n. the unease of knowing how quickly your circumstances could change on you—that
+no matter how carefully you shape your life into what you want it to be, the
+whole thing could be overturned in an instant, with little more than a single
+word, a single step, a phone call out of the blue, and by the end of next week
+you might already be looking back on this morning as if it were a million years
+ago, a poignant last hurrah of normal life.
+
+
 ### crepuscular
 Lit by twilight; dusky. Though it has an ugly sound, the word usually evokes
 a faintly romantic darkness, such as "the mountains crepuscular in the setting
@@ -1759,11 +1776,6 @@ horribleness or awfulness. The enormity of a situation—like starvation in Afri
 — describes the extent of the tragedy.
 
 
-### enouement
-An emotion; The bittersweetness of having arrived in the future, seeing how
-things turn out, but not being able to tell your past self.
-
-
 ### eonism
 A technical way of saying transvestism. A man who dresses in women's clothing
 and adopts feminine postures is exhibiting eonism.
@@ -2220,6 +2232,12 @@ she is brilliant; in fact, I don't find her smart at all."
 This is a nice word because the word has nothing to do with outer space—it means
 "milk-like." The only overlap in the intended and misused meanings then would be
 the Milky Way. Coffee creamers are galactoid. So is the blood of many insects.
+
+
+### galagog
+n. the state of being simultaneously entranced and unsettled by the vastness
+of the cosmos, which makes your deepest concerns feel laughably quaint, yet
+vanishingly rare. (Dictionary of Obscure Sorrows)
 
 
 ### Gambler's Fallacy
@@ -3340,6 +3358,13 @@ honors and it means, simply, with honor.
 
 ### magniloquent
 Boastful, pompous.
+
+
+### mahpiohanzia
+n. the frustration of being unable to fly, unable to stretch out your arms
+and vault into the air, having finally shrugged off the burden of your own
+weight, which you’ve been carrying your entire life without a second thought.
+(Dictionary of Obscure Sorrows)
 
 
 ### maillot
@@ -4836,6 +4861,14 @@ healthy food may be labeled "all natural" but contain lots of sugar or fat.
 A wharf.
 
 
+### querinous
+adj. longing for a sense of certainty in a relationship; wishing there were some
+way to know ahead of time whether this is the person you’re going to wake up
+next to for twenty thousand mornings in a row, instead of having to count them
+out one by one, quietly hoping your streak continues. (Dictionary of Obscure
+Sorrows)
+
+
 ### querulous
 Complaining in a whining, peevish sort of way.
 
@@ -5626,6 +5659,14 @@ intercourse, drawing energy from the men to sustain themselves, often until the
 point of exhaustion or death.
 
 
+### suerza
+n. a feeling of quiet amazement that you exist at all; a sense of gratitude
+that you were even born in the first place, that you somehow emerged alive
+and breathing despite all odds, having won an unbroken streak of reproductive
+lotteries that stretches all the way back to the beginning of life itself.
+(Dictionary of Obscure Sorrows)
+
+
 ### sui generis
 A Latin phrase for "unique" or "one of a kind."  Opposite of generic.
 
@@ -6333,6 +6374,13 @@ of a risk even when alternative options produce a greater reduction in risk
 (overall).
 
 
+### zielschmerz
+n. the dread of finally pursuing a lifelong dream, which requires you to put
+your true abilities out there to be tested on the open savannah, no longer
+protected inside the terrarium of hopes and delusions that you started up in
+kindergarten and kept sealed as long as you could.
+
+
 ### zinfandel
 A pink or white wine. Made from a small black grape, usually in California.
 
@@ -6373,5 +6421,11 @@ youngsters to give them something to do with their newfound teeth.
 A term from cellular biology, generally used in conversation to refer to the
 cell that results from the meeting of the egg and the sperm. Father to son:
 "I've known you ever since you were a zygote."
+
+
+### énouement
+An emotion, the bittersweetness of having arrived here in the future, finally
+learning the answers to how things turned out but being unable to tell your past
+self. (Dictionary of Obscure Sorrows)
 
 
