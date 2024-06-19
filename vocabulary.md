@@ -327,6 +327,10 @@ ideal example; epitome; quintessence: "This poem is the apotheosis of lyric
 expression."
 
 
+### apposite
+Appropriate; suitable; well-adapted; pertinent; relevant.
+
+
 ### aquiline
 Like an eagle.
 
@@ -3423,7 +3427,7 @@ walks; certain radio programs are matutinal.
 
 ### mauerbauertraurigkeit
 The inexplicable urge to push people away, even close friends who you really
-ike.
+like.
 
 
 ### maunder

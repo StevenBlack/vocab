@@ -301,6 +301,10 @@ ideal example; epitome; quintessence: "This poem is the apotheosis of lyric
 expression."
 
 
+apposite
+Appropriate; suitable; well-adapted; pertinent; relevant.
+
+
 aquiline
 Like an eagle.
 
@@ -6336,7 +6340,7 @@ bustling with people but is now abandoned and quiet.
 
 
 mauerbauertraurigkeit
-The inexplicable urge to push people away, even close friends who you really ike.
+The inexplicable urge to push people away, even close friends who you really like.
 
 
 jouska
