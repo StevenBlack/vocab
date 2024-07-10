@@ -5206,6 +5206,15 @@ Relating to clothing, especially men's clothing. The emperor who wanted new
 clothes called on the sartorial skills of everyone in his kingdom.
 
 
+### sasturgi
+Sastrugi, or zastrugi, are features formed by erosion of snow by wind. They are
+found in polar regions, and in snowy, wind-swept areas of temperate regions,
+such as frozen lakes or mountain ridges.[1] Sastrugi are distinguished by
+upwind-facing points, resembling anvils, which move downwind as the surface
+erodes. These points usually lie along ridges parallel to the prevailing wind;
+they are steep on the windward side and sloping to the leeward side.
+
+
 ### saturnalia
 A period of wild revelry.
 
