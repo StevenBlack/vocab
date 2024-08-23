@@ -414,6 +414,7 @@ axiom
 An axiom, postulate, or assumption is a statement that is taken to be true,
 to serve as a premise or starting point for further reasoning and arguments.
 
+
 babbitt
 A reference to the eponymous (see eponymous) title of Sinclair Lewis's best-
 known novel, the word has come to mean a person who blindly conforms to middle-
@@ -1277,6 +1278,7 @@ Low-class in appearance, manners or taste; the word is generally reserved for
 those sufficiently upper-class to consider calling others low-class. Also used
 by the upper class to describe fashion that has become dated.
 
+
 decorous
 Proper, elegant in behavior and attitude. The proper decorum at a wedding
 does not include making bird calls or doing your Rodney Dangerfield imitation
@@ -1556,6 +1558,7 @@ effete
 Various meanings include sterile and depleted, but the most common usage conveys
 decadent, fey or affected. An effete snob is someone who shuns anything remotely
 commonplace; an effete person indulges in rare or obscure pleasures.
+
 
 efficacious
 Efficient; effective. It might take a little longer to do a job efficaciously,
@@ -2510,6 +2513,7 @@ A rash, impetuous person who is volatile, hottempered, and easily spurred
 to violence. There's some generosity in the insult; it's kinder than calling
 someone a homicidal maniac.
 
+
 hubris
 Excessive pride; proud to a fault.
 
@@ -2685,6 +2689,7 @@ Not yet formed; just begun.
 
 incontinent
 Unable to restrain natural discharges or evacuations of urine or feces.
+
 
 incubus
 An evil spirit that annoys people while they are sleeping and, in particular, a
@@ -3479,7 +3484,7 @@ https://www.merriam-webster.com/dictionary/mirth
 
 
 misanthrope
-https://www.merriam-webster.com/dictionary/misanthrope
+A person who hates or distrusts humankind.
 
 
 miscegenation
@@ -3591,12 +3596,13 @@ Particularly appropriate to describe participants in the Mardi Gras parade.
 munificent
 Extremely generous and willing to give.
 
+
 mussitation
 Silently imitating the lip movements of people who are speaking.
 
 
 mycology
-https://www.merriam-webster.com/dictionary/mycology
+A branch of biology dealing with fungi
 
 
 myopia
@@ -4295,6 +4301,7 @@ Someone who is careless or shows little concern or interest for a job or respons
 A pococurante employee is one who doesn't care about his work. A pococurante boss is one
 who doesn't care about his employees.
 
+
 poi
 Mashed taro root. A very mushy, traditional Hawaiian dish that
 hasn't attracted much attention on the mainland.
@@ -4561,7 +4568,7 @@ butch.
 
 
 pyrrhic
-https://www.merriam-webster.com/dictionary/pyrrhic
+Achieved at excessive cost; A metrical foot consisting of two short or unaccented syllables
 
 
 quagmire
@@ -4588,11 +4595,13 @@ A wharf.
 querulous
 Complaining in a whining, peevish sort of way.
 
+
 querinous
 adj. longing for a sense of certainty in a relationship; wishing there were some
 way to know ahead of time whether this is the person you’re going to wake up next
 to for twenty thousand mornings in a row, instead of having to count them out one
 by one, quietly hoping your streak continues. (Dictionary of Obscure Sorrows)
+
 
 quid pro quo
 Tit for tat; something given in return. If you are a vengeful person and I'm
@@ -4869,7 +4878,7 @@ https://www.merriam-webster.com/dictionary/Samovar
 
 
 sanctimony
-https://www.merriam-webster.com/dictionary/sanctimony
+Affected or hypocritical holiness
 
 
 sang froid
@@ -6125,6 +6134,7 @@ We often attach value to things simply because they're hard to get.
 People will be more attracted to a painting if it costs $3 million than
 if it costs $ The price becomes a feature of the product in that it
 allows the buyer to signal affluence to others.
+
 
 Peter Principle
 People in a hierarchy such as a business or government will be promoted

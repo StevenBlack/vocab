@@ -3669,7 +3669,7 @@ https://www.merriam-webster.com/dictionary/mirth
 
 
 ### misanthrope
-https://www.merriam-webster.com/dictionary/misanthrope
+A person who hates or distrusts humankind.
 
 
 ### miscegenation
@@ -3790,7 +3790,7 @@ Silently imitating the lip movements of people who are speaking.
 
 
 ### mycology
-https://www.merriam-webster.com/dictionary/mycology
+A branch of biology dealing with fungi
 
 
 ### myopia
@@ -4841,7 +4841,8 @@ butch.
 
 
 ### pyrrhic
-https://www.merriam-webster.com/dictionary/pyrrhic
+Achieved at excessive cost; A metrical foot consisting of two short or
+unaccented syllables
 
 
 ### quagmire
@@ -5169,7 +5170,7 @@ https://www.merriam-webster.com/dictionary/Samovar
 
 
 ### sanctimony
-https://www.merriam-webster.com/dictionary/sanctimony
+Affected or hypocritical holiness
 
 
 ### sang froid
