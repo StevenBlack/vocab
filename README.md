@@ -2239,9 +2239,9 @@ the Milky Way. Coffee creamers are galactoid. So is the blood of many insects.
 
 
 ### galagog
-n. the state of being simultaneously entranced and unsettled by the vastness
-of the cosmos, which makes your deepest concerns feel laughably quaint, yet
-vanishingly rare. (Dictionary of Obscure Sorrows)
+The state of being simultaneously entranced and unsettled by the vastness of the
+cosmos, which makes your deepest concerns feel laughably quaint, yet vanishingly
+rare. (Dictionary of Obscure Sorrows)
 
 
 ### Gambler's Fallacy
@@ -2252,36 +2252,24 @@ independent of the past.
 
 
 ### garrulous
-Excessively talkative in a silly, chattering way. Often misused to mean just
-plain friendly and willing to talk, which is loquacious. Save garrulous to
-describe relatives who call frequently and make it impossible to get off the
-telephone no matter how hard you try.
+Excessively talkative in a silly, chattering way.
 
 
 ### gatefold
-This is a large page, folded and bound into a book or magazine. Examples are
-those expensive car or perfume advertisements in magazines or, most frequently,
-the maps included in certain books. The centerfold in Playboy is, as it sounds,
-a centrally located gatefold.
+This is a large page, folded and bound into a book or magazine.
 
 
 ### gelid
-A word for icy or frozen. It is rarely used figuratively. A haughty woman might
-have an icy stare, but gelid should be reserved for lakes in the winter or
-desserts offered by street vendors in the summer.
+A word for icy or frozen.
 
 
 ### genre
-Category. Similar items belong to the same genre. Science fiction is a genre
-of literature.
+Category. .
 
 
 ### germane
-Another way of saying relevant, pertinent or appropriate, but strictly reserved
-for referring to ideas. You couldn't say that wearing a certain pair of shoes
-is germane to a particular set of clothes. The topic of sexual harassment
-is germane to a discussion about rights in the workplace, however. In a
-conversation about classical music, James Brown is probably not germane.
+Relevant, pertinent or appropriate, but strictly reserved for referring to
+ideas.
 
 
 ### gerrymander
@@ -2290,11 +2278,7 @@ party an advantage.
 
 
 ### gestalt
-The word comes from a school of psychology, but has come to mean a way of
-describing the big picture of a situation. Add together all the pieces and sum
-them up in a feeling. This feeling can range from the complicated way our brain
-solves problems to the combination of smells, feelings and sensations you get
-during a massage.
+A way of describing the big picture of a situation.
 
 
 ### gild
@@ -2333,10 +2317,7 @@ you love a googol kisses.
 
 
 ### Gordian knot
-An apparently unsolvable problem. Alexander (before he was the Great) was
-presented with a rope containing a huge knot, and told that the first man to
-untie it would rule Europe. He took out his sword and cut it in half. The word
-is commonly used to describe any complex problem begging for a drastic solution.
+An apparently unsolvable problem.
 
 
 ### gossamer
@@ -2388,9 +2369,7 @@ Used to attach ropes or other tie-downs.
 
 
 ### grum
-Like it sounds: grim, glum or surly. It's got a nice undertone of grumpy that
-comes across with the pronunciation. If your car breaks down on the third lap of
-the Indy 500, you have the right to act grum.
+Grim, glum or surly.
 
 
 ### gudgeon
