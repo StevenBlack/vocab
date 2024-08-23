@@ -2426,8 +2426,7 @@ an idiot.
 
 
 ### gustatory
-Tasting. A gustatory menu in a fancy restaurant allows you to try lots of
-different dishes.
+Tasting.
 
 
 ### gynarchy
@@ -2441,11 +2440,7 @@ hajj to Florida in the winter, for example.
 
 
 ### halcyon
-The word derives from an ancient fabled bird that bred during the winter
-solstice and charmed the winds and seas, calming them during that period. It
-has simply come to mean calm, tranquil, and happy. People often refer to "the
-halcyon days" when they are feeling nostalgic about an easier or more prosperous
-time in their lives.
+Calm, tranquil, and happy.
 
 
 ### halidom
@@ -2459,7 +2454,7 @@ champagne to the owner of a new restaurant.
 
 
 ### Hanlon's razor
-An aphorism expressed in various ways including "Never attribute to malice that
+An aphorism expressed in various ways including "Never attribute to malice that
 which is adequately explained by stupidity."
 
 
@@ -2484,7 +2479,8 @@ entrails.
 
 
 ### haughty
-https://www.merriam-webster.com/dictionary/haughty
+Blatantly and disdainfully proud. Having or showing an attitude of superiority
+and contempt for people or things perceived to be inferior
 
 
 ### havelock
@@ -2516,7 +2512,8 @@ provides better pay and more interesting work.
 
 
 ### heliotrope
-https://www.merriam-webster.com/dictionary/heliotrope
+Any of a genus (Heliotropium) of herbs or shrubs of the borage family compare
+garden heliotrope; A variable color averaging a moderate to reddish purple
 
 
 ### hermaphrodite
@@ -2568,42 +2565,29 @@ offers no alternative. In short—take it or leave it.
 
 
 ### hoi polloi
-People often use this word to mean the fancy people in a society, but it means
-the opposite. The hoi polloi are the common people, the vulgar masses whom Marie
-Antoinette dismissed by suggesting that they eat cake.
+Common people.
 
 
 ### homeopathy
-Though the word has come to be used to mean natural medicine, such as ginseng
-or flower therapy, as opposed to pharmaceuticals, it means treating disease by
-administering minute doses of drugs that normally produce symptoms like those of
-the disease.
+Treating disease by administering minute doses of drugs that normally produce
+symptoms like those of the disease.
 
 
 ### homily
-A sermon or a moral lecture. Priests deliver homilies on living morally; coaches
-deliver homilies on living cleanly; parents often deliver homilies on both.
+A sermon or a moral lecture.
 
 
 ### homunculus
-Literally meaning "little man," this word can be used to refer to anybody
-who's more than 20 years old and less than five feet tall, but the word is
-more commonly used figuratively to mean "the little man inside the box making
-decisions." Often used in philosophy as a slick way to describe consciousness
-or computers. Your mind is nothing more than a skull with a homunculus inside,
-making the decisions (who's inside the homunculus? another homunculus!).
+"little man".
 
 
 ### honorarium
 A token payment made for professional services, generally less than should be
-charged. When a congressman gives a speech, the conference organizers don't
-degrade him by paying him—they give him an honorarium.
+charged.
 
 
 ### hoodoo
-A nice folksy way of saying bad luck; kind of like voodoo with a vengeance. He
-suffered a bolt of hoodoo last month when he lost his job, cracked up his car,
-and misplaced his dry-cleaning ticket.
+Bad luck.
 
 
 ### hortatory
