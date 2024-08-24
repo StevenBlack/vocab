@@ -1,7 +1,6 @@
 a contrario
 a falsis principiis proficisci
 a priori
-abdabs
 abide
 abject
 ablution
@@ -13,7 +12,6 @@ abstruse
 acerbic
 acolyte
 acrimony
-acuminate
 adduce
 adronitis
 adulatory
@@ -35,7 +33,6 @@ ait
 alacrity
 aleatory
 algorithm
-Algorithmic Blindspots
 alliaceous
 alliteration
 altschmerz
@@ -644,7 +641,7 @@ livery
 livid
 logophobia
 logorrhea
-Longtermism
+longtermism
 looby
 loquacious
 Lothario
