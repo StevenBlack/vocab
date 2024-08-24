@@ -16,13 +16,9 @@ instance.
 
 
 ### abide
-(used without object): To remain; continue; stay: Abide with me. To have
-one's abode; dwell; reside: To continue in a particular condition, attitude,
-relationship, etc.; last. (used with object): to put up with; tolerate; stand:
-I can't abide dishonesty! To endure, sustain, or withstand without yielding
-or submitting: To abide a vigorous onslaught. To wait for; await: To abide
-the coming of the Lord. To accept without opposition or question: To abide the
-verdict of the judges. To pay the price or penalty of; suffer for.
+(used without object): To remain; continue; stay. To have one's abode; dwell;
+reside: To continue in a particular condition, attitude, relationship, etc.;
+last. (used with object): to put up with; tolerate; stand:
 
 
 ### abject
@@ -478,20 +474,16 @@ certain case).
 
 
 ### bathos
-A fall from the sublime to the commonplace; often used to describe the plot of a
-play, a movie or a piece of fiction which tells how the mighty have fallen.
+A fall from the sublime to the commonplace.
 
 
 ### battologize
-To write or repeat words or phrases over and over and over and over, again and
-again and again and again.
+To write or repeat words or phrases.
 
 
 ### bauhaus
 A school of architecture and design developed in Germany in 1918, which
-emphasized the functional aspect of objects over their form. The style is
-typified by the box-like buildings of Mies Van der Rohe, who was famous for his
-aesthetic theory that "less is more."
+emphasized the functional aspect of objects over their form.
 
 
 ### bavardage
@@ -500,14 +492,12 @@ Foolish or nonsensical talk with a touch of light banter.
 
 ### beau geste
 Literally a "pretty gesture," an act that is meaningless, but looks good or has
-the effect of generosity or conciliation. An example is sending flowers to the
-host after a dinner party.
+the effect of generosity or conciliation.
 
 
 ### beaver
-Besides the busy little animal that builds dams, this word also describes the
-piece of a suit of armor that is jointed below the ears and protects the mouth
-and chin.
+The piece of a suit of armor that is jointed below the ears and protects the
+mouth and chin.
 
 
 ### bedizen
@@ -521,16 +511,11 @@ To deceive or delude (using guile); to charm, delight or captivate; to cause
 
 
 ### bel-esprit
-A verbal, witty, intellectually lively person; the person at the party who's
-telling an amusing little story to a circle of delighted hangers-on.
+A verbal, witty, intellectually lively person.
 
 
 ### bellwether
-The leader of the pack; the one everyone else follows. Contrary to popular
-belief, the word has nothing to do with the weather—which is why it is so
-frequently misspelled. It does, however, have something to do with bells, since
-the word comes from the male sheep which leads the flock and usually wears a
-bell around his neck.
+The leader of the pack; the one everyone else follows.
 
 
 ### benighted
@@ -562,15 +547,11 @@ Pot that decorates a coffeetable or bookcase. Better than a knickknack.
 
 
 ### biblioclast
-A person who destroys books; the word can also be used to describe people
-who break the bindings of paperbacks and keep their place by folding down the
-corners of pages.
+A person who destroys books.
 
 
 ### bibulous
-Given to drinking alcohol, but not necessarily an alcoholic; for example, the
-person at the table who orders wine or beer when everyone else has ordered
-a soda.
+Given to drinking alcohol, but not necessarily an alcoholic.
 
 
 ### bifurcate
@@ -752,8 +733,7 @@ common in Europe than in the States.
 
 ### canard
 A rumor, sham, false report or playful hoax—though less ominous than the War of
-the Worlds radio broadcast. You could accuse someone of perpetrating a canard
-about the state of your business.
+the Worlds radio broadcast.
 
 
 ### canicular
@@ -771,8 +751,7 @@ Pleasant-sounding, melodious and resonant.
 
 
 ### caparison
-To dress sumptuously; to gussy up. The word originally referred to the
-ornamental covering for a horse, it has come to be used for people as well.
+To dress sumptuously; to gussy up.
 
 
 ### capriccio
@@ -808,27 +787,15 @@ Believing that your thoughts are being stolen by your competitors.
 ### casuistry
 Casuistry is a process of reasoning that seeks to resolve moral problems by
 extracting or extending theoretical rules from a particular case, and reapplying
-those rules to new instances. This method occurs in applied ethics and
-jurisprudence. The term is also commonly used as a pejorative to criticize the
-use of clever but unsound reasoning, especially in relation to moral questions
-(as in sophistry). The word casuistry derives from the Latin noun casus
-("case" or "occurrence").  Casuistry can also can mean: Specious, deceptive,
-or oversubtle reasoning, especially in questions of morality; fallacious or
-dishonest application of general principles; sophistry. The application of
-general ethical principles to particular cases of conscience or conduct.
+those rules to new instances.
 
 
 ### casus belli
-A casus belli is an act or event that provokes or is used to justify war. A
-casus belli involves direct offenses or threats against the nation declaring
-the war, whereas a casus foederis involves offenses or threats against its ally—
-usually one bound by a mutual defense pact.
+Latin: an act or event that provokes or is used to justify war.
 
 
 ### casus foederis
-Casus foederis (or casus fœderis) is derived from the Latin for "case for the
-alliance." In diplomatic terms, it describes a situation in which the terms of
-an alliance come into play, such as one nation being attacked by another.
+Latin for "case for the alliance."
 
 
 ### catafalque
@@ -891,16 +858,11 @@ A house or building in which skeletons or bodies are deposited.
 
 
 ### charrette
-An effort to meet a deadline for some task by an all-out effort. Originally
-connoting the energy among a group of architects getting plans ready for a
-presentation, the word has come to refer to any group of professionals who get
-together and hustle to meet a due date.
+An effort to meet a deadline for some task by an all-out effort.
 
 
 ### chary
-Cautious; hesitant to act. Use chary when you mean "discreetly careful" more
-than "wary." One would be chary before investing in a risky stock or walking
-into a room full of screaming sixth-graders.
+Cautious; hesitant to act.
 
 
 ### chasm
@@ -909,14 +871,11 @@ the chasm between rich and poor, for example.
 
 
 ### chasmophile
-A lover of nooks and crannies. Someone who likes sifting through the shelves of
-used-book stores, rummaging through flea markets and browsing in antique stores
-is probably a chasmophile.
+A lover of nooks and crannies.
 
 
 ### cheap-jack
-A peddler who sells cheap goods, like the people who sell underwear or tin
-earrings or inexpensive sunglasses at a flea market.
+A peddler who sells cheap goods.
 
 
 ### cheechako
