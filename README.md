@@ -7,7 +7,7 @@ Latin: from the opposite.
 
 
 ### a falsis principiis proficisci
-Latin: to set forth from false principles.
+Latin: to set forth from false principlenns.
 
 
 ### a priori
@@ -2056,9 +2056,7 @@ that makes you smile every time you use it.
 
 
 ### foray
-An attack or raid. Though the word has a military connotation, it is often used
-metaphorically. One can make a foray into astrophysics by buying a basic text
-and trying to understand the principles.
+An investigation, or and attack or raid.
 
 
 ### forer effect
@@ -2069,14 +2067,12 @@ actually filled with information that applies to everyone.
 
 
 ### forte
-In classical music, forte means "play this loudly!" However, the usual meaning
-of forte is "strong point" as in, "Bad decisions are his forte".
+Strong point, or strong skill; In classical music, forte means "play this
+loudly!"
 
 
 ### fortuitous
-Depending on luck or chance; accidental. Fortuitous circumstances may help you
-to win some money, but they can also cause you to lose a bet. Don't use the word
-to convey only good luck—it describes things that are up to chance, good or bad.
+Depending on luck or chance; accidental.
 
 
 ### founder
@@ -2130,14 +2126,11 @@ and call him Your Royal Highness, that's a gaffe.
 
 
 ### gainsay
-To contradict what another person says, as in: "I gainsay your insistence that
-she is brilliant; in fact, I don't find her smart at all."
+To verbally contradict what another person says.
 
 
 ### galactoid
-This is a nice word because the word has nothing to do with outer space—it means
-"milk-like." The only overlap in the intended and misused meanings then would be
-the Milky Way. Coffee creamers are galactoid. So is the blood of many insects.
+Milk-like; White and opaque, like milk.
 
 
 ### galagog
@@ -2166,7 +2159,7 @@ A word for icy or frozen.
 
 
 ### genre
-Category. .
+Category.
 
 
 ### germane
@@ -2184,25 +2177,15 @@ A way of describing the big picture of a situation.
 
 
 ### gild
-To coat with gold. When used figuratively, as in "gilding the lily," gild means
-adding refinement or ornamentation to something that doesn't need it.
-
-
-### gimme caps
-The ubiquitous baseball-style caps that bear various logos in front are called
-gimme caps. The word is said to come from farmers who are fond of asking tractor
-salesmen wearing these caps with their company name, "Gimme one of those caps."
+To coat with gold.
 
 
 ### glean
-To gather or absorb information. You can glean information on nuclear weapons by
-reading secret plans, or glean a bit about an executive's personality by the way
-she shakes hands. Rhymes with clean.
+To gather or absorb information.
 
 
 ### gobbet
-Another way of saying morsel or lump, as in: "Please put a gobbet of whipped
-cream on top of my pecan pie."
+Another way of saying morsel or lump.
 
 
 ### Google Scholar Effect
@@ -2213,9 +2196,7 @@ tiny meme-pool.
 
 
 ### googol
-The number 1, followed by 100 zeros. This is the biggest number with a name (not
-counting the googolplex, which is cheating). It might be nice to offer someone
-you love a googol kisses.
+The number 1, followed by 100 zeros.
 
 
 ### Gordian knot
@@ -2223,9 +2204,7 @@ An apparently unsolvable problem.
 
 
 ### gossamer
-Originally a cobweb, now the word describes any translucent, wispy object. The
-Gossamer Albatross was the first pedal-powered aircraft—so named because of its
-fragile gossamer wings.
+Originally a cobweb, now the word describes any translucent, wispy object.
 
 
 ### gracile
@@ -2238,9 +2217,7 @@ This is the word for any sign or letter which signifies a word, such as &.
 
 
 ### grand guignol
-Connoting a drama with strains of horror. It's the kind of word people like to
-use metaphorically. A difficult divorce or the cruel way someone was fired from
-a job might be described as a grand guignol.
+Connoting a drama with strains of horror.
 
 
 ### grandiloquent
@@ -2249,20 +2226,15 @@ especially in language.
 
 
 ### gregarious
-Friendly. Occasionally used to imply insincerity, gregarious should be reserved
-for those that are truly outgoing and friendly. Rhymes with precarious.
+Friendly. Occasionally used to imply insincerity.
 
 
 ### griffin
 A mythical beast with the body of a lion and the head and wings of an eagle.
-Not the sort of animal you'd want to see flying over your Miata if the top were
-down.
 
 
 ### grimalkin
-It sounds like some form of medieval clothing, perhaps a vest for holding
-arrows, but it means an old female cat. A nice way to affectionately refer to
-one's pet.
+An old female cat.
 
 
 ### grommet
@@ -2275,29 +2247,16 @@ Grim, glum or surly.
 
 
 ### gudgeon
-An easy mark, someone who is duped without effort. The guys who play three-card
-monte on the street are just waiting for a gudgeon to come along so they can
-beat him and make a quick twenty bucks. Though the word sounds a bit archaic, it
-has a nice lumbering sound. Also a metal pivot—see pintle.
-
-
-### gullible
-Often misused, this isn't really a word. It's not in the dictionary. (Got ya'!
-Sorry, but we couldn't resist!)
+An easy mark, someone who is duped without effort. Also, especially on boats: a
+metal pivot for a pintle.
 
 
 ### gunkhole
-Though it sounds like a noun, this word is really a verb which means to sail
-slowly along a coastline, stopping along the way in quiet ports. To gunkhole
-down the East Coast to the Florida Keys would make a very relaxing vacation,
-provided you're not the type who gets seasick.
+To sail slowly along a coastline, stopping along the way in quiet ports.
 
 
 ### gunwale
-The top of the side of a boat (where the rail might be). Especially used in
-referring to small boats such as canoes. Originally used to describe the place
-where you'd rest your gun (probably for shooting fish, or some other sporting
-activity).
+The top of the side of a boat (where the rail might be).
 
 
 ### Gurwinder's Third Paradox
@@ -2307,7 +2266,7 @@ an idiot.
 
 
 ### gustatory
-Tasting.
+Tasting. A place of tasting. The gustatory sense is the sense of taste.
 
 
 ### gynarchy
@@ -3598,7 +3557,8 @@ An emotion; The subtle but persistent feeling of being out of place.
 
 
 ### monism
-https://www.merriam-webster.com/dictionary/monism
+A view that there is only one kind of ultimate substance; the view that reality
+is one unitary organic whole with no independent parts
 
 
 ### monodomous
@@ -3757,9 +3717,8 @@ and, by extension, that there are no morals or values in the universe.
 
 
 ### nirvana
-This word refers to the Buddhist belief in the release from the cycle of
-reincarnation that leads to the end of all desire and suffering, but it has come
-to be used to mean a state akin to heaven on earth.
+A Buddhist belief in the release from the cycle of reincarnation that leads to
+the end of all desire and suffering.  Also: a state akin to heaven on earth.
 
 
 ### niveous
@@ -3823,9 +3782,9 @@ best description we've ever heard of first love!
 
 
 ### obdurate
-Cruelly stubborn and hard-hearted; in fact, downright insensitive. Someone who
-is hard to convince is stubborn, but someone who won't give in to a simple and
-reasonable plea is obdurate.
+Cruelly stubborn and hard-hearted; insensitive. Someone who is hard to convince
+is stubborn, but someone who won't give in to a simple and reasonable plea is
+obdurate.
 
 
 ### obfuscate
@@ -3846,7 +3805,6 @@ Public censure or blame, usually verbal.
 
 
 ### obscurantism
-Something that is obscure is hard to understand, little known, darkly vague;
 obscurantism is intentional vagueness or obscurity, a conscious keeping in the
 dark.
 
@@ -5874,8 +5832,12 @@ The curved end of a clothes hanger.
 A baby turtle.
 
 
+### tutti frutti
+“all the fruits” in Italian.
+
+
 ### tyro
-Also spelled tiro (both are correct), it means abeginner or novice.
+Also spelled tiro, it means abeginner or novice.
 
 
 ### ubiety
