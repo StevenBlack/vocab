@@ -49,6 +49,10 @@ Taking food and drink in moderation; temperance.
 Complicated; difficult to comprehend.
 
 
+### accede
+agree to a demand, request, or treaty; assume an office or position.
+
+
 ### acerbic
 Harsh; severe; biting.
 
