@@ -999,6 +999,10 @@ https://www.merriam-webster.com/dictionary/coetaneous
 https://www.merriam-webster.com/dictionary/cogitation
 
 
+### colliery
+A coal mine and the buildings and equipment associated with it.
+
+
 ### colloquy
 Conversation, more like a formal dialogue than a casual chat. The kind of thing
 that goes on between a talk show host and his guest, or between two speakers at
