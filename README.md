@@ -2106,8 +2106,7 @@ horror films. It's actually a nice way to say goosebumps.
 
 
 ### fulgent
-Very bright; shining or radiant. A good word for describing things like the
-spaceship in Close Encounters of the Third Kind, or the full moon.
+Very bright; shining or radiant. Dazzling.
 
 
 ### fulgurant
@@ -2115,22 +2114,16 @@ Flashing like lightning.
 
 
 ### fulsome
-The word originally meant "disgustingly excessive" or "copious." It has evolved
-to connote disgusting, tasteless and generally repellent. It's often confused
-to mean the opposite. A fulsome beauty exceeds the bounds of moderation and
-is probably not pretty at all. It's a good word to use when you want to insult
-someone covertly.
+Disgusting, tasteless and generally repellent. It's often confused to mean the
+opposite.
 
 
 ### fungible
-Easily interchangeable with something else; the opposite of unique. One loaf
-of bread is fungible with another. In a recession, some employers find certain
-employees fungible.
+Easily interchangeable with something else; the opposite of unique.
 
 
 ### gaffe
-A social blunder, just like a faux pas (see faux pas). If you meet the president
-and call him Your Royal Highness, that's a gaffe.
+A social blunder, just like a faux pas (see faux pas).
 
 
 ### gainsay
@@ -5756,9 +5749,12 @@ A name which is derived from the name of a place, such as Indiana Jones or
 Broadway Joe Namath.
 
 
+### torpor
+A state of mental or physical inactivity or insensibility.
+
+
 ### torporific
-A lot like a soporific (see soporific). It means producing a state of inertia,
-called a torpor.
+It means producing a state of inertia, called a torpor.
 
 
 ### tortuous
