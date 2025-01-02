@@ -894,11 +894,7 @@ in a group.
 
 
 ### cherubic
-https://www.merriam-webster.com/dictionary/cherubic
-
-
-### chiasmus
-https://www.merriam-webster.com/dictionary/chiasmus
+An innocent-looking usually chubby and rosy person
 
 
 ### Chilling Effect
@@ -988,15 +984,15 @@ A conceited, self-important, pretentious person.
 
 
 ### codification
-https://www.merriam-webster.com/dictionary/codification
+The systematic organization of methods, rules, etc.
 
 
 ### coetaneous
-https://www.merriam-webster.com/dictionary/coetaneous
+Of the same age or period.
 
 
 ### cogitation
-https://www.merriam-webster.com/dictionary/cogitation
+Concerted thought or reflection.
 
 
 ### colliery
@@ -1004,9 +1000,7 @@ A coal mine and the buildings and equipment associated with it.
 
 
 ### colloquy
-Conversation, more like a formal dialogue than a casual chat. The kind of thing
-that goes on between a talk show host and his guest, or between two speakers at
-a symposium; hence the academic word colloquium.
+Conversation, more like a formal dialogue than a casual chat.
 
 
 ### colophon
@@ -1015,7 +1009,7 @@ publishers' emblem or trademark.
 
 
 ### columbarium
-https://www.merriam-webster.com/dictionary/columbarium
+A vault having niches for funeral urns
 
 
 ### comminate
@@ -1036,7 +1030,7 @@ superfluous detail.
 
 
 ### concocted
-https://www.merriam-webster.com/dictionary/concocted
+Made by mixing several things together.
 
 
 ### concupiscence
