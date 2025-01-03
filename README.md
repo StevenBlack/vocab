@@ -1173,9 +1173,8 @@ A young swan. Often used to describe a particularly beautiful young woman.
 
 
 ### cynosure
-The center of attention—usually a person who becomes the main attraction
-and directs everyone else's focus. Elizabeth Taylor at a cocktail party, for
-example.
+The center of attention—usually a person who becomes the main attraction and
+directs everyone else's focus.
 
 
 ### dactyl
@@ -1220,15 +1219,11 @@ snobbery.
 
 
 ### dearth
-A shortage or scarcity. Squirrels might have a dearth of nuts by the end of the
-winter. Single women might complain of the dearth of heterosexual single men who
-are sensitive and willing to make a commitment.
+A shortage or scarcity.
 
 
 ### deciduous
-Dropping off after a period of growth, such as leaves, teeth or hair. The
-opposite of a deciduous tree is an evergreen. Except for the rare deciduous
-evergreen tree, which confuses everything.
+Dropping off after a period of growth, such as leaves, teeth or hair.
 
 
 ### declasse
@@ -1238,46 +1233,33 @@ by the upper class to describe fashion that has become dated.
 
 
 ### decorous
-Proper, elegant in behavior and attitude. The proper decorum at a wedding
-does not include making bird calls or doing your Rodney Dangerfield imitation
-(regardless of how good it is).
+Proper, elegant in behavior and attitude.
 
 
 ### decry
 To put down someone or something; to speak or write about a situation in a way
-that reveals regret, outrage or anger. One decries pollution of the environment
-or a political injustice.
+that reveals regret, outrage or anger.
 
 
 ### defenestration
-To throw out the window—what you sometimes feel like doing with whining
-children. It seems that such an important-sounding word should mean something
-else, which is why people will be stunned when you use it properly.
+To throw out the window.
 
 
 ### degage
-Not emotionally involved; more of an emotional state than merely being
-intellectually objective. A friend listening to an argument between other
-friends is degage. An umpire or a referee or a judge is at least meant to be
-degage.
+Not emotionally involved.
 
 
 ### delusion
-Something that is falsely or delusively believed or propagated. a persistent
-false psychotic belief regarding the self or persons or objects outside the self
-that is maintained despite indisputable evidence to the contrary
+Something that is falsely or delusively believed or propagated.
 
 
 ### demagogue
 Usually refers to a politician or a leader who gains power by playing on the
-emotions of his constituents; there's an element of charisma and danger in it.
-Adolf Hitler was a demagogue.
+emotions of his constituents.
 
 
 ### demijohn
-A narrow-necked bottle with wicker basket-work woven around it, like the empty
-bottles of Chianti that become candleholders on red-checked tablecloths in
-Italian restaurants.
+A narrow-necked bottle with wicker basket-work woven around it.
 
 
 ### demimondaine
@@ -1331,7 +1313,7 @@ Distinctive.
 
 
 ### diaphanous
-Usually used to describe fabric, the word means sheer, delicate and flowing.
+Delicate and flowing.
 
 
 ### diatribe
@@ -1401,22 +1383,15 @@ ones.
 
 
 ### dissemble
-Not the opposite of assemble. To give a false or misleading appearance to
-something. To lie. Many investigative reporters enjoy asking tough questions to
-crooked businesspeople and watching them squirm and dissemble.
+To give a false or misleading appearance to something. To lie.
 
 
 ### dissimulate
-A little more subtle than outright lying, it means to pretend that something
-is other than it is. If the attorney general asks, "Did your company dump this
-toxic waste?" the lying CEO would say, "No." The dissimulating CEO would say,
-"What waste?"
+To pretend that something is other than it is.
 
 
 ### dithyramb
-A wild and emotional outpouring in speech, song or writing. Naughty children
-provoke dithyrambs from their mothers. The tragic portions of operas are
-dithyrambs, too.
+A wild and emotional outpouring in speech, song or writing.
 
 
 ### Do Something Principle
@@ -1431,7 +1406,8 @@ museum and explains how Egyptians built pyramids.
 
 
 ### doctrinaire
-https://www.merriam-webster.com/dictionary/doctrinaire
+Stubbornly insistent on the observation of the niceties of a theory, esp without
+regard to practicality, suitability, etc. theoretical; impractical.
 
 
 ### doctrine
@@ -1465,7 +1441,7 @@ Pleasant; melodious; sweet to the eye or ear.
 
 
 ### duplicity
-https://www.merriam-webster.com/dictionary/duplicity
+Deceitful; deception; double-dealing
 
 
 ### dyspepsia
@@ -1477,9 +1453,7 @@ The opposite of a Utopia; a place where everything goes wrong.
 
 
 ### e pluribus Unum
-The Latin words that comprise the official U. S. motto. They are included in
-every official seal of the United States, and you may also see them on dollar
-bills. The phrase means, "one out of the many," as in one country out of many
+The official U. S. motto. "one out of the many," as in one country out of many
 states.
 
 
@@ -1534,27 +1508,20 @@ medical treatment.
 
 ### effluence
 A flowing out or streaming forth. The waste that comes from sewage-treatment
-plants is effluence. "An effluence of people poured from the stadium when the
-ball game was over, creating quite a traffic jam."
+plants is effluence.
 
 
 ### effluvium
 A bad smell, usually invisible, often associated with waste-treatment
-facilities. Bad breath qualifies as effluvium. The smell of apple pie does not.
-Say EH-FLU'VEE'UM.
+facilities.
 
 
 ### effulge
-To shine brightly, both literally and figuratively. A child's face effulges
-at the sight of a toy store; the surface of a lake is effulgent in brilliant
-sunshine.
+To shine brightly, both literally and figuratively.
 
 
 ### egregious
-Originally meaning just plain "exceptional," egregious has come to mean not
-just bad, but outstand ingly bad. When things are worse than awful, they are
-egregious. An egregious error would be calling your present lover by an old
-lover's name. Beating child for bad behavior is egregious punishment.
+Outstandingly bad.
 
 
 ### elan
@@ -1563,7 +1530,7 @@ Dash or real style; charisma plus skill. David Niven had elan.
 
 ### eldritch
 Weird, eerie. "His eldritch neighbor continued to leave voodoo dolls all over
-his front lawn." A good way for little boys to describe their little sisters.
+his front lawn."
 
 
 ### eleemosynary
@@ -1573,16 +1540,14 @@ institution. Often used in legalese to distinguish from "for-profit."
 
 ### elephantine
 Like an elephant, not in size but in demeanor; embracery lumbering and clumsy.
-An effort to change someone's opinion, a judge or jury in particular, by bribes
-or threats.
 
 
 ### elide
-https://www.merriam-webster.com/dictionary/elide
+To leave it out, or ignore.
 
 
 ### elision
-https://www.merriam-webster.com/dictionary/elision
+Any omission of a part or parts.
 
 
 ### ellipsism
@@ -1629,7 +1594,7 @@ Say EH-MAHL-YEH-MENT.
 
 
 ### empirical
-https://www.merriam-webster.com/dictionary/empirical
+Evidence or study relies on practical experience rather than theories.
 
 
 ### Empty Name
@@ -1639,9 +1604,7 @@ such, assume nothing is true just because it has a name.
 
 
 ### encephalesthenia
-Exhaustion due to emotional stress rather than lack of sleep or physical work. A
-person who deals with an impending lawsuit by taking naps constantly is probably
-suffering from encephalesthenia.
+Exhaustion due to emotional stress rather than lack of sleep or physical work.
 
 
 ### encomium
@@ -1650,21 +1613,15 @@ ceremonious praise that celebrates a person dead or alive.
 
 
 ### encyclical
-A letter from the pope to all his bishops. It has come to be used figuratively
-to refer to any very important letter. The CEO of a company could send a memo
-to all the division heads, who might sarcastically refer to it as the boss's
-encyclical.
+A letter from the pope to all his bishops. A very important letter.
 
 
 ### endemic
-Native or indigenous to a region or place. Cypress trees are endemic to the
-American South; muggings are endemic to large urban environments.
+Native or indigenous to a region or place.
 
 
 ### enervate
-Even though this word sounds as if it denotes "to make nervous," it means the
-opposite— to weaken or take away the energy. A long and boring lecture can be
-very enervating, making an audience fall asleep.
+To weaken or take away the energy.
 
 
 ### enigma
@@ -1679,9 +1636,7 @@ weary sense. The Duke of York suffered from it—too much money, not enough to d
 
 
 ### enormity
-Contrary to popular belief, the word has nothing to do with size, but with
-horribleness or awfulness. The enormity of a situation—like starvation in Africa
-— describes the extent of the tragedy.
+Horribleness or awfulness.
 
 
 ### eonism
@@ -4891,6 +4846,10 @@ To go back on one's word or break a promise.
 A depraved or unprincipled person; someone who is all but morally hopeless.
 
 
+### resplendent
+Shinning brilliantly; gleaming.
+
+
 ### restive
 The opposite of restful, this word means fidgety, nervously impatient and
 uneasy. A variation on restless.
@@ -4948,7 +4907,7 @@ A set of regulations for behavior or procedure.
 
 
 ### rubricate
-https://www.merriam-webster.com/dictionary/rubricate
+To colour with red. To furnish with, or regulate,  by rubrics
 
 
 ### ruthful
@@ -4983,8 +4942,8 @@ Effecting or designed to effect an improvement; remedial: salutary advice.
 Promoting good health and physical well-being; wholesome; curative.
 
 
-### Samovar
-https://www.merriam-webster.com/dictionary/Samovar
+### samovar
+A metal urn for heating water for making tea.
 
 
 ### sanctimony

@@ -4566,6 +4566,10 @@ renege
 To go back on one's word or break a promise.
 
 
+resplendent
+Shinning brilliantly; gleaming.
+
+
 reprobate
 A depraved or unprincipled person; someone who is all but morally hopeless.
 
@@ -4623,7 +4627,7 @@ A set of regulations for behavior or procedure.
 
 
 rubricate
-https://www.merriam-webster.com/dictionary/rubricate
+To colour with red. To furnish with, or regulate,  by rubrics
 
 
 ruthful
@@ -4653,8 +4657,8 @@ Effecting or designed to effect an improvement; remedial: salutary advice.
 Promoting good health and physical well-being; wholesome; curative.
 
 
-Samovar
-https://www.merriam-webster.com/dictionary/Samovar
+samovar
+A metal urn for heating water for making tea.
 
 
 sanctimony
