@@ -3443,7 +3443,7 @@ cleaned it up!"
 
 
 ### mirth
-https://www.merriam-webster.com/dictionary/mirth
+Gladness or gaiety as shown by or accompanied with laughter.
 
 
 ### misanthrope
