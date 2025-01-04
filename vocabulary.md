@@ -1583,7 +1583,7 @@ lecture or two.
 
 
 ### eminence
-https://www.merriam-webster.com/dictionary/eminence
+A person of high rank or attainments. A position of prominence or superiority.
 
 
 ### eminence grise
