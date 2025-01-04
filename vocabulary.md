@@ -1415,7 +1415,7 @@ regard to practicality, suitability, etc. theoretical; impractical.
 
 
 ### doctrine
-https://www.merriam-webster.com/dictionary/doctrine
+A principle of law established through past decisions.
 
 
 ### dotard
