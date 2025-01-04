@@ -1044,7 +1044,7 @@ without the conscious intention to deceive.
 
 
 ### congenial
-https://www.merriam-webster.com/dictionary/congenial
+Agreeably suited to one's nature, tastes, or outlook.
 
 
 ### congruence bias
@@ -1085,7 +1085,8 @@ twice is contumacious.
 
 
 ### corpus
-https://www.merriam-webster.com/dictionary/corpus
+All the writings or works of a particular kind or on a particular subject; a
+collection or body of knowledge or evidence
 
 
 ### coruscate
@@ -1139,7 +1140,8 @@ Acceptable or adequate a bit wryly.
 
 
 ### crucible
-https://www.merriam-webster.com/dictionary/crucible
+A place or situation in which concentrated forces interact to cause or influence
+change or development; a severe test.
 
 
 ### cryptomnesia
@@ -1367,7 +1369,9 @@ Separate or distinct.
 
 
 ### discursiveness
-https://www.merriam-webster.com/dictionary/discursiveness
+Proceeding coherently from topic to topic; marked by a method of resolving
+complex expressions into simpler or more basic ones : marked by analytical
+reasoning
 
 
 ### disingenuous
@@ -4963,10 +4967,6 @@ sanguine about his investment.
 ### sans souci
 Resorts are fond of naming themselves with this French phrase, perhaps because
 it means "carefree."
-
-
-### Sapient
-https://www.merriam-webster.com/dictionary/Sapient
 
 
 ### saporific
