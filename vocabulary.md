@@ -1682,7 +1682,7 @@ cartoon is also an anachronism (see anachronism).
 
 
 ### epistemic
-https://www.merriam-webster.com/dictionary/epistemic
+Of or relating to knowledge or knowing.
 
 
 ### Epistemic Humility
@@ -1853,7 +1853,8 @@ of circumstances.
 
 
 ### existential
-https://www.merriam-webster.com/dictionary/existential
+Of, relating to, or affirming existence; grounded in existence or the experience
+of existence.
 
 
 ### exordium
@@ -4825,10 +4826,6 @@ Reiteration Effect.
 
 ### rejoinder
 A response to an answer.
-
-
-### remit
-https://www.merriam-webster.com/dictionary/remit
 
 
 ### remonstrate
