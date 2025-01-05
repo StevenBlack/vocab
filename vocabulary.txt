@@ -2319,8 +2319,6 @@ hyperbole
 An intentionally exaggerated exaggeration, not meant to be taken literally.
 "You're the nicest person I've ever met" might be an exaggeration, but "You're
 the nicest person in the whole wide world" is a hyperbole.
-hypernym
-https://www.merriam-webster.com/dictionary/hypernym
 
 
 hypocorism
@@ -2330,7 +2328,7 @@ of newborn babies are fond of speaking in hypocorisms —before they know better
 
 
 hyponym
-https://www.merriam-webster.com/dictionary/hyponym
+A generic name not based on a recognizable species.
 
 
 hyposmia
@@ -2338,7 +2336,9 @@ A decreased sensitivity to some or all smells.
 
 
 hypothesis
-https://www.merriam-webster.com/dictionary/hypothesis
+An assumption or concession made for the sake of argument; a tentative
+assumption made in order to draw out and test its logical or empirical consequences;
+the antecedent clause of a conditional statement.
 
 
 iatrogenic
