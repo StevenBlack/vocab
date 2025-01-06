@@ -2947,7 +2947,7 @@ To burn the midnight oil—to work or study late into the night.
 
 
 lugubrious
-https://www.merriam-webster.com/dictionary/lugubrious
+Marked by wantonness (lecherous); having a smooth or slippery quality.
 
 
 lumpen
@@ -3101,11 +3101,12 @@ LOO-USS.
 
 
 mendacious
-https://www.merriam-webster.com/dictionary/mendacious
+Given to or characterized by deception or falsehood or divergence from absolute
+truth.
 
 
 mendacity
-https://www.merriam-webster.com/dictionary/mendacity
+The quality or state of being mendacious. To lie.
 
 
 mendicant

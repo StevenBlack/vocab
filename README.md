@@ -2415,8 +2415,7 @@ who is often cheap and miserly. Scrooge was a hunks before he met his ghosts.
 ### hyperbole
 An intentionally exaggerated exaggeration, not meant to be taken literally.
 "You're the nicest person I've ever met" might be an exaggeration, but "You're
-the nicest person in the whole wide world" is a hyperbole. hypernym https://
-www.merriam-webster.com/dictionary/hypernym
+the nicest person in the whole wide world" is a hyperbole.
 
 
 ### hypocorism
@@ -2426,7 +2425,7 @@ newborn babies are fond of speaking in hypocorisms —before they know better.
 
 
 ### hyponym
-https://www.merriam-webster.com/dictionary/hyponym
+A generic name not based on a recognizable species.
 
 
 ### hyposmia
@@ -2434,7 +2433,9 @@ A decreased sensitivity to some or all smells.
 
 
 ### hypothesis
-https://www.merriam-webster.com/dictionary/hypothesis
+An assumption or concession made for the sake of argument; a tentative
+assumption made in order to draw out and test its logical or empirical
+consequences; the antecedent clause of a conditional statement.
 
 
 ### iatrogenic
@@ -3025,7 +3026,7 @@ Supple; agile; lithe.
 
 
 ### lissome
-https://www.merriam-webster.com/dictionary/lissome
+Easily flexed.
 
 
 ### litotes
@@ -3067,7 +3068,7 @@ An awkward person, especially one who is lazy or stupid; lout; lubber.
 
 
 ### loquacious
-https://www.merriam-webster.com/dictionary/loquacious
+Full of excessive talk, wordy; given to fluent or excessive talk, garrulous.
 
 
 ### Lothario
@@ -3098,7 +3099,7 @@ To burn the midnight oil—to work or study late into the night.
 
 
 ### lugubrious
-https://www.merriam-webster.com/dictionary/lugubrious
+Marked by wantonness (lecherous); having a smooth or slippery quality.
 
 
 ### lumpen
@@ -3273,11 +3274,12 @@ easily believed.
 
 
 ### mendacious
-https://www.merriam-webster.com/dictionary/mendacious
+Given to or characterized by deception or falsehood or divergence from absolute
+truth.
 
 
 ### mendacity
-https://www.merriam-webster.com/dictionary/mendacity
+The quality or state of being mendacious. To lie.
 
 
 ### mendicant
