@@ -5650,6 +5650,11 @@ Verbally abusive; using foul language.
 Anything relating to acting or the theatre.
 
 
+### thot
+A woman who has many casual sexual encounters or relationships. "That Ho Over
+There."
+
+
 ### Throat-Clearing
 Before criticizing their own tribe, people feel the need to reaffirm their
 loyalty to the tribe. "I support X but..." They do this because other people
