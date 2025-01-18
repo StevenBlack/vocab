@@ -3689,24 +3689,19 @@ A lumpy stub, a bumpy nub.
 
 
 ### nubile
-Of marriageable age or condition. Since that once meant about 15 years of age,
-the word came to mean all attractive, young women.
+Of marriageable age or condition.
 
 
 ### nugatory
-Means "worthless" or "insignificant." The side effects of a particularly safe
-medicine, for example, are nugatory.
+Means "worthless" or "insignificant."
 
 
 ### nympholepsy
-The condition of having deep emotional longings for something unattainable. The
-best description we've ever heard of first love!
+The condition of having deep emotional longings for something unattainable.
 
 
 ### obdurate
-Cruelly stubborn and hard-hearted; insensitive. Someone who is hard to convince
-is stubborn, but someone who won't give in to a simple and reasonable plea is
-obdurate.
+Cruelly stubborn and hard-hearted; insensitive.
 
 
 ### obfuscate
