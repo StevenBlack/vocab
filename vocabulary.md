@@ -85,6 +85,10 @@ Added accidentally, casually or from an outside source.
 A lover of beauty.
 
 
+### affable
+Friendly, good-natured, or easy to talk to.
+
+
 ### affectation
 An effort to appear to have a quality not really or fully possessed; the
 pretense of actual possession.
