@@ -1611,6 +1611,12 @@ but the world is full of names for things that aren't real (e.g. Batman). As
 such, assume nothing is true just because it has a name.
 
 
+### emulsion
+An emulsion is a mixture of two or more liquids that are normally immiscible
+owing to liquid-liquid phase separation. Emulsions are part of a more general
+class of two-phase systems of matter called colloids.
+
+
 ### encephalesthenia
 Exhaustion due to emotional stress rather than lack of sleep or physical work.
 
@@ -3135,9 +3141,9 @@ A kind of soup—tomato-flavored broth, served jellied and cold or liquid and ho
 
 
 ### magna cum laude
-summa cum laude is the highest praise and it means just that; magna cum laude is
-the next highest and means with great praise; cum laude is the lowest of three
-honors and it means, simply, with honor.
+summa cum laude is the highest praise. magna cum laude is the next highest and
+means with great praise; cum laude is the lowest of three honors and it means,
+simply, with honor.
 
 
 ### magniloquent
