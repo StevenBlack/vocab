@@ -5649,12 +5649,23 @@ The sound of ringing bells.
 Someone skilled in the tonsorial arts is a great barber.
 
 
+### tontine
+A financial arrangement where a group of people pool their money, with payouts
+to surviving members based on the longevity of the group. When a member dies,
+their portion of the investment is redistributed among the remaining members,
+potentially increasing the payouts to the survivors.
+
+
 ### toothsome
 Delicious or luscious.
 
 
 ### toper
 Someone who drinks alcohol in excessive quantities.
+
+
+### topiary
+An aria of trimmed shrubs and trees in ornamental shapes.
 
 
 ### toponym

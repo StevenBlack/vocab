@@ -667,7 +667,7 @@ Metaphorically: a decorative pattern.
 
 ### bromide
 A trite or hackneyed remark or a boring person who speaks in meaningless
-platitudes. Also used to describe a drink taken to relieve indigestion.
+platitudes.
 
 
 ### bumptious
@@ -676,9 +676,7 @@ bordering on arrogant.
 
 
 ### cabal
-A group engaged in secret plotting against authority. A cabal might be a
-political faction that scorns the government, or a splinter group of employees
-dissatisfied with the head of their department. Often associated with witches.
+A group engaged in secret plotting against authority.
 
 
 ### cache
@@ -690,8 +688,7 @@ A mark of distinction, a stamp of approval by a recognized authority.
 
 
 ### cachinate
-To laugh too loud or too hard. Much more than a giggle, and with a bit of
-unnatural excess, such as nervous laughter after hearing bad news.
+To laugh too loud or too hard.
 
 
 ### cacology
@@ -713,8 +710,8 @@ A despicable lowlife; a contemptible or cowardly person.
 
 
 ### cajole
-To coax or encourage, usually to get someone to do something she doesn't want to
-do but that's good for her, such as take her medicine or get some rest.
+To coax or encourage, usually to get someone to do something she doesn't want
+to do.
 
 
 ### callow
@@ -735,13 +732,11 @@ A classy way to describe someone who is a little too sharp with money.
 
 
 ### campanile
-A bell tower that is usually separate from surrounding buildings. Far more
-common in Europe than in the States.
+A bell tower that is usually separate from surrounding buildings.
 
 
 ### canard
-A rumor, sham, false report or playful hoax—though less ominous than the War of
-the Worlds radio broadcast.
+A rumor, sham, false report or playful hoax.
 
 
 ### canicular
@@ -793,9 +788,9 @@ Believing that your thoughts are being stolen by your competitors.
 
 
 ### casuistry
-Casuistry is a process of reasoning that seeks to resolve moral problems by
-extracting or extending theoretical rules from a particular case, and reapplying
-those rules to new instances.
+A process of reasoning that seeks to resolve moral problems by extracting or
+extending theoretical rules from a particular case, and reapplying those rules
+to new instances.
 
 
 ### casus belli
@@ -816,8 +811,7 @@ Using sensationalism or cheapness for appeal.
 
 
 ### catharsis
-Originally referred to the emotional release, the necessity of which was created
-by Greek tragedy. Catharsis has come to mean any purging or release of emotions.
+Any purging or release of emotions.
 
 
 ### catholic
@@ -843,8 +837,7 @@ A Latin phrase that generally means "all other things being equal."
 
 
 ### chad
-The little paper circles that fall from the hole-puncher. Generally used to mean
-the leftovers, the worthless part that remains after you've got what you want.
+The little paper circles that fall from the hole-puncher.
 
 
 ### chaff
@@ -874,8 +867,7 @@ Cautious; hesitant to act.
 
 
 ### chasm
-A huge gap or deep hole.  It can also be used figuratively to describe a gulf —
-the chasm between rich and poor, for example.
+A huge gap or deep hole.
 
 
 ### chasmophile
@@ -909,12 +901,11 @@ environment. Thus, limits on speech become limits on sincerity.
 
 ### chimera
 A mythological monster with the head of a lion, the body of a goat and the tail
-of a serpent. The word has come to connote any horrible fear or morbid terror.
+of a serpent.
 
 
 ### choplogic
-Faulty reasoning, often overly complicated and confusing. (Not Freddy Kruger's
-mental state.)
+Faulty reasoning, often overly complicated and confusing.
 
 
 ### chrysalis
@@ -930,8 +921,7 @@ The scar that forms on a healed wound.
 
 
 ### cicerone
-A guide who escorts tourists or sightseers, such as the gondoliers of Venice or
-the people who lead walking tours in most cities.
+A guide who escorts tourists or sightseers.
 
 
 ### cinerary
@@ -1118,25 +1108,17 @@ have the courage to admit the truth about something.
 
 
 ### craxis
-n. the unease of knowing how quickly your circumstances could change on you—that
-no matter how carefully you shape your life into what you want it to be, the
-whole thing could be overturned in an instant, with little more than a single
-word, a single step, a phone call out of the blue, and by the end of next week
-you might already be looking back on this morning as if it were a million years
-ago, a poignant last hurrah of normal life.
+The unease of knowing how quickly your circumstances could change on you.
 
 
 ### crepuscular
-Lit by twilight; dusky. Though it has an ugly sound, the word usually evokes
-a faintly romantic darkness, such as "the mountains crepuscular in the setting
-sun." The lighting in certain dim restaurants is crepuscular.
+Lit by twilight; dusky. A faintly romantic darkness.
 
 
 ### crinoline
-A crinoline is a stiff or structured petticoat designed to hold out a woman's
-skirt, popular at various times since the mid-19th century. Originally,
-crinoline described a stiff fabric made of horsehair and cotton or linen which
-was used to make underskirts and as a dress lining.
+A stiff or structured petticoat designed to hold out a woman's skirt.
+Originally, crinoline described a stiff fabric made of horsehair and cotton or
+linen which was used to make underskirts and as a dress lining.
 
 
 ### cromulent
@@ -5667,12 +5649,23 @@ The sound of ringing bells.
 Someone skilled in the tonsorial arts is a great barber.
 
 
+### tontine
+A financial arrangement where a group of people pool their money, with payouts
+to surviving members based on the longevity of the group. When a member dies,
+their portion of the investment is redistributed among the remaining members,
+potentially increasing the payouts to the survivors.
+
+
 ### toothsome
 Delicious or luscious.
 
 
 ### toper
 Someone who drinks alcohol in excessive quantities.
+
+
+### topiary
+An aria of trimmed shrubs and trees in ornamental shapes.
 
 
 ### toponym
