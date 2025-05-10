@@ -622,6 +622,10 @@ A woman who devotes herself to scholarly or literary pursuits but who is not
 necessarily formally educated.
 
 
+### bolshiness
+Deliberately combative or uncooperative.
+
+
 ### boondoggle
 Means "busy work," meaningless tasks carried out laboriously to create the
 appearance of being busy.
