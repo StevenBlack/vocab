@@ -2275,15 +2275,12 @@ and contempt for people or things perceived to be inferior
 
 
 ### havelock
-A cloth covering for a cap which has a flap to protect the back of the neck
-from the sun—the kind of thing Lawrence of Arabia wore. Players on outdoor urban
-basketball courts wear havelocks today.
+A cloth covering for a cap which has a flap to protect the back of the neck from
+the sun—the kind of thing Lawrence of Arabia wore.
 
 
 ### hedonist
-A person addicted to things that give pleasure or happiness. A hedonist puts
-chocolate ice cream and hot fudge on a flourless chocolate cake, or spends class
-time sunbathing while attending the University of Miami.
+A person addicted to things that give pleasure or happiness.
 
 
 ### heeltap
@@ -2297,9 +2294,7 @@ state over another.
 
 ### hegira
 A flight or escape from one situation to another that offers better
-circumstances. It often refers to the flight of Mohammed from Mecca to Medina in
-622 A.D., but it may be used metaphorically, as in making a hegira to a job that
-provides better pay and more interesting work.
+circumstances.
 
 
 ### heliotrope
@@ -2397,27 +2392,19 @@ Excessive pride; proud to a fault.
 
 
 ### huggermugger
-Chaotic secrecy. The machinations of the CIA or the behind-closed-doors board
-meetings of corporations under siege are best described as huggermugger.
-Obsession with confidentiality masks the total lack of control, insight or
-understanding demonstrated by the participants.
+Chaotic secrecy.
 
 
 ### hunks
-Not beefcake, like a male model—that's a hunk. A mean, disagreeable, old person
-who is often cheap and miserly. Scrooge was a hunks before he met his ghosts.
+A mean, disagreeable, old person who is often cheap and miserly.
 
 
 ### hyperbole
 An intentionally exaggerated exaggeration, not meant to be taken literally.
-"You're the nicest person I've ever met" might be an exaggeration, but "You're
-the nicest person in the whole wide world" is a hyperbole.
 
 
 ### hypocorism
-A word for baby talk like "kitchee, kitchee, koo," or for pet names like
-"Snookeeookums," "Sweetie pie" or "My little dumpling." Newlyweds and parents of
-newborn babies are fond of speaking in hypocorisms —before they know better.
+A word for baby talk.
 
 
 ### hyponym
@@ -2435,8 +2422,7 @@ consequences; the antecedent clause of a conditional statement.
 
 
 ### iatrogenic
-Making something worse in an effort to make it better; induced unintentionally
-by a physician or surgeon or by medical treatment or diagnostic procedures
+Making something worse in an effort to make it better.
 
 
 ### ichthyoid
@@ -2571,8 +2557,7 @@ Unable to restrain natural discharges or evacuations of urine or feces.
 
 ### incubus
 An evil spirit that annoys people while they are sleeping and, in particular, a
-spirit that badgers women for sexual favors. A better way to say you didn't have
-a very good night's sleep.
+spirit that badgers women for sexual favors.
 
 
 ### inculpate
@@ -3400,10 +3385,7 @@ often overlooks the stuff that matters.
 
 
 ### mirabile dictu
-A Latin phrase meaning "wonderful to relate" or "strange to tell." It's the
-kind of phrase, used sparingly, that can enhance a tale of even the most mundane
-events: "I went into my daughter's room this morning and—mirabile dictu—she had
-cleaned it up!"
+A Latin phrase meaning "wonderful to relate" or "strange to tell."
 
 
 ### mirth
@@ -3416,15 +3398,11 @@ A person who hates or distrusts humankind.
 
 ### miscegenation
 Marriage or cohabitation of people from different races; the mixture of races
-by interbreeding. Amazingly enough, this was illegal in Virginia until the mid-
-1960s.
+by interbreeding.
 
 
 ### miscreant
-Depraved or villainously wicked. The word can be used as a noun to describe a
-person who commits a not-so-serious crime. Fences are posted to keep miscreants
-out of parks; paints have been developed to discourage miscreants from drawing
-graffiti on buses and trains.
+Depraved or villainously wicked.
 
 
 ### misogamy
@@ -3432,16 +3410,11 @@ Hatred of marriage, a common condition.
 
 
 ### misogyny
-Hatred of women. You can call a woman-hater a misogynist. misopedia The last
-of the miso- words we're going to include in this book; it means hatred of
-children, especially one's own. Certainly a good word to use on a day when the
-little ones are really getting on your nerves.
+Hatred of women.
 
 
 ### mnemonic
-A trick used to help remember something, such as remembering someone's birthday
-because it's the same date as the Battle of Waterloo, or the colors of the
-spectrum by ROYGBIV, or trigonometry by SOHCAHTOA.
+A trick used to help remember something.
 
 
 ### mo
@@ -3453,21 +3426,15 @@ with go.
 
 
 ### modus operandi
-A Latin phrase that means "mode of operation." Formerly used by Dick Tracy
-and the Dragnet team to describe the telltale signs a criminal leaves behind,
-it's now perfect to describe anyone who has a certain way of operating. "Don't
-worry about Marc—screaming at a meeting is part of his modus operandi." Often
-shortened to "M.O."
+A Latin phrase that means "mode of operation."
 
 
 ### moil
-Hard work and drudgery, like toil with an m. We moiled away for hours over
-dictionaries to find the best words to include in this book.
+Hard work and drudgery.
 
 
 ### mollify
-To soothe, appease or calm down. Chamberlain tried to mollify Hitler. A father
-might try to mollify a small child who dropped an ice-cream cone.
+To soothe, appease or calm down.
 
 
 ### monachopsis
@@ -3506,8 +3473,7 @@ Capable of motion or moving.
 
 
 ### mountebank
-This somewhat archaic word means a traveling salesman for quack remedies; it's
-come to be used to mean any trickster or charlatan.
+A trickster or charlatan.
 
 
 ### mufti
@@ -3954,9 +3920,7 @@ consensuses.
 
 
 ### paralogize
-To draw illogical conclusions from a series of facts. Example: after being told
-about a pet that barks, likes bones, chases cats and wags its tail, you say,
-"Oh, I didn't know you had a parrot."
+To draw illogical conclusions from a series of facts.
 
 
 ### paraph
@@ -3983,9 +3947,7 @@ paroxysms of laughter."
 
 
 ### parure
-A matched set of jewelry, such as earrings and a necklace; the kind of word seen
-most often on museum cards and in auction catalogues. Save the word for when
-you're talking about diamonds and emeralds—not Bakelite.
+A matched set of jewelry, such as earrings and a necklace;.
 
 
 ### parvenu
@@ -4041,8 +4003,8 @@ Guilty of a moral sin.
 
 ### pedagogue
 This word can simply mean "teacher," but more often it has the same meaning as
-pedant (see below), an extremely opinionated teacher who tries to force those
-opinions on others, ignoring common sense in favor of theoretical knowledge.
+pedant, an extremely opinionated teacher who tries to force those opinions on
+others, ignoring common sense in favor of theoretical knowledge.
 
 
 ### pedant
