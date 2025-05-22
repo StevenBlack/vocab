@@ -167,6 +167,10 @@ A poetic device in which words that begin with the same sound are strung
 together.
 
 
+### allodoxaphobia
+The fear of other people's opinions.
+
+
 ### altschmerz
 An emotion; Weariness with the same old issues that you've always had - the same
 boring flaws and arieties that you've been gnawing on for years.
