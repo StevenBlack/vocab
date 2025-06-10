@@ -5482,6 +5482,10 @@ The winged sandals worn by Mercury.
 A lucky charm.
 
 
+### Tantalize
+To torment with something desireable but just out of reach.
+
+
 ### tartuffery
 Religious hypocrisy.
 

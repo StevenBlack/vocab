@@ -1150,6 +1150,7 @@ syzygy
 taciturn
 talaria
 talisman
+Tantalize
 tartuffery
 tatterdemalion
 tautological
