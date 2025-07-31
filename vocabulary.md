@@ -4535,6 +4535,10 @@ Twitter echo-chambers.
 A habitat or a place one frequents.
 
 
+### putative
+Commonly accepted or supposed; assumed to exist or to have existed.
+
+
 ### putsch
 The German word for a sudden uprising and takeover. It generally refers to a
 government coup, but if a group of coworkers get together to kick out their
