@@ -4017,8 +4017,7 @@ others, ignoring common sense in favor of theoretical knowledge.
 
 ### pedant
 A teacher, but the implication is one who is tiresome, and always focused on
-small details. "Be careful with your new-found vocabulary skills, or you'll
-become a pedant and no one will talk to you any more."
+small details.
 
 
 ### pellucid
@@ -4088,8 +4087,7 @@ To make a lengthy speech, often summarizing everything that's been said before.
 
 ### perquisite
 Abbreviated to "perk." The perquisites of a job are the advantages or fees that
-come in addition to the regular salary, such as use of a company car or paid
-vacation time; fringe benefits.
+come in addition to the regular salary; fringe benefits.
 
 
 ### persevere
@@ -4931,21 +4929,15 @@ A period of wild revelry.
 
 
 ### scarify
-To make superficial cuts or scratches. Certain African and Latin American
-tribes scarify their faces and bodies for decoration. The word can also be used
-in a figurative sense to mean making small insults, wounding with words. "The
-children scarified the new kid in the class by teasing him mercilessly about the
-way he dressed."
+To make superficial cuts or scratches.
 
 
 ### scatology
-The study of or excessive interest in excrement or obscenity, such as the works
-of William S. Burroughs or Laurence Sterne.
+The study of or excessive interest in excrement or obscenity.
 
 
 ### schwa
-The upside-down e glyf. It denotes the sound similar to eh, as in about, edible,
-circus.
+The upside-down e glyf.
 
 
 ### scintilla
@@ -5035,9 +5027,7 @@ would be hard to argue with; a sequacious movie would be easy to follow.
 
 
 ### serendipity
-Serendipity is something wonderful that happens suddenly and unexpectedly, such
-as bumping into a dear friend 1,000 miles from home just after you've lost your
-traveler's checks.
+Serendipity is something wonderful that happens suddenly and unexpectedly.
 
 
 ### serial position effect
@@ -5065,17 +5055,13 @@ Aged between sixty and seventy years old. (See also octogenarian.)
 
 
 ### shaman
-Literally, a shaman is a priest or witch doctor who uses supernatural powers in
-various tribal religions in Africa and Asia. The word is now used figuratively
-for any contemporary guru-type who exercises a kind of religious control over
-a set of followers. Jim Jones was a kind of shaman; some parents worry that
-certain heavy-metal rock stars are considered to be shamans by their young fans.
+A priest or witch doctor who uses supernatural powers in various tribal
+religions in Africa and Asia.
 
 
 ### shibboleth
 A doctrine or belief once held to be of great importance by a particular group
-or sect but now seen as rather old-fashioned and useless. Stoning witches and
-refraining from shopping on Sundays are both examples of shibboleths.
+or sect but now seen as rather old-fashioned and useless.
 
 
 ### Shibboleth
@@ -5129,10 +5115,8 @@ A Latin phrase for an indispensable requirement or essential need.
 
 
 ### sinecure
-An office or post that provides honor or prestige and possibly even profit
-but which requires almost no work. Certain ambassadors' posts are considered
-sinecures, for example, because the job involves a lot of formal parties and
-official gatherings but very little political responsibility.
+An office or post that provides honor or prestige and possibly even profit but
+which requires almost no work.
 
 
 ### sinistrodextral
@@ -5152,9 +5136,7 @@ almost dangerously tempting.
 
 
 ### sitomanic
-An abnormal or even neurotic craving for food. The next time you sit down with a
-spoon and a half gallon of ice cream, just grin and say you're having an attack
-of sitomania.
+An abnormal or even neurotic craving for food.
 
 
 ### skeuomorph
@@ -5164,17 +5146,11 @@ mimics a physical object.
 
 
 ### skulduggery
-If you do something sneaky and underhanded, you are engaging in skulduggery.
-Though it's clearly dishonorable conduct, it's not as bad as an outright felony
-—you don't necessarily get thrown in jail for it. Filling your mom's purse with
-raspberry Jell-O is skulduggery. Also spelled skullduggery.
+Something sneaky and underhanded.
 
 
 ### sloven
-This is the noun for "slovenly." People who dress in a slovenly way are
-carelessly sloppy; sloven, therefore, is another word for slob. You can also use
-it as a name for someone who does a job poorly or haphazardly. The guy who came
-in to wash your windows and left great big streaks on the glass is a sloven.
+This is the noun for "slovenly." Carelessly sloppy; slob.
 
 
 ### slubber
@@ -5350,8 +5326,7 @@ Subordinate or of lower rank. It's used as an adjective.
 
 
 ### subjacent
-Adjacent means side by side; so subjacent means lying directly under. "The
-basement of the house was subjacent to the living room."
+Adjacent means side by side; so subjacent means lying directly under.
 
 
 ### subrogate
@@ -5360,8 +5335,6 @@ To substitute.
 
 ### subsume
 To consider an idea, principle, theory or category as part of a larger whole.
-"Existentialism is subsumed by philosophy in the liberal arts class offerings at
-the university."
 
 
 ### subterfuge
