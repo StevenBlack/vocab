@@ -65,6 +65,7 @@ apostasy
 apothegm
 apotheosis
 apposite
+aptronym
 aquiline
 argot
 arrant

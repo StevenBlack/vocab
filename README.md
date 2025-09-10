@@ -293,6 +293,10 @@ expression."
 Appropriate; suitable; well-adapted; pertinent; relevant.
 
 
+### aptronym
+A name that suits its owner in an apt way.
+
+
 ### aquiline
 Like an eagle.
 
