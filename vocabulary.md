@@ -1,7 +1,7 @@
 ## Contents
 
 
-[**a**](#a-contrario) - [**b**](#baader-meinhof-phenomenon) - [**c**](#cabal) - [**d**](#dactyl) - [**e**](#e-pluribus-unum) - [**f**](#fabulist) - [**g**](#gaffe) - [**h**](#hajj) - [**i**](#iatrogenic) - [**j**](#jape) - [**k**](#kabuki-theathre) - [**l**](#labile) - [**m**](#macedoine) - [**n**](#nabob) - [**o**](#obdurate) - [**p**](#padnag) - [**q**](#quagmire) - [**r**](#raconteur) - [**s**](#sage) - [**t**](#taciturn) - [**u**](#ubiety) - [**v**](#vacuous) - [**w**](#wallah-wallah) - [**x**](#xanadu) - [**y**](#yahoo) - [**z**](#zaftig) - [**é**](#énouement)
+[**a**](#a-contrario) - [**b**](#baader-meinhof-phenomenon) - [**c**](#cabal) - [**d**](#dactyl) - [**e**](#e-pluribus-unum) - [**f**](#fabulist) - [**g**](#gaffe) - [**h**](#hajj) - [**i**](#iatrogenic) - [**j**](#jape) - [**k**](#kabuki-theatre) - [**l**](#labile) - [**m**](#macedoine) - [**n**](#nabob) - [**o**](#obdurate) - [**p**](#padnag) - [**q**](#quagmire) - [**r**](#raconteur) - [**s**](#sage) - [**t**](#taciturn) - [**u**](#ubiety) - [**v**](#vacuous) - [**w**](#wallah-wallah) - [**x**](#xanadu) - [**y**](#yahoo) - [**z**](#zaftig) - [**é**](#énouement)
 ### a contrario
 Latin: from the opposite.
 
@@ -2763,7 +2763,7 @@ Youthful.
 To put next to something else for comparison.
 
 
-### Kabuki Theathre
+### Kabuki Theatre
 Kabuki is a classical form of traditional Japanese theatre characterized by
 its stylized performances, elaborate costumes, distinctive makeup, and dramatic
 music.
