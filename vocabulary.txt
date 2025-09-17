@@ -162,6 +162,12 @@ allodoxaphobia
 The fear of other people's opinions.
 
 
+altschmerz
+An emotion; Weariness with the same old issues that you've always had -
+the same boring flaws and arieties that you've been gnawing on for
+years.
+
+
 amanuensis
 A scribe; someone employed to take dictation or copy what another has written.
 
@@ -1496,6 +1502,11 @@ elision
 Any omission of a part or parts.
 
 
+ellipsism
+An emotion; A sadness that you never be able to know how history will
+turn out.
+
+
 embayment
 A bay. Physical Geography: the process by which a bay is formed.
 
@@ -2807,6 +2818,10 @@ lexicon
 The working or usable vocabulary of a language, a person ora culture.
 
 
+liberosis
+An emotion; The desire to care less about things.
+
+
 libertarian
 An advocate of liberty of thought and action. Also refers to a political party
 which supports minimal government intervention, except in law and military
@@ -3536,6 +3551,10 @@ olio
 A hodge-podge, a mixture of miscellaneous elements.
 
 
+occhiolism
+An emotion; The awareness of the smallness of your perspective.
+
+
 ombudsman
 An official whose job is to investigate complaints made by private citizens
 about abuses or wrongdoing performed by the government or by the organization he
@@ -3552,6 +3571,11 @@ Having supreme creative power; able to create all things.
 
 oniomania
 An irrepressible urge to buy things.
+
+
+onism
+An emotion; The frustration of being stuck in just one body, that
+inhabits only one place at a time.
 
 
 onomatopoeia
@@ -4550,6 +4574,10 @@ Remembering experiences more favorably than they were experienced.
 
 roue
 A rake; a dissipated, lascivious man, but with a touch of the dashing romantic.
+
+
+rubatosis
+An emotion; The unsettling awareness of your own heartbeat.
 
 
 rubric
@@ -6060,10 +6088,6 @@ vellichor
 An emotion; The strange wistfulness of used bookshops.
 
 
-rubatosis
-An emotion; The unsettling awareness of your own heartbeat.
-
-
 kenopsia
 An emotion; The eerie, forlom atmosphere of a place that is usually
 bustling with people but is now abandoned and quiet.
@@ -6088,11 +6112,6 @@ thousands of identical photos already exist.
 
 anecdoche
 An emotion; A conversation in which everyone is talking, but nobody is listening
-
-
-ellipsism
-An emotion; A sadness that you never be able to know how history will
-turn out.
 
 
 kuebiko
@@ -6121,23 +6140,3 @@ to find it fading rapidly from your awareness.
 Nodus Tollens
 An emotion; The realization that the plot of your life doesn't make
 sense to you anymore
-
-
-onism
-An emotion; The frustration of being stuck in just one body, that
-inhabits only one place at a time.
-
-
-liberosis
-An emotion; The desire to care less about things.
-
-
-altschmerz
-An emotion; Weariness with the same old issues that you've always had -
-the same boring flaws and arieties that you've been gnawing on for
-years.
-
-
-occhiolism
-An emotion; The awareness of the smallness of your perspective.
-
