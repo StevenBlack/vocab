@@ -3584,12 +3584,7 @@ A word that sounds like what it defines.
 
 ontology
 PHILOSOPHY: The branch of metaphysics that addresses the nature or essential
-characteristics of being and of things that exist; the study of being qua
-being. In a subject view, or a world view, the set of conceptual or material
-things or classes of things that are recognised as existing, or are assumed to
-exist in context, and their interrelations; in a body of theory, the ontology
-comprises the domain of discourse, the things that are defined as existing,
-together with whatever emerges from their mutual implications.
+characteristics of being and of things that exist.
 LOGIC: A logical system involving theory of classes.
 COMPUTER SCIENCE: A structure of concepts or entities within a domain, organized
 by relationships; a system model.
