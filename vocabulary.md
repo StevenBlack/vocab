@@ -4610,9 +4610,7 @@ remaining one in the center.
 
 
 ### quisling
-A collaborating spy. The word derives from Major Vidkun Quisling, who aided
-the German invaders of his native Norway during World War II. It can be used to
-refer to anyone who spies on his own group for the benefit of a competitor.
+A collaborating spy.
 
 
 ### quixotic
@@ -4629,9 +4627,7 @@ A great storyteller.
 
 
 ### raffish
-Tacky, cheap or in bad taste. The word can refer to people or things. A tourist
-dressed in a Hawaiian shirt and plaid shorts looks raffish, as do most of the
-doo-dads sold in airport souvenir shops.
+Tacky, cheap or in bad taste.
 
 
 ### raillery
@@ -4706,16 +4702,11 @@ then commit more crimes. Chain smokers who try to quit are prone to recidivism.
 
 
 ### recondite
-Esoteric; little known; obscure. References to medieval history texts, the
-mating rituals of rare Australian birds, or Norwegian jazz, for example, are
-recondite.
+Esoteric; little known; obscure.
 
 
 ### reconnoiter
 To engage in a preliminary survey of something in order to gain information.
-This word was first a military term but has expanded to mean checking anything
-out in advance of doing it. You can reconnoiter a parking lot for available
-spaces, for instance, before driving your car in.
 
 
 ### recreant
@@ -4764,14 +4755,12 @@ A response to an answer.
 
 
 ### remonstrate
-To plea in protest; kind of like a verbal version of "to demonstrate." Striking
-workers may demonstrate in picket lines and then arrange meetings to remonstrate
-with the management.
+To plea in protest; kind of like a verbal version of "to demonstrate."
 
 
 ### remontado
 A person who escapes the pressures of civilization by fleeing to the mountains
-(or the islands, or...).
+or other remote locales.
 
 
 ### renege
@@ -4792,8 +4781,7 @@ uneasy. A variation on restless.
 
 
 ### retrench
-To reduce or cut back. During a recession, people tend to retrench, spending
-less on luxury items and entertainment.
+To reduce or cut back.
 
 
 ### reverse psychology
@@ -4802,8 +4790,7 @@ opposite and expecting them to disagree with you.
 
 
 ### rimple
-A wrinkle or crease. Aging persons have rimples around their eyes; poorly packed
-clothes come out of the suitcase filled with rimples.
+A wrinkle or crease.
 
 
 ### riparian
@@ -4812,8 +4799,7 @@ river) or a lake or a tidewater.
 
 
 ### riposte
-A sharp, usually clever, retort; the exact opposite of an esprit d'escalier (see
-esprit d'escalier). Originally a fencing term.
+A sharp, usually clever, retort.
 
 
 ### rodomontade
@@ -4887,8 +4873,7 @@ Affected or hypocritical holiness
 
 
 ### sang froid
-Composure or calm in the face of danger, difficulty or annoyance. The guards in
-front of Buckingham Palace maintain their sang froid under all circumstances.
+Composure or calm in the face of danger, difficulty or annoyance.
 
 
 ### sanguine
@@ -4901,12 +4886,6 @@ Resorts are fond of naming themselves with this French phrase, perhaps because
 it means "carefree."
 
 
-### saporific
-Peggy Lee sings a great song about it. She pronounces with an a means "giving
-flavor." Dull lectures, B-movies, and tranquilizers are soporifics; red pepper,
-hot fudge, and curry are all saporifics.
-
-
 ### sardonic
 Bitter, cynical, or scornful.
 
@@ -4917,12 +4896,7 @@ clothes called on the sartorial skills of everyone in his kingdom.
 
 
 ### sasturgi
-Sastrugi, or zastrugi, are features formed by erosion of snow by wind. They are
-found in polar regions, and in snowy, wind-swept areas of temperate regions,
-such as frozen lakes or mountain ridges.[1] Sastrugi are distinguished by
-upwind-facing points, resembling anvils, which move downwind as the surface
-erodes. These points usually lie along ridges parallel to the prevailing wind;
-they are steep on the windward side and sloping to the leeward side.
+Sastrugi, or zastrugi, are features formed by erosion of snow by wind.
 
 
 ### saturnalia
@@ -4982,16 +4956,10 @@ character but attribute negative events to external factors.
 
 ### semantics
 The aspect of linguistics that is concerned with the meaning and usage of words.
-Being precise in what you say and how you say it is the greatest benefit of
-semantics. When someone's response to your argument is that you're just playing
-with semantics, they've decided to stop fighting about the facts, and to start
-accusing you of using double talk (which you would never do, of course).
 
 
 ### seminal
-Despite the i, the word derives from "semen," and means the source of a style,
-an idea or a philosophy. The Federalist Papers are a seminal work of American
-political thought; Einstein's work is seminal to modern physics.
+The source of a style, an idea or a philosophy.
 
 
 ### semiotic
@@ -5023,8 +4991,7 @@ sense impressions.
 
 
 ### sequacious
-Following smoothly or logically; happening in a sequence. A sequacious argument
-would be hard to argue with; a sequacious movie would be easy to follow.
+Following smoothly or logically; happening in a sequence.
 
 
 ### serendipity
