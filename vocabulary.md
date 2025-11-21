@@ -2025,6 +2025,12 @@ that makes you smile every time you use it.
 An investigation, or and attack or raid.
 
 
+### forbearance
+1) a refraining from the enforcement of something (such as a debt, right, or
+obligation) that is due. 2) the act of forbearing : patience. 3) the quality of
+being forbearing : leniency
+
+
 ### forer effect
 Cognitive bias: also called Barnum Effect, is the phenomenon that occurs
 when individuals believe that personality descriptions apply specifically to
