@@ -4068,8 +4068,8 @@ Treacherous; nefarious; wicked.
 
 
 ### perfidy
-The quality or state of being faithless or disloyal : treachery. An act or an
-instance of disloyalty.
+deceitfulness; untrustworthiness; treachery. An act or an instance of
+disloyalty.
 
 
 ### perfunctory
@@ -4260,6 +4260,11 @@ responsibility. A pococurante employee is one who doesn't care about his work. A
 pococurante boss is one who doesn't care about his employees.
 
 
+### pogonip
+a dense winter fog containing frozen particles that is formed in deep mountain
+valleys of the western U.S.
+
+
 ### poi
 Mashed taro root. A very mushy, traditional Hawaiian dish that hasn't attracted
 much attention on the mainland.
@@ -4322,7 +4327,7 @@ describe words that combine or blend other words like "smog" or "docudrama."
 
 
 ### postiche
-A superfluous ornament, usually added to a sculpture or work that is already
+A wig.
 
 
 ### Postjournalism
