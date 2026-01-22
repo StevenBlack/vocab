@@ -4240,17 +4240,12 @@ exotic; orange pekoe is prosaic.
 
 
 proscribe
-The noun for this verb is proscription and it means almost the exact opposite
-of "prescription." To proscribe something is to forbid it or label it dangerous.
-Tea and toast would be prescribed for an upset stomach; red-hot chili peppers
-would be proscribed.
+To forbid something or label something dangerous.
 
 
 proselytize
-Someone who proselytizes tries to convert others by using strongly persuasive
-language or convincing argument. It implies a certain degree of oppressive
-lecturing. Demonstrators proselytize about their causes, as do zealots, fanatics
-and members of some organized religions.
+Trying to convert others by using strongly persuasive language or convincing argument.
+It implies a certain degree of oppressive lecturing.
 
 
 protean
@@ -4259,18 +4254,11 @@ situation, changing types to fit the circumstances, is protean.
 
 
 Proustian
-This is a reference to Marcel Proust's novel Remembrance of Things Past, in
-which the protagonist takes a bite of a pastry he enjoyed as a child, and the
-taste of the pastry evokes a flood of childhood memories. The term has come
-to mean any sensory experience that provokes a flood of nostalgia. When an
-adult has a glass of chocolate milk and an Oreo, he or she is likely to have a
-Proustian experience. The smell of newly-mown grass is often Proustian, evoking
-memories of summer camp or trips to the country.
+Any sensory experience that provokes a flood of nostalgia.
 
 
 provenance
-Place of origin or source. Frequently used when obtaining information about a
-work of art or an antique.
+Place of origin or source.
 
 
 puce
@@ -4300,10 +4288,7 @@ Commonly accepted or supposed; assumed to exist or to have existed.
 
 
 putsch
-The German word for a sudden uprising and takeover. It generally refers to a
-government coup, but if a group of coworkers get together to kick out their
-superior and take over her responsibilities, that's a putsch too. Rhymes with
-butch.
+A sudden uprising and takeover.
 
 
 putz
@@ -4311,7 +4296,7 @@ A stupid or worthless person.
 
 
 pyrrhic
-Achieved at excessive cost; A metrical foot consisting of two short or unaccented syllables
+Achieved at excessive cost.
 
 
 quagmire
@@ -4324,11 +4309,7 @@ Verb meaning "to put an end to" or "to get rid of."
 
 
 quasi
-A word you always see in combination with another word, as in "quasi-
-intelligence," "quasi-healthy," "quasi-important." It means seeming to be,
-but not really being. A quasi-intelligent person probably sounds smart and
-insightful, but if you listen carefully he may be saying very little. Quasi-
-healthy food may be labeled "all natural" but contain lots of sugar or fat.
+Seeming to be, but not really being.
 
 
 quay
@@ -4347,8 +4328,7 @@ by one, quietly hoping your streak continues. (Dictionary of Obscure Sorrows)
 
 
 quid pro quo
-Tit for tat; something given in return. If you are a vengeful person and I'm
-nasty to you, quid pro quo you'll be nasty to me.
+Tit for tat; something given in return.
 
 
 quidnunc
@@ -4369,8 +4349,7 @@ A collaborating spy.
 
 
 quixotic
-A quixotic person is someone who is romantic and idealistic and pursues lofty
-but impractical goals.
+Someone who is romantic and idealistic and pursues lofty but impractical goals.
 
 
 quotidian
@@ -4413,8 +4392,7 @@ rankle their employees.
 
 
 rapacious
-Plundering or taking by force. Rapacious soldiers don't just occupy a town, they
-pillage it. (See also plunder.)
+Plundering or taking by force.
 
 
 rapturous
