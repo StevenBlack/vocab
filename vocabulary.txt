@@ -6069,3 +6069,107 @@ to find it fading rapidly from your awareness.
 Nodus Tollens
 An emotion; The realization that the plot of your life doesn't make
 sense to you anymore
+
+
+Atwood's Law (law of software)
+Any application that can be written in JavaScript, will eventually be written in JavaScript.  -- Jeff Atwood, 2009
+
+
+Brooks's Law (law of software)
+Adding [human resources] to a late software project makes it later.  -- Fred Brooks, 1975
+
+
+Choose Boring Technology (law of software)
+Consider how you would solve your immediate problem without adding anything new.  -- Dan McKinley, 2015
+
+
+Conway's Law (law of software)
+Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.  -- Melvin Conway, 1968
+
+
+Cunningham's Law (law of software)
+The best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer.  -- Ward Cunningham, 1980
+
+
+Doerr's Law (law of software)
+We need teams of missionaries, not teams of mercenaries.  -- John Doerr, 2015
+
+
+Fitt's Law (law of software)
+The time to acquire a target is a function of the distance to and the size of the target.  -- Paul Fitts, 1954
+
+
+Gall's Law (law of software)
+A complex system that works has evolved from a simple system that worked. A complex system built from scratch won’t work.  -- John Gall, 1975
+
+
+Goodhart's Law (law of software)
+When a measure becomes a target, it ceases to be a good measure.  -- Charles Goodhart, 1975
+
+
+Greenspun's tenth rule (law of software)
+Any sufficiently complicated C or Fortran program contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.  -- Philip Greenspun,
+
+
+Hofstadter's Law (law of software)
+It always takes longer than you expect, even when you take into account Hofstadter's Law.  -- Douglas Hofstadter, 1979
+
+
+Hyrum's Law (law of software)
+With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviors of your system will be depended on by somebody.  -- Hyrum Wright, 2012
+
+
+Kerchkhoff's principle (law of software)
+In cryptography, a system should be secure even if everything about the system, except for a small piece of information - the key - is public knowledge.  -- Auguste Kerckhoffs, 1883
+
+
+Kernighan's Law (law of software)
+Everyone knows that debugging is twice as hard as writing a program in the first place. So if you’re as clever as you can be when you write it, how will you ever debug it?  -- Brian Kernighan, 1974
+
+
+Knuth's optimization principle (law of software)
+Premature optimization is the root of all evil.  -- Donald Knuth, 1974
+
+
+Law of Leaky Abstractions (law of software)
+All non-trivial abstractions, to some degree, are leaky.  -- Joel Spolsky, 2002
+
+
+Linus's Law (law of software)
+Given enough eyeballs, all bugs are shallow.  -- Linus Torvalds, 1999
+
+
+Lady Lovelace's Objection (law of software)
+The Analytical Engine has no pretensions to originate anything. It can do whatever we know how to order it to perform.  -- Ada Lovelace, 1842
+
+
+Moore's Law (law of software)
+The complexity for minimum component costs has increased at a rate of roughly a factor of two per year. Certainly over the short term this rate can be expected to continue, if not to increase. Over the longer term, the rate of increase is a bit more uncertain, although there is no reason to believe it will not remain nearly constant for at least 10 years.  -- Gordon Moore, 1965
+
+
+Norvig's Law (law of software)
+Any technology that surpasses 50% penetration will never double again.  -- Peter Norvig, 1999
+
+
+Parkinson's Law (law of software)
+Work expands so as to fill the time available for its completion.  -- Cyril Parkinson, 1955
+
+
+Peter Principle (law of software)
+People in a hierarchy tend to rise to "a level of respective incompetence."  -- Laurence J. Peter, 1969
+
+
+Postel's Law (law of software)
+Be conservative in what you send, liberal in what you accept.  -- Jon Postel, 1980
+
+
+Shirky principle (law of software)
+Institutions will try to preserve the problem to which they are the solution.  -- Clay Shirky, 2010
+
+
+Wirth's Law (law of software)
+Software gets slower faster than hardware gets faster.  -- Niklaus Wirth, 1995
+
+
+Zawinski's Law (law of software)
+Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can.  -- James Zawinski, 1995

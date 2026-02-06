@@ -361,6 +361,11 @@ astir with small animals, birds, and insects." Up and about; out of bed.
 Exhibiting traits of an ancestor or an earlier evolutionary form.
 
 
+### Atwood's Law (law of software)
+Any application that can be written in JavaScript, will eventually be written in
+JavaScript.  -- Jeff Atwood, 2009
+
+
 ### augment
 To add on, in the sense of increasing in size or amount.
 
@@ -682,6 +687,11 @@ A trite or hackneyed remark or a boring person who speaks in meaningless
 platitudes.
 
 
+### Brooks's Law (law of software)
+Adding [human resources] to a late software project makes it later.  -- Fred
+Brooks, 1975
+
+
 ### bumptious
 Overbearing or self-assertive to the point of being obnoxious; conceited
 bordering on arrogant.
@@ -916,6 +926,11 @@ A mythological monster with the head of a lion, the body of a goat and the tail
 of a serpent.
 
 
+### Choose Boring Technology (law of software)
+Consider how you would solve your immediate problem without adding anything new.
+-- Dan McKinley, 2015
+
+
 ### choplogic
 Faulty reasoning, often overly complicated and confusing.
 
@@ -1090,6 +1105,12 @@ disobedient. A child who refuses to stop talking during class after being asked
 twice is contumacious.
 
 
+### Conway's Law (law of software)
+Any organization that designs a system (defined broadly) will produce a design
+whose structure is a copy of the organization's communication structure.  --
+Melvin Conway, 1968
+
+
 ### corpus
 All the writings or works of a particular kind or on a particular subject; a
 collection or body of knowledge or evidence
@@ -1150,6 +1171,11 @@ subject, who believes it is something new and original.
 ### cue-dependent forgetting
 Cognitive bias: Cue-dependent forgetting, or retrieval failure, is the failure
 to recall information without memory cues.
+
+
+### Cunningham's Law (law of software)
+The best way to get the right answer on the internet is not to ask a question;
+it's to post the wrong answer.  -- Ward Cunningham, 1980
 
 
 ### Curiosity Zone
@@ -1414,6 +1440,10 @@ regard to practicality, suitability, etc. theoretical; impractical.
 
 ### doctrine
 A principle of law established through past decisions.
+
+
+### Doerr's Law (law of software)
+We need teams of missionaries, not teams of mercenaries.  -- John Doerr, 2015
 
 
 ### dotard
@@ -1934,6 +1964,11 @@ That little canal that leads from your nose to your mouth. You knew there was a
 name for it, and now you know what it is.
 
 
+### Fitt's Law (law of software)
+The time to acquire a target is a function of the distance to and the size of
+the target.  -- Paul Fitts, 1954
+
+
 ### flaccid
 Limp or flabby, like the stems of wilted flowers or the thighs of people who eat
 too much and don't exercise.
@@ -2083,6 +2118,11 @@ cosmos, which makes your deepest concerns feel laughably quaint, yet vanishingly
 rare. (Dictionary of Obscure Sorrows)
 
 
+### Gall's Law (law of software)
+A complex system that works has evolved from a simple system that worked. A
+complex system built from scratch won’t work.  -- John Gall, 1975
+
+
 ### Gambler's Fallacy
 We often feel we're owed luck for being unlucky. "The coin was heads 10 flips
 in a row, the next flip has gotta be tails!" But probability has no memory;
@@ -2132,6 +2172,11 @@ To gather or absorb information.
 Another way of saying morsel or lump.
 
 
+### Goodhart's Law (law of software)
+When a measure becomes a target, it ceases to be a good measure.  -- Charles
+Goodhart, 1975
+
+
 ### Google Scholar Effect
 We all get our answers from whatever tops the search results, so these results
 come to dominate a topic, muscling out unluckier viewpoints. Google has trapped
@@ -2167,6 +2212,12 @@ Connoting a drama with strains of horror.
 ### grandiloquent
 A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality
 especially in language.
+
+
+### Greenspun's tenth rule (law of software)
+Any sufficiently complicated C or Fortran program contains an ad hoc,
+informally-specified, bug-ridden, slow implementation of half of Common Lisp.
+-- Philip Greenspun,
 
 
 ### gregarious
@@ -2343,6 +2394,11 @@ horse closest to the door. The phrase, named after Hobson, means a decision that
 offers no alternative. In short—take it or leave it.
 
 
+### Hofstadter's Law (law of software)
+It always takes longer than you expect, even when you take into account
+Hofstadter's Law.  -- Douglas Hofstadter, 1979
+
+
 ### hoi polloi
 Common people.
 
@@ -2412,6 +2468,12 @@ A decreased sensitivity to some or all smells.
 An assumption or concession made for the sake of argument; a tentative
 assumption made in order to draw out and test its logical or empirical
 consequences; the antecedent clause of a conditional statement.
+
+
+### Hyrum's Law (law of software)
+With a sufficient number of users of an API, it does not matter what you promise
+in the contract: all observable behaviors of your system will be depended on by
+somebody.  -- Hyrum Wright, 2012
 
 
 ### iatrogenic
@@ -2799,6 +2861,18 @@ A type of African cloth. Developed hundreds of years ago, kente cloth is a sign
 of royalty and wealth. Also spelled kinte.
 
 
+### Kerchkhoff's principle (law of software)
+In cryptography, a system should be secure even if everything about the system,
+except for a small piece of information - the key - is public knowledge.  --
+Auguste Kerckhoffs, 1883
+
+
+### Kernighan's Law (law of software)
+Everyone knows that debugging is twice as hard as writing a program in the first
+place. So if you’re as clever as you can be when you write it, how will you ever
+debug it?  -- Brian Kernighan, 1974
+
+
 ### key grip
 The grip sets up scenery and camera dollies; the head of all the grips on a film
 is called the key grip.
@@ -2837,6 +2911,10 @@ The sound of a bell tolling.
 
 ### knurl
 A series of small ridges, such as those found along the edge of a quarter.
+
+
+### Knuth's optimization principle (law of software)
+Premature optimization is the root of all evil.  -- Donald Knuth, 1974
 
 
 ### kowtow
@@ -2878,6 +2956,11 @@ follower.
 A gap or a missing portion.
 
 
+### Lady Lovelace's Objection (law of software)
+The Analytical Engine has no pretensions to originate anything. It can do
+whatever we know how to order it to perform.  -- Ada Lovelace, 1842
+
+
 ### lambent
 Dealing gently but brilliantly with a subject, or touching something lightly and
 playfully on the surface.
@@ -2903,6 +2986,10 @@ for social or political conventions".
 
 ### lascivious
 Filled with or showing sexual desire.
+
+
+### Law of Leaky Abstractions (law of software)
+All non-trivial abstractions, to some degree, are leaky.  -- Joel Spolsky, 2002
 
 
 ### Law of Triviality
@@ -2999,6 +3086,10 @@ and the erosion of eons.
 
 ### lingua franca
 A common language.
+
+
+### Linus's Law (law of software)
+Given enough eyeballs, all bugs are shallow.  -- Linus Torvalds, 1999
 
 
 ### lissom
@@ -3459,6 +3550,14 @@ activity to the exclusion of other pursuits.
 The belief that there is only one God.
 
 
+### Moore's Law (law of software)
+The complexity for minimum component costs has increased at a rate of roughly a
+factor of two per year. Certainly over the short term this rate can be expected
+to continue, if not to increase. Over the longer term, the rate of increase is
+a bit more uncertain, although there is no reason to believe it will not remain
+nearly constant for at least 10 years.  -- Gordon Moore, 1965
+
+
 ### mordant
 Biting or sarcastic; often combined with wit.
 
@@ -3634,6 +3733,11 @@ A Pseudonym.
 ### normalcy bias
 Cognitive bias: disbelieving one's situation when faced with grave and imminent
 danger and/or catastrophe.
+
+
+### Norvig's Law (law of software)
+Any technology that surpasses 50% penetration will never double again.  -- Peter
+Norvig, 1999
 
 
 ### nosce hostem
@@ -3926,6 +4030,11 @@ them unique.
 Sexually potent only in unusual circumstances. A fancy word for kinky.
 
 
+### Parkinson's Law (law of software)
+Work expands so as to fill the time available for its completion.  -- Cyril
+Parkinson, 1955
+
+
 ### parlous
 Perilous, dangerous and difficult to escape from.
 
@@ -4117,6 +4226,11 @@ they suck at their jobs, at which point they will remain where they are. As a
 result, the world is filled with people who suck at their jobs.
 
 
+### Peter Principle (law of software)
+People in a hierarchy tend to rise to "a level of respective incompetence."  --
+Laurence J. Peter, 1969
+
+
 ### pettifogger
 A person overly concerned with details.
 
@@ -4303,6 +4417,11 @@ often see along the sides of old colonial houses.
 ### portmanteau
 A blend or combination of uses. The word is most often used as a noun to
 describe words that combine or blend other words like "smog" or "docudrama."
+
+
+### Postel's Law (law of software)
+Be conservative in what you send, liberal in what you accept.  -- Jon Postel,
+1980
 
 
 ### postiche
@@ -5004,6 +5123,11 @@ An absurd ideological belief is a form of tribal signaling. It signifies that
 one considers their ideology more important than truth, reason, or sanity. To
 one's allies, this is an oath of unwavering loyalty. To one's enemies, it is a
 threat display.
+
+
+### Shirky principle (law of software)
+Institutions will try to preserve the problem to which they are the solution.
+-- Clay Shirky, 2010
 
 
 ### shoah
@@ -5916,6 +6040,10 @@ To separate the grain from the chaff by getting rid of the chaff.
 Charming or attractive in a disarming way. Used to refer to both sexes.
 
 
+### Wirth's Law (law of software)
+Software gets slower faster than hardware gets faster.  -- Niklaus Wirth, 1995
+
+
 ### witch ball
 You probably know it as a disco ball, but this is the original word; it came
 before disco was even invented. A witch ball is one of those globes with many
@@ -6000,6 +6128,11 @@ rounded.
 The holder for a handleless coffee cup. Though Styrofoam and cardboard have
 largely put zarfs out of business, you often see the plastic variety piled next
 to the office coffee machine.
+
+
+### Zawinski's Law (law of software)
+Every program attempts to expand until it can read mail. Those programs which
+cannot so expand are replaced by ones which can.  -- James Zawinski, 1995
 
 
 ### zealous

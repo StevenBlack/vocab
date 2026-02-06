@@ -78,6 +78,7 @@ assonance
 assuage
 astir
 atavistic
+Atwood's Law (law of software)
 augment
 augur
 autodidact
@@ -146,6 +147,7 @@ brachycerous
 Brandolini's Law (aka the Bullshit Asymmetry Principle)
 brocade
 bromide
+Brooks's Law (law of software)
 bumptious
 cabal
 cache
@@ -199,6 +201,7 @@ cheerleader effect
 cherubic
 Chilling Effect
 chimera
+Choose Boring Technology (law of software)
 choplogic
 chrysalis
 chrysalism
@@ -237,6 +240,7 @@ consanguinity
 Context effect
 contretemps
 contumacious
+Conway's Law (law of software)
 corpus
 coruscate
 cosset
@@ -250,6 +254,7 @@ cromulent
 crucible
 cryptomnesia
 cue-dependent forgetting
+Cunningham's Law (law of software)
 Curiosity Zone
 curmudgeon
 curriculum
@@ -305,6 +310,7 @@ Do Something Principle
 docent
 doctrinaire
 doctrine
+Doerr's Law (law of software)
 dotard
 doughty
 doyen
@@ -409,6 +415,7 @@ fatuous
 faux pas
 feral
 filtrum
+Fitt's Law (law of software)
 flaccid
 flaneur
 fletcher
@@ -437,6 +444,7 @@ gaffe
 gainsay
 galactoid
 galagog
+Gall's Law (law of software)
 Gambler's Fallacy
 garrulous
 gatefold
@@ -448,6 +456,7 @@ gestalt
 gild
 glean
 gobbet
+Goodhart's Law (law of software)
 Google Scholar Effect
 googol
 Gordian knot
@@ -456,6 +465,7 @@ gracile
 grammalogue
 grand guignol
 grandiloquent
+Greenspun's tenth rule (law of software)
 gregarious
 griffin
 grimalkin
@@ -494,6 +504,7 @@ histological
 histrionic
 hoary
 Hobson's choice
+Hofstadter's Law (law of software)
 hoi polloi
 homeopathy
 homily
@@ -510,6 +521,7 @@ hypocorism
 hyponym
 hyposmia
 hypothesis
+Hyrum's Law (law of software)
 iatrogenic
 ichthyoid
 iconoclast
@@ -595,6 +607,8 @@ kegler
 ken
 kenopsia
 kente
+Kerchkhoff's principle (law of software)
+Kernighan's Law (law of software)
 key grip
 killjoy
 kinetic
@@ -604,6 +618,7 @@ kith
 knave
 knell
 knurl
+Knuth's optimization principle (law of software)
 kowtow
 krotoscope
 kudos
@@ -613,12 +628,14 @@ lachesism
 lachrymose
 lackey
 lacuna
+Lady Lovelace's Objection (law of software)
 lambent
 lanai
 languor
 lanugo
 larrikin
 lascivious
+Law of Leaky Abstractions (law of software)
 Law of Triviality
 lee
 legerdemain
@@ -639,6 +656,7 @@ limpid
 linchpin
 Lindy Effect
 lingua franca
+Linus's Law (law of software)
 lissom
 lissome
 litotes
@@ -732,6 +750,7 @@ monism
 monodomous
 monomania
 monotheism
+Moore's Law (law of software)
 mordant
 morose
 motile
@@ -772,6 +791,7 @@ Nodus Tollens
 noisome
 nom de guerre
 normalcy bias
+Norvig's Law (law of software)
 nosce hostem
 nostrum
 nubbin
@@ -837,6 +857,7 @@ Paradox Of Unanimity
 paralogize
 paraph
 paravalent
+Parkinson's Law (law of software)
 parlous
 parochial
 paroxysm
@@ -879,6 +900,7 @@ pertinacious
 peruse
 pestle
 Peter Principle
+Peter Principle (law of software)
 pettifogger
 pharisee
 phatic
@@ -918,6 +940,7 @@ popinjay
 popple
 portico
 portmanteau
+Postel's Law (law of software)
 postiche
 Postjournalism
 postpositive
@@ -1070,6 +1093,7 @@ sexagenarian
 shaman
 shibboleth
 Shibboleth
+Shirky principle (law of software)
 shoah
 sibilant
 SIC
@@ -1268,6 +1292,7 @@ whiffle
 white paper
 winnow
 winsome
+Wirth's Law (law of software)
 witch ball
 wittol
 wizened
@@ -1283,6 +1308,7 @@ yegg
 yin and yang
 zaftig
 zarf
+Zawinski's Law (law of software)
 zealous
 Zeitgeist
 zenith
