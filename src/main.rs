@@ -68,18 +68,18 @@ struct TOCEntry {
 }
 
 type Dictionary = Vec<Entry>;
-type TOC = Vec<TOCEntry>;
+type Toc = Vec<TOCEntry>;
 
 // ---
 fn main() {
     let opt = Opt::from_args();
     let lines = lines_from_file("./vocabulary.txt");
-    let entries = lines.split(|l| l == "");
+    let entries = lines.split(|l| l.is_empty());
     let mut dictionary: Dictionary = Vec::new();
-    let mut toc: TOC = Vec::new();
+    let mut toc: Toc = Vec::new();
 
     for entry in entries {
-        if entry.len() == 0 {
+        if entry.is_empty() {
             continue;
         }
         let word = &entry[0];
@@ -95,7 +95,7 @@ fn main() {
     }
 
     // sort the dictionary
-    dictionary.sort_by(|t1, t2| t1.term.to_lowercase().cmp(&t2.term.to_lowercase()));
+    dictionary.sort_by_key(|t1| t1.term.to_lowercase());
 
     // build the table of contents
     if opt.toc {
@@ -130,7 +130,7 @@ fn main() {
     // build an print the dictionary
     {
         // print the toc
-        if opt.toc && toc.len() > 0 {
+        if opt.toc && !toc.is_empty() {
             println!("## Contents\n\n");
             let mdtoc: Vec<String> = toc
                 .iter()
@@ -143,7 +143,7 @@ fn main() {
                 })
                 .collect();
 
-            println!("{}", mdtoc.join(" - ").to_string());
+            println!("{}", mdtoc.join(" - "));
         }
 
         for word in dictionary.iter() {
