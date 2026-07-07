@@ -218,6 +218,10 @@ anthropomorphism
 Assignment of human-like attributes to inanimate objects or animals.
 
 
+Anatidaephobia:
+The fear of constantly being watched by ducks.
+
+
 antithetical
 Something that is in direct opposition to something else is antithetical to it.
 
@@ -5269,6 +5273,10 @@ The fear of hair.
 trilemma
 Like a dilemma but with one extra problem—a situation in which there are three
 mutually exclusive alternatives.
+
+
+triskaidekaphobia
+Fear of the number 13.
 
 
 trite

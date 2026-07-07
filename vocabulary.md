@@ -197,6 +197,10 @@ A person or event erroneously placed in time.
 Selected extracts from the writings of one or more authors.
 
 
+### Anatidaephobia:
+The fear of constantly being watched by ducks.
+
+
 ### ancillary
 Supplementary.
 
@@ -5716,6 +5720,10 @@ The fear of hair.
 ### trilemma
 Like a dilemma but with one extra problem—a situation in which there are three
 mutually exclusive alternatives.
+
+
+### triskaidekaphobia
+Fear of the number 13.
 
 
 ### trite

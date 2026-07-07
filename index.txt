@@ -44,6 +44,7 @@ ameliorate
 amphigory
 anachronism
 analects
+Anatidaephobia:
 ancillary
 anecdoche
 anomaly
@@ -1225,6 +1226,7 @@ triage
 trichomegaly
 trichophobia
 trilemma
+triskaidekaphobia
 trite
 trompe l'oeil
 trope
