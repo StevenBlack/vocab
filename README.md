@@ -1059,15 +1059,11 @@ neglecting indirect testing.
 
 
 ### conjecture
-Inference formed without proof or sufficient evidence. A conclusion deduced by
-surmise or guesswork. In mathematics: a proposition before it has been proved
-or disproved.
+Inference formed without proof or sufficient evidence.
 
 
 ### consanguinity
-A formal way of expressing blood ties or kinship. It does not denote specific
-relationships (such as "sister" or "cousin"), but rather a family connection. A
-family tree traces consanguinity.
+Blood ties or kinship.
 
 
 ### Context effect
@@ -1077,16 +1073,12 @@ perceived and remembered.
 
 
 ### contretemps
-A regrettable situation that leads to embarrassment, such as begging off a date
-by claiming sickness and then bumping into the canceled date at a restaurant
-on the same night, or making two appointments for the same time and having both
-show up at once.
+A regrettable situation that leads to embarrassment.
 
 
 ### contumacious
 Stubbornly rebellious against authority—not just irreverent, but downright
-disobedient. A child who refuses to stop talking during class after being asked
-twice is contumacious.
+disobedient.
 
 
 ### Conway's Law (law of software)
@@ -1115,13 +1107,11 @@ A person's face or facial expression.  Also means support or approval.
 
 
 ### cozen
-To defraud or trick. Usually less serious than downright fraud. Scalpers cozen
-their clients by charging outrageous rates for last-minute tickets.
+To defraud or trick. Usually less serious than downright fraud.
 
 
 ### craven
-Very cowardly, with a connotation of moral disapproval. A craven liar doesn't
-have the courage to admit the truth about something.
+Very cowardly, with a connotation of moral disapproval.
 
 
 ### craxis
@@ -1139,7 +1129,7 @@ linen which was used to make underskirts and as a dress lining.
 
 
 ### cromulent
-Acceptable or adequate a bit wryly.
+Acceptable or adequate.
 
 
 ### crucible
@@ -1171,7 +1161,7 @@ spur you to learn even more.
 
 ### curmudgeon
 A mean-spirited, ungenerous, irritable nasty-face who usually has no sense of
-humor. Hitler was evil. Scrooge was a curmudgeon.
+humor.
 
 
 ### curriculum
@@ -1214,18 +1204,12 @@ Actually existing; a matter of fact.
 
 
 ### de profundis
-A Latin phrase for "out of the depths." Someone is pulled de profundis from
-sleep, meditation or thought. It has nothing to do with "profound," which makes
-the word an excellent excuse for why you weren't paying attention to whomever
-was speaking to you.
+A Latin phrase for "out of the depths."
 
 
 ### de trop
 From the French "too much," the word means overdone or excessive in a figurative
-sense. Wearing too much jewelry while working in a homeless shelter would be
-de trop. Unfortunately, using the word de trop is probably de trop in most
-situations and should be accompanied by an appropriate expression of mock
-snobbery.
+sense.
 
 
 ### dearth
