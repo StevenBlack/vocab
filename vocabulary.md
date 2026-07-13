@@ -720,6 +720,10 @@ To coax or encourage, usually to get someone to do something she doesn't want
 to do.
 
 
+### callipygian
+Having shapely buttocks.
+
+
 ### callow
 Green; inexperienced; lacking maturity.
 
