@@ -1265,6 +1265,11 @@ A fallen woman; a woman who has lost her good reputation by a foolish or
 indiscreet action.
 
 
+### demurrage
+Charges that the charterer pays to the ship owner for its delayed operations of
+loading or unloading.
+
+
 ### depredate
 To plunder. Rome suffered depredation at the hands of Attila the Hun.
 
