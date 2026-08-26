@@ -2724,6 +2724,11 @@ Of an irritable temperament; easily annoyed.
 Peaceful, calm and capable of inducing serenity.
 
 
+### irridenta
+A region that is under the political jurisdiction of one nation but is related
+to  another by reason of cultural, historical, and ethnic ties.
+
+
 ### iterate
 It means the same thing as reiterate: to repeat over and over.
 
