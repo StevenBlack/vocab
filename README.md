@@ -1176,6 +1176,14 @@ The set of courses constituting an area of specialization.
 A young swan. Often used to describe a particularly beautiful young woman.
 
 
+### cynophile
+A person who is very fond of dogs.
+
+
+### cynophilist
+A noun that means a dog lover, or a person who is very fond of dogs.
+
+
 ### cynosure
 The center of attention—usually a person who becomes the main attraction and
 directs everyone else's focus.
