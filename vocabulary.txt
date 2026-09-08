@@ -2584,6 +2584,10 @@ Someone who's always joking around is jocose. Compare to verbose, which
 describes someone who's always talking.
 
 
+jocular
+Characterized by jokes and good humor
+
+
 jodhpurs
 Pants, worn by horseback riders and motorcycle cops, with very wide thighs and
 narrow calves.
