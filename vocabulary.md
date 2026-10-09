@@ -1293,8 +1293,7 @@ To see or discover something, after careful observation.
 
 ### desultory
 Casually arranged, without particular or apparent structure.  Lacking a plan,
-purpose, or enthusiasm. (Of conversation or speech) going constantly from one
-subject to another in a halfhearted way; unfocused:
+purpose, or enthusiasm.
 
 
 ### detente
