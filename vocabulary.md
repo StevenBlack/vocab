@@ -1070,6 +1070,10 @@ Inference formed without proof or sufficient evidence.
 Blood ties or kinship.
 
 
+### conspecific
+Belonging to the same species.
+
+
 ### Context effect
 The Context Effect is a part of Cognitive Psychology that states that the
 context (environmental factors) that surrounds an event effects how an event is
