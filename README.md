@@ -1388,8 +1388,6 @@ reasoning
 
 ### disingenuous
 Pretending to be innocent or naive, which has the effect of being insincere.
-Smiling when you've been caught with your hand in the cookie jar. Has nothing to
-do with ingenious, by the way.
 
 
 ### disposition effect
@@ -1521,9 +1519,7 @@ commonplace; an effete person indulges in rare or obscure pleasures.
 
 
 ### efficacious
-Efficient; effective. It might take a little longer to do a job efficaciously,
-but the desired effect is perfectly obtained. Ideal when used to describe
-medical treatment.
+Efficient; effective.
 
 
 ### effluence
@@ -1589,9 +1585,8 @@ Embroil and entangle.
 
 
 ### emeritus
-No longer actively employed, but kept on the staff as an honor. a person retired
-from professional life but permitted to retain as an honorary title the rank of
-the last office held.
+Kept on the staff as an honor. a person retired from professional life but
+permitted to retain as an honorary title the rank of the last office held.
 
 
 ### eminence
@@ -1599,8 +1594,7 @@ A person of high rank or attainments. A position of prominence or superiority.
 
 
 ### eminence grise
-The power behind the throne—for example, in the '80s, Nancy Reagan (or even
-Nancy Reagan's astrologer). Literally means "gray eminence," if you care.
+The power behind the throne. Literally means "gray eminence."
 
 
 ### emolument
@@ -1710,9 +1704,7 @@ Giving one's name to a book, a record or an organization.
 
 
 ### equable
-Uniform; not differing. In an equable distribution, everyone gets the same
-amount. Why not say equitable? Because equitable implies fairness. The
-distribution might be equal, but it might not be fair.
+Uniform; not differing.
 
 
 ### equivocal
@@ -1760,9 +1752,7 @@ The final event in the divine plan; the end of the world.
 
 
 ### eschew
-To avoid or shun something because you find it loathsome or unbearable. One can
-eschew on physical grounds, as in eschewing a wool coat in July, or in terms of
-taste, as in eschewing displays of physical affection in front of dinner guests.
+To avoid or shun something because you find it loathsome or unbearable.
 
 
 ### esprit d'escalier
@@ -1775,10 +1765,8 @@ with the esprit d'escalier, I'll give you a call."
 
 
 ### esprit de corps
-A feeling of unification or commonly held beliefs or attitudes among a group of
-people. The phrase can be used to describe a feeling of excitement and belong-
-ng that comes from being part of a successful group. Apple Computer had it for a
-while; so did the Peace Corps.
+A feeling of unification or commonly held beliefs or attitudes among a group
+of people.
 
 
 ### Essentialism
@@ -1787,9 +1775,7 @@ necessary to its identity and function.
 
 
 ### etagere
-One of those pieces of furniture (often referred to by pompous antiques dealers
-and interior decorators) that you feel too embarrassed to admit you've never
-heard of. It's a group of open shelves used to store knickknacks.
+A group of open shelves.
 
 
 ### ethos
